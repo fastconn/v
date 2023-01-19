@@ -1,0 +1,75 @@
+{
+    "0": {
+        "showSplash": false,
+        "secondSplash": 3,
+	"cnDeny": [0,0],
+	"forceVer": "0.9",
+	"evNo": ["connect"],
+	"url": {
+	},
+	"rateHrs": 144,
+	"adFullLoadwait": 6,
+	"showServer": false
+    },
+    "ad": {
+        "0": {
+            "ver": 20221207,
+	    "hotInterval": 2,
+	    "adFullLoadWait": 10,
+	    "max": {
+		"admob": [-1,-1]
+	    },
+            "ages": {
+                "admob": {
+                    "inter": 2700,
+                    "open": 10800,
+		    "nativeFull": 1800
+                }
+            }
+        },
+        "run3": {
+	    "Connected2": "native1",
+	    "DidConFull": "anyFull",
+	    "HotFull": "anyFull",
+	    "AnyInter": "xxxanyInter",
+	    "AnyFull": "anyFull"
+	},
+        "sets": {
+            "open0": {
+                "type": "open",
+                "ids": [
+                    {
+                        "id": "ca-app-pub-3940256099942544/5662855259"
+                    }
+                ]
+            },
+            "anyFull": {
+                "type": "native",
+                "ids": [
+                    {
+                        "id": "ca-app-pub-3940256099942544/3986624511"
+                    }
+                ]
+            },
+	    "anyInter": {
+	        "type": "inter",
+		"ids": [
+		    {
+		        "id": "ca-app-pub-3940256099942544/5135589807"
+		    },
+		    {
+		        "id": "ca-app-pub-3940256099942544/4411468910"
+		    }
+		]
+	    },
+	    "native1": {
+		 "type": "native",
+		 "ids": [
+			 {
+				 "id": "ca-app-pub-3940256099942544/3986624511"
+			 }
+		 ]
+	    }
+        }
+    }
+}

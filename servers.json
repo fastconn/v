@@ -1,0 +1,171 @@
+{
+    "age": 1,
+    "v": 20221229,
+    "ll": {
+        "Ashburn": [38.7911,-77.5264],
+        "Frankfurt": [50.0812,8.6411],
+        "Los Angeles":[34.0515,-118.2707],
+        "Miami":[25.7806,-80.1826],
+        "New York City": [40.7876,-74.06],
+        "Amsterdam": [52.352,4.9392],
+        "Milan": [45.4722,9.1922],
+        "Moscow": [55.7483,37.6171],
+        "Chișinău": [47.0188,28.8128],
+        "Tokyo": [35.6289, 139.7915],
+        "São Paulo": [-23.5335,-46.6359],
+        "Bucharest": [44.4152,26.166],
+        "Mumbai": [19.0748,72.8856],
+        "Johannesburg": [-26.3811,27.8376],
+        "Chicago": [41.8486,-87.6288],
+        "Tel Aviv": [32.0666,34.7652],
+        "London": [51.5164,-0.093],
+        "Phoenix": [33.4532,-112.0748]
+    },
+    "cfgs": {
+        "ikev2": {
+            "a": {
+                "rid": "i.ostrichvpn.net",
+                "u": "vpn",
+                "p": "FINDIT0322"
+            }
+        },
+        "vmess": {
+            "a": {
+                "u": "04621bae-ab36-11ec-b909-0242ac120002",
+                "pt": 22324
+            }
+        },
+        "openudp": {
+            "a": {
+                "u": "vpn",
+                "p": "FINDIT0322",
+                "cf": "client1"
+            }
+        },
+        "ws": {
+	    "a": {
+                "domain": "trans2025.fun",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+            "usecf": {
+                "cf": true,
+                "domain": "trans2025.fun",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            }
+        }
+    },
+
+    "ws2vmess": {
+        "asn": [],
+        "ipsFree": [],
+        "ipsVip": [],
+        "cfg": "a"
+    },
+    "l": [
+        {
+            "name": "Free",
+            "isVip": false,
+            "image": "global",
+            "servers": [
+                {
+                    "cc":"us",
+                    "city":"Ashburn",
+                    "ip":"185.14.44.45"
+                },
+                {
+                    "cc":"us",
+                    "city":"Chicago",
+                    "ip":"37.9.35.194"
+                },
+                {
+                    "cc": "de",
+                    "city": "Frankfurt",
+                    "desc": "",
+                    "ip": "5.252.25.19"
+                },
+                {
+                    "cc": "de",
+                    "city": "Frankfurt",
+                    "desc": "",
+                    "ip": "87.121.55.151"
+                }
+		    
+            ],
+            "ws": [
+              {
+                    "cc": "de",
+                    "city":"Server-T",
+                    "desc": "websocket",
+                    "ip": "trans2025.fun"
+                }
+
+            ],
+           "ws2": [
+		{
+                    "mmver": ["1.3.3", ""],
+                    "cfg": "usecf",
+                    "cc": "de",
+                    "city": "Server-T(boost)",
+                    "desc": "fast proxy",
+                    "ip": "trans2025.fun#cf"
+                }
+            ]
+        },
+        {
+            "name": "High Speed",
+            "isVip": true,
+            "image": "for_VIP",
+            "ws": [
+            ],
+            "servers": [
+		 {
+                    "cc": "de",
+                    "city": "Frankfurt",
+                    "desc": "",
+                    "ip": "185.14.45.153"
+                },
+                {
+                    "cc": "us",
+                    "city": "New York City",
+                    "desc": "",
+                    "ip": "92.38.169.223"
+                },
+                {
+                    "cc": "us",
+                    "city": "Chicago",
+                    "ip": "37.9.35.213"
+                },
+                {
+                    "cc": "it",
+                    "city": "Milan",
+                    "ip": "92.223.79.102"
+                },
+                {
+                    "cc": "jp",
+                    "city": "Tokyo",
+                    "ip": "213.156.146.226"
+                },
+                {
+                    "cc": "il",
+                    "city": "Tel Aviv",
+                    "ip": "146.185.219.247"
+                },
+                {
+                    "cc": "gb",
+                    "city": "London",
+                    "ip": "5.181.27.42"
+                },
+                {
+                    "cc": "ru",
+                    "city": "Moscow",
+                    "ip": "92.38.152.159"
+                }
+            ]
+        }
+    ]
+}
+
