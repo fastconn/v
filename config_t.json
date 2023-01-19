@@ -1,0 +1,108 @@
+{
+    "0": {
+	"autoTunnel": 2,
+        "showSplash": true,
+        "secondSplash": 3,
+	"cnDeny": [0,0],
+	"forceVer": "1.0.9",
+	"evNo": ["connect"],
+	"url": {
+	},
+	"noFAN": false,
+	"rateHrs": 24
+    },
+
+    "ad": {
+        "0": {
+            "ver": 20221129,
+	    "hotInterval": 2,
+	    "adFullLoadWait": 8,
+	    "max": {
+		"admob": [-1,-1]
+	    },
+            "ages": {
+                "admob": {
+                    "inter": 2700,
+                    "open": 10800
+                }
+            }
+        },
+        "run": {
+	    "open": "open0",
+	    "Connected": "native1",
+            "MainBanner": "xxxxxbanner1"
+	},
+	"run2": {
+	    "DidConFull": "DidConF",
+	    "WillDisFull": "",
+	    "HotFull": "nativeFull"
+	},
+	"run3": {
+	    "Connected2": "native1",
+	    "Location2": "nativeFb",
+	    "DidConFull": "anyFull",
+	    "WillDisFull": "anyFull",
+	    "HotFull": "anyFull",
+	    "AnyFull": "anyFull",
+	    "AnyInter": "inter000"
+	},
+        "sets": {
+            "open0": {
+                "type": "open",
+                "ids": [
+                    {
+                        "id": "ca-app-pub-3940256099942544/5662855259"
+                    }
+                ]
+            },
+            "anyFull": {
+                "type": "native",
+                "ids": [
+                    {
+                        "id": "ca-app-pub-3940256099942544/3986624511"
+                    }
+                ]
+            },
+
+            "inter0": {
+                "type": "inter",
+                "ids": [
+                    {
+                        "id": "ca-app-pub-3940256099942544/4411468910"
+                    },
+                    {
+                        "id": "ca-app-pub-3940256099942544/4411468910"
+                    }
+                ]
+            },
+            "banner1": {
+                "type": "banner",
+                "ids": [
+                    {
+                        "id": "ca-app-pub-3940256099942544/2934735716"
+                    }
+                ]
+            },
+            "native1": {
+                "type": "native",
+                "ids": [
+                    {
+                        "id": "ca-app-pub-3940256099942544/3986624511"
+                    }
+		]
+	    },
+            "nativeFb": {
+                "type": "native",
+                "ids": [
+                    {
+			"source": "fb",
+                        "id": "656661942074790_661049261636058"
+                    },
+		    {
+			"id": "ca-app-pub-3940256099942544/3986624511"
+		    }
+                ]
+            }
+        }
+    }
+}
