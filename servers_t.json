@@ -44,7 +44,7 @@
         },
         "ws": {
 	        "a": {
-                "domain": "date-binding.site",
+                "domain": "trans2025.fun",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -96,9 +96,9 @@
             ],
             "ws": [
 		        {
-                    "city":"ServerD",
+                    "city":"ServerT",
                     "desc": "websocket",
-                    "ip": "data-binding.site"
+                    "ip": "trans2025.fun"
                 }
             ],
            "ws2": [

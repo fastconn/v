@@ -5,8 +5,7 @@
 		"cnDeny": [0,0],
 		"forceVer": "0.9",
 		"evNo": ["connect"],
-		"url": {
-		},
+		"url": {},
 		"rateHrs": 144,
 		"adFullLoadwait": 6,
 		"showServer": false
@@ -23,7 +22,7 @@
                 "admob": {
                     "inter": 2700,
                     "open": 10800,
-		    "nativeFull": 1800
+		   			"nativeFull": 1800
                 }
             }
         },

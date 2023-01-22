@@ -1,18 +1,18 @@
 {
     "0": {
-	"autoTunnel": 4,
+	    "autoTunnel": 4,
         "showSplash": true,
-	"cnDeny": [0,0],
-	"evNo": ["enterGg"],
+    	"cnDeny": [0,0],
+    	"evNo": ["enterGg"],
         "secondSplash": 3,
-	"wsDefault": true,
+    	"wsDefault": true,
         "rateHrs": 144 
     },
     "ad": {
         "0": {
             "ver": 20230120,
-	    "adFullLoadwait": 5,
-	    "hotInterval": 6,
+            "adFullLoadwait": 5,
+            "hotInterval": 6,
             "max": {
                 "admob": [-1,-1]
             },
@@ -25,78 +25,78 @@
             }
         },
         "run": {
-	    "Open": "open",
-	    "MainBanner": "banner1",
-	    "WillDiscon": "willdis",
-	    "WillServer": "interWs"
-        },
-	"run2": {
-	    "Open": "open",
+            "Open": "open",
+            "MainBanner": "banner1",
+            "WillDiscon": "willdis",
+            "WillServer": "interWs"
+            },
+    	"run2": {
+	        "Open": "open",
             "MainBanner": "banner1",
             "WillDiscon": "willdis",
             "WillServer": "interWs"
         },
-	"run3": {
+	    "run3": {
             "Open": "open",
-	    "DidConFull": "anyInter",
-	    "WillDisFull": "anyFull",
+            "DidConFull": "anyInter",
+            "WillDisFull": "anyFull",
             "HotFull": "anyInter",
-	    "AnyFull": "anyFull",
-	    "AnyInter": "anyInter"
+            "AnyFull": "anyFull",
+            "AnyInter": "anyInter"
         },
 
         "sets": {
-	    "anyFull": {
-                "type": "native",
+            "anyFull": {
+                    "type": "native",
+                    "ids": [
+                        {
+                            "id": "ca-app-pub-3510970371831048/5518682300"
+                        },
+                        {
+                            "id": "ca-app-pub-3510970371831048/9969063206"
+                        },
+                        {
+                            "id": "ca-app-pub-3510970371831048/4431727695"
+                        }
+                    ]
+                },
+            "anyInter": {
+                    "type": "inter",
+                    "ids": [
+                        {
+                            "id": "ca-app-pub-3510970371831048/3771276353"
+                        },
+                        {
+                            "id": "ca-app-pub-3510970371831048/4014028946"
+                        },
+                        {
+                            "id": "ca-app-pub-3510970371831048/2335745109"
+                        }
+                    ]
+                },
+            "open": {
+                "type": "open",
                 "ids": [
                     {
-                        "id": "ca-app-pub-3510970371831048/5518682300"
+                        "id": "ca-app-pub-3510970371831048/6412738833"
                     },
                     {
-                        "id": "ca-app-pub-3510970371831048/9969063206"
-                    },
-                    {
-                        "id": "ca-app-pub-3510970371831048/4431727695"
+                    "id": "ca-app-pub-3510970371831048/3186470968"
                     }
                 ]
             },
-	    "anyInter": {
-                "type": "inter",
-                "ids": [
-                    {
-                        "id": "ca-app-pub-3510970371831048/3771276353"
-                    },
-                    {
-                        "id": "ca-app-pub-3510970371831048/4014028946"
-                    },
-                    {
-                        "id": "ca-app-pub-3510970371831048/2335745109"
-                    }
-                ]
-            },
-	    "open": {
-		"type": "open",
-		"ids": [
-		    {
-			"id": "ca-app-pub-3510970371831048/6412738833"
-		    },
-		    {
-			"id": "ca-app-pub-3510970371831048/3186470968"
-		    }
-		]
-	    },
             "willdis": {
                 "type": "inter",
                 "ids": [
-		    {
-			"id": "ca-app-pub-3510970371831048/4592853724"
-		    },
+                    {
+                        "id": "ca-app-pub-3510970371831048/4592853724"
+                    },
                     {
                         "id": "ca-app-pub-3510970371831048/9517696164"
                     },
-		    {
-			"id": "ca-app-pub-3510970371831048/2000499924"
-		    }
+                    {
+                    "id": "ca-app-pub-3510970371831048/2000499924"
+                    }
                 ]
             },
 
