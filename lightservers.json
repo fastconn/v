@@ -60,7 +60,7 @@
             ],
            "ws2": [
                 {
-                    "mmver": ["1.0.2", ""],
+                    "mmver": ["11.0.2", ""],
                     "cfg": "usecf",
                     "cc": "de",
                     "city": "Server-F(boost)",
