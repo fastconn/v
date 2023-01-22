@@ -53,7 +53,7 @@
             "ws": [
                 {
                     "cc": "de",
-                    "city": "Server-E",
+                    "city": "Server-F",
                     "desc": "websocket",
                     "ip": "findmybooks.site"
                 }
@@ -63,7 +63,7 @@
                     "mmver": ["1.0.2", ""],
                     "cfg": "usecf",
                     "cc": "de",
-                    "city": "Server-E(boost)",
+                    "city": "Server-F(boost)",
                     "desc": "fast proxy",
                     "ip": "findmybooks.site#cf"
                 }
