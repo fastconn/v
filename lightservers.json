@@ -24,14 +24,14 @@
     "cfgs": {
         "ws": {
             "a": {
-		"domain": "elitetransfer.online",
+		        "domain": "findmybooks.site",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
 	    "usecf": {
-		"cf": true,
-                "domain": "elitetransfer.online",
+		        "cf": true,
+                "domain": "findmybooks.site",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -55,7 +55,7 @@
                     "cc": "de",
                     "city": "Server-E",
                     "desc": "websocket",
-                    "ip": "elitetransfer.online"
+                    "ip": "findmybooks.site"
                 }
             ],
            "ws2": [
@@ -65,7 +65,7 @@
                     "cc": "de",
                     "city": "Server-E(boost)",
                     "desc": "fast proxy",
-                    "ip": "elitetransfer.online#cf"
+                    "ip": "findmybooks.site#cf"
                 }
             ]
         },
