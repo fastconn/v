@@ -44,14 +44,14 @@
         },
         "ws": {
 	        "a": {
-                "domain": "trans2025.fun",
+                "domain": "regafoot.online",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
 	        "usecf": {
 		        "cf": true,
-                "domain": "trans2025.fun",
+                "domain": "regafoot.online",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -96,18 +96,18 @@
             ],
             "ws": [
 		        {
-                    "city":"ServerT",
+                    "city":"ServerR",
                     "desc": "websocket",
-                    "ip": "trans2025.fun"
+                    "ip": "regafoot.online"
                 }
             ],
            "ws2": [
                 {
                     "mmver": ["1.3.3", ""],
                     "cfg": "usecf",
-                    "city": "ServerT-boost",
+                    "city": "ServerR-boost",
                     "desc": "fast proxy",
-                    "ip": "trans2025.fun#cf"
+                    "ip": "regafoot.online#cf"
                 }
             ]
         },
