@@ -1,6 +1,6 @@
 {
     "age": 1,
-    "v": 20221229,
+    "v": 20230124,
     "ll": {
         "Ashburn": [38.7911,-77.5264],
         "Frankfurt": [50.0812,8.6411],
@@ -44,14 +44,14 @@
         },
         "ws": {
 	        "a": {
-                "domain": "regafoot.online",
+                "domain": "setagift.shop",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "usecf": {
                 "cf": true,
-                "domain": "regafoot.online",
+                "domain": "setagift.shop",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -100,7 +100,7 @@
                     "cc": "de",
                     "city":"Server-R",
                     "desc": "websocket",
-                    "ip": "regafoot.online"
+                    "ip": "setagift.shop"
                 }
             ],
            "ws2": [
@@ -110,7 +110,7 @@
                     "cc": "de",
                     "city": "Server-R(boost)",
                     "desc": "fast proxy",
-                    "ip": "regafoot.online#cf"
+                    "ip": "setagift.shop#cf"
                 }
             ]
         },

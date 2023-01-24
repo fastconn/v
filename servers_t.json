@@ -44,14 +44,14 @@
         },
         "ws": {
 	        "a": {
-                "domain": "regafoot.online",
+                "domain": "setagift.shop",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
 	        "usecf": {
 		        "cf": true,
-                "domain": "regafoot.online",
+                "domain": "setagift.shop",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -96,18 +96,18 @@
             ],
             "ws": [
 		        {
-                    "city":"ServerR",
+                    "city":"ServerS",
                     "desc": "websocket",
-                    "ip": "regafoot.online"
+                    "ip": "setagift.shop"
                 }
             ],
            "ws2": [
                 {
                     "mmver": ["1.3.3", ""],
                     "cfg": "usecf",
-                    "city": "ServerR-boost",
+                    "city": "ServerS-boost",
                     "desc": "fast proxy",
-                    "ip": "regafoot.online#cf"
+                    "ip": "setagift.shop#cf"
                 }
             ]
         },
