@@ -1,6 +1,6 @@
 {
     "age": 1,
-    "v": 20230107,
+    "v": 20230124,
     "ll": {
         "Ashburn": [38.7911,-77.5264],
         "Frankfurt": [50.0812,8.6411],
@@ -24,14 +24,14 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "findmybooks.site",
+		        "domain": "geturline.online",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
 	    "usecf": {
 		        "cf": true,
-                "domain": "findmybooks.site",
+                "domain": "geturline.online",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -53,9 +53,9 @@
             "ws": [
                 {
                     "cc": "de",
-                    "city": "Server-F",
+                    "city": "Server-G",
                     "desc": "websocket",
-                    "ip": "findmybooks.site"
+                    "ip": "geturline.online"
                 }
             ],
            "ws2": [
@@ -63,9 +63,9 @@
                     "mmver": ["11.0.2", ""],
                     "cfg": "usecf",
                     "cc": "de",
-                    "city": "Server-F(boost)",
+                    "city": "Server-G(boost)",
                     "desc": "fast proxy",
-                    "ip": "findmybooks.site#cf"
+                    "ip": "geturline.online#cf"
                 }
             ]
         },
