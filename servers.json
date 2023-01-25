@@ -44,14 +44,14 @@
         },
         "ws": {
 	        "a": {
-                "domain": "setagift.shop",
+                "domain": "subaddmul.shop",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "usecf": {
                 "cf": true,
-                "domain": "setagift.shop",
+                "domain": "subaddmul.shop",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -94,7 +94,7 @@
                     "cc": "de",
                     "city":"Server-R",
                     "desc": "websocket",
-                    "ip": "setagift.shop"
+                    "ip": "subaddmul.shop"
                 }
             ],
            "ws2": [
@@ -104,7 +104,7 @@
                     "cc": "de",
                     "city": "Server-R(boost)",
                     "desc": "fast proxy",
-                    "ip": "setagift.shop#cf"
+                    "ip": "subaddmul.shop#cf"
                 }
             ]
         },
