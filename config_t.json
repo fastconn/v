@@ -13,7 +13,7 @@
 
     "ad": {
         "0": {
-            "ver": 20221129,
+            "ver": 20230125,
             "hotInterval": 2,
             "adFullLoadWait": 8,
             "max": {

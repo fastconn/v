@@ -8,7 +8,7 @@
 		"url": {},
 		"rateHrs": 144,
 		"adFullLoadwait": 6,
-		"showServer": false
+		"showServer": true
     },
     "ad": {
         "0": {

@@ -44,14 +44,14 @@
         },
         "ws": {
 	        "a": {
-                "domain": "subaddmul.shop",
+                "domain": "hasadog.wiki",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "usecf": {
                 "cf": true,
-                "domain": "subaddmul.shop",
+                "domain": "hasadog.wiki",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -92,9 +92,9 @@
             "ws": [
                 {
                     "cc": "de",
-                    "city":"Server-S",
+                    "city":"Server-H",
                     "desc": "websocket",
-                    "ip": "subaddmul.shop"
+                    "ip": "hasadog.wiki"
                 }
             ],
            "ws2": [
@@ -102,9 +102,9 @@
                     "mmver": ["1.3.3", ""],
                     "cfg": "usecf",
                     "cc": "de",
-                    "city": "Server-S(boost)",
+                    "city": "Server-H(boost)",
                     "desc": "fast proxy",
-                    "ip": "subaddmul.shop#cf"
+                    "ip": "hasadog.wiki#cf"
                 }
             ]
         },

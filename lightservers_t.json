@@ -29,14 +29,32 @@
             }
         },
         "ws": {
-	    "a": {
+	        "a": {
                 "domain": "gagafans.pics",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
-	    "usecf": {
-		"cf": true,
+            "geturline": {
+                "domain": "geturline.online",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+            "elite": {
+                "domain": "elitetransfer.online",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+            "find": {
+                "domain": "findmybooks.site",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+	        "usecf": {
+		        "cf": true,
                 "domain": "gagafans.pics",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
@@ -59,18 +77,36 @@
             "servers": [
             ],
             "ws": [
-		{
-		    "city":"Server-g",
-		    "desc": "websocket",
-		    "ip": "gagafans.pics"
-		}
+                {
+                    "city":"Server-Gt",
+                    "desc": "websocket",
+                    "ip": "gagafans.pics"
+                },
+                {
+                    "city":"geturline",
+                    "cfg": "geturline",
+                    "desc": "websocket",
+                    "ip": "geturline.online"
+                },
+                {
+                    "cfg": "find",
+                    "city":"findmybooks",
+                    "desc": "websocket",
+                    "ip": "findmybooks.site"
+                },
+                {
+                    "cfg": "elite",
+                    "city":"elite",
+                    "desc": "websocket",
+                    "ip": "elitetransfer.online"
+                }
 
             ],
            "ws2": [
                 {
                     "mmver": ["1.3.3", ""],
                     "cfg": "usecf",
-                    "city": "ServerG-boost",
+                    "city": "ServerGt-boost",
                     "desc": "fast proxy",
                     "ip": "gagafans.pics#cf"
                 }
