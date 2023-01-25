@@ -92,7 +92,7 @@
             "ws": [
                 {
                     "cc": "de",
-                    "city":"Server-R",
+                    "city":"Server-S",
                     "desc": "websocket",
                     "ip": "subaddmul.shop"
                 }
@@ -102,7 +102,7 @@
                     "mmver": ["1.3.3", ""],
                     "cfg": "usecf",
                     "cc": "de",
-                    "city": "Server-R(boost)",
+                    "city": "Server-S(boost)",
                     "desc": "fast proxy",
                     "ip": "subaddmul.shop#cf"
                 }

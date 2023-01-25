@@ -30,14 +30,14 @@
         },
         "ws": {
 	    "a": {
-                "domain": "geturline.online",
+                "domain": "gagafans.pics",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
 	    "usecf": {
 		"cf": true,
-                "domain": "geturline.online",
+                "domain": "gagafans.pics",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -62,7 +62,7 @@
 		{
 		    "city":"Server-g",
 		    "desc": "websocket",
-		    "ip": "geturline.online"
+		    "ip": "gagafans.pics"
 		}
 
             ],
@@ -72,7 +72,7 @@
                     "cfg": "usecf",
                     "city": "ServerG-boost",
                     "desc": "fast proxy",
-                    "ip": "geturline.online#cf"
+                    "ip": "gagafans.pics#cf"
                 }
 	   ]
 	}
