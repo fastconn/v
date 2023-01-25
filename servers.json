@@ -44,14 +44,14 @@
         },
         "ws": {
 	        "a": {
-                "domain": "haveacat.site",
+                "domain": "hiphopiscool.fun",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "usecf": {
                 "cf": true,
-                "domain": "haveacat.site",
+                "domain": "hiphopiscool.fun",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -71,20 +71,18 @@
             "image": "global",
             "ws": [
                 {
-                    "cc": "de",
                     "city":"Server-H",
                     "desc": "websocket",
-                    "ip": "haveacat.site"
+                    "ip": "hiphopiscool.fun"
                 }
             ],
            "ws2": [
 		        {
                     "mmver": ["1.3.3", ""],
                     "cfg": "usecf",
-                    "cc": "de",
                     "city": "Server-H(boost)",
                     "desc": "fast proxy",
-                    "ip": "haveacat.site#cf"
+                    "ip": "hiphopiscool.fun#cf"
                 }
             ],
             "servers": [
