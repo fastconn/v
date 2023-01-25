@@ -70,30 +70,6 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "servers": [
-                {
-                    "cc":"us",
-                    "city":"Ashburn",
-                    "ip":"185.14.44.45"
-                },
-		        {
-                    "cc":"us",
-                    "city":"Chicago",
-                    "ip":"92.38.133.218"
-                },
-                {
-                    "cc": "de",
-                    "city": "Frankfurt",
-                    "desc": "",
-                    "ip": "5.252.25.19"
-                },
-                {
-                    "cc": "de",
-                    "city": "Frankfurt",
-                    "desc": "",
-                    "ip": "87.121.55.151"
-                }
-            ],
             "ws": [
 		        {
                     "city":"ServerS",
@@ -109,6 +85,42 @@
                     "desc": "fast proxy",
                     "ip": "setagift.shop#cf"
                 }
+            ],
+            "servers": [
+                {
+                    "cc": "us",
+                    "city": "Atlanta",
+                    "ip": "31.13.213.72"
+                },
+                {
+                    "cc": "us",
+                    "city": "Santa Clara",
+                    "desc": "",
+                    "ip": "92.38.149.36"
+                },
+		        {
+                    "cc": "de",
+                    "city": "Frankfurt",
+                    "desc": "",
+                    "ip": "5.252.25.131"
+                },
+                {
+                    "cc": "de",
+                    "city": "Frankfurt",
+                    "desc": "",
+                    "ip": "185.14.45.153"
+                },
+                {
+                    "cc": "us",
+                    "city": "Chicago",
+                    "ip": "37.9.35.213"
+                },
+                {
+                    "cc": "us",
+                    "city": "New York City",
+                    "desc": "",
+                    "ip": "92.38.169.223"
+                }
             ]
         },
         {
@@ -118,22 +130,16 @@
             "ws": [
             ],
             "servers": [
-		        {
-                    "cc": "de",
-                    "city": "Frankfurt",
-                    "desc": "",
-                    "ip": "185.14.45.153"
+                {
+                    "cc": "us",
+                    "city": "Atlanta",
+                    "ip": "31.13.213.72"
                 },
                 {
                     "cc": "us",
-                    "city": "New York City",
+                    "city": "Santa Clara",
                     "desc": "",
-                    "ip": "92.38.169.223"
-                },
-                {
-                    "cc": "us",
-                    "city": "Chicago",
-                    "ip": "37.9.35.213"
+                    "ip": "92.38.149.36"
                 },
                 {
                     "cc": "it",
