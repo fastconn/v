@@ -44,14 +44,14 @@
         },
         "ws": {
 	        "a": {
-                "domain": "subaddmul.shop",
+                "domain": "hiphopiscool.fun",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
 	        "usecf": {
 		        "cf": true,
-                "domain": "subaddmul.shop",
+                "domain": "hiphopiscool.fun",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -72,18 +72,18 @@
             "image": "global",
             "ws": [
 		        {
-                    "city":"ServerS",
+                    "city":"Server-Ht",
                     "desc": "websocket",
-                    "ip": "subaddmul.shop"
+                    "ip": "hiphopiscool.fun"
                 }
             ],
            "ws2": [
                 {
                     "mmver": ["1.3.3", ""],
                     "cfg": "usecf",
-                    "city": "ServerS-boost",
+                    "city": "ServerHt-boost",
                     "desc": "fast proxy",
-                    "ip": "subaddmul.shop#cf"
+                    "ip": "hiphopiscool.fun#cf"
                 }
             ],
             "servers": [
