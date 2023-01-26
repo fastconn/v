@@ -44,14 +44,14 @@
         },
         "ws": {
 	        "a": {
-                "domain": "hiphopiscool.fun",
+                "domain": "haveaniceweb.space",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "usecf": {
                 "cf": true,
-                "domain": "hiphopiscool.fun",
+                "domain": "haveaniceweb.space",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -73,7 +73,7 @@
                 {
                     "city":"Server-H",
                     "desc": "websocket",
-                    "ip": "hiphopiscool.fun"
+                    "ip": "haveaniceweb.space"
                 }
             ],
            "ws2": [
@@ -82,7 +82,7 @@
                     "cfg": "usecf",
                     "city": "Server-H(boost)",
                     "desc": "fast proxy",
-                    "ip": "hiphopiscool.fun#cf"
+                    "ip": "haveaniceweb.space#cf"
                 }
             ],
             "servers": [
