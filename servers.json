@@ -1,6 +1,6 @@
 {
     "age": 1,
-    "v": 20230124,
+    "v": 20230127,
     "ll": {
         "Ashburn": [38.7911,-77.5264],
         "Frankfurt": [50.0812,8.6411],
@@ -49,6 +49,12 @@
                 "pt": 443,
                 "path": "/linkvws"
             },
+            "b": {
+                "domain": "heisahero.sbs",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
             "usecf": {
                 "cf": true,
                 "domain": "hohahoha123.shop",
@@ -70,6 +76,12 @@
             "isVip": false,
             "image": "global",
             "ws": [
+                {
+                    "cfg": "b",
+                    "city":"Server-H2",
+                    "desc": "websocket",
+                    "ip": "heisahero.sbs"
+                },
                 {
                     "city":"Server-H",
                     "desc": "websocket",
