@@ -49,9 +49,22 @@
                 "pt": 443,
                 "path": "/linkvws"
             },
+            "b": {
+                "domain": "holyholy.store",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
             "usecf": {
                 "cf": true,
                 "domain": "hideyourfoot.store",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+            "usecf-b": {
+                "cf": true,
+                "domain": "holyholy.store",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -71,10 +84,16 @@
             "image": "global",
             "ws": [
                 {
-                    "cfg": "b",
+                    "cfg": "a",
                     "city":"Server-H5",
                     "desc": "websocket",
                     "ip": "hideyourfoot.store"
+                },
+                {
+                    "cfg": "b",
+                    "city":"Server-H6",
+                    "desc": "websocket",
+                    "ip": "holyholy.store"
                 }
             ],
            "ws2": [
@@ -84,6 +103,13 @@
                     "city": "Server-H5(boost)",
                     "desc": "fast proxy",
                     "ip": "hideyourfoot.store#cf"
+                },
+                {
+                    "mmver": ["1.3.3", ""],
+                    "cfg": "usecf-b",
+                    "city": "Server-H6(boost)",
+                    "desc": "fast proxy",
+                    "ip": "holyholy.store#cf"
                 }
             ],
             "servers": [
