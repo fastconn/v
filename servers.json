@@ -44,14 +44,14 @@
         },
         "ws": {
 	        "a": {
-                "domain": "hohohahe.monster",
+                "domain": "hivedata23.homes",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "usecf": {
                 "cf": true,
-                "domain": "hohohahe.monster",
+                "domain": "hivedata23.homes",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -72,18 +72,18 @@
             "ws": [
                 {
                     "cfg": "b",
-                    "city":"Server-H3",
+                    "city":"Server-H4",
                     "desc": "websocket",
-                    "ip": "hohohahe.monster"
+                    "ip": "hivedata23.homes"
                 }
             ],
            "ws2": [
 		        {
                     "mmver": ["1.3.3", ""],
                     "cfg": "usecf",
-                    "city": "Server-H3(boost)",
+                    "city": "Server-H4(boost)",
                     "desc": "fast proxy",
-                    "ip": "hohohahe.monster#cf"
+                    "ip": "hivedata23.homes#cf"
                 }
             ],
             "servers": [
