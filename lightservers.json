@@ -1,6 +1,6 @@
 {
     "age": 1,
-    "v": 20230124,
+    "v": 20230128,
     "ll": {
         "Ashburn": [38.7911,-77.5264],
         "Frankfurt": [50.0812,8.6411],
@@ -24,14 +24,14 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "gagafans.pics",
+		        "domain": "gotmyconnect.store",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
 	    "usecf": {
 		        "cf": true,
-                "domain": "gagafans.pics",
+                "domain": "gotmyconnect.store",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -55,7 +55,7 @@
                     "cc": "de",
                     "city": "Server-G",
                     "desc": "websocket",
-                    "ip": "gagafans.pics"
+                    "ip": "gotmyconnect.store"
                 }
             ],
            "ws2": [
@@ -65,7 +65,7 @@
                     "cc": "de",
                     "city": "Server-G(boost)",
                     "desc": "fast proxy",
-                    "ip": "gagafans.pics#cf"
+                    "ip": "gotmyconnect.store#cf"
                 }
             ]
         },
