@@ -44,14 +44,14 @@
         },
         "ws": {
 	        "a": {
-                "domain": "hivedata23.homes",
+                "domain": "hideyourfoot.store",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "usecf": {
                 "cf": true,
-                "domain": "hivedata23.homes",
+                "domain": "hideyourfoot.store",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -72,18 +72,18 @@
             "ws": [
                 {
                     "cfg": "b",
-                    "city":"Server-H4",
+                    "city":"Server-H5",
                     "desc": "websocket",
-                    "ip": "hivedata23.homes"
+                    "ip": "hideyourfoot.store"
                 }
             ],
            "ws2": [
 		        {
                     "mmver": ["1.3.3", ""],
                     "cfg": "usecf",
-                    "city": "Server-H4(boost)",
+                    "city": "Server-H5(boost)",
                     "desc": "fast proxy",
-                    "ip": "hivedata23.homes#cf"
+                    "ip": "hideyourfoot.store#cf"
                 }
             ],
             "servers": [
