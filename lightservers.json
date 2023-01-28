@@ -24,14 +24,14 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "gotmyconnect.store",
+		        "domain": "getlightline.store",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
 	    "usecf": {
 		        "cf": true,
-                "domain": "gotmyconnect.store",
+                "domain": "getlightline.store",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -53,9 +53,9 @@
             "ws": [
                 {
                     "cc": "de",
-                    "city": "Server-G",
+                    "city": "Server-G2",
                     "desc": "websocket",
-                    "ip": "gotmyconnect.store"
+                    "ip": "getlightline.store"
                 }
             ],
            "ws2": [
@@ -65,7 +65,7 @@
                     "cc": "de",
                     "city": "Server-G(boost)",
                     "desc": "fast proxy",
-                    "ip": "gotmyconnect.store#cf"
+                    "ip": "getlightline.store#cf"
                 }
             ]
         },
