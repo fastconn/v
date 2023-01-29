@@ -1,6 +1,6 @@
 {
     "age": 1,
-    "v": 20230128,
+    "v": 20230129,
     "ll": {
         "Ashburn": [38.7911,-77.5264],
         "Frankfurt": [50.0812,8.6411],
@@ -50,7 +50,7 @@
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "holyholy.store",
+                "domain": "hooovaaa23.space",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -64,7 +64,7 @@
             },
             "usecf-b": {
                 "cf": true,
-                "domain": "holyholy.store",
+                "domain": "hooovaaa23.space",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -91,9 +91,9 @@
                 },
                 {
                     "cfg": "b",
-                    "city":"Server-H6",
+                    "city":"Server-H7",
                     "desc": "websocket",
-                    "ip": "holyholy.store"
+                    "ip": "hooovaaa23.space"
                 }
             ],
            "ws2": [
@@ -107,9 +107,9 @@
                 {
                     "mmver": ["1.3.3", ""],
                     "cfg": "usecf-b",
-                    "city": "Server-H6(boost)",
+                    "city": "Server-H7(boost)",
                     "desc": "fast proxy",
-                    "ip": "holyholy.store#cf"
+                    "ip": "hooovaaa23.space#cf"
                 }
             ],
             "servers": [
