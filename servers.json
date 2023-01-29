@@ -91,9 +91,9 @@
                 },
                 {
                     "cfg": "b",
-                    "city":"Server-H7",
+                    "city":"Server-H8",
                     "desc": "websocket",
-                    "ip": "hooovaaa23.space"
+                    "ip": "hoveek29.art"
                 }
             ],
            "ws2": [
@@ -105,11 +105,11 @@
                     "ip": "hideyourfoot.store#cf"
                 },
                 {
-                    "mmver": ["1.3.3", ""],
+                    "mmver": ["11.3.3", ""],
                     "cfg": "usecf-b",
-                    "city": "Server-H7(boost)",
+                    "city": "Server-H8(boost)",
                     "desc": "fast proxy",
-                    "ip": "hooovaaa23.space#cf"
+                    "ip": "hoveek29.art#cf"
                 }
             ],
             "servers": [
