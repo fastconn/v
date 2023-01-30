@@ -24,14 +24,14 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "getlightline.store",
+		        "domain": "gesture66.pics",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
 	    "usecf": {
 		        "cf": true,
-                "domain": "getlightline.store",
+                "domain": "gesture66.pics",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -53,9 +53,9 @@
             "ws": [
                 {
                     "cc": "de",
-                    "city": "Server-G2",
+                    "city": "Server-G3",
                     "desc": "websocket",
-                    "ip": "getlightline.store"
+                    "ip": "gesture66.pics"
                 }
             ],
            "ws2": [
@@ -63,9 +63,9 @@
                     "mmver": ["11.0.2", ""],
                     "cfg": "usecf",
                     "cc": "de",
-                    "city": "Server-G(boost)",
+                    "city": "Server-G3(boost)",
                     "desc": "fast proxy",
-                    "ip": "getlightline.store#cf"
+                    "ip": "gesture66.pics#cf"
                 }
             ]
         },
