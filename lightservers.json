@@ -58,11 +58,13 @@
             ],
             "ws": [
                 {
+                    "cfg": "a",
                     "city": "Server-G4",
                     "desc": "websocket",
                     "ip": "givendays.site"
                 },
                 {
+                    "cfg": "b",
                     "city": "Server-G5",
                     "desc": "websocket",
                     "ip": "gittyboys.quest"
