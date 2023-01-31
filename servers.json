@@ -50,7 +50,7 @@
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "hoveek29.art",
+                "domain": "future666.lol",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -84,9 +84,9 @@
                 },
                 {
                     "cfg": "b",
-                    "city":"Server-H8",
+                    "city":"Server-H9",
                     "desc": "websocket",
-                    "ip": "hoveek29.art"
+                    "ip": "future666.lol"
                 }
             ],
            "ws2": [
@@ -96,13 +96,6 @@
                     "city": "Server-H5(boost)",
                     "desc": "fast proxy",
                     "ip": "hideyourfoot.store#cf"
-                },
-                {
-                    "mmver": ["11.3.3", ""],
-                    "cfg": "usecf-b",
-                    "city": "Server-H8(boost)",
-                    "desc": "fast proxy",
-                    "ip": "hoveek29.art#cf"
                 }
             ],
             "servers": [
