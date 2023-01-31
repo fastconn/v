@@ -24,12 +24,6 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "givendays.site",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "b": {
 		        "domain": "gittyboys.quest",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
@@ -37,7 +31,7 @@
             },
 	        "usecf": {
 		        "cf": true,
-                "domain": "givendays.site",
+                "domain": "gittyboys.quest",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -59,12 +53,6 @@
             "ws": [
                 {
                     "cfg": "a",
-                    "city": "Server-G4",
-                    "desc": "websocket",
-                    "ip": "givendays.site"
-                },
-                {
-                    "cfg": "b",
                     "city": "Server-G5",
                     "desc": "websocket",
                     "ip": "gittyboys.quest"
@@ -77,7 +65,7 @@
                     "cc": "de",
                     "city": "Server-G4(boost)",
                     "desc": "fast proxy",
-                    "ip": "givendays.site#cf"
+                    "ip": "gittyboys.quest#cf"
                 }
             ]
         },
