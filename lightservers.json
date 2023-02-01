@@ -24,6 +24,12 @@
     "cfgs": {
         "ws": {
             "a": {
+		        "domain": "gio123456.fun",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+            "b": {
 		        "domain": "gittyboys.quest",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
@@ -53,6 +59,12 @@
             "ws": [
                 {
                     "cfg": "a",
+                    "city": "Server-G6",
+                    "desc": "websocket",
+                    "ip": "gio123456.fun"
+                },
+                {
+                    "cfg": "b",
                     "city": "Server-G5",
                     "desc": "websocket",
                     "ip": "gittyboys.quest"
@@ -62,7 +74,6 @@
                 {
                     "mmver": ["11.0.2", ""],
                     "cfg": "usecf",
-                    "cc": "de",
                     "city": "Server-G4(boost)",
                     "desc": "fast proxy",
                     "ip": "gittyboys.quest#cf"
