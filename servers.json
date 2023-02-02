@@ -64,9 +64,10 @@
             }
         }
     },
-    "ws2vmess": {
-        "asn": [],
-        "ipsFree": [],
+    "ws2vmess2": {
+        "asn": ["ASN10000001"],
+        "domain": ["notexists.com"],
+        "ipsFree": ["1.2.3.4"],
         "ipsVip": [],
         "cfg": "a"
     },
