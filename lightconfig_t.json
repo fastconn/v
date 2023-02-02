@@ -7,8 +7,7 @@
 		"evNo": ["connect"],
 		"url": {},
 		"rateHrs": 144,
-		"adFullLoadwait": 6,
-		"showServer": true
+		"adFullLoadwait": 6
     },
     "ad": {
         "0": {
