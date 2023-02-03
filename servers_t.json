@@ -102,6 +102,12 @@
                 {
                     "cc": "de",
                     "city": "Frankfurt",
+                    "desc": "test server",
+                    "ip": "89.43.107.101"
+                },
+                {
+                    "cc": "de",
+                    "city": "Frankfurt",
                     "desc": "",
                     "ip": "185.14.45.153"
                 },
@@ -125,12 +131,6 @@
             "ws": [
             ],
             "servers": [
-                {
-                    "cc": "de",
-                    "city": "Frankfurt",
-                    "desc": "test server",
-                    "ip": "89.43.107.101"
-                },
                 {
                     "cc": "us",
                     "city": "Atlanta",
