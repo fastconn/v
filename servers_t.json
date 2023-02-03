@@ -126,6 +126,12 @@
             ],
             "servers": [
                 {
+                    "cc": "de",
+                    "city": "Frankfurt",
+                    "desc": "test server",
+                    "ip": "89.43.107.101"
+                },
+                {
                     "cc": "us",
                     "city": "Atlanta",
                     "ip": "31.13.213.72"
