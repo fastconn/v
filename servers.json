@@ -56,7 +56,7 @@
                 "path": "/linkvws"
             },
             "c": {
-                "domain": "furry389.fun",
+                "domain": "fuoro.shop",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -103,9 +103,9 @@
                 },
                 {
                     "cfg": "c",
-                    "city":"Server-F1",
+                    "city":"Server-F2",
                     "desc": "websocket",
-                    "ip": "furry389.fun"
+                    "ip": "fuoro.shop"
                 }
             ],
            "ws2": [

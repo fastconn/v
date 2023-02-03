@@ -71,8 +71,8 @@
         }
     },
     "ws2vmess2": {
-	"asn": ["AS197207","AS4134"],
-	"domain": "gotoconnect.live",
+	    "asn": ["AS197207","AS4134"],
+	    "domain": "gotoconnect.live",
         "ipsFree": [],
         "ipsVip": [],
         "cfg": "a"
@@ -93,6 +93,12 @@
                     "city":"Server-data",
                     "desc": "websocket",
                     "ip": "data-binding.site"
+                },
+                {
+                    "cfg": "v",
+                    "city":"Server-VIP1-t",
+                    "desc": "websocket",
+                    "ip": "vip2323.cfd"
                 }
             ],
            "ws2": [
