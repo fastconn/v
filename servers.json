@@ -55,6 +55,12 @@
                 "pt": 443,
                 "path": "/linkvws"
             },
+            "c": {
+                "domain": "furry389.fun",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
             "usecf": {
                 "cf": true,
                 "domain": "hideyourfoot.store",
@@ -88,6 +94,12 @@
                     "city":"Server-H10",
                     "desc": "websocket",
                     "ip": "fusion228.space"
+                },
+                {
+                    "cfg": "c",
+                    "city":"Server-F1",
+                    "desc": "websocket",
+                    "ip": "furry389.fun"
                 }
             ],
            "ws2": [
