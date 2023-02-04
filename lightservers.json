@@ -44,13 +44,6 @@
             }
         }
     },
-    "ws2vmess2": {
-        "asn": ["ASN10000001"],
-        "domain": ["i.ostrichvpn.net"],
-        "ipsFree": ["1.1.1.1"],
-        "ipsVip": [],
-        "cfg": "a"
-    },
     "l": [
         {
             "name": "Free",
@@ -58,7 +51,7 @@
             "image": "global",
             "servers": [
             ],
-            "ws": [
+            "ws2": [
                 {
                     "cfg": "a",
                     "city": "Server-G6",
@@ -70,9 +63,7 @@
                     "city": "Server-G5",
                     "desc": "websocket",
                     "ip": "gittyboys.quest"
-                }
-            ],
-           "ws2": [
+                },
                 {
                     "mmver": ["11.0.2", ""],
                     "cfg": "usecf",
