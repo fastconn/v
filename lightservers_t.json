@@ -62,12 +62,6 @@
             }
         }
     },
-    "ws2vmess": {
-        "asn": [],
-        "ipsFree": [],
-        "ipsVip": [],
-        "cfg": "a"
-    },
 
     "l": [
         {
@@ -76,7 +70,19 @@
             "image": "global",
             "servers": [
             ],
-            "ws": [
+            "ws3": [
+                {
+                    "domain": "gio123456.fun",
+                    "name": "Server-G6"
+                },
+                {
+                    "domain": "gittyboys.quest",
+                    "name": "Server-G5",
+                    "descCf": "CDN boost",
+                    "enableCf": false
+                }
+            ], 
+            "ws2": [
                 {
                     "city":"Server-Gt",
                     "desc": "websocket",
@@ -99,10 +105,7 @@
                     "city":"elite",
                     "desc": "websocket",
                     "ip": "elitetransfer.online"
-                }
-
-            ],
-           "ws2": [
+                },
                 {
                     "mmver": ["1.3.3", ""],
                     "cfg": "usecf",
@@ -110,8 +113,8 @@
                     "desc": "fast proxy",
                     "ip": "gagafans.pics#cf"
                 }
-	   ]
-	}
+            ]
+        }
     ]
 }
 

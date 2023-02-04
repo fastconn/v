@@ -44,20 +44,20 @@
         },
         "ws": {
 	        "a": {
-                "domain": "hiphopiscool.fun",
+                "domain": "fuoro.shop",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "data-binding.site",
+                "domain": "fusion228.space",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
 	        "usecf": {
 		        "cf": true,
-                "domain": "hiphopiscool.fun",
+                "domain": "fuoro.shop",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -82,34 +82,45 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "ws": [
+            "ws2": [
 		        {
-                    "city":"Server-Ht",
+                    "cfg": "a",
+                    "city":"Server-fuoro",
                     "desc": "websocket",
-                    "ip": "hiphopiscool.fun"
+                    "ip": "fuoro.shop"
                 },
                 {
                     "cfg": "b",
-                    "city":"Server-data",
+                    "city":"Server-fusion",
                     "desc": "websocket",
-                    "ip": "data-binding.site"
+                    "ip": "fusion228.space"
                 },
                 {
                     "cfg": "v",
                     "city":"Server-VIP1-t",
                     "desc": "websocket",
                     "ip": "vip2323.cfd"
-                }
-            ],
-           "ws2": [
+                },
                 {
                     "mmver": ["1.3.3", ""],
                     "cfg": "usecf",
                     "city": "ServerHt-boost",
                     "desc": "fast proxy",
-                    "ip": "hiphopiscool.fun#cf"
+                    "ip": "fusion228.space#cf"
                 }
             ],
+            "ws3": [
+                {
+                    "domain": "fusion228.space",
+                    "name": "Server-F2",
+                    "enableCf": false
+                },
+                {
+                    "domain": "fuoro.shop",
+                    "name": "Server-F3",
+                    "enableCf": false
+                }
+            ],           
             "servers": [
                 {
                     "cc": "de",
@@ -140,7 +151,7 @@
             "name": "High Speed",
             "isVip": true,
             "image": "for_VIP",
-            "ws": [
+            "ws2": [
                 {
                     "cfg": "v",
                     "city":"Server-VIP1",
@@ -148,6 +159,15 @@
                     "ip": "vip2323.cfd"
                 }
             ],
+            "ws3": [
+                {
+                    "mmver": ["1.3.9", ""],
+                    "domain": "vip2323.cfd",
+                    "name": "VIP1",
+                    "descCf": "CDN boost",
+                    "enableCf": true
+                }
+            ], 
             "servers": [
                 {
                     "cc": "us",
