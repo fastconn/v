@@ -3,7 +3,7 @@
         "showSplash": false,
         "secondSplash": 3,
 		"cnDeny": [0,0],
-		"forceVer": "0.9",
+		"forceVer": "1.1.0",
 		"evNo": [],
 		"url": {},
 		"rateHrs": 24,
