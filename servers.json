@@ -73,6 +73,12 @@
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
+            },
+            "v-cf": {
+                "domain": "vip2323.cfd",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
             }
         }
     },
@@ -81,7 +87,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "ws": [
+            "ws2": [
                 {
                     "cfg": "a",
                     "city":"Server-H5",
@@ -99,9 +105,7 @@
                     "city":"Server-F2",
                     "desc": "websocket",
                     "ip": "fuoro.shop"
-                }
-            ],
-           "ws2": [
+                },
 		        {
                     "mmver": ["11.3.3", ""],
                     "cfg": "usecf",
@@ -134,12 +138,18 @@
             "name": "High Speed",
             "isVip": true,
             "image": "for_VIP",
-            "ws": [
+            "ws2": [
                 {
                     "cfg": "v",
-                    "city":"Server-VIP1",
-                    "desc": "websocket",
-                    "ip": "vip2323.cfd"
+                    "ip": "vip2323.cfd",
+                    "city":"VIP1",
+                    "desc": "websocket"
+                },
+                {
+                    "cfg": "v-cf",
+                    "ip": "vip2323.cfd#cf",
+                    "city":"VIP1(boost)",
+                    "desc": "CDN Boost"
                 }
             ],
             "servers": [
