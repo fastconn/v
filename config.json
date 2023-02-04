@@ -12,9 +12,9 @@
     },
     "ad": {
         "0": {
-            "ver": 20230120,
+            "ver": 20230204,
             "adFullLoadwait": 5,
-            "hotInterval": 6,
+            "hotInterval": 3,
             "max": {
                 "admob": [-1,-1]
             },
