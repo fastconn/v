@@ -12,7 +12,7 @@
     },
     "ad": {
         "0": {
-            "ver": 20230207,
+            "ver": 20230208,
             "adFullLoadwait": 5,
             "hotInterval": 3,
             "max": {
@@ -29,6 +29,7 @@
         "run": {},
     	"run2": {},
 	    "run3": {
+            "Connected2": "connected2",
             "DidConFull": "anyInter",
             "WillDisFull": "anyFull",
             "HotFull": "anyInter",
@@ -65,6 +66,20 @@
                         }
                     ]
                 },
+            "connected2": {
+                "type": "native",
+                "ids": [
+                    {
+                        "id": "ca-app-pub-3510970371831048/3960111484"
+                    },
+                    {
+                        "id": "ca-app-pub-3510970371831048/3150105158"
+                    },
+                    {
+                        "id": "ca-app-pub-3510970371831048/7451949800"
+                    }
+                ]
+            },
             "open": {
                 "type": "open",
                 "ids": [
