@@ -30,14 +30,14 @@
                 "path": "/linkvws"
             },
             "b": {
-		        "domain": "gittyboys.quest",
+		        "domain": "gime.beauty",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
 	        "usecf": {
 		        "cf": true,
-                "domain": "gittyboys.quest",
+                "domain": "gime.beauty",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -60,16 +60,16 @@
                 },
                 {
                     "cfg": "b",
-                    "city": "Server-G5",
+                    "city": "Server-G7",
                     "desc": "websocket",
-                    "ip": "gittyboys.quest"
+                    "ip": "gime.beauty"
                 },
                 {
                     "mmver": ["11.0.2", ""],
                     "cfg": "usecf",
-                    "city": "Server-G4(boost)",
+                    "city": "Server-G7(boost)",
                     "desc": "fast proxy",
-                    "ip": "gittyboys.quest#cf"
+                    "ip": "gime.beauty#cf"
                 }
             ]
         },
