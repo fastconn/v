@@ -12,7 +12,7 @@
     },
     "ad": {
         "0": {
-            "ver": 20230204,
+            "ver": 20230207,
             "adFullLoadwait": 5,
             "hotInterval": 3,
             "max": {
@@ -26,20 +26,9 @@
                 }
             }
         },
-        "run": {
-            "Open": "open",
-            "MainBanner": "banner1",
-            "WillDiscon": "willdis",
-            "WillServer": "interWs"
-            },
-    	"run2": {
-	        "Open": "open",
-            "MainBanner": "banner1",
-            "WillDiscon": "willdis",
-            "WillServer": "interWs"
-        },
+        "run": {},
+    	"run2": {},
 	    "run3": {
-            "Open": "open",
             "DidConFull": "anyInter",
             "WillDisFull": "anyFull",
             "HotFull": "anyInter",
