@@ -90,12 +90,6 @@
             "image": "global",
             "ws2": [
                 {
-                    "cfg": "a",
-                    "city":"Server-H5",
-                    "desc": "websocket",
-                    "ip": "hideyourfoot.store"
-                },
-                {
                     "cfg": "b",
                     "city":"Server-H10",
                     "desc": "websocket",
