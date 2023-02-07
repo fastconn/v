@@ -32,7 +32,8 @@
 			"DidConFull": "anyInter",
 			"HotFull": "anyInter",
 			"AnyInter": "anyInter",
-			"AnyFull": "anyFull"
+			"AnyFull": "anyFull",
+			"Connected2": "connected2"
 		},
         "sets": {
 			"anyFull": {
@@ -62,7 +63,21 @@
 						"id": "ca-app-pub-3510970371831048/9940187783"
 				    }
                 ]
-            }
+            },
+			"connected2": {
+				"type": "native",
+				"ids": [
+					{
+						"id": "ca-app-pub-3510970371831048/9670220270"
+					},
+					{
+						"id": "ca-app-pub-3510970371831048/5868350916"
+					},
+					{
+						"id": "ca-app-pub-3510970371831048/9274364950"
+					}
+				]
+			}
         }
     }
 }
