@@ -7,11 +7,12 @@
 		"evNo": [],
 		"url": {},
 		"rateHrs": 24,
+		"showServer": true,
 		"adFullLoadwait": 5
     },
     "ad": {
         "0": {
-            "ver": 20230204,
+            "ver": 20230207,
             "adFullLoadwait": 5,
             "hotInterval": 3,
 	    	"max": {
@@ -38,7 +39,7 @@
 				"type": "native",
 				"ids": [
 					{
-						"id": "ca-app-pub-3510970371831048/5124013751"
+						"id": "ca-app-pub-3510970371831048/2221021386"
 					},
 					{
 						"id": "ca-app-pub-3510970371831048/8015502061"
