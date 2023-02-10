@@ -49,12 +49,7 @@
                 "pt": 443,
                 "path": "/linkvws"
             },
-            "b": {
-                "domain": "fusion228.space",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
+
             "c": {
                 "domain": "fuddle.space",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
@@ -89,12 +84,6 @@
             "isVip": false,
             "image": "global",
             "ws2": [
-               {
-                    "cfg": "b",
-                    "city":"Server-H10",
-                    "desc": "websocket",
-                    "ip": "fusion228.space"
-                },
                 {
                     "cfg": "c",
                     "city":"Server-F4",
