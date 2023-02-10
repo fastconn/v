@@ -1,20 +1,19 @@
 {
     "0": {
-        "showSplash": false,
+		"age": 3,
+		"showSplash": false,
         "secondSplash": 3,
 		"cnDeny": [0,0],
 		"forceVer": "0.9",
 		"evNo": ["connect"],
 		"url": {},
-		"rateHrs": 144,
-		"adFullLoadwait": 6,
 		"showServer": true
     },
     "ad": {
         "0": {
             "ver": 20221207,
 			"hotInterval": 2,
-			"adFullLoadWait": 10,
+			"adFullLoadwait": 6,
 			"max": {
 				"admob": [-1,-1]
 			},

@@ -1,5 +1,6 @@
 {
     "0": {
+        "age": 3,
 	    "autoTunnel": 2,
         "showSplash": true,
         "secondSplash": 3,
@@ -28,19 +29,9 @@
                 }
             }
         },
-        "run": {
-            "open": "open0",
-            "Connected": "native1",
-            "MainBanner": "xxxxxbanner1"
-        },
-        "run2": {
-            "DidConFull": "DidConF",
-            "WillDisFull": "",
-            "HotFull": "nativeFull"
-        },
         "run3": {
             "Connected2": "native1",
-            "Location2": "nativeFb",
+            "Location2": "native1",
             "DidConFull": "anyFull",
             "WillDisFull": "anyFull",
             "HotFull": "anyFull",

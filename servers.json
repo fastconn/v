@@ -89,13 +89,7 @@
             "isVip": false,
             "image": "global",
             "ws2": [
-                {
-                    "cfg": "a",
-                    "city":"Server-F5",
-                    "desc": "websocket",
-                    "ip": "foldit.website"
-                },
-                {
+               {
                     "cfg": "b",
                     "city":"Server-H10",
                     "desc": "websocket",
@@ -107,7 +101,13 @@
                     "desc": "websocket",
                     "ip": "fuddle.space"
                 },
-		        {
+                {
+                    "cfg": "a",
+                    "city":"Server-F5",
+                    "desc": "websocket",
+                    "ip": "foldit.website"
+                },
+ 		        {
                     "mmver": ["11.3.3", ""],
                     "cfg": "usecf",
                     "city": "Server-H5(boost)",

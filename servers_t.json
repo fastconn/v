@@ -70,13 +70,6 @@
             }
         }
     },
-    "ws2vmess2": {
-	    "asn": ["AS197207","AS4134"],
-	    "domain": "gotoconnect.live",
-        "ipsFree": [],
-        "ipsVip": [],
-        "cfg": "a"
-    },
     "l": [
         {
             "name": "Free",
@@ -111,14 +104,14 @@
             ],
             "ws3": [
                 {
-                    "domain": "fusion228.space",
-                    "name": "Server-F2",
+                    "domain": "foldit.website",
+                    "name": "Server-foldit",
                     "enableCf": false
                 },
                 {
-                    "domain": "fuoro.shop",
-                    "name": "Server-F3",
-                    "enableCf": false
+                    "domain": "fuddle.space",
+                    "name": "Server-fuddle",
+                    "enableCf": true
                 }
             ],           
             "servers": [
