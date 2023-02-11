@@ -24,7 +24,7 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "gio123456.fun",
+		        "domain": "giddyup.click",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -54,9 +54,9 @@
             "ws2": [
                 {
                     "cfg": "a",
-                    "city": "Server-G6",
+                    "city": "Server-G8",
                     "desc": "websocket",
-                    "ip": "gio123456.fun"
+                    "ip": "giddyup.click"
                 },
                 {
                     "cfg": "b",
