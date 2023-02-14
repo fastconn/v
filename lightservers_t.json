@@ -1,5 +1,6 @@
 {
     "age": 1,
+    "ageM": 1,
     "v": 20230124,
     "ll": {
         "Ashburn": [38.7911,-77.5264],
@@ -79,7 +80,7 @@
                     "domain": "gittyboys.quest",
                     "name": "Server-G5",
                     "descCf": "CDN boost",
-                    "enableCf": false
+                    "enableCf": true
                 }
             ], 
             "ws2": [

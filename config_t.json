@@ -1,16 +1,17 @@
 {
     "0": {
-        "age": 3,
-	    "autoTunnel": 2,
+        "ageM": 3,
+	    "autoTunnel": 4,
         "showSplash": true,
         "secondSplash": 3,
         "cnDeny": [0,0],
         "recVer": "1.3.10",
         "forceVer": "1.0.9",
-        "evNo": ["connect"],
+        "evNo": [],
         "appid": "1532634346",
         "url": {},
-        "noFAN": false,
+        "noFAN": true,
+        "testCon": true,
         "rateHrs": 24
     },
 
@@ -31,12 +32,12 @@
         },
         "run3": {
             "Connected2": "native1",
-            "Location2": "native1",
-            "DidConFull": "anyFull",
-            "WillDisFull": "anyFull",
-            "HotFull": "anyFull",
+            "Location2": "native2",
+            "DidConFull": "anyInter",
+            "WillDisFull": "anyInter",
+            "HotFull": "anyInter",
             "AnyFull": "anyFull",
-            "AnyInter": "inter000"
+            "AnyInter": "anyInter"
         },
         "sets": {
             "open0": {
@@ -56,7 +57,7 @@
                 ]
             },
 
-            "inter0": {
+            "anyInter": {
                 "type": "inter",
                 "ids": [
                     {
@@ -79,6 +80,16 @@
                 "type": "native",
                 "ids": [
                     {
+                        "layouts": [1],
+                        "id": "ca-app-pub-3940256099942544/3986624511"
+                    }
+	        	]
+	        },
+            "native2": {
+                "type": "native",
+                "ids": [
+                    {
+                        "layouts": [0,1],
                         "id": "ca-app-pub-3940256099942544/3986624511"
                     }
 	        	]

@@ -1,6 +1,6 @@
 {
     "0": {
-		"age": 3,
+		"ageM": 3,
 		"showSplash": false,
         "secondSplash": 3,
 		"cnDeny": [0,0],

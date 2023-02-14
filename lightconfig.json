@@ -1,6 +1,6 @@
 {
     "0": {
-		"age": 60,
+		"ageM": 60,
 		"showSplash": false,
         "secondSplash": 3,
 		"cnDeny": [0,0],
@@ -69,7 +69,7 @@
 				"type": "native",
 				"ids": [
 					{
-						"id": "ca-app-pub-3510970371831048/9670220270"
+						"id": "ca-app-pub-3510970371831048/6612558506"
 					},
 					{
 						"id": "ca-app-pub-3510970371831048/5868350916"

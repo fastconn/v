@@ -95,7 +95,7 @@
                     "ip": "vip2323.cfd"
                 },
                 {
-                    "mmver": ["1.3.3", ""],
+                    "mmver": ["1.5.3", ""],
                     "cfg": "usecf",
                     "city": "ServerHt-boost",
                     "desc": "fast proxy",
@@ -126,12 +126,6 @@
                     "city": "Frankfurt",
                     "desc": "new @2.8",
                     "ip": "185.14.45.204"
-                },
-                {
-                    "cc": "de",
-                    "city": "Frankfurt",
-                    "desc": "New @2.11",
-                    "ip": "89.43.107.101"
                 },
                 {
                     "cc": "us",
