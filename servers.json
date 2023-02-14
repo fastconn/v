@@ -107,8 +107,8 @@
             ],
             "servers": [
                 {
-                    "cc": "de",
-                    "city": "Frankfurt",
+                    "cc": "fr",
+                    "city": "Paris",
                     "ip": "5.188.70.130"
                 },
                 {
