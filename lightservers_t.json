@@ -31,25 +31,7 @@
         },
         "ws": {
 	        "a": {
-                "domain": "gagafans.pics",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "geturline": {
-                "domain": "geturline.online",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "elite": {
-                "domain": "elitetransfer.online",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "find": {
-                "domain": "findmybooks.site",
+                "domain": "gietroom.click",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -71,41 +53,12 @@
             "image": "global",
             "servers": [
             ],
-            "ws3": [
-                {
-                    "domain": "gio123456.fun",
-                    "name": "Server-G6"
-                },
-                {
-                    "domain": "gittyboys.quest",
-                    "name": "Server-G5",
-                    "descCf": "CDN boost",
-                    "enableCf": true
-                }
-            ], 
             "ws2": [
                 {
+                    "cfg": "a",
                     "city":"Server-Gt",
-                    "desc": "websocket",
-                    "ip": "gagafans.pics"
-                },
-                {
-                    "city":"geturline",
-                    "cfg": "geturline",
-                    "desc": "websocket",
-                    "ip": "geturline.online"
-                },
-                {
-                    "cfg": "find",
-                    "city":"findmybooks",
-                    "desc": "websocket",
-                    "ip": "findmybooks.site"
-                },
-                {
-                    "cfg": "elite",
-                    "city":"elite",
-                    "desc": "websocket",
-                    "ip": "elitetransfer.online"
+                    "desc": "new 2.15",
+                    "ip": "gietroom.click"
                 },
                 {
                     "mmver": ["1.3.3", ""],

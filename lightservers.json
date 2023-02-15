@@ -31,7 +31,7 @@
                 "path": "/linkvws"
             },
             "b": {
-		        "domain": "gime.beauty",
+		        "domain": "gietroom.click",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -61,9 +61,9 @@
                 },
                 {
                     "cfg": "b",
-                    "city": "Server-G7",
+                    "city": "Server-G9",
                     "desc": "websocket",
-                    "ip": "gime.beauty"
+                    "ip": "gietroom.click"
                 },
                 {
                     "mmver": ["11.0.2", ""],
