@@ -104,14 +104,28 @@
             ],
             "ws3": [
                 {
+                    "cc": "de",
                     "domain": "foldit.website",
-                    "name": "Server-foldit",
+                    "name": "Server-foldit-ip3",
                     "enableCf": false
                 },
                 {
                     "domain": "foraging.cfd",
                     "name": "Server-fora",
                     "enableCf": false
+                },
+                {
+                    "domain": "foaming.site",
+                    "name": "Server-ip56",
+                    "enableCf": false
+                },
+                {
+                    "domain": "data-binding.site",
+                    "name": "test-2"
+                },
+                {
+                    "domain": "trans2025.fun",
+                    "name": "test-3"
                 }
             ],           
             "servers": [

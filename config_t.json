@@ -78,6 +78,7 @@
             },
             "native1": {
                 "type": "native",
+                "layouts": [0,1],
                 "ids": [
                     {
                         "layouts": [1],
@@ -87,6 +88,7 @@
 	        },
             "native2": {
                 "type": "native",
+                "layouts": [0,1],
                 "ids": [
                     {
                         "layouts": [0,1],
