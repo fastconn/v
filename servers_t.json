@@ -109,8 +109,8 @@
                     "enableCf": false
                 },
                 {
-                    "domain": "foreign.boats",
-                    "name": "foreign.boats",
+                    "domain": "foraging.cfd",
+                    "name": "Server-fora",
                     "enableCf": false
                 }
             ],           
