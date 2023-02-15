@@ -120,12 +120,12 @@
                     "enableCf": false
                 },
                 {
-                    "domain": "data-binding.site",
-                    "name": "test-2"
+                    "domain": "fopen.world",
+                    "name": "Server-fopen"
                 },
                 {
-                    "domain": "trans2025.fun",
-                    "name": "test-3"
+                    "domain": "gianter.mom",
+                    "name": "Server-gianter"
                 }
             ],           
             "servers": [
