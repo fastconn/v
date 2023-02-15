@@ -52,7 +52,7 @@
             },
 
             "c": {
-                "domain": "flying321.xyz",
+                "domain": "flow3366.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -93,9 +93,9 @@
                 },
                 {
                     "cfg": "c",
-                    "city":"Server-9",
+                    "city":"Server-10",
                     "desc": "websocket",
-                    "ip": "flying321.xyz"
+                    "ip": "flow3366.cfd"
                 },
  		        {
                     "mmver": ["11.3.3", ""],
