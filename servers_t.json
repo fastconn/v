@@ -109,9 +109,9 @@
                     "enableCf": false
                 },
                 {
-                    "domain": "fuddle.space",
-                    "name": "Server-fuddle",
-                    "enableCf": true
+                    "domain": "foreign.boats",
+                    "name": "foreign.boats",
+                    "enableCf": false
                 }
             ],           
             "servers": [
