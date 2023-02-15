@@ -31,7 +31,7 @@
         },
         "ws": {
 	        "a": {
-                "domain": "gietroom.click",
+                "domain": "gianter.mom",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -56,9 +56,9 @@
             "ws2": [
                 {
                     "cfg": "a",
-                    "city":"Server-Gt",
+                    "city":"Server-giant",
                     "desc": "new 2.15",
-                    "ip": "gietroom.click"
+                    "ip": "gianter.mom"
                 },
                 {
                     "mmver": ["1.3.3", ""],

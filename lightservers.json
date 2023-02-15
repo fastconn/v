@@ -31,7 +31,7 @@
                 "path": "/linkvws"
             },
             "b": {
-		        "domain": "gietroom.click",
+		        "domain": "gianter.mom",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -55,15 +55,15 @@
             "ws2": [
                 {
                     "cfg": "a",
-                    "city": "Server-G8",
+                    "city": "Server-8",
                     "desc": "websocket",
                     "ip": "giddyup.click"
                 },
                 {
                     "cfg": "b",
-                    "city": "Server-G9",
+                    "city": "Server-9",
                     "desc": "websocket",
-                    "ip": "gietroom.click"
+                    "ip": "gianter.mom"
                 },
                 {
                     "mmver": ["11.0.2", ""],
