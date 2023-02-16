@@ -112,23 +112,23 @@
                 },
                 {
                     "domain": "giddyup.click",
-                    "name": "giddyup-pro",
-                    "enableCf": true
+                    "name": "giddyup-pro" 
+                },
+                {
+                    "domain": "federal234.site",
+                    "name": "federal234.site"
                 },
                 {
                     "domain": "fleetly11.click",
-                    "name": "fleetly11.click",
-                    "enableCf": false
+                    "name": "fleetly11.click"
                 },
                 {
                     "domain": "fkabcde.cfd",
-                    "name": "fkabcde.cfd",
-                    "enableCf": false
+                    "name": "fkabcde.cfd"
                 },
                 {
                     "domain": "fleapp.sbs",
-                    "name": "fleapp.sbs",
-                    "enableCf": false
+                    "name": "fleapp.sbs"
                 },
                 {
                     "domain": "gobline.cfd",
