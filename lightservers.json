@@ -31,7 +31,7 @@
                 "path": "/linkvws"
             },
             "b": {
-		        "domain": "gobline.cfd",
+		        "domain": "geegeebond.lol",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -61,9 +61,9 @@
                 },
                 {
                     "cfg": "b",
-                    "city": "Server-11",
+                    "city": "Server-12",
                     "desc": "websocket",
-                    "ip": "gobline.cfd"
+                    "ip": "geegeebond.lol"
                 },
                 {
                     "mmver": ["11.0.2", ""],
