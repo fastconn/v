@@ -1,7 +1,7 @@
 {
     "age": 1,
     "ageM": 15,
-    "v": 20230129,
+    "v": 20230217,
     "ll": {
         "Ashburn": [38.7911,-77.5264],
         "Frankfurt": [50.0812,8.6411],
@@ -51,13 +51,7 @@
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "federal234.site",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "c": {
-                "domain": "fkabcde.cfd",
+                "domain": "flatterr.homes",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -98,16 +92,10 @@
                 },    
                 {
                     "cfg": "b",
-                    "city":"Server-14",
+                    "city":"Server-16",
                     "desc": "websocket",
-                    "ip": "federal234.site"
+                    "ip": "flatterr.homes"
                 },             
-                {
-                    "cfg": "c",
-                    "city":"Server-13",
-                    "desc": "websocket",
-                    "ip": "fkabcde.cfd"
-                },
  		        {
                     "mmver": ["11.3.3", ""],
                     "cfg": "usecf",

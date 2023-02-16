@@ -1,7 +1,7 @@
 {
     "age": 1,
     "ageM": 15,
-    "v": 20230128,
+    "v": 20230217,
     "ll": {
         "Ashburn": [38.7911,-77.5264],
         "Frankfurt": [50.0812,8.6411],
@@ -31,7 +31,7 @@
                 "path": "/linkvws"
             },
             "b": {
-		        "domain": "geegeebond.lol",
+		        "domain": "geaabbcc.mom",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -63,7 +63,7 @@
                     "cfg": "b",
                     "city": "Server-12",
                     "desc": "websocket",
-                    "ip": "geegeebond.lol"
+                    "ip": "geaabbcc.mom"
                 },
                 {
                     "mmver": ["11.0.2", ""],
