@@ -50,9 +50,8 @@
                 "pt": 443,
                 "path": "/linkvws"
             },
-
             "c": {
-                "domain": "fleapp.sbs",
+                "domain": "fkabcde.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -87,15 +86,15 @@
             "ws2": [
                 {
                     "cfg": "a",
-                    "city":"Server-5",
+                    "city":"Server-14",
                     "desc": "websocket",
                     "ip": "federal234.site"
-                },
+                },              
                 {
                     "cfg": "c",
                     "city":"Server-13",
                     "desc": "websocket",
-                    "ip": "fleapp.sbs"
+                    "ip": "fkabcde.cfd"
                 },
  		        {
                     "mmver": ["11.3.3", ""],
