@@ -52,7 +52,7 @@
             },
 
             "c": {
-                "domain": "fleetly11.click",
+                "domain": "fleapp.sbs",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -93,9 +93,9 @@
                 },
                 {
                     "cfg": "c",
-                    "city":"Server-12",
+                    "city":"Server-13",
                     "desc": "websocket",
-                    "ip": "fleetly11.click"
+                    "ip": "fleapp.sbs"
                 },
  		        {
                     "mmver": ["11.3.3", ""],
