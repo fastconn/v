@@ -45,6 +45,12 @@
         },
         "ws": {
 	        "a": {
+                "domain": "foldit.website",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+            "b": {
                 "domain": "federal234.site",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
@@ -86,10 +92,16 @@
             "ws2": [
                 {
                     "cfg": "a",
+                    "city":"Server-5",
+                    "desc": "websocket",
+                    "ip": "foldit.website"
+                },    
+                {
+                    "cfg": "b",
                     "city":"Server-14",
                     "desc": "websocket",
                     "ip": "federal234.site"
-                },              
+                },             
                 {
                     "cfg": "c",
                     "city":"Server-13",
