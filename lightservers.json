@@ -31,7 +31,7 @@
                 "path": "/linkvws"
             },
             "b": {
-		        "domain": "gears9292.autos",
+		        "domain": "gobline.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -61,9 +61,9 @@
                 },
                 {
                     "cfg": "b",
-                    "city": "Server-10",
+                    "city": "Server-11",
                     "desc": "websocket",
-                    "ip": "gears9292.autos"
+                    "ip": "gobline.cfd"
                 },
                 {
                     "mmver": ["11.0.2", ""],

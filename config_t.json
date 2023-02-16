@@ -11,7 +11,7 @@
         "appid": "1532634346",
         "url": {},
         "noFAN": true,
-        "testCon": true,
+        "verifyIap": true,
         "rateHrs": 24
     },
 

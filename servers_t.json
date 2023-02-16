@@ -1,5 +1,6 @@
 {
     "age": 1,
+    "ageM": 3,
     "v": 20230108,
     "ll": {
         "Ashburn": [38.7911,-77.5264],
@@ -106,26 +107,36 @@
                 {
                     "cc": "de",
                     "domain": "foldit.website",
-                    "name": "Server-foldit-ip3",
+                    "name": "foldit-pro",
                     "enableCf": false
                 },
                 {
-                    "domain": "flow3366.cfd",
-                    "name": "Server-flow3366",
+                    "domain": "giddyup.click",
+                    "name": "giddyup-pro",
+                    "enableCf": true
+                },
+                {
+                    "domain": "fleetly11.click",
+                    "name": "fleetly11.click",
                     "enableCf": false
                 },
                 {
-                    "domain": "flying321.xyz",
-                    "name": "Server-flying",
+                    "domain": "fkabcde.cfd",
+                    "name": "fkabcde.cfd",
                     "enableCf": false
                 },
                 {
-                    "domain": "fopen.world",
-                    "name": "Server-fopen"
+                    "domain": "fleapp.sbs",
+                    "name": "fleapp.sbs",
+                    "enableCf": false
                 },
                 {
-                    "domain": "gianter.mom",
-                    "name": "Server-gianter"
+                    "domain": "gobline.cfd",
+                    "name": "gobline.cfd"
+                },
+                {
+                    "domain": "geegeebond.lol",
+                    "name": "geegeebond.lol"
                 }
             ],           
             "servers": [
