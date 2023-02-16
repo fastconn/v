@@ -52,7 +52,7 @@
             },
 
             "c": {
-                "domain": "flow3366.cfd",
+                "domain": "flower2199.boats",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -93,9 +93,9 @@
                 },
                 {
                     "cfg": "c",
-                    "city":"Server-10",
+                    "city":"Server-11",
                     "desc": "websocket",
-                    "ip": "flow3366.cfd"
+                    "ip": "flower2199.boats"
                 },
  		        {
                     "mmver": ["11.3.3", ""],
