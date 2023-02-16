@@ -52,7 +52,7 @@
             },
 
             "c": {
-                "domain": "flower2199.boats",
+                "domain": "fleetly11.click",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -93,9 +93,9 @@
                 },
                 {
                     "cfg": "c",
-                    "city":"Server-11",
+                    "city":"Server-12",
                     "desc": "websocket",
-                    "ip": "flower2199.boats"
+                    "ip": "fleetly11.click"
                 },
  		        {
                     "mmver": ["11.3.3", ""],
