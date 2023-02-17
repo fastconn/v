@@ -56,6 +56,12 @@
                 "pt": 443,
                 "path": "/linkvws"
             },
+            "c": {
+                "domain": "federal234.site",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
             "usecf": {
                 "cf": true,
                 "domain": "hideyourfoot.store",
@@ -95,7 +101,13 @@
                     "city":"Server-16",
                     "desc": "websocket",
                     "ip": "feasdf.sbs"
-                },             
+                },       
+                {
+                    "cfg": "c",
+                    "city":"Server-17",
+                    "desc": "websocket",
+                    "ip": "federal234.site"
+                },           
  		        {
                     "mmver": ["11.3.3", ""],
                     "cfg": "usecf",
