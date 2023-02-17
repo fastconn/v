@@ -57,7 +57,7 @@
                 "path": "/linkvws"
             },
             "c": {
-                "domain": "federal234.site",
+                "domain": "ffeural.monster",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -106,7 +106,7 @@
                     "cfg": "c",
                     "city":"Server-17",
                     "desc": "websocket",
-                    "ip": "federal234.site"
+                    "ip": "ffeural.monster"
                 },           
  		        {
                     "mmver": ["11.3.3", ""],
