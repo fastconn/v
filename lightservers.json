@@ -25,7 +25,7 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "giddyup.click",
+		        "domain": "gibblier.yachts",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -36,7 +36,7 @@
                 "pt": 443,
                 "path": "/linkvws"
             },
-            "b2": {
+            "c": {
 		        "domain": "gmiuesf.beauty",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
@@ -63,7 +63,7 @@
                     "cfg": "a",
                     "city": "Server-1",
                     "desc": "websocket",
-                    "ip": "giddyup.click"
+                    "ip": "gibblier.yachts"
                 },
                 {
                     "cfg": "b",
@@ -72,7 +72,7 @@
                     "ip": "georgous.click"
                 },
                 {
-                    "cfg": "b2",
+                    "cfg": "c",
                     "city": "Server-3",
                     "desc": "websocket",
                     "ip": "gmiuesf.beauty"
