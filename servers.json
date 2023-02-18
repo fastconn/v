@@ -56,6 +56,12 @@
                 "pt": 443,
                 "path": "/linkvws"
             },
+            "b2": {
+                "domain": "fosline.xyz",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
             "c": {
                 "domain": "ffeural.monster",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
@@ -101,6 +107,12 @@
                     "city":"Server-16",
                     "desc": "websocket",
                     "ip": "feasdf.sbs"
+                },   
+                {
+                    "cfg": "b2",
+                    "city":"Server-18",
+                    "desc": "websocket",
+                    "ip": "fosline.xyz"
                 },       
                 {
                     "cfg": "c",

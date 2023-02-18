@@ -36,6 +36,12 @@
                 "pt": 443,
                 "path": "/linkvws"
             },
+            "b2": {
+		        "domain": "gmiuesf.beauty",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
 	        "usecf": {
 		        "cf": true,
                 "domain": "gime.beauty",
@@ -64,6 +70,12 @@
                     "city": "Server-12",
                     "desc": "websocket",
                     "ip": "geaabbcc.mom"
+                },
+                {
+                    "cfg": "b2",
+                    "city": "Server-13",
+                    "desc": "websocket",
+                    "ip": "gmiuesf.beauty"
                 },
                 {
                     "mmver": ["11.0.2", ""],
