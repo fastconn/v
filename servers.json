@@ -130,26 +130,26 @@
             ],
             "servers": [
                 {
-                    "cc": "fr",
-                    "city": "Paris",
-                    "ip": "5.188.70.130"
+                    "cc": "de",
+                    "city": "Frankfurt",
+                    "desc": "New",
+                    "ip": "89.44.194.186"
                 },
                 {
                     "cc": "de",
                     "city": "Frankfurt",
                     "desc": "New",
-                    "ip": "89.44.194.214"
+                    "ip": "89.43.107.158"
+                },
+                {
+                    "cc": "fr",
+                    "city": "Paris",
+                    "ip": "5.188.70.130"
                 },
                 {
                     "cc": "us",
                     "city": "Chicago",
                     "ip": "37.9.35.213"
-                },
-                {
-                    "cc": "us",
-                    "city": "New York City",
-                    "desc": "",
-                    "ip": "92.38.169.223"
                 }
             ]
         },
@@ -186,8 +186,8 @@
 		        {
                     "cc": "de",
                     "city": "Frankfurt",
-                    "desc": "",
-                    "ip": "5.252.25.131"
+                    "desc": "New",
+                    "ip": "89.43.107.158"
                 },
                 {
                     "cc": "it",
