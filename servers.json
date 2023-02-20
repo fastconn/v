@@ -184,6 +184,12 @@
                     "desc": "New",
                     "ip": "89.43.107.158"
                 },
+		        {
+                    "cc": "de",
+                    "city": "Frankfurt",
+                    "desc": "New",
+                    "ip": "5.252.25.16"
+                },
                 {
                     "cc": "it",
                     "city": "Milan",
