@@ -31,12 +31,16 @@
             }
         },
         "run3": {
+            "Open": "open0",
             "Connected2": "native1",
             "Location2": "native2",
-            "DidConFull": "anyInter",
-            "WillDisFull": "anyInter",
+            "DidConFull": "anyInterxxxxx",
+            "DidCon": "testInterxxxx",
+            "WillLocation": "testInterxxxxx",
+            "DidLocation": "anyInterxxxx",
+            "WillDisFull": "anyInterxxx",
             "HotFull": "anyInter",
-            "AnyFull": "anyFull",
+            "AnyFull": "anyFull????",
             "AnyInter": "anyInter"
         },
         "sets": {
@@ -52,6 +56,9 @@
                 "type": "native",
                 "ids": [
                     {
+                        "id": "ca-app-pub-3940256099942544/2521693316"
+                    },
+                    {
                         "id": "ca-app-pub-3940256099942544/3986624511"
                     }
                 ]
@@ -61,7 +68,21 @@
                 "type": "inter",
                 "ids": [
                     {
+                        "id": "ca-app-pub-3940256099942544/6978759866"
+                    },
+                    {
+                        "id": "ca-app-pub-3940256099942544/5135589807"
+                    },
+                    {
                         "id": "ca-app-pub-3940256099942544/4411468910"
+                    }
+                ]
+            },
+            "testInter": {
+                "type": "inter",
+                "ids": [
+                    {
+                        "id": "ca-app-pub-3940256099942544/5135589807"
                     },
                     {
                         "id": "ca-app-pub-3940256099942544/4411468910"
@@ -80,6 +101,9 @@
                 "type": "native",
                 "layouts": [0,1],
                 "ids": [
+                    {
+                        "id": "ca-app-pub-3940256099942544/2521693316"
+                    },
                     {
                         "layouts": [1],
                         "id": "ca-app-pub-3940256099942544/3986624511"
