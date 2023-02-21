@@ -17,9 +17,10 @@
 
     "ad": {
         "0": {
-            "ver": 20230125,
+            "ver": 20230221,
             "hotInterval": 2,
             "adFullLoadWait": 8,
+            "fullAdOrder": "ni",
             "max": {
                 "admob": [-1,-1]
                 },
@@ -40,7 +41,7 @@
             "DidLocation": "anyInterxxxx",
             "WillDisFull": "anyInterxxx",
             "HotFull": "anyInter",
-            "AnyFull": "anyFull????",
+            "AnyFull": "anyFull",
             "AnyInter": "anyInter"
         },
         "sets": {
