@@ -25,7 +25,7 @@
         },
         "ws": {
 	        "a": {
-                "domain": "fybier.hair",
+                "domain": "fastgogogo.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -72,9 +72,9 @@
             "ws2": [
                 {
                     "cfg": "a",
-                    "city":"Server-5",
+                    "city":"Server-8",
                     "desc": "websocket",
-                    "ip": "fybier.hair"
+                    "ip": "fastgogogo.cfd"
                 },    
                 {
                     "cfg": "b",
