@@ -31,13 +31,7 @@
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "feberad.makeup",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "c": {
-                "domain": "fosline.xyz",
+                "domain": "feetnostop.homes",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -84,16 +78,10 @@
                 },    
                 {
                     "cfg": "b",
-                    "city":"Server-2",
+                    "city":"Server-7",
                     "desc": "websocket",
-                    "ip": "feberad.makeup"
-                },   
-                {
-                    "cfg": "c",
-                    "city":"Server-3",
-                    "desc": "websocket",
-                    "ip": "fosline.xyz"
-                },       
+                    "ip": "feetnostop.homes"
+                },        
                 {
                     "cfg": "d",
                     "city":"Server-6",
