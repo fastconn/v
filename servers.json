@@ -25,7 +25,7 @@
         },
         "ws": {
 	        "a": {
-                "domain": "fekcenie.icu",
+                "domain": "fybier.hair",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -36,14 +36,14 @@
                 "pt": 443,
                 "path": "/linkvws"
             },
-            "b2": {
+            "c": {
                 "domain": "fosline.xyz",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
-            "c": {
-                "domain": "ffeural.monster",
+            "d": {
+                "domain": "fruitsok.sbs",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -78,9 +78,9 @@
             "ws2": [
                 {
                     "cfg": "a",
-                    "city":"Server-1",
+                    "city":"Server-5",
                     "desc": "websocket",
-                    "ip": "fekcenie.icu"
+                    "ip": "fybier.hair"
                 },    
                 {
                     "cfg": "b",
@@ -89,16 +89,16 @@
                     "ip": "feberad.makeup"
                 },   
                 {
-                    "cfg": "b2",
+                    "cfg": "c",
                     "city":"Server-3",
                     "desc": "websocket",
                     "ip": "fosline.xyz"
                 },       
                 {
-                    "cfg": "c",
-                    "city":"Server-4",
+                    "cfg": "d",
+                    "city":"Server-6",
                     "desc": "websocket",
-                    "ip": "ffeural.monster"
+                    "ip": "fruitsok.sbs"
                 },           
  		        {
                     "mmver": ["11.3.3", ""],
