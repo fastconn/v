@@ -32,23 +32,21 @@
             "ws2": [],
             "ws3": [
                 {
-                    "cc": "de",
-                    "domain": "fkeyboard.pics",
-                    "name": "fkeyboard",
+                    "domain": "forseconds.click",
+                    "name": "forseconds"
+                },
+                {
+                    "domain": "forseconds.click",
+                    "name": "forseconds"
+                },
+                {
+                    "domain": "fubeated.homes",
+                    "name": "fubeated",
                     "enableCf": false
                 },
                 {
-                    "domain": "foruforu.mom",
-                    "name": "foruforu"
-                },
-                {
-                    "domain": "facinlately.lol",
-                    "name": "facinlately",
-                    "enableCf": false
-                },
-                {
-                    "domain": "fdimooo.boats",
-                    "name": "fdimooo"
+                    "domain": "fetchdata.sbs",
+                    "name": "fetchdata"
                 },
                 {
                     "domain": "giiise.shop",

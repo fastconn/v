@@ -31,7 +31,7 @@
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "fkeyboard.pics",
+                "domain": "fetchdata.sbs",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -71,9 +71,9 @@
                 },    
                 {
                     "cfg": "b",
-                    "city":"Server-16",
+                    "city":"Server-18",
                     "desc": "websocket",
-                    "ip": "fkeyboard.pics"
+                    "ip": "fetchdata.sbs"
                 },    
                 {
                     "cfg": "c",
