@@ -31,7 +31,7 @@
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "fdimooo.boats",
+                "domain": "fkeyboard.pics",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -73,7 +73,7 @@
                     "cfg": "b",
                     "city":"Server-13",
                     "desc": "websocket",
-                    "ip": "fdimooo.boats"
+                    "ip": "fkeyboard.pics"
                 },    
                 {
                     "cfg": "c",
