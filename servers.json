@@ -25,7 +25,7 @@
         },
         "ws": {
 	        "a": {
-                "domain": "foruforu.mom",
+                "domain": "foplaying.quest",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -65,9 +65,9 @@
             "ws2": [
                 {
                     "cfg": "a",
-                    "city":"Server-11",
+                    "city":"Server-14",
                     "desc": "websocket",
-                    "ip": "foruforu.mom"
+                    "ip": "foplaying.quest"
                 },    
                 {
                     "cfg": "b",
