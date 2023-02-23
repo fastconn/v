@@ -25,7 +25,7 @@
         },
         "ws": {
 	        "a": {
-                "domain": "fastgogogo.cfd",
+                "domain": "foruforu.mom",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -38,12 +38,6 @@
             },
             "c": {
                 "domain": "ftioyfx.click",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "d": {
-                "domain": "foruforu.mom",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -71,9 +65,9 @@
             "ws2": [
                 {
                     "cfg": "a",
-                    "city":"Server-8",
+                    "city":"Server-11",
                     "desc": "websocket",
-                    "ip": "fastgogogo.cfd"
+                    "ip": "foruforu.mom"
                 },    
                 {
                     "cfg": "b",
@@ -86,12 +80,6 @@
                     "city":"Server-10",
                     "desc": "websocket",
                     "ip": "ftioyfx.click"
-                },    
-                {
-                    "cfg": "d",
-                    "city":"Server-11",
-                    "desc": "websocket",
-                    "ip": "foruforu.mom"
                 }
             ],
             "servers": [
