@@ -31,20 +31,7 @@
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "feetnostop.homes",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "d": {
-                "domain": "fruitsok.sbs",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "usecf": {
-                "cf": true,
-                "domain": "hideyourfoot.store",
+                "domain": "faaastgo.autos",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -78,22 +65,9 @@
                 },    
                 {
                     "cfg": "b",
-                    "city":"Server-7",
+                    "city":"Server-9",
                     "desc": "websocket",
-                    "ip": "feetnostop.homes"
-                },        
-                {
-                    "cfg": "d",
-                    "city":"Server-6",
-                    "desc": "websocket",
-                    "ip": "fruitsok.sbs"
-                },           
- 		        {
-                    "mmver": ["11.3.3", ""],
-                    "cfg": "usecf",
-                    "city": "Server-H5(boost)",
-                    "desc": "fast proxy",
-                    "ip": "hideyourfoot.store#cf"
+                    "ip": "faaastgo.autos"
                 }
             ],
             "servers": [

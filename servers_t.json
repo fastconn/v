@@ -22,33 +22,6 @@
                 "p": "FINDIT0322",
                 "cf": "client1"
             }
-        },
-        "ws": {
-	        "a": {
-                "domain": "fuoro.shop",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "b": {
-                "domain": "fusion228.space",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-	        "usecf": {
-		        "cf": true,
-                "domain": "fuoro.shop",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "v": {
-                "domain": "vip2323.cfd",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            }
         }
     },
     "l": [
@@ -60,37 +33,42 @@
             "ws3": [
                 {
                     "cc": "de",
-                    "domain": "foldit.website",
-                    "name": "foldit-pro",
+                    "domain": "fybier.hair",
+                    "name": "fybier",
                     "enableCf": false
                 },
                 {
-                    "domain": "giddyup.click",
-                    "name": "giddyup-pro" 
+                    "domain": "fruitsok.sbs",
+                    "name": "fruitsok" 
                 },
                 {
-                    "domain": "fosline.xyz",
-                    "name": "fosline.xyz"
+                    "domain": "ftioyfx.click",
+                    "name": "ftioyfx"
                 },
                 {
-                    "domain": "feasdf.sbs",
-                    "name": "feasdf.sbs"
+                    "domain": "foruforu.mom",
+                    "name": "foruforu"
                 },
                 {
-                    "domain": "fkabcde.cfd",
-                    "name": "fkabcde.cfd"
+                    "domain": "faaastgo.autos",
+                    "name": "faaastgo",
+                    "enableCf": false
                 },
                 {
-                    "domain": "ffeural.monster",
-                    "name": "ffeural.monster"
+                    "domain": "fastgogogo.cfd",
+                    "name": "fastgogogo"
                 },
                 {
-                    "domain": "gmiuesf.beauty",
-                    "name": "gmiuesf.beauty"
+                    "domain": "feetnostop.homes",
+                    "name": "feetnostop" 
                 },
                 {
-                    "domain": "geegeebond.lol",
-                    "name": "geegeebond.lol"
+                    "domain": "giiise.shop",
+                    "name": "giiise"
+                },
+                {
+                    "domain": "greetyy.cfd",
+                    "name": "greetyy"
                 }
             ],           
             "servers": [
