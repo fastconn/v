@@ -25,7 +25,7 @@
         },
         "ws": {
 	        "a": {
-                "domain": "foplaying.quest",
+                "domain": "fubeated.homes",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -65,13 +65,13 @@
             "ws2": [
                 {
                     "cfg": "a",
-                    "city":"Server-14",
+                    "city":"Server-17",
                     "desc": "websocket",
-                    "ip": "foplaying.quest"
+                    "ip": "fubeated.homes"
                 },    
                 {
                     "cfg": "b",
-                    "city":"Server-13",
+                    "city":"Server-16",
                     "desc": "websocket",
                     "ip": "fkeyboard.pics"
                 },    
