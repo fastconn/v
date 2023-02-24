@@ -24,20 +24,26 @@
             }
         },
         "ws": {
-	        "a": {
+	        "a1": {
                 "domain": "femaleduty.mom",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
-            "d": {
+            "a2": {
                 "domain": "finedays.yachts",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
-            "e": {
+            "a3": {
                 "domain": "forminutes.cfd",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+            "a4": {
+                "domain": "fastesting.click",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -64,22 +70,28 @@
             "image": "global",
             "ws2": [
                 {
-                    "cfg": "a",
+                    "cfg": "a1",
                     "city":"Server-1",
                     "desc": "websocket",
                     "ip": "femaleduty.mom"
                 }, 
                 {
-                    "cfg": "d",
+                    "cfg": "a2",
                     "city":"Server-2",
                     "desc": "websocket",
                     "ip": "finedays.yachts"
                 },    
                 {
-                    "cfg": "e",
+                    "cfg": "a3",
                     "city":"Server-3",
                     "desc": "websocket",
                     "ip": "forminutes.cfd"
+                },
+                {
+                    "cfg": "a4",
+                    "city":"Server-4",
+                    "desc": "websocket",
+                    "ip": "fastesting.click"
                 }
             ],
             "servers": [
