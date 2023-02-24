@@ -30,20 +30,8 @@
                 "pt": 443,
                 "path": "/linkvws"
             },
-            "b": {
-                "domain": "fetchdata.sbs",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "c": {
-                "domain": "focontinue.boats",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
             "d": {
-                "domain": "forseconds.click",
+                "domain": "finedays.yachts",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -77,31 +65,19 @@
             "ws2": [
                 {
                     "cfg": "a",
-                    "city":"Server-17",
+                    "city":"Server-1",
                     "desc": "websocket",
                     "ip": "femaleduty.mom"
-                },    
-                {
-                    "cfg": "b",
-                    "city":"Server-18",
-                    "desc": "websocket",
-                    "ip": "fetchdata.sbs"
-                },    
-                {
-                    "cfg": "c",
-                    "city":"Server-15",
-                    "desc": "websocket",
-                    "ip": "focontinue.boats"
-                },    
+                }, 
                 {
                     "cfg": "d",
-                    "city":"Server-19",
+                    "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "forseconds.click"
+                    "ip": "finedays.yachts"
                 },    
                 {
                     "cfg": "e",
-                    "city":"Server-20",
+                    "city":"Server-3",
                     "desc": "websocket",
                     "ip": "forminutes.cfd"
                 }
