@@ -1,7 +1,7 @@
 {
     "age": 1,
     "ageM": 15,
-    "v": 20230221,
+    "v": 20230225,
     "cfgs": {
         "ikev2": {
             "a": {
@@ -37,7 +37,7 @@
                 "path": "/linkvws"
             },
             "a3": {
-                "domain": "forminutes.cfd",
+                "domain": "muscleguy.skin",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -48,6 +48,8 @@
                 "pt": 443,
                 "path": "/linkvws"
             },
+
+
             "v": {
                 "domain": "vip2323.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
@@ -57,6 +59,12 @@
             "v-cf": {
                 "cf": true,
                 "domain": "vip2323.cfd",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+            "v2": {
+                "domain": "veryfast.shop",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -85,7 +93,7 @@
                     "cfg": "a3",
                     "city":"Server-3",
                     "desc": "websocket",
-                    "ip": "forminutes.cfd"
+                    "ip": "muscleguy.skin"
                 },
                 {
                     "cfg": "a4",
@@ -136,6 +144,12 @@
                     "ip": "vip2323.cfd#cf",
                     "city":"VIP1(boost)",
                     "desc": "CDN Boost"
+                },
+                {
+                    "cfg": "v2",
+                    "ip": "veryfast.shop",
+                    "city":"VIP2",
+                    "desc": "New"
                 }
             ],
             "servers": [
@@ -153,13 +167,11 @@
 		        {
                     "cc": "de",
                     "city": "Frankfurt",
-                    "desc": "New",
                     "ip": "5.252.25.16"
                 },
 		        {
                     "cc": "fr",
                     "city": "Paris",
-                    "desc": "New",
                     "ip": "92.223.79.102"
                 },
                 {
