@@ -25,7 +25,7 @@
         },
         "ws": {
 	        "a1": {
-                "domain": "femaleduty.mom",
+                "domain": "fastboost.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -73,7 +73,7 @@
                     "cfg": "a1",
                     "city":"Server-1",
                     "desc": "websocket",
-                    "ip": "femaleduty.mom"
+                    "ip": "fastboost.cfd"
                 }, 
                 {
                     "cfg": "a2",
