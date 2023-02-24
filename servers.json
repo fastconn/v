@@ -42,6 +42,12 @@
                 "pt": 443,
                 "path": "/linkvws"
             },
+            "d": {
+                "domain": "forseconds.click",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
             "v": {
                 "domain": "vip2323.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
@@ -80,6 +86,12 @@
                     "city":"Server-15",
                     "desc": "websocket",
                     "ip": "focontinue.boats"
+                },    
+                {
+                    "cfg": "d",
+                    "city":"Server-19",
+                    "desc": "websocket",
+                    "ip": "forseconds.click"
                 }
             ],
             "servers": [
