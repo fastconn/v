@@ -48,6 +48,12 @@
                 "pt": 443,
                 "path": "/linkvws"
             },
+            "e": {
+                "domain": "forminutes.cfd",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
             "v": {
                 "domain": "vip2323.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
@@ -92,6 +98,12 @@
                     "city":"Server-19",
                     "desc": "websocket",
                     "ip": "forseconds.click"
+                },    
+                {
+                    "cfg": "e",
+                    "city":"Server-20",
+                    "desc": "websocket",
+                    "ip": "forminutes.cfd"
                 }
             ],
             "servers": [
