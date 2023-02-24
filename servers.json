@@ -31,7 +31,7 @@
                 "path": "/linkvws"
             },
             "a2": {
-                "domain": "finedays.yachts",
+                "domain": "musically.homes",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -87,7 +87,7 @@
                     "cfg": "a2",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "finedays.yachts"
+                    "ip": "musically.homes"
                 },    
                 {
                     "cfg": "a3",
