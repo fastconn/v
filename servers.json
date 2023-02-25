@@ -25,7 +25,7 @@
         },
         "ws": {
 	        "a1": {
-                "domain": "fastboost.cfd",
+                "domain": "miniplayer.boats",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -81,25 +81,13 @@
                     "cfg": "a1",
                     "city":"Server-1",
                     "desc": "websocket",
-                    "ip": "fastboost.cfd"
+                    "ip": "miniplayer.boats"
                 }, 
                 {
                     "cfg": "a2",
                     "city":"Server-2",
                     "desc": "websocket",
                     "ip": "musically.homes"
-                },    
-                {
-                    "cfg": "a3",
-                    "city":"Server-3",
-                    "desc": "websocket",
-                    "ip": "muscleguy.skin"
-                },
-                {
-                    "cfg": "a4",
-                    "city":"Server-4",
-                    "desc": "websocket",
-                    "ip": "fastesting.click"
                 }
             ],
             "servers": [
