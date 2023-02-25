@@ -37,7 +37,7 @@
                 "path": "/linkvws"
             },
             "a3": {
-                "domain": "muscleguy.skin",
+                "domain": "musicbeep.quest",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -88,6 +88,12 @@
                     "city":"Server-2",
                     "desc": "websocket",
                     "ip": "musically.homes"
+                }, 
+                {
+                    "cfg": "a3",
+                    "city":"Server-3",
+                    "desc": "websocket",
+                    "ip": "musicbeep.quest"
                 }
             ],
             "servers": [

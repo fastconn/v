@@ -5,7 +5,7 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "gibblier.yachts",
+		        "domain": "gilders.sbs",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -30,7 +30,7 @@
                     "cfg": "a",
                     "city": "Server-1",
                     "desc": "websocket",
-                    "ip": "gibblier.yachts"
+                    "ip": "gilders.sbs"
                 },
                 {
                     "cfg": "b",

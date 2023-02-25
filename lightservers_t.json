@@ -8,27 +8,6 @@
                 "u": "04621bae-ab36-11ec-b909-0242ac120002",
                 "pt": 22324
             }
-        },
-        "ws": {
-	        "a": {
-                "domain": "gianter.mom",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "b": {
-                "domain": "gears9292.autos",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-	        "usecf": {
-		        "cf": true,
-                "domain": "gagafans.pics",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            }
         }
     },
 
@@ -39,24 +18,43 @@
             "image": "global",
             "servers": [
             ],
-            "ws2": [
+            "ws3": [
                 {
-                    "cfg": "a",
-                    "city":"Server-giant",
-                    "desc": "new 2.15",
-                    "ip": "gianter.mom"
+                    "domain": "musicsocial.site",
+                    "name": "musicsocial"
                 },
                 {
-                    "cfg": "b",
-                    "city":"Server-gears",
-                    "ip": "gears9292.autos"
+                    "domain": "musicbeep.quest",
+                    "name": "musicbeep",
+                    "enableCf": false
                 },
                 {
-                    "mmver": ["1.3.3", ""],
-                    "cfg": "usecf",
-                    "city": "ServerGt-boost",
-                    "desc": "fast proxy",
-                    "ip": "gagafans.pics#cf"
+                    "domain": "veryfast.shop",
+                    "name": "veryfast"
+                },
+                {
+                    "domain": "musicpanel.lol",
+                    "name": "musicpanel"
+                },
+                {
+                    "domain": "musiclol.beauty",
+                    "name": "musiclol"
+                },
+                {
+                    "domain": "gipsyyy.mom",
+                    "name": "gipsyyy"
+                },
+                {
+                    "domain": "gilders.sbs",
+                    "name": "gilders"
+                },
+                {
+                    "domain": "musically.homes",
+                    "name": "musically"
+                },
+                {
+                    "domain": "miniplayer.boats",
+                    "name": "miniplayer"
                 }
             ]
         }
