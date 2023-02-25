@@ -20,8 +20,8 @@
             ],
             "ws3": [
                 {
-                    "domain": "musicsocial.site",
-                    "name": "musicsocial"
+                    "domain": "musiclol.beauty",
+                    "name": "musiclol"
                 },
                 {
                     "domain": "musicbeep.quest",
@@ -29,32 +29,36 @@
                     "enableCf": false
                 },
                 {
-                    "domain": "veryfast.shop",
-                    "name": "veryfast"
+                    "domain": "globallink.sbs",
+                    "name": "globallink"
                 },
                 {
                     "domain": "musicpanel.lol",
                     "name": "musicpanel"
                 },
                 {
-                    "domain": "musiclol.beauty",
-                    "name": "musiclol"
+                    "domain": "globaldata.yachts",
+                    "name": "globaldata"
                 },
                 {
-                    "domain": "gipsyyy.mom",
-                    "name": "gipsyyy"
+                    "domain": "globalkey.click",
+                    "name": "globalkey"
                 },
                 {
                     "domain": "gilders.sbs",
                     "name": "gilders"
                 },
                 {
-                    "domain": "musically.homes",
-                    "name": "musically"
+                    "domain": "multiplayer.sbs",
+                    "name": "multiplayer"
                 },
                 {
-                    "domain": "miniplayer.boats",
-                    "name": "miniplayer"
+                    "domain": "multigames.makeup",
+                    "name": "multigames"
+                },
+                {
+                    "domain": "muslin.boats",
+                    "name": "muslin"
                 }
             ]
         }

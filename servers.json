@@ -25,13 +25,13 @@
         },
         "ws": {
 	        "a1": {
-                "domain": "musicsocial.site",
+                "domain": "musiclol.beauty",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "a2": {
-                "domain": "musically.homes",
+                "domain": "multiplayer.sbs",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -78,28 +78,16 @@
             "image": "global",
             "ws2": [
                 {
-                    "cfg": "a4",
-                    "city":"Server-4",
-                    "desc": "websocket",
-                    "ip": "musicpanel.lol"
-                },
-                {
                     "cfg": "a1",
                     "city":"Server-1",
                     "desc": "websocket",
-                    "ip": "musicsocial.site"
+                    "ip": "musiclol.beauty"
                 }, 
                 {
                     "cfg": "a2",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "musically.homes"
-                }, 
-                {
-                    "cfg": "a3",
-                    "city":"Server-3",
-                    "desc": "websocket",
-                    "ip": "musicbeep.quest"
+                    "ip": "multiplayer.sbs"
                 }
             ],
             "servers": [
