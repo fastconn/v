@@ -11,7 +11,7 @@
                 "path": "/linkvws"
             },
             "b": {
-		        "domain": "gipsyyy.mom",
+		        "domain": "globallink.sbs",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -34,9 +34,9 @@
                 },
                 {
                     "cfg": "b",
-                    "city": "Server-7",
+                    "city": "Server-2",
                     "desc": "websocket",
-                    "ip": "gipsyyy.mom"
+                    "ip": "globallink.sbs"
                 }
             ]
         }
