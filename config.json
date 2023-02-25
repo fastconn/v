@@ -4,7 +4,7 @@
 	    "autoTunnel": 4,
         "showSplash": true,
     	"cnDeny": [0,0],
-    	"evNo": ["enterGg"],
+    	"evNo": ["enterGg","googleTest2"],
         "secondSplash": 3,
         "forceVer": "1.3.2",
     	"wsDefault": true,
