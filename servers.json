@@ -150,6 +150,7 @@
                 {
                     "cc": "ca",
                     "city": "Vancouver",
+                    "desc": "High speed",
                     "ip": "158.51.123.3"
                 },
 		        {
@@ -160,7 +161,8 @@
 		        {
                     "cc": "fr",
                     "city": "Paris",
-                    "ip": "92.223.79.102"
+                    "desc": "High speed",
+                    "ip": "23.134.91.22"
                 },
                 {
                     "cc": "it",
