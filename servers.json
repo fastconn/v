@@ -25,7 +25,7 @@
         },
         "ws": {
 	        "a1": {
-                "domain": "miniplayer.boats",
+                "domain": "musicsocial.site",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -81,7 +81,7 @@
                     "cfg": "a1",
                     "city":"Server-1",
                     "desc": "websocket",
-                    "ip": "miniplayer.boats"
+                    "ip": "musicsocial.site"
                 }, 
                 {
                     "cfg": "a2",
