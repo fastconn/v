@@ -5,13 +5,13 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "globaldata.yachts",
+		        "domain": "havearest.hair",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "b": {
-		        "domain": "globalkey.click",
+		        "domain": "takeabreak.homes",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -30,13 +30,13 @@
                     "cfg": "a",
                     "city": "Server-1",
                     "desc": "websocket",
-                    "ip": "globaldata.yachts"
+                    "ip": "havearest.hair"
                 },
                 {
                     "cfg": "b",
                     "city": "Server-2",
                     "desc": "websocket",
-                    "ip": "globalkey.click"
+                    "ip": "takeabreak.homes"
                 }
             ]
         }
