@@ -15,6 +15,12 @@
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
+            },
+            "c": {
+		        "domain": "springclothes.shop",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
             }
         }
     },
@@ -37,6 +43,12 @@
                     "city": "Server-2",
                     "desc": "websocket",
                     "ip": "greatmessi.makeup"
+                },
+                {
+                    "cfg": "c",
+                    "city": "Server-3",
+                    "desc": "websocket",
+                    "ip": "springclothes.shop"
                 }
             ]
         }
