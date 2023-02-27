@@ -168,7 +168,8 @@
 		        {
                     "cc": "de",
                     "city": "Frankfurt",
-                    "ip": "5.252.25.16"
+                    "desc": "High speed",
+                    "ip": "193.108.119.214"
                 },
 		        {
                     "cc": "fr",
