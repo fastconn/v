@@ -31,7 +31,7 @@
                 "path": "/linkvws"
             },
             "a2": {
-                "domain": "mutethenoise.cfd",
+                "domain": "bestshirt.store",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -86,7 +86,7 @@
                     "cfg": "a2",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "mutethenoise.cfd"
+                    "ip": "bestshirt.store"
                 }, 
                 {
                     "cfg": "a3",
