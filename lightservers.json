@@ -1,7 +1,7 @@
 {
     "age": 1,
     "ageM": 15,
-    "v": 20230223,
+    "v": 20230228,
     "cfgs": {
         "ws": {
             "a": {
@@ -24,6 +24,12 @@
             },
             "d": {
 		        "domain": "fashionshoes.homes",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+            "e": {
+		        "domain": "lightadclick.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -61,6 +67,12 @@
                     "city": "Server-4",
                     "desc": "websocket",
                     "ip": "fashionshoes.homes"
+                },
+                {
+                    "cfg": "e",
+                    "city": "Server-5",
+                    "desc": "websocket",
+                    "ip": "lightadclick.cfd"
                 }
             ]
         }

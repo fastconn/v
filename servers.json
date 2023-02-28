@@ -1,7 +1,7 @@
 {
     "age": 1,
     "ageM": 15,
-    "v": 20230225,
+    "v": 20230228,
     "cfgs": {
         "ikev2": {
             "a": {
@@ -44,6 +44,12 @@
             },
             "a4": {
                 "domain": "mainadact.click",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+            "a5": {
+                "domain": "cuppcino.store",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -99,6 +105,12 @@
                     "city":"Server-4",
                     "desc": "websocket",
                     "ip": "mainadact.click"
+                }, 
+                {
+                    "cfg": "a5",
+                    "city":"Server-4",
+                    "desc": "websocket",
+                    "ip": "cuppcino.store"
                 }
             ],
             "servers": [
