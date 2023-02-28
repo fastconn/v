@@ -43,7 +43,7 @@
                 "path": "/linkvws"
             },
             "a4": {
-                "domain": "mainadact.click",
+                "domain": "esspresso.store",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -104,11 +104,11 @@
                     "cfg": "a4",
                     "city":"Server-4",
                     "desc": "websocket",
-                    "ip": "mainadact.click"
+                    "ip": "esspresso.store"
                 }, 
                 {
                     "cfg": "a5",
-                    "city":"Server-4",
+                    "city":"Server-5",
                     "desc": "websocket",
                     "ip": "cuppcino.store"
                 }
