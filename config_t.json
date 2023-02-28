@@ -11,8 +11,8 @@
         "appid": "1532634346",
         "url": {},
         "noFAN": true,
-        "verifyIap": true,
-        "rateHrs": 24
+        "rateHrs": 24,
+        "iapColor": 1
     },
 
     "ad": {
@@ -55,6 +55,7 @@
             },
             "anyFull": {
                 "type": "native",
+                "layouts": [0,1],
                 "ids": [
                     {
                         "id": "ca-app-pub-3940256099942544/2521693316"

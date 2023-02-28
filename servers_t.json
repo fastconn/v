@@ -44,7 +44,17 @@
                     "domain": "redshoes.shop",
                     "name": "redshoes"
                 }
-            ],           
+            ],     
+            "rw-ws": [
+                {
+                    "domain": "phoneweb.cfd",
+                    "name": "phoneweb"
+                },
+                {
+                    "domain": "phoneapp.click",
+                    "name": "phoneapp"
+                }
+            ],    
             "servers": [
                 {
                     "cc": "de",
