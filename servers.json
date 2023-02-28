@@ -43,18 +43,11 @@
                 "path": "/linkvws"
             },
             "a4": {
-                "domain": "filasports.xyz",
+                "domain": "phoneweb.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
-            "a5": {
-                "domain": "freeproxy.quest",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-
 
             "v": {
                 "domain": "vip2323.cfd",
@@ -105,13 +98,7 @@
                     "cfg": "a4",
                     "city":"Server-4",
                     "desc": "websocket",
-                    "ip": "filasports.xyz"
-                }, 
-                {
-                    "cfg": "a5",
-                    "city":"Server-5",
-                    "desc": "websocket",
-                    "ip": "freeproxy.quest"
+                    "ip": "phoneweb.cfd"
                 }
             ],
             "servers": [

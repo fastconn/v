@@ -9,7 +9,7 @@
         "forceVer": "1.3.2",
     	"wsDefault": true,
         "appid": "1532634346",
-        "iapColor": 1,
+        "iapColor": 0,
         "rateHrs": -1 
     },
     "ad": {
@@ -42,6 +42,7 @@
         "sets": {
             "anyFull": {
                     "type": "native",
+                    "layouts": [0,1],
                     "ids": [
                         {
                             "id": "ca-app-pub-3510970371831048/1671055142"
