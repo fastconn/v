@@ -37,12 +37,20 @@
                     "name": "phoneapp"
                 },
                 {
-                    "domain": "bestshirt.store",
-                    "name": "bestshirt"
+                    "domain": "cuppcino.store",
+                    "name": "cuppcino"
                 },
                 {
-                    "domain": "redshoes.shop",
-                    "name": "redshoes"
+                    "domain": "esspresso.store",
+                    "name": "esspresso."
+                },
+                {
+                    "domain": "teslano1.autos",
+                    "name": "teslano1"
+                },
+                {
+                    "domain": "bydcn.autos",
+                    "name": "bydcn"
                 }
             ],     
             "rw-ws": [
