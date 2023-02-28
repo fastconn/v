@@ -71,6 +71,14 @@
                 {
                     "domain": "phoneapp.click",
                     "name": "phoneapp"
+                },
+                {
+                    "domain": "bestshirt.store",
+                    "name": "bestshirt"
+                },
+                {
+                    "domain": "redshoes.shop",
+                    "name": "redshoes"
                 }
             ]
         }

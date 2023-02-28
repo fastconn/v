@@ -43,7 +43,7 @@
                 "path": "/linkvws"
             },
             "a4": {
-                "domain": "globalboost.click",
+                "domain": "filasports.xyz",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -105,7 +105,7 @@
                     "cfg": "a4",
                     "city":"Server-4",
                     "desc": "websocket",
-                    "ip": "globalboost.click"
+                    "ip": "filasports.xyz"
                 }, 
                 {
                     "cfg": "a5",

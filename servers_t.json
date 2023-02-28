@@ -29,86 +29,43 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "ws2": [],
+            "ws2": [
+            ],
             "ws3": [
                 {
-                    "domain": "forseconds.click",
-                    "name": "forseconds"
+                    "domain": "phoneapp.click",
+                    "name": "phoneapp"
                 },
                 {
-                    "domain": "forseconds.click",
-                    "name": "forseconds"
+                    "domain": "bestshirt.store",
+                    "name": "bestshirt"
                 },
                 {
-                    "domain": "fubeated.homes",
-                    "name": "fubeated",
-                    "enableCf": false
-                },
-                {
-                    "domain": "fetchdata.sbs",
-                    "name": "fetchdata"
-                },
-                {
-                    "domain": "giiise.shop",
-                    "name": "giiise"
-                },
-                {
-                    "domain": "gmouse.monster",
-                    "name": "gmouse"
-                },
-                {
-                    "domain": "gapis.click",
-                    "name": "gapis"
+                    "domain": "redshoes.shop",
+                    "name": "redshoes"
                 }
             ],           
             "servers": [
                 {
-                    "cc": "ua",
-                    "city": "Kyive",
-                    "ip": "5.188.6.98"
+                    "cc": "de",
+                    "city": "Frankfurt",
+                    "ip": "193.108.118.56"
                 },
                 {
-                    "cc": "pl",
-                    "city": "warsaw",
-                    "ip": "79.133.122.202"
+                    "cc": "de",
+                    "city": "Frankfurt",
+                    "ip": "185.177.229.239"
                 },
                 {
-                    "cc": "hu",
-                    "city": "Budapest",
-                    "ip": "185.202.92.169"
-                },
-                {
-                    "cc": "il",
-                    "city": "Tel Aviv",
-                    "ip": "146.185.219.69"
+                    "cc": "fr",
+                    "city": "Paris",
+                    "desc": "High speed",
+                    "ip": "23.134.91.95"
                 },
                 {
                     "cc": "gb",
                     "city": "London",
-                    "ip": "149.7.16.156"
-                },
-                {
-                    "cc": "de",
-                    "city": "Frankfurt",
-                    "desc": "test server",
-                    "ip": "89.43.107.101"
-                },
-                {
-                    "cc": "de",
-                    "city": "Frankfurt",
-                    "desc": "new @2.15",
-                    "ip": "5.188.70.130"
-                },
-                {
-                    "cc": "us",
-                    "city": "Chicago",
-                    "ip": "37.9.35.213"
-                },
-                {
-                    "cc": "us",
-                    "city": "New York City",
-                    "desc": "",
-                    "ip": "92.38.169.223"
+                    "ip": "142.202.51.122"
                 }
             ]
         },
@@ -117,33 +74,42 @@
             "isVip": true,
             "image": "for_VIP",
             "ws2": [
-                {
-                    "cfg": "v",
-                    "city":"Server-VIP1",
-                    "desc": "websocket",
-                    "ip": "vip2323.cfd"
-                }
             ],
             "ws3": [
                 {
-                    "mmver": ["1.3.9", ""],
+                    "name": "VIP-1",
                     "domain": "vip2323.cfd",
-                    "name": "VIP1",
-                    "descCf": "CDN boost",
                     "enableCf": true
+                },
+                {
+                    "name": "VIP-2",
+                    "domain": "veryfast.shop"
                 }
             ], 
             "servers": [
                 {
                     "cc": "us",
-                    "city": "Atlanta",
-                    "ip": "31.13.213.72"
-                },
-                {
-                    "cc": "us",
                     "city": "Santa Clara",
                     "desc": "",
                     "ip": "92.38.149.36"
+                },
+                {
+                    "cc": "ca",
+                    "city": "Vancouver",
+                    "desc": "High speed",
+                    "ip": "158.51.123.3"
+                },
+		        {
+                    "cc": "de",
+                    "city": "Frankfurt",
+                    "desc": "High speed",
+                    "ip": "193.108.119.214"
+                },
+		        {
+                    "cc": "fr",
+                    "city": "Paris",
+                    "desc": "High speed",
+                    "ip": "23.134.91.22"
                 },
                 {
                     "cc": "it",
@@ -156,14 +122,34 @@
                     "ip": "213.156.146.226"
                 },
                 {
-                    "cc": "il",
-                    "city": "Tel Aviv",
-                    "ip": "146.185.219.247"
-                },
-                {
                     "cc": "gb",
                     "city": "London",
-                    "ip": "5.181.27.42"
+                    "desc": "High speed",
+                    "ip": "172.99.190.115"
+                },
+                {
+                    "cc": "ua",
+                    "city": "Kyive",
+                    "desc": "New",
+                    "ip": "5.188.6.98"
+                },
+                {
+                    "cc": "pl",
+                    "city": "warsaw",
+                    "desc": "New",
+                    "ip": "79.133.122.202"
+                },
+                {
+                    "cc": "hu",
+                    "city": "Budapest",
+                    "desc": "New",
+                    "ip": "185.202.92.169"
+                },
+                {
+                    "cc": "il",
+                    "city": "Tel Aviv",
+                    "desc": "New",
+                    "ip": "146.185.219.69"
                 },
                 {
                     "cc": "ru",
