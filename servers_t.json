@@ -33,24 +33,32 @@
             ],
             "ws3": [
                 {
-                    "domain": "phoneapp.click",
-                    "name": "phoneapp"
+                    "domain": "betterproxy.makeup",
+                    "name": "betterproxy"
                 },
                 {
-                    "domain": "cuppcino.store",
-                    "name": "cuppcino"
+                    "domain": "toyota92.motorcycles",
+                    "name": "toyota92"
                 },
                 {
-                    "domain": "esspresso.store",
-                    "name": "esspresso."
+                    "domain": "bmw500.motorcycles",
+                    "name": "bmw500."
                 },
                 {
-                    "domain": "teslano1.autos",
-                    "name": "teslano1"
+                    "domain": "dragoner.homes",
+                    "name": "dragoner"
                 },
                 {
                     "domain": "bydcn.autos",
                     "name": "bydcn"
+                },
+                {
+                    "domain": "rollsroyals.skin",
+                    "name": "rollsroyals"
+                },
+                {
+                    "domain": "bloody.hair",
+                    "name": "bloody"
                 }
             ],     
             "rw-ws": [
