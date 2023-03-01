@@ -48,6 +48,12 @@
                 "pt": 443,
                 "path": "/linkvws"
             },
+            "a5": {
+                "domain": "dragoner.homes",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
 
             "v": {
                 "domain": "vip2323.cfd",
@@ -99,6 +105,12 @@
                     "city":"Server-4",
                     "desc": "websocket",
                     "ip": "toyota92.motorcycles"
+                }, 
+                {
+                    "cfg": "a5",
+                    "city":"Server-5",
+                    "desc": "websocket",
+                    "ip": "dragoner.homes"
                 }
             ],
             "servers": [
