@@ -33,16 +33,20 @@
             ],
             "ws3": [
                 {
-                    "domain": "betterproxy.makeup",
-                    "name": "betterproxy"
+                    "domain": "searchforadomain.sbs",
+                    "name": "searchforadomain"
                 },
                 {
-                    "domain": "toyota92.motorcycles",
-                    "name": "toyota92"
+                    "domain": "viewitem.quest",
+                    "name": "viewitem"
                 },
                 {
                     "domain": "bmw500.motorcycles",
                     "name": "bmw500."
+                },
+                {
+                    "domain": "helpcenter.cfd",
+                    "name": "helpcenter"
                 },
                 {
                     "domain": "dragoner.homes",
