@@ -25,13 +25,13 @@
         },
         "ws": {
 	        "a1": {
-                "domain": "bydcn.autos",
+                "domain": "searchforadomain.sbs",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "a2": {
-                "domain": "rollsroyals.skin",
+                "domain": "viewitem.quest",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -86,13 +86,13 @@
                     "cfg": "a1",
                     "city":"Server-1",
                     "desc": "websocket",
-                    "ip": "bydcn.autos"
+                    "ip": "searchforadomain.sbs"
                 }, 
                 {
                     "cfg": "a2",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "rollsroyals.skin"
+                    "ip": "viewitem.quest"
                 }, 
                 {
                     "cfg": "a3",
