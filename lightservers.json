@@ -17,13 +17,13 @@
                 "path": "/linkvws"
             },
             "c": {
-		        "domain": "crocodile.monster",
+		        "domain": "leopard.monster",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "d": {
-		        "domain": "panther.pics",
+		        "domain": "tigerpower.yachts",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -60,13 +60,13 @@
                     "cfg": "c",
                     "city": "Server-3",
                     "desc": "websocket",
-                    "ip": "crocodile.monster"
+                    "ip": "leopard.monster"
                 },
                 {
                     "cfg": "d",
                     "city": "Server-4",
                     "desc": "websocket",
-                    "ip": "panther.pics"
+                    "ip": "tigerpower.yachts"
                 },
                 {
                     "cfg": "e",
