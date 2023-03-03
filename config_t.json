@@ -38,11 +38,11 @@
             "DidConFull": "anyFull",
             "DidCon": "testInterxxxx",
             "WillLocation": "testInterxxxxx",
-            "DidLocation": "anyInterxxxx",
-            "WillDisFull": "anyInterxxx",
+            "DidLocation": "anyInter",
+            "WillDisFull": "anyInter",
             "HotFull": "anyFull",
             "AnyFull": "anyFull",
-            "AnyInter": "anyInter？？？？"
+            "AnyInter": "anyInter"
         },
         "sets": {
             "open0": {

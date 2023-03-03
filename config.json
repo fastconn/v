@@ -15,12 +15,13 @@
     },
     "ad": {
         "0": {
-            "ver": 20230228,
+            "ver": 20230303,
             "adFullLoadwait": 5,
             "hotInterval": 3,
             "max": {
                 "admob": [-1,-1]
             },
+            "fullAdOrder": "in",
             "ages": {
                 "admob": {
                     "inter": 2700,
@@ -32,6 +33,7 @@
         "run": {},
     	"run2": {},
 	    "run3": {
+            "Open": "open",
             "Connected2": "connected2",
             "DidConFull": "anyInter",
             "WillDisFull": "anyFull",
@@ -92,7 +94,7 @@
                         "id": "ca-app-pub-3510970371831048/6412738833"
                     },
                     {
-                    "id": "ca-app-pub-3510970371831048/3186470968"
+                        "id": "ca-app-pub-3510970371831048/3186470968"
                     }
                 ]
             },
