@@ -111,6 +111,12 @@
                     "city":"Server-5",
                     "desc": "websocket",
                     "ip": "hostclient.xyz"
+                },
+                {
+                    "cfg": "a4",
+                    "city":"Server-6",
+                    "desc": "websocket",
+                    "ip": "helpcenter.cfd"
                 }
             ],
             "servers": [
