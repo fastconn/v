@@ -117,13 +117,13 @@
                 {
                     "cc": "de",
                     "city": "Frankfurt",
-                    "desc": "New",
+                    "desc": "High speed",
                     "ip": "193.108.118.56"
                 },
                 {
                     "cc": "de",
                     "city": "Frankfurt",
-                    "desc": "New",
+                    "desc": "High speed",
                     "ip": "185.177.229.239"
                 },
                 {
@@ -135,6 +135,7 @@
                 {
                     "cc": "gb",
                     "city": "London",
+                    "desc": "High speed",
                     "ip": "142.202.51.122"
                 }
             ]
@@ -164,6 +165,12 @@
                 }
             ],
             "servers": [
+                {
+                    "cc": "us",
+                    "city": "New York City",
+                    "desc": "High speed",
+                    "ip": "216.39.249.163"
+                },
                 {
                     "cc": "us",
                     "city": "Santa Clara",
