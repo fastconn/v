@@ -49,32 +49,10 @@
                     "name": "helpcenter"
                 },
                 {
-                    "domain": "dragoner.homes",
-                    "name": "dragoner"
-                },
-                {
-                    "domain": "bydcn.autos",
-                    "name": "bydcn"
-                },
-                {
-                    "domain": "rollsroyals.skin",
-                    "name": "rollsroyals"
-                },
-                {
                     "domain": "bloody.hair",
                     "name": "bloody"
                 }
-            ],     
-            "rw-ws": [
-                {
-                    "domain": "phoneweb.cfd",
-                    "name": "phoneweb"
-                },
-                {
-                    "domain": "phoneapp.click",
-                    "name": "phoneapp"
-                }
-            ],    
+            ],
             "servers": [
                 {
                     "cc": "de",

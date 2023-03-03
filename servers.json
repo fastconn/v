@@ -1,7 +1,7 @@
 {
-    "age": 1,
+    "age": 60,
     "ageM": 15,
-    "v": 20230228,
+    "v": 20230303,
     "cfgs": {
         "ikev2": {
             "a": {
@@ -43,13 +43,13 @@
                 "path": "/linkvws"
             },
             "a4": {
-                "domain": "bmw500.motorcycles",
+                "domain": "helpcenter.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "a5": {
-                "domain": "bloody.hair",
+                "domain": "hostclient.xyz",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -104,13 +104,13 @@
                     "cfg": "a4",
                     "city":"Server-4",
                     "desc": "websocket",
-                    "ip": "bmw500.motorcycles"
+                    "ip": "helpcenter.cfd"
                 }, 
                 {
                     "cfg": "a5",
                     "city":"Server-5",
                     "desc": "websocket",
-                    "ip": "bloody.hair"
+                    "ip": "hostclient.xyz"
                 }
             ],
             "servers": [

@@ -5,7 +5,7 @@
         "showSplash": true,
     	"cnDeny": [0,0],
     	"evNo": ["enterGg","googleTest2"],
-        "testers": ["39E62C06-8E5E-435C-93BC-CB35AE622977"],
+        "testers": ["39E62C06-8E5E-435C-93BC-CB35AE622977 xs"],
         "secondSplash": 3,
         "forceVer": "1.3.2",
     	"wsDefault": true,
