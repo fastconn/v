@@ -41,7 +41,7 @@
             "DidLocation": "anyInter",
             "WillDisFull": "anyInter",
             "HotFull": "anyFull",
-            "AnyFull": "anyFull",
+            "AnyFull": "anyFull??",
             "AnyInter": "anyInter"
         },
         "sets": {
@@ -69,9 +69,6 @@
             "anyInter": {
                 "type": "inter",
                 "ids": [
-                    {
-                        "id": "ca-app-pub-3940256099942544/6978759866"
-                    },
                     {
                         "id": "ca-app-pub-3940256099942544/5135589807"
                     },

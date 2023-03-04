@@ -31,7 +31,7 @@
                 "path": "/linkvws"
             },
             "a2": {
-                "domain": "viewitem.quest",
+                "domain": "algaeblooms.mom",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -43,13 +43,13 @@
                 "path": "/linkvws"
             },
             "a4": {
-                "domain": "helpcenter.cfd",
+                "domain": "visitradio.click",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "a5": {
-                "domain": "hostclient.xyz",
+                "domain": "mightneed.lol",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -92,7 +92,7 @@
                     "cfg": "a2",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "viewitem.quest"
+                    "ip": "algaeblooms.mom"
                 }, 
                 {
                     "cfg": "a3",
@@ -104,13 +104,13 @@
                     "cfg": "a4",
                     "city":"Server-4",
                     "desc": "websocket",
-                    "ip": "helpcenter.cfd"
+                    "ip": "visitradio.click"
                 }, 
                 {
                     "cfg": "a5",
                     "city":"Server-5",
                     "desc": "websocket",
-                    "ip": "hostclient.xyz"
+                    "ip": "mightneed.lol"
                 }
             ],
             "servers": [
