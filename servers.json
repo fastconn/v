@@ -24,37 +24,6 @@
             }
         },
         "ws": {
-	        "a1": {
-                "domain": "searchforadomain.sbs",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "a2": {
-                "domain": "performances.quest",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "a3": {
-                "domain": "multigames.makeup",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "a4": {
-                "domain": "visitradio.click",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "a5": {
-                "domain": "keepraising.beauty",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-
             "v": {
                 "domain": "vip2323.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
@@ -70,6 +39,37 @@
             },
             "v2": {
                 "domain": "veryfast.shop",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+
+	        "a1": {
+                "domain": "searchforadomain.sbs",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+            "a2": {
+                "domain": "standwith.cfd",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+            "a3": {
+                "domain": "multigames.makeup",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+            "a4": {
+                "domain": "trafficlog.click",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+            "a5": {
+                "domain": "studyreveals.makeup",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -92,7 +92,7 @@
                     "cfg": "a2",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "performances.quest"
+                    "ip": "standwith.cfd"
                 }, 
                 {
                     "cfg": "a3",
@@ -104,13 +104,13 @@
                     "cfg": "a4",
                     "city":"Server-4",
                     "desc": "websocket",
-                    "ip": "visitradio.click"
+                    "ip": "trafficlog.click"
                 }, 
                 {
                     "cfg": "a5",
                     "city":"Server-5",
                     "desc": "websocket",
-                    "ip": "keepraising.beauty"
+                    "ip": "studyreveals.makeup"
                 }
             ],
             "servers": [
