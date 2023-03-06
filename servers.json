@@ -79,6 +79,12 @@
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
+            },
+            "g": {
+                "domain": "colleagues.world",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
             }
         }
     },
@@ -123,6 +129,12 @@
                     "city":"Server-6",
                     "desc": "websocket",
                     "ip": "discovermore.lat"
+                }, 
+                {
+                    "cfg": "g",
+                    "city":"Server-7",
+                    "desc": "websocket",
+                    "ip": "colleagues.world"
                 }
             ],
             "servers": [
