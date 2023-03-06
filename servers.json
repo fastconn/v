@@ -51,31 +51,19 @@
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "domainlist.cfd",
+                "domain": "wordpress1.store",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "c": {
-                "domain": "ourfriends.lol",
+                "domain": "timebased.sbs",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "d": {
-                "domain": "theirtime.quest",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "e": {
                 "domain": "thispage.site",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "f": {
-                "domain": "discovermore.lat",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -98,31 +86,19 @@
                     "cfg": "b",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "domainlist.cfd"
+                    "ip": "wordpress1.store"
                 }, 
                 {
                     "cfg": "c",
                     "city":"Server-3",
                     "desc": "websocket",
-                    "ip": "ourfriends.lol"
+                    "ip": "timebased.sbs"
                 }, 
                 {
                     "cfg": "d",
                     "city":"Server-4",
                     "desc": "websocket",
-                    "ip": "theirtime.quest"
-                }, 
-                {
-                    "cfg": "e",
-                    "city":"Server-5",
-                    "desc": "websocket",
                     "ip": "thispage.site"
-                }, 
-                {
-                    "cfg": "f",
-                    "city":"Server-6",
-                    "desc": "websocket",
-                    "ip": "discovermore.lat"
                 }
             ],
             "servers": [
