@@ -96,10 +96,36 @@
             ], 
             "servers": [
                 {
+                    "cfg": "v",
+                    "ip": "vip2323.cfd",
+                    "city":"VIP1",
+                    "desc": "websocket"
+                },
+                {
+                    "cfg": "v-cf",
+                    "ip": "vip2323.cfd#cf",
+                    "city":"VIP1(boost)",
+                    "desc": "CDN Boost"
+                },
+                {
+                    "cfg": "v2",
+                    "ip": "veryfast.shop",
+                    "city":"VIP2",
+                    "desc": "New"
+                }
+            ],
+            "servers": [
+                {
                     "cc": "us",
-                    "city": "Santa Clara",
-                    "desc": "",
-                    "ip": "92.38.149.36"
+                    "city": "New York City",
+                    "desc": "High speed",
+                    "ip": "216.39.249.163"
+                },
+                {
+                    "cc": "us",
+                    "city": "Los Angeles",
+                    "desc": "High speed",
+                    "ip": "38.114.114.35"
                 },
                 {
                     "cc": "ca",
@@ -120,49 +146,48 @@
                     "ip": "23.134.91.22"
                 },
                 {
-                    "cc": "it",
-                    "city": "Milan",
-                    "ip": "92.223.79.102"
-                },
-                {
-                    "cc": "jp",
-                    "city": "Tokyo",
-                    "ip": "213.156.146.226"
-                },
-                {
                     "cc": "gb",
                     "city": "London",
                     "desc": "High speed",
                     "ip": "172.99.190.115"
                 },
                 {
+                    "desc": "New",
+                    "cc": "br",
+                    "city": "São Paulo",
+                    "ip": "5.188.238.18"
+                },
+                {
+                    "desc": "New",
+                    "cc": "jp",
+                    "city": "Tokyo",
+                    "ip": "5.8.71.208"
+                },
+                {
+                    "desc": "New",
+                    "cc": "au",
+                    "city": "Sydney",
+                    "ip": "146.185.214.15"
+                },
+                {
                     "cc": "ua",
                     "city": "Kyive",
-                    "desc": "New",
                     "ip": "5.188.6.98"
                 },
                 {
                     "cc": "pl",
                     "city": "warsaw",
-                    "desc": "New",
                     "ip": "79.133.122.202"
                 },
                 {
                     "cc": "hu",
                     "city": "Budapest",
-                    "desc": "New",
                     "ip": "185.202.92.169"
                 },
                 {
                     "cc": "il",
                     "city": "Tel Aviv",
-                    "desc": "New",
                     "ip": "146.185.219.69"
-                },
-                {
-                    "cc": "ru",
-                    "city": "Moscow",
-                    "ip": "92.38.152.159"
                 }
             ]
         }
