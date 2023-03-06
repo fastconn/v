@@ -63,7 +63,7 @@
                 "path": "/linkvws"
             },
             "d": {
-                "domain": "madesimple.sbs",
+                "domain": "colleagues.world",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -76,12 +76,6 @@
             },
             "f": {
                 "domain": "discovermore.lat",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "g": {
-                "domain": "colleagues.world",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -116,7 +110,7 @@
                     "cfg": "d",
                     "city":"Server-4",
                     "desc": "websocket",
-                    "ip": "madesimple.sbs"
+                    "ip": "colleagues.world"
                 }, 
                 {
                     "cfg": "e",
@@ -129,12 +123,6 @@
                     "city":"Server-6",
                     "desc": "websocket",
                     "ip": "discovermore.lat"
-                }, 
-                {
-                    "cfg": "g",
-                    "city":"Server-7",
-                    "desc": "websocket",
-                    "ip": "colleagues.world"
                 }
             ],
             "servers": [
