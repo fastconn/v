@@ -75,7 +75,7 @@
                 "path": "/linkvws"
             },
             "f": {
-                "domain": "blackbrown.hair",
+                "domain": "discovermore.lat",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -122,7 +122,7 @@
                     "cfg": "f",
                     "city":"Server-6",
                     "desc": "websocket",
-                    "ip": "blackbrown.hair"
+                    "ip": "discovermore.lat"
                 }
             ],
             "servers": [
