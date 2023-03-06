@@ -5,7 +5,7 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "redshoes.shop",
+		        "domain": "carservice.boats",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -17,7 +17,7 @@
                 "path": "/linkvws"
             },
             "c": {
-		        "domain": "leopard.monster",
+		        "domain": "dnsrecords.makeup",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -48,7 +48,7 @@
                     "cfg": "a",
                     "city": "Server-1",
                     "desc": "websocket",
-                    "ip": "redshoes.shop"
+                    "ip": "carservice.boats"
                 },
                 {
                     "cfg": "b",
@@ -60,7 +60,7 @@
                     "cfg": "c",
                     "city": "Server-3",
                     "desc": "websocket",
-                    "ip": "leopard.monster"
+                    "ip": "dnsrecords.makeup"
                 },
                 {
                     "cfg": "d",
