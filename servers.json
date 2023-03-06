@@ -202,43 +202,42 @@
                     "ip": "172.99.190.115"
                 },
                 {
+                    "desc": "New",
+                    "cc": "br",
+                    "city": "São Paulo",
+                    "ip": "5.188.238.18"
+                },
+                {
+                    "desc": "New",
+                    "cc": "jp",
+                    "city": "Tokyo",
+                    "ip": "5.8.71.208"
+                },
+                {
+                    "desc": "New",
+                    "cc": "au",
+                    "city": "Sydney",
+                    "ip": "146.185.214.15"
+                },
+                {
                     "cc": "ua",
                     "city": "Kyive",
-                    "desc": "New",
                     "ip": "5.188.6.98"
                 },
                 {
                     "cc": "pl",
                     "city": "warsaw",
-                    "desc": "New",
                     "ip": "79.133.122.202"
                 },
                 {
                     "cc": "hu",
                     "city": "Budapest",
-                    "desc": "New",
                     "ip": "185.202.92.169"
                 },
                 {
                     "cc": "il",
                     "city": "Tel Aviv",
-                    "desc": "New",
                     "ip": "146.185.219.69"
-                },
-                {
-                    "cc": "it",
-                    "city": "Milan",
-                    "ip": "92.223.79.102"
-                },
-                {
-                    "cc": "jp",
-                    "city": "Tokyo",
-                    "ip": "213.156.146.226"
-                },
-                {
-                    "cc": "ru",
-                    "city": "Moscow",
-                    "ip": "92.38.152.159"
                 }
             ]
         }
