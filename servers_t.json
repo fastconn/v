@@ -96,26 +96,6 @@
             ], 
             "servers": [
                 {
-                    "cfg": "v",
-                    "ip": "vip2323.cfd",
-                    "city":"VIP1",
-                    "desc": "websocket"
-                },
-                {
-                    "cfg": "v-cf",
-                    "ip": "vip2323.cfd#cf",
-                    "city":"VIP1(boost)",
-                    "desc": "CDN Boost"
-                },
-                {
-                    "cfg": "v2",
-                    "ip": "veryfast.shop",
-                    "city":"VIP2",
-                    "desc": "New"
-                }
-            ],
-            "servers": [
-                {
                     "cc": "us",
                     "city": "New York City",
                     "desc": "High speed",
