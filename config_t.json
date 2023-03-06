@@ -32,17 +32,18 @@
             }
         },
         "run3": {
-            "Open": "open0xxx",
+            "MainOpen": "open0",
             "Connected2": "native1",
             "Location2": "native2",
-            "DidConFull": "anyFull",
+            "DidConFull": "anyOpen",
             "DidCon": "testInterxxxx",
             "WillLocation": "testInterxxxxx",
             "DidLocation": "anyInter",
             "WillDisFull": "anyInter",
             "HotFull": "anyFull",
+            "AnyOpen": "anyOpen",
             "AnyFull": "anyFull??",
-            "AnyInter": "anyInter"
+            "AnyInter": "anyInter??"
         },
         "sets": {
             "open0": {
@@ -74,6 +75,14 @@
                     },
                     {
                         "id": "ca-app-pub-3940256099942544/4411468910"
+                    }
+                ]
+            },
+            "anyOpen": {
+                "type": "open",
+                "ids": [
+                    {
+                        "id": "ca-app-pub-3940256099942544/5662855259"
                     }
                 ]
             },
