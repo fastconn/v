@@ -11,13 +11,13 @@
                 "path": "/linkvws"
             },
             "b": {
-		        "domain": "butterfly.motorcycles",
+		        "domain": "visitthis.click",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "c": {
-		        "domain": "dnsrecords.makeup",
+		        "domain": "generators.skin",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -54,13 +54,13 @@
                     "cfg": "b",
                     "city": "Server-2",
                     "desc": "websocket",
-                    "ip": "butterfly.motorcycles"
+                    "ip": "visitthis.click"
                 },
                 {
                     "cfg": "c",
                     "city": "Server-3",
                     "desc": "websocket",
-                    "ip": "dnsrecords.makeup"
+                    "ip": "generators.skin"
                 },
                 {
                     "cfg": "d",

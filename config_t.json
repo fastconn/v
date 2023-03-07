@@ -41,7 +41,7 @@
             "DidLocation": "anyInter",
             "WillDisFull": "anyInter",
             "HotFull": "anyFull",
-            "AnyOpen": "anyOpen",
+            "AnyOpen": "open0",
             "AnyFull": "anyFull??",
             "AnyInter": "anyInter??"
         },
@@ -75,14 +75,6 @@
                     },
                     {
                         "id": "ca-app-pub-3940256099942544/4411468910"
-                    }
-                ]
-            },
-            "anyOpen": {
-                "type": "open",
-                "ids": [
-                    {
-                        "id": "ca-app-pub-3940256099942544/5662855259"
                     }
                 ]
             },
