@@ -35,7 +35,7 @@
             "MainOpen": "open0",
             "Connected2": "native1",
             "Location2": "native2",
-            "DidConFull": "anyOpen",
+            "DidConFull": "anyInter",
             "DidCon": "testInterxxxx",
             "WillLocation": "testInterxxxxx",
             "DidLocation": "anyInter",
@@ -43,7 +43,7 @@
             "HotFull": "anyFull",
             "AnyOpen": "open0",
             "AnyFull": "anyFull??",
-            "AnyInter": "anyInter??"
+            "AnyInter": "anyInter"
         },
         "sets": {
             "open0": {

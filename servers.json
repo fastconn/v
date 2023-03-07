@@ -73,6 +73,12 @@
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
+            },
+            "f": {
+                "domain": "algaeblooms.mom",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
             }
         }
     },
@@ -111,6 +117,12 @@
                     "city":"Server-5",
                     "desc": "websocket",
                     "ip": "carenbean.yachts"
+                }, 
+                {
+                    "cfg": "f",
+                    "city":"Server-6",
+                    "desc": "websocket",
+                    "ip": "algaeblooms.mom"
                 }
             ],
             "servers": [
