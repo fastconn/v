@@ -24,7 +24,7 @@
             "max": {
                 "admob": [-1,-1]
             },
-            "fullAdOrder": "in",
+            "fullAdOrder": "ni",
             "ages": {
                 "admob": {
                     "inter": 2700,
