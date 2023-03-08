@@ -5,7 +5,7 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "toplevel.store",
+		        "domain": "transferto.sbs",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -29,7 +29,7 @@
                 "path": "/linkvws"
             },
             "e": {
-		        "domain": "carservice.boats",
+		        "domain": "tosupport.pics",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -48,7 +48,7 @@
                     "cfg": "a",
                     "city": "Server-1",
                     "desc": "websocket",
-                    "ip": "toplevel.store"
+                    "ip": "transferto.sbs"
                 },
                 {
                     "cfg": "b",
@@ -72,7 +72,7 @@
                     "cfg": "e",
                     "city": "Server-5",
                     "desc": "websocket",
-                    "ip": "carservice.boats"
+                    "ip": "tosupport.pics"
                 }
             ]
         }
