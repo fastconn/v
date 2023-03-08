@@ -30,17 +30,16 @@
         },
 		"run": {},
 		"run3": {
-			"MainOpen": "open",
+			"MainOpen": "mainOpen",
 			"WillDisFull": "anyInter",
 			"DidConFull": "anyInter",
 			"HotFull": "anyInter",
 			"AnyInter": "anyInter",
 			"AnyFull": "anyFull",
-			"AnyOpen": "open",
 			"Connected2": "connected2"
 		},
         "sets": {
-			"open": {
+			"mainOpen": {
 				"type": "open",
 				"ids": [
 					{

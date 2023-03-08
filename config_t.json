@@ -17,7 +17,7 @@
 
     "ad": {
         "0": {
-            "ver": 20230221,
+            "ver": 20230308,
             "hotInterval": 2,
             "adFullLoadWait": 8,
             "fullAdOrder": "ni",
@@ -29,7 +29,17 @@
                     "inter": 2700,
                     "open": 10800
                 }
-            }
+            },
+			"iii": {
+				"inter": false
+			},
+			"onlyConnected": {
+				"AnyFull": true,
+				"AnyInter": true
+			},
+			"orders": {
+				"DidConFull": ["AnyFull", "AnyInter"]
+			}
         },
         "run3": {
             "MainOpen": "open0",
