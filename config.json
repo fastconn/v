@@ -35,10 +35,12 @@
         },
         "run3": {
             "Open": "open",
+            "MainOpen": "open",
             "Connected2": "connected2",
             "DidConFull": "anyInter",
             "WillDisFull": "anyFull",
             "HotFull": "anyInter",
+            "AnyOpen": "open",
             "AnyFull": "anyFull",
             "AnyInter": "anyInter"
         },
@@ -49,10 +51,10 @@
                     "layouts": [0,1],
                     "ids": [
                         {
-                            "id": "ca-app-pub-3510970371831048/3606715661"
+                            "id": "ca-app-pub-3510970371831048/4116268971"
                         },
                         {
-                            "id": "ca-app-pub-3510970371831048/4620398521"
+                            "id": "ca-app-pub-3510970371831048/6606700942"
                         }
                     ]
                 },

@@ -31,14 +31,27 @@
         },
 		"run": {},
 		"run3": {
+			"MainOpen": "open",
 			"WillDisFull": "anyInter",
 			"DidConFull": "anyInter",
 			"HotFull": "anyInter",
 			"AnyInter": "anyInter",
 			"AnyFull": "anyFull",
+			"AnyOpen": "open",
 			"Connected2": "connected2"
 		},
         "sets": {
+			"open": {
+				"type": "open",
+				"ids": [
+					{
+						"id": "ca-app-pub-3510970371831048/9159608443"
+					},
+					{
+						"id": "ca-app-pub-3510970371831048/6565234690"
+					}
+				]
+			},
 			"anyFull": {
 				"type": "native",
 				"ids": [

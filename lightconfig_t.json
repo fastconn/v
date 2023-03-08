@@ -26,11 +26,13 @@
             }
         },
         "run3": {
+			"MainOpen": "open0",
 			"Connected2": "native1",
 			"DidConFull": "anyFull",
 			"HotFull": "anyFull",
 			"AnyInter": "xxxanyInter",
-			"AnyFull": "anyFull"
+			"AnyFull": "anyFullxx",
+			"AnyOpen": "open0"
 		},
         "sets": {
             "open0": {
