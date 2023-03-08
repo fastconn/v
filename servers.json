@@ -51,7 +51,7 @@
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "wordpress1.store",
+                "domain": "carenbean.yachts",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -98,7 +98,7 @@
                     "cfg": "b",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "wordpress1.store"
+                    "ip": "carenbean.yachts"
                 }, 
                 {
                     "cfg": "c",
