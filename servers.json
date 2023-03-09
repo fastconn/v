@@ -51,19 +51,19 @@
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "carenbean.yachts",
+                "domain": "handshake.quest",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "c": {
-                "domain": "timebased.sbs",
+                "domain": "greatperson.mom",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "d": {
-                "domain": "thispage.site",
+                "domain": "hondajp.motorcycles",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -76,12 +76,6 @@
             },
             "f": {
                 "domain": "loggedin.homes",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "g": {
-                "domain": "hondajp.motorcycles",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -104,19 +98,19 @@
                     "cfg": "b",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "carenbean.yachts"
+                    "ip": "handshake.quest"
                 }, 
                 {
                     "cfg": "c",
                     "city":"Server-3",
                     "desc": "websocket",
-                    "ip": "timebased.sbs"
+                    "ip": "greatperson.mom"
                 }, 
                 {
                     "cfg": "d",
                     "city":"Server-4",
                     "desc": "websocket",
-                    "ip": "thispage.site"
+                    "ip": "hondajp.motorcycles"
                 }, 
                 {
                     "cfg": "e",
@@ -129,12 +123,6 @@
                     "city":"Server-6",
                     "desc": "websocket",
                     "ip": "loggedin.homes"
-                }, 
-                {
-                    "cfg": "g",
-                    "city":"Server-7",
-                    "desc": "websocket",
-                    "ip": "hondajp.motorcycles"
                 }
             ],
             "servers": [
