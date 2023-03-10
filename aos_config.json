@@ -1,0 +1,58 @@
+{
+    "policy": {
+        "cnLang": true,
+        "cnIp": true,
+        "autoProtocol": 4,
+        "proxySelf": true
+    },
+    "update": {
+
+    },
+    "adc": {
+        "conWait": 7,
+        "splashSec": 3,
+        "ageM": 10
+    },
+    "adid": {
+        "Splash": [
+            {
+                "pri": 100,
+                "id": ""
+            },
+            {
+                "pri": 100,
+                "id": ""
+            }
+        ],
+        "DidConFull": [
+            {
+                "pri": 100,
+                "id": ""
+            },
+            {
+                "pri": 100,
+                "id": ""
+            }
+        ],
+        "DidCon": [
+            {
+                "pri": 100,
+                "id": ""
+            },
+            {
+                "pri": 100,
+                "id": ""
+            }
+        ],
+        "WillDisFull": [
+            {
+                "pri": 100,
+                "id": ""
+            },
+            {
+                "pri": 100,
+                "id": ""
+            }
+        ]
+    }
+}
