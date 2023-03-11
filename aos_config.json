@@ -9,9 +9,11 @@
 
     },
     "adc": {
+        "ageM": 5,
         "conWait": 7,
-        "splashSec": 3,
-        "ageM": 10
+        "splashSec": 5,
+        "maxClick": 50,
+        "maxShow": 100
     },
     "adid": {
         "Splash": [
