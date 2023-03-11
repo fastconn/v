@@ -3,7 +3,7 @@
         "cnLang": true,
         "cnIp": true,
         "autoProtocol": 4,
-        "proxySelf": false
+        "proxySelf": true
     },
     "update": {
 

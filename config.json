@@ -21,6 +21,7 @@
             "ver": 20230303,
             "adFullLoadwait": 5,
             "hotInterval": 3,
+            "fullAdOrder": "ni",
             "max": {
                 "admob": [-1,-1]
             },
