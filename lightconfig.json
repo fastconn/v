@@ -1,7 +1,7 @@
 {
     "0": {
-		"ageM": 60,
-		"showSplash": false,
+		"ageM": 15,
+		"showSplash": true,
         "secondSplash": 3,
 		"cnDeny": [0,0],
 		"forceVer": "1.1.0",
@@ -14,7 +14,7 @@
     },
     "ad": {
         "0": {
-            "ver": 20230220,
+            "ver": 20230311,
             "adFullLoadwait": 5,
             "hotInterval": 3,
             "fullAdOrder": "ni",
