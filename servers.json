@@ -57,13 +57,13 @@
                 "path": "/linkvws"
             },
             "c": {
-                "domain": "loggedin.homes",
+                "domain": "viewbinding.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "d": {
-                "domain": "greatperson.mom",
+                "domain": "suggested.sbs",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -81,7 +81,7 @@
                 "path": "/linkvws"
             },
             "g": {
-                "domain": "improving.makeup",
+                "domain": "establishes.quest",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -110,13 +110,13 @@
                     "cfg": "c",
                     "city":"Server-3",
                     "desc": "websocket",
-                    "ip": "loggedin.homes"
+                    "ip": "viewbinding.cfd"
                 }, 
                 {
                     "cfg": "d",
                     "city":"Server-4",
                     "desc": "websocket",
-                    "ip": "greatperson.mom"
+                    "ip": "suggested.sbs"
                 }, 
                 {
                     "cfg": "e",
@@ -134,7 +134,7 @@
                     "cfg": "g",
                     "city":"Server-7",
                     "desc": "websocket",
-                    "ip": "improving.makeup"
+                    "ip": "establishes.quest"
                 }
             ],
             "servers": [
