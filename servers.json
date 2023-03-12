@@ -45,43 +45,19 @@
             },
 
 	        "a": {
-                "domain": "hondajp.motorcycles",
+                "domain": "manualmode.xyz",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "handshake.quest",
+                "domain": "madesimple.quest",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "c": {
-                "domain": "viewbinding.cfd",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "d": {
-                "domain": "suggested.sbs",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "e": {
-                "domain": "thispage.site",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "f": {
-                "domain": "timebased.sbs",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "g": {
-                "domain": "establishes.quest",
+                "domain": "peaceworld.makeup",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -98,43 +74,19 @@
                     "cfg": "a",
                     "city":"Server-1",
                     "desc": "websocket",
-                    "ip": "hondajp.motorcycles"
+                    "ip": "manualmode.xyz"
                 },
                 {
                     "cfg": "b",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "handshake.quest"
+                    "ip": "madesimple.quest"
                 }, 
                 {
                     "cfg": "c",
                     "city":"Server-3",
                     "desc": "websocket",
-                    "ip": "viewbinding.cfd"
-                }, 
-                {
-                    "cfg": "d",
-                    "city":"Server-4",
-                    "desc": "websocket",
-                    "ip": "suggested.sbs"
-                }, 
-                {
-                    "cfg": "e",
-                    "city":"Server-5",
-                    "desc": "websocket",
-                    "ip": "thispage.site"
-                }, 
-                {
-                    "cfg": "f",
-                    "city":"Server-6",
-                    "desc": "websocket",
-                    "ip": "timebased.sbs"
-                }, 
-                {
-                    "cfg": "g",
-                    "city":"Server-7",
-                    "desc": "websocket",
-                    "ip": "establishes.quest"
+                    "ip": "peaceworld.makeup"
                 }
             ],
             "servers": [
