@@ -5,7 +5,7 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "transferto.sbs",
+		        "domain": "tosupport.pics",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -27,12 +27,6 @@
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
-            },
-            "e": {
-		        "domain": "tosupport.pics",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
             }
         }
     },
@@ -48,7 +42,7 @@
                     "cfg": "a",
                     "city": "Server-1",
                     "desc": "websocket",
-                    "ip": "transferto.sbs"
+                    "ip": "tosupport.pics"
                 },
                 {
                     "cfg": "b",
@@ -67,12 +61,6 @@
                     "city": "Server-4",
                     "desc": "websocket",
                     "ip": "renewsat.lat"
-                },
-                {
-                    "cfg": "e",
-                    "city": "Server-5",
-                    "desc": "websocket",
-                    "ip": "tosupport.pics"
                 }
             ]
         }

@@ -51,36 +51,18 @@
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "handshake.quest",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "c": {
-                "domain": "greatperson.mom",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "d": {
-                "domain": "hondajp.motorcycles",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "e": {
                 "domain": "auctionse.shop",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
-            "f": {
+            "c": {
                 "domain": "loggedin.homes",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
-            "g": {
+            "d": {
                 "domain": "carenbean.yachts",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
@@ -99,40 +81,22 @@
                     "city":"Server-1",
                     "desc": "websocket",
                     "ip": "searchforadomain.sbs"
-                }, 
+                },
                 {
                     "cfg": "b",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "handshake.quest"
+                    "ip": "auctionse.shop"
                 }, 
                 {
                     "cfg": "c",
                     "city":"Server-3",
                     "desc": "websocket",
-                    "ip": "greatperson.mom"
+                    "ip": "loggedin.homes"
                 }, 
                 {
                     "cfg": "d",
                     "city":"Server-4",
-                    "desc": "websocket",
-                    "ip": "hondajp.motorcycles"
-                }, 
-                {
-                    "cfg": "e",
-                    "city":"Server-5",
-                    "desc": "websocket",
-                    "ip": "auctionse.shop"
-                }, 
-                {
-                    "cfg": "f",
-                    "city":"Server-6",
-                    "desc": "websocket",
-                    "ip": "loggedin.homes"
-                }, 
-                {
-                    "cfg": "g",
-                    "city":"Server-7",
                     "desc": "websocket",
                     "ip": "carenbean.yachts"
                 }
