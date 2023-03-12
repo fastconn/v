@@ -17,13 +17,19 @@
                 "path": "/linkvws"
             },
             "c": {
-		        "domain": "generators.skin",
+		        "domain": "hereforyou.sbs",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "d": {
 		        "domain": "renewsat.lat",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            },
+            "e": {
+		        "domain": "fooddrink.homes",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -54,13 +60,19 @@
                     "cfg": "c",
                     "city": "Server-3",
                     "desc": "websocket",
-                    "ip": "generators.skin"
+                    "ip": "hereforyou.sbs"
                 },
                 {
                     "cfg": "d",
                     "city": "Server-4",
                     "desc": "websocket",
                     "ip": "renewsat.lat"
+                },
+                {
+                    "cfg": "e",
+                    "city": "Server-5",
+                    "desc": "websocket",
+                    "ip": "fooddrink.homes"
                 }
             ]
         }
