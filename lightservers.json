@@ -5,37 +5,13 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "tosupport.pics",
+		        "domain": "buttonse.click",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "b": {
-		        "domain": "audiovideos.lol",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "c": {
-		        "domain": "hereforyou.sbs",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "d": {
-		        "domain": "transferto.sbs",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "e": {
-		        "domain": "fooddrink.homes",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "f": {
-		        "domain": "thanksfor.mom",
+		        "domain": "proguard.homes",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -54,37 +30,13 @@
                     "cfg": "a",
                     "city": "Server-1",
                     "desc": "websocket",
-                    "ip": "tosupport.pics"
+                    "ip": "buttonse.click"
                 },
                 {
                     "cfg": "b",
                     "city": "Server-2",
                     "desc": "websocket",
-                    "ip": "audiovideos.lol"
-                },
-                {
-                    "cfg": "c",
-                    "city": "Server-3",
-                    "desc": "websocket",
-                    "ip": "hereforyou.sbs"
-                },
-                {
-                    "cfg": "d",
-                    "city": "Server-4",
-                    "desc": "websocket",
-                    "ip": "transferto.sbs"
-                },
-                {
-                    "cfg": "e",
-                    "city": "Server-5",
-                    "desc": "websocket",
-                    "ip": "fooddrink.homes"
-                },
-                {
-                    "cfg": "f",
-                    "city": "Server-6",
-                    "desc": "websocket",
-                    "ip": "thanksfor.mom"
+                    "ip": "proguard.homes"
                 }
             ]
         }
