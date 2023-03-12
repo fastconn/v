@@ -11,7 +11,7 @@
                 "path": "/linkvws"
             },
             "b": {
-		        "domain": "easysetup.click",
+		        "domain": "audiovideos.lol",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -23,7 +23,7 @@
                 "path": "/linkvws"
             },
             "d": {
-		        "domain": "renewsat.lat",
+		        "domain": "transferto.sbs",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -54,7 +54,7 @@
                     "cfg": "b",
                     "city": "Server-2",
                     "desc": "websocket",
-                    "ip": "easysetup.click"
+                    "ip": "audiovideos.lol"
                 },
                 {
                     "cfg": "c",
@@ -66,7 +66,7 @@
                     "cfg": "d",
                     "city": "Server-4",
                     "desc": "websocket",
-                    "ip": "renewsat.lat"
+                    "ip": "transferto.sbs"
                 },
                 {
                     "cfg": "e",
