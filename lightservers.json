@@ -17,13 +17,13 @@
                 "path": "/linkvws"
             },
             "c": {
-		        "domain": "ultraproxy.lol",
+		        "domain": "uptodate.makeup",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "d": {
-		        "domain": "unlimiteder.cfd",
+		        "domain": "mountains.skin",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -54,13 +54,13 @@
                     "cfg": "c",
                     "city": "Server-3",
                     "desc": "websocket",
-                    "ip": "ultraproxy.lol"
+                    "ip": "uptodate.makeup"
                 },
                 {
                     "cfg": "d",
                     "city": "Server-4",
                     "desc": "websocket",
-                    "ip": "unlimiteder.cfd"
+                    "ip": "mountains.skin"
                 }
             ]
         }

@@ -45,7 +45,7 @@
             },
 
 	        "a": {
-                "domain": "stepdown.skin",
+                "domain": "aswellas.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -69,7 +69,7 @@
                 "path": "/linkvws"
             },
             "e": {
-                "domain": "ukdoctors.hair",
+                "domain": "trustedworld.homes",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -86,7 +86,7 @@
                     "cfg": "a",
                     "city":"Server-1",
                     "desc": "websocket",
-                    "ip": "stepdown.skin"
+                    "ip": "aswellas.cfd"
                 },
                 {
                     "cfg": "b",
@@ -110,7 +110,7 @@
                     "cfg": "e",
                     "city":"Server-5",
                     "desc": "websocket",
-                    "ip": "ukdoctors.hair"
+                    "ip": "trustedworld.homes"
                 }
             ],
             "servers": [
