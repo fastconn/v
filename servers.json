@@ -45,31 +45,19 @@
             },
 
 	        "a": {
-                "domain": "aswellas.cfd",
+                "domain": "trustedworld.homes",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "ustrip.beauty",
+                "domain": "superproxy.sbs",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "c": {
-                "domain": "extradefence.sbs",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "d": {
-                "domain": "battlefor.yachts",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "e": {
-                "domain": "trustedworld.homes",
+                "domain": "superproxy.pics",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -86,31 +74,19 @@
                     "cfg": "a",
                     "city":"Server-1",
                     "desc": "websocket",
-                    "ip": "aswellas.cfd"
+                    "ip": "trustedworld.homes"
                 },
                 {
                     "cfg": "b",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "ustrip.beauty"
+                    "ip": "superproxy.sbs"
                 }, 
                 {
                     "cfg": "c",
                     "city":"Server-3",
                     "desc": "websocket",
-                    "ip": "extradefence.sbs"
-                }, 
-                {
-                    "cfg": "d",
-                    "city":"Server-4",
-                    "desc": "websocket",
-                    "ip": "battlefor.yachts"
-                }, 
-                {
-                    "cfg": "e",
-                    "city":"Server-5",
-                    "desc": "websocket",
-                    "ip": "trustedworld.homes"
+                    "ip": "superproxy.pics"
                 }
             ],
             "servers": [
