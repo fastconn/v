@@ -23,7 +23,7 @@
                 "path": "/linkvws"
             },
             "d": {
-		        "domain": "tvshows.makeup",
+		        "domain": "unlimiteder.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -60,7 +60,7 @@
                     "cfg": "d",
                     "city": "Server-4",
                     "desc": "websocket",
-                    "ip": "tvshows.makeup"
+                    "ip": "unlimiteder.cfd"
                 }
             ]
         }
