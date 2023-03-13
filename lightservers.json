@@ -11,25 +11,19 @@
                 "path": "/linkvws"
             },
             "b": {
-		        "domain": "filterweb.click",
+		        "domain": "usageof.xyz",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "c": {
-		        "domain": "yourpurchase.pics",
+		        "domain": "globaldigital.shop",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "d": {
 		        "domain": "tvshows.makeup",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "e": {
-		        "domain": "globaldigital.shop",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -54,25 +48,19 @@
                     "cfg": "b",
                     "city": "Server-2",
                     "desc": "websocket",
-                    "ip": "filterweb.click"
+                    "ip": "usageof.xyz"
                 },
                 {
                     "cfg": "c",
                     "city": "Server-3",
                     "desc": "websocket",
-                    "ip": "yourpurchase.pics"
+                    "ip": "globaldigital.shop"
                 },
                 {
                     "cfg": "d",
                     "city": "Server-4",
                     "desc": "websocket",
                     "ip": "tvshows.makeup"
-                },
-                {
-                    "cfg": "e",
-                    "city": "Server-5",
-                    "desc": "websocket",
-                    "ip": "globaldigital.shop"
                 }
             ]
         }
