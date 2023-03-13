@@ -51,13 +51,13 @@
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "questiontime.lol",
+                "domain": "ustrip.beauty",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "c": {
-                "domain": "bottomchain.monster",
+                "domain": "extradefence.sbs",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -92,13 +92,13 @@
                     "cfg": "b",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "questiontime.lol"
+                    "ip": "ustrip.beauty"
                 }, 
                 {
                     "cfg": "c",
                     "city":"Server-3",
                     "desc": "websocket",
-                    "ip": "bottomchain.monster"
+                    "ip": "extradefence.sbs"
                 }, 
                 {
                     "cfg": "d",
