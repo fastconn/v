@@ -45,13 +45,13 @@
             },
 
 	        "a": {
-                "domain": "bbcchannels.click",
+                "domain": "worklife.quest",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "fallinlove.homes",
+                "domain": "topdeals.hair",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -92,13 +92,13 @@
                     "cfg": "a",
                     "city":"Server-1",
                     "desc": "websocket",
-                    "ip": "bbcchannels.click"
+                    "ip": "worklife.quest"
                 },
                 {
                     "cfg": "b",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "fallinlove.homes"
+                    "ip": "topdeals.hair"
                 }, 
                 {
                     "cfg": "c",
