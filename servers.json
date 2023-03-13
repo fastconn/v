@@ -45,13 +45,13 @@
             },
 
 	        "a": {
-                "domain": "worklife.quest",
+                "domain": "stepdown.skin",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "topdeals.hair",
+                "domain": "questiontime.lol",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -64,12 +64,6 @@
             },
             "d": {
                 "domain": "middlejet.boats",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "e": {
-                "domain": "questiontime.lol",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -86,13 +80,13 @@
                     "cfg": "a",
                     "city":"Server-1",
                     "desc": "websocket",
-                    "ip": "worklife.quest"
+                    "ip": "stepdown.skin"
                 },
                 {
                     "cfg": "b",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "topdeals.hair"
+                    "ip": "questiontime.lol"
                 }, 
                 {
                     "cfg": "c",
@@ -105,12 +99,6 @@
                     "city":"Server-4",
                     "desc": "websocket",
                     "ip": "middlejet.boats"
-                }, 
-                {
-                    "cfg": "e",
-                    "city":"Server-5",
-                    "desc": "websocket",
-                    "ip": "questiontime.lol"
                 }
             ],
             "servers": [
