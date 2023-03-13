@@ -57,25 +57,19 @@
                 "path": "/linkvws"
             },
             "c": {
-                "domain": "hondajp.motorcycles",
+                "domain": "bottomchain.monster",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "d": {
-                "domain": "timebased.sbs",
+                "domain": "middlejet.boats",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "e": {
                 "domain": "annualreport.pics",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "f": {
-                "domain": "reliablesite.homes",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -104,25 +98,19 @@
                     "cfg": "c",
                     "city":"Server-3",
                     "desc": "websocket",
-                    "ip": "hondajp.motorcycles"
+                    "ip": "bottomchain.monster"
                 }, 
                 {
                     "cfg": "d",
                     "city":"Server-4",
                     "desc": "websocket",
-                    "ip": "timebased.sbs"
+                    "ip": "middlejet.boats"
                 }, 
                 {
                     "cfg": "e",
                     "city":"Server-5",
                     "desc": "websocket",
                     "ip": "annualreport.pics"
-                }, 
-                {
-                    "cfg": "f",
-                    "city":"Server-6",
-                    "desc": "websocket",
-                    "ip": "reliablesite.homes"
                 }
             ],
             "servers": [
