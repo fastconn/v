@@ -49,18 +49,6 @@
                     "city": "Server-2",
                     "desc": "websocket",
                     "ip": "supertunnels.lol"
-                },
-                {
-                    "cfg": "c",
-                    "city": "Server-3",
-                    "desc": "websocket",
-                    "ip": "uptodate.makeup"
-                },
-                {
-                    "cfg": "d",
-                    "city": "Server-4",
-                    "desc": "websocket",
-                    "ip": "mountains.skin"
                 }
             ]
         }

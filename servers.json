@@ -81,12 +81,6 @@
                     "city":"Server-2",
                     "desc": "websocket",
                     "ip": "superproxy.sbs"
-                }, 
-                {
-                    "cfg": "c",
-                    "city":"Server-3",
-                    "desc": "websocket",
-                    "ip": "superproxy.pics"
                 }
             ],
             "servers": [
