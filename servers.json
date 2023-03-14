@@ -138,26 +138,17 @@
             "name": "VPN Premium",
             "isVip": true,
             "image": "for_VIP",
-            "ws2": [
+            "ws3": [
                 {
-                    "cfg": "v",
-                    "ip": "vip2323.cfd",
-                    "city":"VIP1",
-                    "desc": "websocket"
+                    "name": "VIP-1",
+                    "domain": "vip2323.cfd",
+                    "enableCf": true
                 },
                 {
-                    "cfg": "v-cf",
-                    "ip": "vip2323.cfd#cf",
-                    "city":"VIP1(boost)",
-                    "desc": "CDN Boost"
-                },
-                {
-                    "cfg": "v2",
-                    "ip": "veryfast.shop",
-                    "city":"VIP2",
-                    "desc": "New"
+                    "name": "VIP-2",
+                    "domain": "veryfast.shop"
                 }
-            ],
+            ], 
             "servers": [
                 {
                     "cc": "us",
