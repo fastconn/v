@@ -57,19 +57,7 @@
                 "path": "/linkvws"
             },
             "c": {
-                "domain": "kingproxy.quest",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "d": {
                 "domain": "settingsto.click",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "e": {
-                "domain": "kingtunnel.homes",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -98,19 +86,25 @@
                     "cfg": "c",
                     "city":"Server-3",
                     "desc": "websocket",
-                    "ip": "kingproxy.quest"
-                },
-                {
-                    "cfg": "d",
-                    "city":"Server-4",
-                    "desc": "websocket",
                     "ip": "settingsto.click"
+                }
+            ],
+            "ws3": [
+                {
+                    "domain": "kingproxy.quest",
+                    "name": "Server-1"
                 },
                 {
-                    "cfg": "e",
-                    "city":"Server-5",
-                    "desc": "websocket",
-                    "ip": "kingtunnel.homes"
+                    "domain": "kingtunnel.homes",
+                    "name": "Server-2"
+                },
+                {
+                    "domain": "optionto.club",
+                    "name": "Server-3"
+                },
+                {
+                    "domain": "optionto.cfd",
+                    "name": "Server-4"
                 }
             ],
             "servers": [
