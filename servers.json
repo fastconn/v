@@ -106,23 +106,13 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "discovermore.cfd",
+                    "domain": "purplecrystal.shop",
                     "name": "Server-8",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "optionto.club",
+                    "domain": "appletree.homes",
                     "name": "Server-9",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "purplecrystal.shop",
-                    "name": "Server-10",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "redflags.sbs",
-                    "name": "Server-11",
                     "desc": "websocket"
                 }
             ],
