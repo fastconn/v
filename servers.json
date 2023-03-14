@@ -86,7 +86,7 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "discovermore.cfd",
+                    "domain": "kingproxy.quest",
                     "name": "Server-4",
                     "desc": "websocket"
                 },
@@ -96,7 +96,7 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "optionto.cfd",
+                    "domain": "fastgo.autos",
                     "name": "Server-6",
                     "desc": "websocket"
                 },
@@ -106,12 +106,12 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "kingproxy.quest",
+                    "domain": "discovermore.cfd",
                     "name": "Server-8",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "friendships.sbs",
+                    "domain": "whatever.pics",
                     "name": "Server-9",
                     "desc": "websocket"
                 }
