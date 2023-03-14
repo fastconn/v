@@ -45,7 +45,7 @@
             },
 
 	        "a": {
-                "domain": "chatbot.homes",
+                "domain": "traders.autos",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -57,7 +57,7 @@
                 "path": "/linkvws"
             },
             "c": {
-                "domain": "netspiders.monster",
+                "domain": "kingproxy.quest",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -80,7 +80,7 @@
                     "cfg": "a",
                     "city":"Server-1",
                     "desc": "websocket",
-                    "ip": "chatbot.homes"
+                    "ip": "traders.autos"
                 },
                 {
                     "cfg": "b",
@@ -92,7 +92,7 @@
                     "cfg": "c",
                     "city":"Server-3",
                     "desc": "websocket",
-                    "ip": "netspiders.monster"
+                    "ip": "kingproxy.quest"
                 },
                 {
                     "cfg": "d",
