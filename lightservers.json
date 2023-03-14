@@ -61,6 +61,10 @@
                 {
                     "domain": "originals.mom",
                     "name": "Server-6"
+                },
+                {
+                    "domain": "productse.lol",
+                    "name": "Server-7"
                 }
             ]
         }

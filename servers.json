@@ -114,6 +114,16 @@
                     "domain": "optionto.club",
                     "name": "Server-9",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "purplecrystal.shop",
+                    "name": "Server-10",
+                    "desc": "websocket"
+                },
+                {
+                    "domain": "redflags.sbs",
+                    "name": "Server-11",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
