@@ -91,7 +91,7 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "traders.autos",
+                    "domain": "dontblock.club",
                     "name": "Server-5",
                     "desc": "websocket"
                 },
@@ -108,6 +108,11 @@
                 {
                     "domain": "discovermore.pics",
                     "name": "Server-8",
+                    "desc": "websocket"
+                },
+                {
+                    "domain": "friendships.sbs",
+                    "name": "Server-9",
                     "desc": "websocket"
                 }
             ],

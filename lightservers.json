@@ -57,6 +57,10 @@
                 {
                     "domain": "lifestyles.hair",
                     "name": "Server-5"
+                },
+                {
+                    "domain": "turbopic.beauty",
+                    "name": "Server-6"
                 }
             ]
         }
