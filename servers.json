@@ -72,13 +72,13 @@
             "ws2": [
                 {
                     "cfg": "b",
-                    "city":"Server-2",
+                    "city":"Server-1",
                     "desc": "websocket",
                     "ip": "superproxy.sbs"
                 },
                 {
                     "cfg": "c",
-                    "city":"Server-1",
+                    "city":"Server-2",
                     "desc": "websocket",
                     "ip": "superproxy.pics"
                 }
