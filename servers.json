@@ -99,6 +99,11 @@
                     "domain": "optionto.cfd",
                     "name": "Server-6",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "financee.autos",
+                    "name": "Server-7",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
