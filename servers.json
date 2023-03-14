@@ -71,16 +71,16 @@
             "image": "global",
             "ws2": [
                 {
-                    "cfg": "a",
-                    "city":"Server-1",
-                    "desc": "websocket",
-                    "ip": "trustedworld.homes"
-                },
-                {
                     "cfg": "b",
                     "city":"Server-2",
                     "desc": "websocket",
                     "ip": "superproxy.sbs"
+                },
+                {
+                    "cfg": "c",
+                    "city":"Server-1",
+                    "desc": "websocket",
+                    "ip": "superproxy.pics"
                 }
             ],
             "servers": [
