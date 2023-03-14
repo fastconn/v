@@ -37,7 +37,7 @@
                 "path": "/linkvws"
             },
             "c": {
-                "domain": "settingsto.click",
+                "domain": "optionto.club",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -66,29 +66,34 @@
                     "cfg": "c",
                     "city":"Server-3",
                     "desc": "websocket",
-                    "ip": "settingsto.click"
+                    "ip": "optionto.club"
                 }
             ],
             "ws3": [
                 {
                     "domain": "kingproxy.quest",
-                    "name": "Server-1"
+                    "name": "Server-1",
+                    "desc": "websocket"
                 },
                 {
                     "domain": "kingtunnel.homes",
-                    "name": "Server-2"
+                    "name": "Server-2",
+                    "desc": "websocket"
                 },
                 {
-                    "domain": "settingsto.click",
-                    "name": "Server-3"
+                    "domain": "optionto.club",
+                    "name": "Server-3",
+                    "desc": "websocket"
                 },
                 {
                     "domain": "socials.beauty",
-                    "name": "Server-4"
+                    "name": "Server-4",
+                    "desc": "websocket"
                 },
                 {
                     "domain": "traders.autos",
-                    "name": "Server-5"
+                    "name": "Server-5",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
