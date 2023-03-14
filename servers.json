@@ -86,7 +86,7 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "socials.beauty",
+                    "domain": "discovermore.cfd",
                     "name": "Server-4",
                     "desc": "websocket"
                 },
@@ -103,6 +103,11 @@
                 {
                     "domain": "financee.autos",
                     "name": "Server-7",
+                    "desc": "websocket"
+                },
+                {
+                    "domain": "discovermore.pics",
+                    "name": "Server-8",
                     "desc": "websocket"
                 }
             ],
