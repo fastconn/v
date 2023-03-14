@@ -94,6 +94,11 @@
                     "domain": "traders.autos",
                     "name": "Server-5",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "optionto.cfd",
+                    "name": "Server-6",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
