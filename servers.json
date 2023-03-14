@@ -71,7 +71,7 @@
             ],
             "ws3": [
                 {
-                    "domain": "kingproxy.quest",
+                    "domain": "blueeye.hair",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
@@ -106,7 +106,7 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "blueeye.hair",
+                    "domain": "kingproxy.quest",
                     "name": "Server-8",
                     "desc": "websocket"
                 },

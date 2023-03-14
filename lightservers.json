@@ -39,6 +39,10 @@
             ],
             "ws3": [
                 {
+                    "domain": "turbopic.beauty",
+                    "name": "Server-6"
+                },
+                {
                     "domain": "originals.mom",
                     "name": "Server-1"
                 },
@@ -57,10 +61,6 @@
                 {
                     "domain": "lifestyles.hair",
                     "name": "Server-5"
-                },
-                {
-                    "domain": "turbopic.beauty",
-                    "name": "Server-6"
                 }
             ]
         }
