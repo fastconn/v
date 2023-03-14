@@ -24,26 +24,6 @@
             }
         },
         "ws": {
-            "v": {
-                "domain": "vip2323.cfd",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "v-cf": {
-                "cf": true,
-                "domain": "vip2323.cfd",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "v2": {
-                "domain": "veryfast.shop",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-
 	        "a": {
                 "domain": "traders.autos",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
