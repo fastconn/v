@@ -39,6 +39,10 @@
                 {
                     "domain": "supertunnels.lol",
                     "name": "Server-3"
+                },
+                {
+                    "domain": "supertunnels.click",
+                    "name": "Server-4"
                 }
             ]
         }

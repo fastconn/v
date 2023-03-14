@@ -79,12 +79,16 @@
                     "name": "Server-2"
                 },
                 {
-                    "domain": "optionto.club",
+                    "domain": "settingsto.click",
                     "name": "Server-3"
                 },
                 {
-                    "domain": "optionto.cfd",
+                    "domain": "socials.beauty",
                     "name": "Server-4"
+                },
+                {
+                    "domain": "traders.autos",
+                    "name": "Server-5"
                 }
             ],
             "servers": [
