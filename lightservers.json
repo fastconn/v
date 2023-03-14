@@ -9,24 +9,6 @@
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
-            },
-            "b": {
-		        "domain": "supertunnels.lol",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "c": {
-		        "domain": "appspride.shop",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "d": {
-		        "domain": "webcrawls.sbs",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
             }
         }
     },
@@ -43,24 +25,20 @@
                     "city": "Server-1",
                     "desc": "websocket",
                     "ip": "supertunnels.click"
+                }
+            ],
+            "ws3": [
+                {
+                    "domain": "appspride.shop",
+                    "name": "Server-1"
                 },
                 {
-                    "cfg": "b",
-                    "city": "Server-2",
-                    "desc": "websocket",
-                    "ip": "supertunnels.lol"
+                    "domain": "webcrawls.sbs",
+                    "name": "Server-2"
                 },
                 {
-                    "cfg": "c",
-                    "city": "Server-3",
-                    "desc": "websocket",
-                    "ip": "appspride.shop"
-                },
-                {
-                    "cfg": "d",
-                    "city": "Server-4",
-                    "desc": "websocket",
-                    "ip": "webcrawls.sbs"
+                    "domain": "supertunnels.lol",
+                    "name": "Server-3"
                 }
             ]
         }
