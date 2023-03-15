@@ -38,24 +38,16 @@
             ],
             "ws3": [
                 {
-                    "domain": "originals.yachts",
+                    "domain": "grapsejam.cfd",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "productse.cfd",
+                    "domain": "gardenflower.sbs",
                     "name": "Server-2"
                 },
                 {
-                    "domain": "productse.lol",
-                    "name": "Server-3"
-                },
-                {
-                    "domain": "registered.homes",
-                    "name": "Server-4"
-                },
-                {
                     "domain": "registered.makeup",
-                    "name": "Server-5"
+                    "name": "Server-3"
                 }
             ]
         }

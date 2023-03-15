@@ -70,7 +70,7 @@
             ],
             "ws3": [
                 {
-                    "domain": "whiteheart.mom",
+                    "domain": "roofsight.xyz",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
@@ -90,7 +90,7 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "orangejuice.site",
+                    "domain": "roofsight.xyz",
                     "name": "Server-5",
                     "desc": "websocket"
                 }
