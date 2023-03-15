@@ -37,7 +37,7 @@
                 "path": "/linkvws"
             },
             "c": {
-                "domain": "optionto.club",
+                "domain": "kingtunnel.homes",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -66,12 +66,12 @@
                     "cfg": "c",
                     "city":"Server-3",
                     "desc": "websocket",
-                    "ip": "optionto.club"
+                    "ip": "kingtunnel.homes"
                 }
             ],
             "ws3": [
                 {
-                    "domain": "blueeye.hair",
+                    "domain": "whiteheart.mom",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
@@ -88,31 +88,6 @@
                 {
                     "domain": "windyday.beauty",
                     "name": "Server-4",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "dontblock.club",
-                    "name": "Server-5",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "fastgo.autos",
-                    "name": "Server-6",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "prettygirl.website",
-                    "name": "Server-7",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "whatever.pics",
-                    "name": "Server-8",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "appletree.homes",
-                    "name": "Server-9",
                     "desc": "websocket"
                 }
             ],
