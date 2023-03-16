@@ -38,20 +38,12 @@
             ],
             "ws3": [
                 {
-                    "domain": "originals.yachts",
+                    "domain": "newspaper.quest",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "glassvase.cfd",
+                    "domain": "guitarr.homes",
                     "name": "Server-2"
-                },
-                {
-                    "domain": "findoutit.pics",
-                    "name": "Server-3"
-                },
-                {
-                    "domain": "newspaper.quest",
-                    "name": "Server-4"
                 }
             ]
         }
