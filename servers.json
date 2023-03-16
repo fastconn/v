@@ -63,32 +63,27 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "mirrorlife.monster",
+                    "domain": "orangejuice.site",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "orangejuice.site",
-                    "name": "Server-3",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "plasticsurgey.club",
-                    "name": "Server-3",
-                    "desc": "websocket"
-                },
-                {
                     "domain": "staytuned.sbs",
-                    "name": "Server-4",
+                    "name": "Server-43",
                     "desc": "websocket"
                 },
                 {
                     "domain": "tragedy.cfd",
-                    "name": "Server-5",
+                    "name": "Server-4",
                     "desc": "websocket"
                 },
                 {
                     "domain": "townspeople.quest",
+                    "name": "Server-5",
+                    "desc": "websocket"
+                },
+                {
+                    "domain": "facejob.makeup",
                     "name": "Server-6",
                     "desc": "websocket"
                 }

@@ -38,20 +38,20 @@
             ],
             "ws3": [
                 {
-                    "domain": "magazine.skin",
+                    "domain": "publisher.motorcycles",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "publisher.motorcycles",
-                    "name": "Server-2"
-                },
-                {
                     "domain": "takenotice.cfd",
-                    "name": "Server-3"
+                    "name": "Server-2"
                 },
                 {
                     "domain": "mayobrother.homes",
                     "name": "Server-4"
+                },
+                {
+                    "domain": "highheat.sbs",
+                    "name": "Server-5"
                 }
             ]
         }
