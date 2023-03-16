@@ -86,6 +86,11 @@
                     "domain": "plasticsurgey.club",
                     "name": "Server-6",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "staytuned.sbs",
+                    "name": "Server-7",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
