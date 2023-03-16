@@ -58,7 +58,7 @@
             ],
             "ws3": [
                 {
-                    "domain": "roofsight.xyz",
+                    "domain": "bananapie.skin",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
@@ -78,7 +78,7 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "bananapie.skin",
+                    "domain": "roofsight.xyz",
                     "name": "Server-5",
                     "desc": "websocket"
                 }
