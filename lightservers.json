@@ -48,6 +48,10 @@
                 {
                     "domain": "floorb.makeup",
                     "name": "Server-3"
+                },
+                {
+                    "domain": "glassvase.cfd",
+                    "name": "Server-4"
                 }
             ]
         }
