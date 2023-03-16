@@ -52,6 +52,10 @@
                 {
                     "domain": "magazine.skin",
                     "name": "Server-4"
+                },
+                {
+                    "domain": "publisher.motorcycles",
+                    "name": "Server-5"
                 }
             ]
         }
