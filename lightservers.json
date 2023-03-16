@@ -48,18 +48,6 @@
                 {
                     "domain": "registered.makeup",
                     "name": "Server-3"
-                },
-                {
-                    "domain": "floorb.makeup",
-                    "name": "Server-4"
-                },
-                {
-                    "domain": "glassvase.cfd",
-                    "name": "Server-5"
-                },
-                {
-                    "domain": "findoutit.pics",
-                    "name": "Server-6"
                 }
             ]
         }

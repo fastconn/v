@@ -90,23 +90,8 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "combout.hair",
+                    "domain": "bananapie.skin",
                     "name": "Server-5",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "ticktok.click",
-                    "name": "Server-6",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "livingroom.pics",
-                    "name": "Server-7",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "womenright.quest",
-                    "name": "Server-8",
                     "desc": "websocket"
                 }
             ],
