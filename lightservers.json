@@ -44,6 +44,10 @@
                 {
                     "domain": "guitarr.homes",
                     "name": "Server-2"
+                },
+                {
+                    "domain": "televisions.lol",
+                    "name": "Server-3"
                 }
             ]
         }
