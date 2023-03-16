@@ -68,23 +68,13 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "staytuned.sbs",
-                    "name": "Server-43",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "tragedy.cfd",
-                    "name": "Server-4",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "townspeople.quest",
-                    "name": "Server-5",
-                    "desc": "websocket"
-                },
-                {
                     "domain": "facejob.makeup",
-                    "name": "Server-6",
+                    "name": "Server-3",
+                    "desc": "websocket"
+                },
+                {
+                    "domain": "plasticthing.cyou",
+                    "name": "Server-4",
                     "desc": "websocket"
                 }
             ],

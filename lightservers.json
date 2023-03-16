@@ -38,20 +38,12 @@
             ],
             "ws3": [
                 {
-                    "domain": "publisher.motorcycles",
+                    "domain": "highheat.sbs",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "takenotice.cfd",
+                    "domain": "pharmacies.skin",
                     "name": "Server-2"
-                },
-                {
-                    "domain": "mayobrother.homes",
-                    "name": "Server-4"
-                },
-                {
-                    "domain": "highheat.sbs",
-                    "name": "Server-5"
                 }
             ]
         }
