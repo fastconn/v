@@ -58,38 +58,23 @@
             ],
             "ws3": [
                 {
-                    "domain": "bananapie.skin",
+                    "domain": "orangejuice.site",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "orangejuice.site",
+                    "domain": "ticktok.click",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "hallview.sbs",
+                    "domain": "womenright.quest",
                     "name": "Server-3",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "pianostore.store",
+                    "domain": "livingroom.pics",
                     "name": "Server-4",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "lemonwater.online",
-                    "name": "Server-5",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "combout.hair",
-                    "name": "Server-4",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "ticktok.click",
-                    "name": "Server-5",
                     "desc": "websocket"
                 }
             ],

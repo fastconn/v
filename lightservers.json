@@ -38,7 +38,7 @@
             ],
             "ws3": [
                 {
-                    "domain": "grapsejam.cfd",
+                    "domain": "productse.cfd",
                     "name": "Server-1"
                 },
                 {
@@ -46,7 +46,7 @@
                     "name": "Server-2"
                 },
                 {
-                    "domain": "registered.homes",
+                    "domain": "floorb.makeup",
                     "name": "Server-3"
                 }
             ]
