@@ -58,28 +58,13 @@
             ],
             "ws3": [
                 {
-                    "domain": "bedtime.sbs",
+                    "domain": "wallpaper.skin",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "dressme.mom",
+                    "domain": "mirrorlife.monster",
                     "name": "Server-2",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "pillow.boats",
-                    "name": "Server-3",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "sheetit.beauty",
-                    "name": "Server-4",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "orangejuice.site",
-                    "name": "Server-5",
                     "desc": "websocket"
                 }
             ],
