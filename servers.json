@@ -63,23 +63,18 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "ticktok.click",
+                    "domain": "livingroom.pics",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "womenright.quest",
+                    "domain": "pillow.boats",
                     "name": "Server-3",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "livingroom.pics",
-                    "name": "Server-4",
-                    "desc": "websocket"
-                },
-                {
                     "domain": "bedtime.sbs",
-                    "name": "Server-5",
+                    "name": "Server-4",
                     "desc": "websocket"
                 }
             ],
