@@ -76,6 +76,11 @@
                     "domain": "noselift.beauty",
                     "name": "Server-4",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "facejob.mom",
+                    "name": "Server-5",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
