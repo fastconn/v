@@ -56,6 +56,10 @@
                 {
                     "domain": "publisher.motorcycles",
                     "name": "Server-5"
+                },
+                {
+                    "domain": "takenotice.cfd",
+                    "name": "Server-6"
                 }
             ]
         }
