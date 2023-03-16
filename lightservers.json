@@ -38,28 +38,16 @@
             ],
             "ws3": [
                 {
-                    "domain": "newspaper.quest",
+                    "domain": "magazine.skin",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "guitarr.homes",
+                    "domain": "publisher.motorcycles",
                     "name": "Server-2"
                 },
                 {
-                    "domain": "televisions.lol",
-                    "name": "Server-3"
-                },
-                {
-                    "domain": "magazine.skin",
-                    "name": "Server-4"
-                },
-                {
-                    "domain": "publisher.motorcycles",
-                    "name": "Server-5"
-                },
-                {
                     "domain": "takenotice.cfd",
-                    "name": "Server-6"
+                    "name": "Server-3"
                 }
             ]
         }

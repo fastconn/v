@@ -73,28 +73,18 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "facejob.mom",
-                    "name": "Server-4",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "wallpaper.skin",
-                    "name": "Server-5",
-                    "desc": "websocket"
-                },
-                {
                     "domain": "plasticsurgey.club",
-                    "name": "Server-6",
+                    "name": "Server-3",
                     "desc": "websocket"
                 },
                 {
                     "domain": "staytuned.sbs",
-                    "name": "Server-7",
+                    "name": "Server-4",
                     "desc": "websocket"
                 },
                 {
                     "domain": "tragedy.cfd",
-                    "name": "Server-8",
+                    "name": "Server-5",
                     "desc": "websocket"
                 }
             ],
