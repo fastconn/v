@@ -81,6 +81,16 @@
                     "domain": "lemonwater.online",
                     "name": "Server-5",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "orangejuice.site",
+                    "name": "Server-4",
+                    "desc": "websocket"
+                },
+                {
+                    "domain": "lemonwater.online",
+                    "name": "Server-5",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
