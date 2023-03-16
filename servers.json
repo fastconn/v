@@ -58,7 +58,7 @@
             ],
             "ws3": [
                 {
-                    "domain": "wallpaper.skin",
+                    "domain": "noselift.beauty",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
@@ -73,12 +73,12 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "noselift.beauty",
+                    "domain": "facejob.mom",
                     "name": "Server-4",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "facejob.mom",
+                    "domain": "wallpaper.skin",
                     "name": "Server-5",
                     "desc": "websocket"
                 }
