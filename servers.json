@@ -24,19 +24,13 @@
         },
         "ws": {
 	        "a": {
-                "domain": "traders.autos",
+                "domain": "orangejuice.site",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "b": {
-                "domain": "socials.beauty",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "c": {
-                "domain": "kingtunnel.homes",
+                "domain": "roofsight.xyz",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -53,19 +47,13 @@
                     "cfg": "a",
                     "city":"Server-1",
                     "desc": "websocket",
-                    "ip": "traders.autos"
+                    "ip": "orangejuice.site"
                 },
                 {
                     "cfg": "b",
                     "city":"Server-2",
                     "desc": "websocket",
-                    "ip": "socials.beauty"
-                },
-                {
-                    "cfg": "c",
-                    "city":"Server-3",
-                    "desc": "websocket",
-                    "ip": "kingtunnel.homes"
+                    "ip": "roofsight.xyz"
                 }
             ],
             "ws3": [
@@ -199,7 +187,7 @@
                 },
                 {
                     "cc": "pl",
-                    "city": "warsaw",
+                    "city": "Warsaw",
                     "ip": "79.133.122.202"
                 },
                 {

@@ -4,13 +4,13 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "supertunnels.lol",
+		        "domain": "productse.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
             },
             "b": {
-		        "domain": "originals.mom",
+		        "domain": "grapsejam.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -27,13 +27,13 @@
                     "cfg": "a",
                     "city": "Server-1",
                     "desc": "websocket",
-                    "ip": "supertunnels.lol"
+                    "ip": "productse.cfd"
                 },
                 {
                     "cfg": "b",
                     "city": "Server-2",
                     "desc": "websocket",
-                    "ip": "originals.mom"
+                    "ip": "grapsejam.cfd"
                 }
             ],
             "ws3": [
