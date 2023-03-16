@@ -81,6 +81,11 @@
                     "domain": "sheetit.beauty",
                     "name": "Server-5",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "dressme.mom",
+                    "name": "Server-6",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
