@@ -58,12 +58,12 @@
             ],
             "ws3": [
                 {
-                    "domain": "orangejuice.site",
+                    "domain": "bedtime.sbs",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "livingroom.pics",
+                    "domain": "dressme.mom",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
@@ -73,18 +73,13 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "bedtime.sbs",
+                    "domain": "sheetit.beauty",
                     "name": "Server-4",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "sheetit.beauty",
+                    "domain": "orangejuice.site",
                     "name": "Server-5",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "dressme.mom",
-                    "name": "Server-6",
                     "desc": "websocket"
                 }
             ],

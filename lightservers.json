@@ -38,24 +38,20 @@
             ],
             "ws3": [
                 {
-                    "domain": "productse.cfd",
+                    "domain": "originals.yachts",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "originals.yachts",
+                    "domain": "glassvase.cfd",
                     "name": "Server-2"
                 },
                 {
-                    "domain": "floorb.makeup",
+                    "domain": "findoutit.pics",
                     "name": "Server-3"
                 },
                 {
-                    "domain": "glassvase.cfd",
+                    "domain": "newspaper.quest",
                     "name": "Server-4"
-                },
-                {
-                    "domain": "findoutit.pics",
-                    "name": "Server-5"
                 }
             ]
         }
