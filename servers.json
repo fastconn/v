@@ -86,6 +86,11 @@
                     "domain": "tragedy.cfd",
                     "name": "Server-5",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "townspeople.quest",
+                    "name": "Server-6",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
