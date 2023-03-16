@@ -81,6 +81,11 @@
                     "domain": "wallpaper.skin",
                     "name": "Server-5",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "plasticsurgey.club",
+                    "name": "Server-6",
+                    "desc": "websocket"
                 }
             ],
             "servers": [

@@ -48,6 +48,10 @@
                 {
                     "domain": "televisions.lol",
                     "name": "Server-3"
+                },
+                {
+                    "domain": "magazine.skin",
+                    "name": "Server-4"
                 }
             ]
         }
