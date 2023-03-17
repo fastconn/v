@@ -63,13 +63,8 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "surgery.cfd",
+                    "domain": "tastegood.cfd",
                     "name": "Server-2",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "lovecurry.hair",
-                    "name": "Server-3",
                     "desc": "websocket"
                 }
             ],
