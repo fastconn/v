@@ -63,18 +63,13 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "asmanyas.shop",
+                    "domain": "paidin.cyou",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "onthebill.cfd",
+                    "domain": "safier.homes",
                     "name": "Server-3",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "titanic.boats",
-                    "name": "Server-4",
                     "desc": "websocket"
                 }
             ],
