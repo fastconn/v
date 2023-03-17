@@ -58,23 +58,13 @@
             ],
             "ws3": [
                 {
-                    "domain": "orangejuice.site",
+                    "domain": "combfree.hair",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "paidin.cyou",
+                    "domain": "england.makeup",
                     "name": "Server-2",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "powerful.cfd",
-                    "name": "Server-3",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "powerful.cfd",
-                    "name": "Server-4",
                     "desc": "websocket"
                 }
             ],
