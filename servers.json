@@ -71,6 +71,11 @@
                     "domain": "safier.homes",
                     "name": "Server-3",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "curcumine.yachts",
+                    "name": "Server-4",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
