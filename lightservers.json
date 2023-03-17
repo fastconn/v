@@ -44,6 +44,10 @@
                 {
                     "domain": "canceraway.mom",
                     "name": "Server-2"
+                },
+                {
+                    "domain": "lymph.lol",
+                    "name": "Server-3"
                 }
             ]
         }
