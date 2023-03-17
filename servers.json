@@ -71,6 +71,11 @@
                     "domain": "onthebill.cfd",
                     "name": "Server-3",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "ttitanic.boats",
+                    "name": "Server-4",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
