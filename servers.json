@@ -71,6 +71,16 @@
                     "domain": "inflamed.monster",
                     "name": "Server-3",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "capsules.hair",
+                    "name": "Server-4",
+                    "desc": "websocket"
+                },
+                {
+                    "domain": "tabletmed.click",
+                    "name": "Server-5",
+                    "desc": "websocket"
                 }
             ],
             "servers": [

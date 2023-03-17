@@ -38,11 +38,11 @@
             ],
             "ws3": [
                 {
-                    "domain": "medicalstudy.cfd",
+                    "domain": "canceraway.mom",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "canceraway.mom",
+                    "domain": "medicalstudy.cfd",
                     "name": "Server-2"
                 },
                 {
