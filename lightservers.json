@@ -42,12 +42,8 @@
                     "name": "Server-1"
                 },
                 {
-                    "domain": "medicalstudy.cfd",
-                    "name": "Server-2"
-                },
-                {
                     "domain": "struggling.sbs",
-                    "name": "Server-3"
+                    "name": "Server-2"
                 }
             ]
         }

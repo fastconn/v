@@ -68,18 +68,13 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "inflamed.monster",
+                    "domain": "capsules.hair",
                     "name": "Server-3",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "capsules.hair",
-                    "name": "Server-4",
-                    "desc": "websocket"
-                },
-                {
                     "domain": "onthirdof.quest",
-                    "name": "Server-5",
+                    "name": "Server-4",
                     "desc": "websocket"
                 }
             ],
