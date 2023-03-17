@@ -68,18 +68,13 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "safier.homes",
+                    "domain": "powerful.cfd",
                     "name": "Server-3",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "curcumine.yachts",
+                    "domain": "powerful.cfd",
                     "name": "Server-4",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "answered.quest",
-                    "name": "Server-5",
                     "desc": "websocket"
                 }
             ],
