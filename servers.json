@@ -66,6 +66,11 @@
                     "domain": "doctorfree.cyou",
                     "name": "Server-2",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "curcumine.yachts",
+                    "name": "Server-3",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
