@@ -73,7 +73,7 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "ttitanic.boats",
+                    "domain": "titanic.boats",
                     "name": "Server-4",
                     "desc": "websocket"
                 }
