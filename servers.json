@@ -86,6 +86,11 @@
                     "domain": "thursday.skin",
                     "name": "Server-6",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "friday.monster",
+                    "name": "Server-7",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
