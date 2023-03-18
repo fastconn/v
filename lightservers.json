@@ -38,28 +38,12 @@
             ],
             "ws3": [
                 {
-                    "domain": "rublond.hair",
+                    "domain": "yellowleaf.skin",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "russionbear.monster",
-                    "name": "Server-2"
-                },
-                {
-                    "domain": "ukraingirl.beauty",
-                    "name": "Server-3"
-                },
-                {
-                    "domain": "norwaypirate.cfd",
-                    "name": "Server-4"
-                },
-                {
-                    "domain": "swisswatch.cyou",
-                    "name": "Server-5"
-                },
-                {
                     "domain": "oranges.cyou",
-                    "name": "Server-6"
+                    "name": "Server-2"
                 }
             ]
         }
