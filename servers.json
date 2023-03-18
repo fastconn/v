@@ -71,7 +71,7 @@
                     "domain": "fourcolor.cyou",
                     "name": "Server-3",
                     "desc": "websocket"
-                },
+                }
             ],
             "servers": [
                 {
