@@ -66,6 +66,11 @@
                     "domain": "england.makeup",
                     "name": "Server-2",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "orangejuice.site",
+                    "name": "Server-3",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
