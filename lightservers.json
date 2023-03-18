@@ -38,16 +38,12 @@
             ],
             "ws3": [
                 {
-                    "domain": "yellowleaf.skin",
+                    "domain": "greentree.sbs",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "oranges.cyou",
+                    "domain": "indigo.autos",
                     "name": "Server-2"
-                },
-                {
-                    "domain": "greentree.sbs",
-                    "name": "Server-3"
                 }
             ]
         }

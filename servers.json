@@ -58,25 +58,20 @@
             ],
             "ws3": [
                 {
-                    "domain": "saturday.quest",
+                    "domain": "twoperson.cfdt",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "sundays.lol",
+                    "domain": "threestep.click",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "onebutton.sbs",
+                    "domain": "fourcolor.cyou",
                     "name": "Server-3",
                     "desc": "websocket"
                 },
-                {
-                    "domain": "twoperson.cfd",
-                    "name": "Server-4",
-                    "desc": "websocket"
-                }
             ],
             "servers": [
                 {
