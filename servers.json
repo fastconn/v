@@ -58,7 +58,7 @@
             ],
             "ws3": [
                 {
-                    "domain": "twoperson.cfdt",
+                    "domain": "twoperson.cfd",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
