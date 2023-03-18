@@ -71,6 +71,11 @@
                     "domain": "monday.pics",
                     "name": "Server-3",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "tuesday.autos",
+                    "name": "Server-4",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
