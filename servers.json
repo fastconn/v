@@ -91,6 +91,11 @@
                     "domain": "saturday.quest",
                     "name": "Server-7",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "sundays.lol",
+                    "name": "Server-8",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
