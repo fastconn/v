@@ -76,6 +76,11 @@
                     "domain": "tuesday.autos",
                     "name": "Server-4",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "wednesday.makeup",
+                    "name": "Server-5",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
