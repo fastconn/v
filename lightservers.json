@@ -52,6 +52,10 @@
                 {
                     "domain": "norwaypirate.cfd",
                     "name": "Server-4"
+                },
+                {
+                    "domain": "swisswatch.cyou",
+                    "name": "Server-5"
                 }
             ]
         }
