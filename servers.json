@@ -66,6 +66,11 @@
                     "domain": "uscia.monster",
                     "name": "Server-2",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "monday.pics",
+                    "name": "Server-3",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
