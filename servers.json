@@ -58,43 +58,18 @@
             ],
             "ws3": [
                 {
-                    "domain": "cagoose.hair",
+                    "domain": "saturday.quest",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "uscia.monster",
+                    "domain": "sundays.lol",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "monday.pics",
+                    "domain": "onebutton.sbs",
                     "name": "Server-3",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "tuesday.autos",
-                    "name": "Server-4",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "wednesday.makeup",
-                    "name": "Server-5",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "thursday.skin",
-                    "name": "Server-6",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "saturday.quest",
-                    "name": "Server-7",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "sundays.lol",
-                    "name": "Server-8",
                     "desc": "websocket"
                 }
             ],
