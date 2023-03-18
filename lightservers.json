@@ -44,6 +44,10 @@
                 {
                     "domain": "oranges.cyou",
                     "name": "Server-2"
+                },
+                {
+                    "domain": "greentree.sbs",
+                    "name": "Server-3"
                 }
             ]
         }

@@ -71,6 +71,11 @@
                     "domain": "onebutton.sbs",
                     "name": "Server-3",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "twoperson.cfd",
+                    "name": "Server-4",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
