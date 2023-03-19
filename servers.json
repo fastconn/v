@@ -58,28 +58,18 @@
             ],
             "ws3": [
                 {
-                    "domain": "sevendoll.cfd",
+                    "domain": "eighty.yachts",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "eighty.yachts",
+                    "domain": "ninenine.sbs",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "sixfinger.skin",
-                    "name": "Server-3",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "ninenine.sbs",
-                    "name": "Server-4",
-                    "desc": "websocket"
-                },
-                {
                     "domain": "tencent.homes",
-                    "name": "Server-5",
+                    "name": "Server-3",
                     "desc": "websocket"
                 }
             ],
