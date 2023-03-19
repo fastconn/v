@@ -76,6 +76,11 @@
                     "domain": "millions.pics",
                     "name": "Server-4",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "billions.cfd",
+                    "name": "Server-5",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
