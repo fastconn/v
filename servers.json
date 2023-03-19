@@ -58,23 +58,18 @@
             ],
             "ws3": [
                 {
-                    "domain": "twoperson.cfd",
+                    "domain": "threestep.click",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "threestep.click",
+                    "domain": "fourcolor.cyou",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "fourcolor.cyou",
+                    "domain": "sixfinger.skin",
                     "name": "Server-3",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "fiveplus.lol",
-                    "name": "Server-4",
                     "desc": "websocket"
                 }
             ],
