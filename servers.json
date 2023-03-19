@@ -63,6 +63,11 @@
                     "desc": "websocket"
                 },
                 {
+                    "domain": "deceem.sbs",
+                    "name": "Server-5",
+                    "desc": "websocket"
+                },
+                {
                     "domain": "mayy.cfd",
                     "name": "Server-2",
                     "desc": "websocket"
