@@ -58,22 +58,22 @@
             ],
             "ws3": [
                 {
-                    "domain": "thousand.quest",
+                    "domain": "millions.pics",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "millions.pics",
+                    "domain": "billions.cfd",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "billions.cfd",
+                    "domain": "january.homes",
                     "name": "Server-3",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "january.homes",
+                    "domain": "feburay.lol",
                     "name": "Server-4",
                     "desc": "websocket"
                 }
