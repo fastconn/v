@@ -68,18 +68,13 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "mayy.cfd",
+                    "domain": "goldens.cyou",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "juune.beauty",
+                    "domain": "silvers.boats",
                     "name": "Server-3",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "november.autos",
-                    "name": "Server-4",
                     "desc": "websocket"
                 }
             ],
