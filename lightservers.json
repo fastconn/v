@@ -48,6 +48,10 @@
                 {
                     "domain": "forty.quest",
                     "name": "Server-3"
+                },
+                {
+                    "domain": "fifty.sbs",
+                    "name": "Server-4"
                 }
             ]
         }
