@@ -42,11 +42,11 @@
                     "name": "Server-1"
                 },
                 {
-                    "domain": "indigo.autos",
+                    "domain": "twenty.motorcycles",
                     "name": "Server-2"
                 },
                 {
-                    "domain": "twenty.motorcycles",
+                    "domain": "thirties.pics",
                     "name": "Server-3"
                 }
             ]
