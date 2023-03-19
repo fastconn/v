@@ -42,16 +42,12 @@
                     "name": "Server-1"
                 },
                 {
-                    "domain": "twenty.motorcycles",
+                    "domain": "thirties.pics",
                     "name": "Server-2"
                 },
                 {
-                    "domain": "thirties.pics",
-                    "name": "Server-3"
-                },
-                {
                     "domain": "forty.quest",
-                    "name": "Server-4"
+                    "name": "Server-3"
                 }
             ]
         }
