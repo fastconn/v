@@ -58,17 +58,17 @@
             ],
             "ws3": [
                 {
-                    "domain": "eighty.yachts",
+                    "domain": "ninenine.sbs",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "ninenine.sbs",
+                    "domain": "tencent.homes",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "tencent.homes",
+                    "domain": "hundreds.boats",
                     "name": "Server-3",
                     "desc": "websocket"
                 }
