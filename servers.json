@@ -71,6 +71,11 @@
                     "domain": "mayy.cfd",
                     "name": "Server-3",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "juune.beauty",
+                    "name": "Server-4",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
