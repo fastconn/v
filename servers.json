@@ -58,22 +58,17 @@
             ],
             "ws3": [
                 {
-                    "domain": "april.pics",
+                    "domain": "goldens.cyou",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "deceem.sbs",
-                    "name": "Server-5",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "goldens.cyou",
+                    "domain": "silvers.boats",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "silvers.boats",
+                    "domain": "irons.monster",
                     "name": "Server-3",
                     "desc": "websocket"
                 }
