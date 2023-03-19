@@ -58,23 +58,18 @@
             ],
             "ws3": [
                 {
-                    "domain": "january.homes",
+                    "domain": "april.pics",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "feburay.lol",
+                    "domain": "march.hair",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "april.pics",
+                    "domain": "mayy.cfd",
                     "name": "Server-3",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "march.hair",
-                    "name": "Server-4",
                     "desc": "websocket"
                 }
             ],
