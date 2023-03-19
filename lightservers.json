@@ -48,6 +48,10 @@
                 {
                     "domain": "thirties.pics",
                     "name": "Server-3"
+                },
+                {
+                    "domain": "forty.quest",
+                    "name": "Server-4"
                 }
             ]
         }
