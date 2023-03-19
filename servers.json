@@ -58,7 +58,7 @@
             ],
             "ws3": [
                 {
-                    "domain": "ninenine.sbs",
+                    "domain": "hundreds.boats",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
@@ -68,7 +68,7 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "hundreds.boats",
+                    "domain": "thousand.quest",
                     "name": "Server-3",
                     "desc": "websocket"
                 }
