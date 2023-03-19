@@ -56,6 +56,10 @@
                 {
                     "domain": "juliy.click",
                     "name": "Server-5"
+                },
+                {
+                    "domain": "sept.makeup",
+                    "name": "Server-6"
                 }
             ]
         }
