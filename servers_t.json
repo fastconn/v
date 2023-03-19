@@ -39,18 +39,17 @@
                 {
                     "domain": "viewitem.quest",
                     "name": "viewitem"
-                },
+                }
+            ],
+            "ws-bk": [
                 {
-                    "domain": "bmw500.motorcycles",
-                    "name": "bmw500."
-                },
-                {
-                    "domain": "helpcenter.cfd",
-                    "name": "helpcenter"
-                },
-                {
-                    "domain": "bloody.hair",
-                    "name": "bloody"
+                    "from": "2023-03-19 15:20",
+                    "to": "2023-03-19 15:50",
+                    "domains": [
+                        "bmw500.motorcycles",
+                        "helpcenter.cfd",
+                        "bloody.hair"
+                    ]
                 }
             ],
             "servers": [

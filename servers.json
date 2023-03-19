@@ -58,7 +58,7 @@
             ],
             "ws3": [
                 {
-                    "domain": "threestep.click",
+                    "domain": "sevendoll.cfd",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
@@ -73,7 +73,7 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "sevendoll.cfd",
+                    "domain": "ninenine.sbs",
                     "name": "Server-4",
                     "desc": "websocket"
                 }
