@@ -76,6 +76,11 @@
                     "domain": "ninenine.sbs",
                     "name": "Server-4",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "tencent.homes",
+                    "name": "Server-5",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
