@@ -71,6 +71,11 @@
                     "domain": "abelsite.sbs",
                     "name": "Server-3",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "abner.makeup",
+                    "name": "Server-4",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
