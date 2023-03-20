@@ -44,6 +44,10 @@
                 {
                     "domain": "oct.motorcycles",
                     "name": "Server-2"
+                },
+                {
+                    "domain": "titanium.pics",
+                    "name": "Server-3"
                 }
             ]
         }
