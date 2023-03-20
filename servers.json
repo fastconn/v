@@ -58,17 +58,17 @@
             ],
             "ws3": [
                 {
-                    "domain": "irons.monster",
+                    "domain": "abbott.lol",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "abbott.lol",
+                    "domain": "aaronspace.cfd",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "aaronspace.cfd",
+                    "domain": "abelsite.sbs",
                     "name": "Server-3",
                     "desc": "websocket"
                 }
