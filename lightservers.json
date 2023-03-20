@@ -38,16 +38,12 @@
             ],
             "ws3": [
                 {
-                    "domain": "fifty.sbs",
+                    "domain": "sept.makeup",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "sept.makeup",
-                    "name": "Server-2"
-                },
-                {
                     "domain": "oct.motorcycles",
-                    "name": "Server-3"
+                    "name": "Server-2"
                 }
             ]
         }
