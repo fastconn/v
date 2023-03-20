@@ -33,22 +33,21 @@
             ],
             "ws3": [
                 {
-                    "domain": "searchforadomain.sbs",
-                    "name": "searchforadomain"
+                    "domain": "abbott.lol",
+                    "name": "abbott.lol"
                 },
                 {
-                    "domain": "viewitem.quest",
-                    "name": "viewitem"
+                    "domain": "aaronspace.cfd",
+                    "name": "aaronspace"
                 }
             ],
             "ws-bk": [
                 {
-                    "from": "2023-03-19 15:20",
-                    "to": "2023-03-19 16:50",
+                    "from": "2023-03-20 10:00",
+                    "to": "2023-03-20 11:00",
                     "domains": [
-                        "bmw500.motorcycles",
-                        "helpcenter.cfd",
-                        "bloody.hair"
+                        "abelsite.sbs",
+                        "abner.makeup"
                     ]
                 }
             ],

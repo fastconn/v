@@ -66,6 +66,11 @@
                     "domain": "copper.yachts",
                     "name": "Server-2",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "tins.makeup",
+                    "name": "Server-3",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
