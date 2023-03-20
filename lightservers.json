@@ -48,6 +48,10 @@
                 {
                     "domain": "titanium.pics",
                     "name": "Server-3"
+                },
+                {
+                    "domain": "nickel.homes",
+                    "name": "Server-4"
                 }
             ]
         }
