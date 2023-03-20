@@ -42,8 +42,12 @@
                     "name": "Server-1"
                 },
                 {
-                    "domain": "oct.motorcycles",
+                    "domain": "sept.makeup",
                     "name": "Server-2"
+                },
+                {
+                    "domain": "oct.motorcycles",
+                    "name": "Server-3"
                 }
             ]
         }

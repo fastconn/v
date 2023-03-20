@@ -58,18 +58,13 @@
             ],
             "ws3": [
                 {
-                    "domain": "juune.beauty",
+                    "domain": "irons.monster",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "goldens.cyou",
+                    "domain": "copper.yachts",
                     "name": "Server-2",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "irons.monster",
-                    "name": "Server-3",
                     "desc": "websocket"
                 }
             ],
