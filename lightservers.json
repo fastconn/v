@@ -38,20 +38,16 @@
             ],
             "ws3": [
                 {
-                    "domain": "sept.makeup",
+                    "domain": "adairr.cyou",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "titanium.pics",
+                    "domain": "aceer.boats",
                     "name": "Server-2"
                 },
                 {
-                    "domain": "nickel.homes",
+                    "domain": "abbsalom.sbs",
                     "name": "Server-3"
-                },
-                {
-                    "domain": "abraham.lol",
-                    "name": "Server-4"
                 }
             ]
         }

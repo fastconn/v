@@ -58,23 +58,18 @@
             ],
             "ws3": [
                 {
-                    "domain": "abbott.lol",
+                    "domain": "addison.monster",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "abelsite.sbs",
+                    "domain": "zinc.lol",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "abner.makeup",
+                    "domain": "platinum.motorcycles",
                     "name": "Server-3",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "tins.makeup",
-                    "name": "Server-4",
                     "desc": "websocket"
                 }
             ],
