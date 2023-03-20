@@ -63,17 +63,17 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "aaronspace.cfd",
+                    "domain": "abelsite.sbs",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "abelsite.sbs",
+                    "domain": "abner.makeup",
                     "name": "Server-3",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "abner.makeup",
+                    "domain": "tins.makeup",
                     "name": "Server-4",
                     "desc": "websocket"
                 }
