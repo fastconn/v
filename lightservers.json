@@ -52,6 +52,10 @@
                 {
                     "domain": "adaaam.homes",
                     "name": "Server-4"
+                },
+                {
+                    "domain": "cade.quest",
+                    "name": "Server-5"
                 }
             ]
         }
