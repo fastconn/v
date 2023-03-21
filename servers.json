@@ -63,7 +63,7 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "adolf.cfd",
+                    "domain": "baird.autos",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
@@ -88,7 +88,7 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "baird.autos",
+                    "domain": "adolf.cfd",
                     "name": "Server-7",
                     "desc": "websocket"
                 }
