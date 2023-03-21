@@ -68,13 +68,8 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "adolf.cfd",
-                    "name": "Server-3",
-                    "desc": "websocket"
-                },
-                {
                     "domain": "adonis.beauty",
-                    "name": "Server-4",
+                    "name": "Server-3",
                     "desc": "websocket"
                 }
             ],
