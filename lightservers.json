@@ -38,7 +38,7 @@
             ],
             "ws3": [
                 {
-                    "domain": "adairr.cyou",
+                    "domain": "cade.quest",
                     "name": "Server-1"
                 },
                 {
@@ -54,7 +54,7 @@
                     "name": "Server-4"
                 },
                 {
-                    "domain": "cade.quest",
+                    "domain": "adairr.cyou",
                     "name": "Server-5"
                 }
             ]

@@ -58,38 +58,18 @@
             ],
             "ws3": [
                 {
-                    "domain": "addison.monster",
+                    "domain": "baird.autos",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "baird.autos",
+                    "domain": "adonis.beauty",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "adonis.beauty",
+                    "domain": "bancroft.skin",
                     "name": "Server-3",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "adrian.lol",
-                    "name": "Server-4",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "ahern.quest",
-                    "name": "Server-5",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "alann.pics",
-                    "name": "Server-6",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "baldwin.monster",
-                    "name": "Server-7",
                     "desc": "websocket"
                 }
             ],
