@@ -48,6 +48,10 @@
                 {
                     "domain": "abbsalom.sbs",
                     "name": "Server-3"
+                },
+                {
+                    "domain": "adaaam.homes",
+                    "name": "Server-4"
                 }
             ]
         }
