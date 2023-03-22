@@ -46,32 +46,24 @@
             ],
             "ws3": [
                 {
-                    "domain": "beauu.sbs",
+                    "domain": "eamonn.quest",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "beacher.hair",
+                    "domain": "earnest.pics",
                     "name": "Server-2"
                 },
                 {
-                    "domain": "bartholo.cyou",
+                    "domain": "edisonn.shop",
                     "name": "Server-3"
                 },
                 {
-                    "domain": "eamonn.quest",
+                    "domain": "edmund.quest",
                     "name": "Server-4"
                 },
                 {
-                    "domain": "earl.monster",
+                    "domain": "edric.site",
                     "name": "Server-5"
-                },
-                {
-                    "domain": "earnest.pics",
-                    "name": "Server-6"
-                },
-                {
-                    "domain": "edisonn.shop",
-                    "name": "Server-7"
                 }
             ],
             "servers": [
