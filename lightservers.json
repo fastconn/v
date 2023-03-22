@@ -4,13 +4,7 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "productse.cfd",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "b": {
-		        "domain": "grapsejam.cfd",
+		        "domain": "edeen.makeup",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -27,13 +21,7 @@
                     "cfg": "a",
                     "city": "Server-1",
                     "desc": "websocket",
-                    "ip": "productse.cfd"
-                },
-                {
-                    "cfg": "b",
-                    "city": "Server-2",
-                    "desc": "websocket",
-                    "ip": "grapsejam.cfd"
+                    "ip": "edeen.makeup"
                 }
             ],
             "ws3": [

@@ -24,13 +24,7 @@
         },
         "ws": {
 	        "a": {
-                "domain": "orangejuice.site",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            },
-            "b": {
-                "domain": "roofsight.xyz",
+                "domain": "edeen.makeup",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
@@ -47,13 +41,7 @@
                     "cfg": "a",
                     "city":"Server-1",
                     "desc": "websocket",
-                    "ip": "orangejuice.site"
-                },
-                {
-                    "cfg": "b",
-                    "city":"Server-2",
-                    "desc": "websocket",
-                    "ip": "roofsight.xyz"
+                    "ip": "edeen.makeup"
                 }
             ],
             "ws3": [
@@ -75,6 +63,16 @@
                 {
                     "domain": "beauu.sbs",
                     "name": "Server-4",
+                    "desc": "websocket"
+                },
+                {
+                    "domain": "beacher.hair",
+                    "name": "Server-5",
+                    "desc": "websocket"
+                },
+                {
+                    "domain": "bartholo.cyou",
+                    "name": "Server-6",
                     "desc": "websocket"
                 }
             ],
