@@ -46,39 +46,32 @@
             ],
             "ws3": [
                 {
-                    "domain": "basill.boats",
-                    "name": "Server-1",
-                    "desc": "websocket"
-                },
-                {
                     "domain": "beauu.sbs",
-                    "name": "Server-2",
-                    "desc": "websocket"
+                    "name": "Server-1"
                 },
                 {
                     "domain": "beacher.hair",
-                    "name": "Server-3",
-                    "desc": "websocket"
+                    "name": "Server-2"
                 },
                 {
                     "domain": "bartholo.cyou",
-                    "name": "Server-4",
-                    "desc": "websocket"
+                    "name": "Server-3"
                 },
                 {
                     "domain": "eamonn.quest",
-                    "name": "Server-5",
-                    "desc": "websocket"
+                    "name": "Server-4"
                 },
                 {
                     "domain": "earl.monster",
-                    "name": "Server-6",
-                    "desc": "websocket"
+                    "name": "Server-5"
                 },
                 {
                     "domain": "earnest.pics",
-                    "name": "Server-7",
-                    "desc": "websocket"
+                    "name": "Server-6"
+                },
+                {
+                    "domain": "edisonn.shop",
+                    "name": "Server-7"
                 }
             ],
             "servers": [
