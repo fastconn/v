@@ -68,6 +68,10 @@
                 {
                     "domain": "edgaar.cfd",
                     "name": "Server-6"
+                },
+                {
+                    "domain": "egbert.beauty",
+                    "name": "Server-7"
                 }
             ],
             "servers": [
