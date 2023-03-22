@@ -63,23 +63,13 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "adonis.beauty",
+                    "domain": "barder.cfd",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "bancroft.skin",
-                    "name": "Server-3",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "barder.cfd",
-                    "name": "Server-4",
-                    "desc": "websocket"
-                },
-                {
                     "domain": "barlow.yachts",
-                    "name": "Server-5",
+                    "name": "Server-3",
                     "desc": "websocket"
                 }
             ],
