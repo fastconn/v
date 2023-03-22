@@ -74,6 +74,11 @@
                     "domain": "earl.monster",
                     "name": "Server-6",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "earnest.pics",
+                    "name": "Server-7",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
