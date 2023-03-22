@@ -76,6 +76,11 @@
                     "domain": "barneey.cfd",
                     "name": "Server-3",
                     "desc": "websocket"
+                },
+                {
+                    "domain": "basill.boats",
+                    "name": "Server-5",
+                    "desc": "websocket"
                 }
             ],
             "servers": [
