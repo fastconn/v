@@ -58,28 +58,23 @@
             ],
             "ws3": [
                 {
-                    "domain": "barder.cfd",
+                    "domain": "barnett.lol",
                     "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "barlow.yachts",
+                    "domain": "barneey.cfd",
                     "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "barnett.lol",
-                    "name": "Server-4",
-                    "desc": "websocket"
-                },
-                {
-                    "domain": "barneey.cfd",
+                    "domain": "basill.boats",
                     "name": "Server-3",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "basill.boats",
-                    "name": "Server-5",
+                    "domain": "beauu.sbs",
+                    "name": "Server-4",
                     "desc": "websocket"
                 }
             ],
