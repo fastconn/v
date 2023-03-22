@@ -59,12 +59,12 @@
             "ws3": [
                 {
                     "domain": "barder.cfd",
-                    "name": "Server-2",
+                    "name": "Server-1",
                     "desc": "websocket"
                 },
                 {
                     "domain": "barlow.yachts",
-                    "name": "Server-3",
+                    "name": "Server-2",
                     "desc": "websocket"
                 },
                 {
