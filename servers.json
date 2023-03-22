@@ -68,13 +68,13 @@
                     "desc": "websocket"
                 },
                 {
-                    "domain": "barneey.cfd",
-                    "name": "Server-3",
+                    "domain": "barnett.lol",
+                    "name": "Server-4",
                     "desc": "websocket"
                 },
                 {
-                    "domain": "barnett.lol",
-                    "name": "Server-4",
+                    "domain": "barneey.cfd",
+                    "name": "Server-3",
                     "desc": "websocket"
                 }
             ],
