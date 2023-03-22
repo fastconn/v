@@ -46,24 +46,28 @@
             ],
             "ws3": [
                 {
-                    "domain": "eamonn.quest",
+                    "domain": "edisonn.shop",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "earnest.pics",
+                    "domain": "edmund.quest",
                     "name": "Server-2"
                 },
                 {
-                    "domain": "edisonn.shop",
+                    "domain": "edric.site",
                     "name": "Server-3"
-                },
+                }, 
                 {
-                    "domain": "edmund.quest",
+                    "domain": "eddward.xyz",
                     "name": "Server-4"
                 },
                 {
-                    "domain": "edric.site",
+                    "domain": "edwiin.club",
                     "name": "Server-5"
+                },
+                {
+                    "domain": "edgaar.cfd",
+                    "name": "Server-6"
                 }
             ],
             "servers": [
