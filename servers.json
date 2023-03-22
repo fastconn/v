@@ -46,14 +46,6 @@
             ],
             "ws3": [
                 {
-                    "domain": "edmund.quest",
-                    "name": "Server-1"
-                },
-                {
-                    "domain": "edric.site",
-                    "name": "Server-2"
-                }, 
-                {
                     "domain": "eddward.xyz",
                     "name": "Server-3"
                 },
@@ -72,6 +64,10 @@
                 {
                     "domain": "eldred.autos",
                     "name": "Server-7"
+                },
+                {
+                    "domain": "elie.pics",
+                    "name": "Server-8"
                 }
             ],
             "servers": [
