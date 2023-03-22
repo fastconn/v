@@ -54,20 +54,20 @@
                     "name": "Server-4"
                 },
                 {
-                    "domain": "edgaar.cfd",
-                    "name": "Server-5"
-                },
-                {
-                    "domain": "egbert.beauty",
-                    "name": "Server-6"
-                },
-                {
                     "domain": "eldred.autos",
                     "name": "Server-7"
                 },
                 {
                     "domain": "elie.pics",
                     "name": "Server-8"
+                },
+                {
+                    "domain": "benben.homes",
+                    "name": "Server-5"
+                },
+                {
+                    "domain": "beck.monster",
+                    "name": "Server-6"
                 }
             ],
             "servers": [
