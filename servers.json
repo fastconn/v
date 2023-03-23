@@ -50,14 +50,6 @@
                     "name": "Server-1"
                 },
                 {
-                    "domain": "benno.cfd",
-                    "name": "Server-2"
-                },
-                {
-                    "domain": "bergg.motorcycles",
-                    "name": "Server-3"
-                },
-                {
                     "domain": "berger.monster",
                     "name": "Server-4"
                 },
@@ -66,16 +58,12 @@
                     "name": "Server-5"
                 },
                 {
-                    "domain": "bert.makeup",
-                    "name": "Server-6"
+                    "domain": "benno.cfd",
+                    "name": "Server-2"
                 },
                 {
-                    "domain": "berton.cyou",
-                    "name": "Server-7"
-                },
-                {
-                    "domain": "bertram.autos",
-                    "name": "Server-8"
+                    "domain": "bergg.motorcycles",
+                    "name": "Server-3"
                 }
             ],
             "ws-bk": [
