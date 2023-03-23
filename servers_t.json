@@ -43,11 +43,12 @@
             ],
             "ws-bk": [
                 {
-                    "from": "2023-03-20 10:00",
-                    "to": "2023-03-20 11:00",
+                    "from": "2023-03-24 2:00",
+                    "to": "2023-03-24 6:00",
                     "domains": [
-                        "abelsite.sbs",
-                        "abner.makeup"
+                        "bevis.mom",
+                        "bill.motorcycles",
+                        "biing.cfd"
                     ]
                 }
             ],
