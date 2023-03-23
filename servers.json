@@ -60,6 +60,10 @@
                 {
                     "domain": "berger.monster",
                     "name": "Server-4"
+                },
+                {
+                    "domain": "bernard.pics",
+                    "name": "Server-5"
                 }
             ],
             "servers": [
