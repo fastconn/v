@@ -66,16 +66,27 @@
                     "name": "Server-5"
                 },
                 {
-                    "domain": "bernie.quest",
-                    "name": "Server-10"
-                },
-                {
                     "domain": "bert.makeup",
-                    "name": "Server-11"
+                    "name": "Server-6"
                 },
                 {
                     "domain": "berton.cyou",
-                    "name": "Server-12"
+                    "name": "Server-7"
+                },
+                {
+                    "domain": "bertram.autos",
+                    "name": "Server-8"
+                }
+            ],
+            "ws-bk": [
+                {
+                    "from": "2023-03-24 2:00",
+                    "to": "2023-03-24 6:00",
+                    "domains": [
+                        "bevis.mom",
+                        "bill.motorcycles",
+                        "biing.cfd"
+                    ]
                 }
             ],
             "servers": [

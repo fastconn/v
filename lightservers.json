@@ -30,24 +30,35 @@
                     "name": "Server-1"
                 },
                 {
-                    "domain": "adaaam.homes",
-                    "name": "Server-4"
-                },
-                {
                     "domain": "cameeron.sbs",
-                    "name": "Server-5"
+                    "name": "Server-2"
                 },
                 {
                     "domain": "calebb.boats",
-                    "name": "Server-6"
+                    "name": "Server-3"
                 },
                 {
                     "domain": "alonnso.mom",
-                    "name": "Server-7"
+                    "name": "Server-4"
                 },
                 {
-                    "domain": "aceer.boats",
-                    "name": "Server-2"
+                    "domain": "alston.skin",
+                    "name": "Server-5"
+                },
+                {
+                    "domain": "allton.homes",
+                    "name": "Server-6"
+                }
+            ],
+            "ws-bk": [
+                {
+                    "from": "2023-03-24 1:00",
+                    "to": "2023-03-24 6:00",
+                    "domains": [
+                        "carlton.quest",
+                        "carr.lol",
+                        "cartter.autos"
+                    ]
                 }
             ]
         }
