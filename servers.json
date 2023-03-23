@@ -68,6 +68,10 @@
                 {
                     "domain": "elijahn.sbs",
                     "name": "Server-6"
+                },
+                {
+                    "domain": "elliat.shop",
+                    "name": "Server-7"
                 }
             ],
             "servers": [
