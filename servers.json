@@ -50,20 +50,16 @@
                     "name": "Server-1"
                 },
                 {
+                    "domain": "benno.cfd",
+                    "name": "Server-2"
+                },
+                {
                     "domain": "berger.monster",
                     "name": "Server-4"
                 },
                 {
                     "domain": "bernard.pics",
                     "name": "Server-5"
-                },
-                {
-                    "domain": "benno.cfd",
-                    "name": "Server-2"
-                },
-                {
-                    "domain": "bergg.motorcycles",
-                    "name": "Server-3"
                 }
             ],
             "ws-bk": [
