@@ -30,14 +30,6 @@
                     "name": "Server-1"
                 },
                 {
-                    "domain": "aceer.boats",
-                    "name": "Server-2"
-                },
-                {
-                    "domain": "abbsalom.sbs",
-                    "name": "Server-3"
-                },
-                {
                     "domain": "adaaam.homes",
                     "name": "Server-4"
                 },
@@ -52,6 +44,10 @@
                 {
                     "domain": "alonnso.mom",
                     "name": "Server-7"
+                },
+                {
+                    "domain": "aceer.boats",
+                    "name": "Server-2"
                 }
             ]
         }
