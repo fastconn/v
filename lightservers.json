@@ -48,6 +48,10 @@
                 {
                     "domain": "calebb.boats",
                     "name": "Server-6"
+                },
+                {
+                    "domain": "calebb.boats",
+                    "name": "Server-7"
                 }
             ]
         }
