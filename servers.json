@@ -64,6 +64,10 @@
                 {
                     "domain": "bernard.pics",
                     "name": "Server-5"
+                },
+                {
+                    "domain": "elijahn.sbs",
+                    "name": "Server-6"
                 }
             ],
             "servers": [
