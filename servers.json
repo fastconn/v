@@ -66,16 +66,16 @@
                     "name": "Server-5"
                 },
                 {
-                    "domain": "bernd.mom",
-                    "name": "Server-9"
-                },
-                {
                     "domain": "bernie.quest",
                     "name": "Server-10"
                 },
                 {
                     "domain": "bert.makeup",
                     "name": "Server-11"
+                },
+                {
+                    "domain": "berton.cyou",
+                    "name": "Server-12"
                 }
             ],
             "servers": [
