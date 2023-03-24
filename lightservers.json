@@ -26,10 +26,6 @@
             ],
             "ws3": [
                 {
-                    "domain": "cade.quest",
-                    "name": "Server-1"
-                },
-                {
                     "domain": "cameeron.sbs",
                     "name": "Server-2"
                 },
@@ -48,6 +44,10 @@
                 {
                     "domain": "allton.homes",
                     "name": "Server-6"
+                },
+                {
+                    "domain": "cade.quest",
+                    "name": "Server-1"
                 }
             ],
             "ws-bk": [

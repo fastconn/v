@@ -46,20 +46,20 @@
             ],
             "ws3": [
                 {
-                    "domain": "bennet.skin",
+                    "domain": "elroy.quest",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "benno.cfd",
+                    "domain": "eltton.shop",
                     "name": "Server-2"
                 },
                 {
                     "domain": "berger.monster",
-                    "name": "Server-4"
+                    "name": "Server-3"
                 },
                 {
                     "domain": "bernard.pics",
-                    "name": "Server-5"
+                    "name": "Server-4"
                 }
             ],
             "ws-bk": [
