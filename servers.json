@@ -62,16 +62,12 @@
                     "name": "Server-4"
                 },
                 {
-                    "domain": "eric.pics",
+                    "domain": "blaker.click",
                     "name": "Server-5"
                 },
                 {
-                    "domain": "evaan.sbs",
+                    "domain": "blithe.pics",
                     "name": "Server-6"
-                },
-                {
-                    "domain": "everley.cyou",
-                    "name": "Server-7"
                 }
             ],
             "ws-bk": [
