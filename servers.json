@@ -58,10 +58,6 @@
                     "name": "Server-3"
                 },
                 {
-                    "domain": "eugine.cfd",
-                    "name": "Server-4"
-                },
-                {
                     "domain": "blaker.click",
                     "name": "Server-5"
                 },
@@ -72,6 +68,14 @@
                 {
                     "domain": "bobbob.cfd",
                     "name": "Server-7"
+                },
+                {
+                    "domain": "bobbby.cyou",
+                    "name": "Server-8"
+                },
+                {
+                    "domain": "booth.monster",
+                    "name": "Server-9"
                 }
             ],
             "ws-bk": [
