@@ -46,16 +46,15 @@
             ],
             "ws3": [
                 {
-                    "domain": "elroy.quest",
+                    "domain": "elviss.online",
                     "name": "Server-1"
                 },
                 {
-                    
-                    "domain": "eltton.shop",
+                    "domain": "elroy.quest",
                     "name": "Server-2"
                 },
                 {
-                    "domain": "berger.monster",
+                    "domain": "eltton.shop",
                     "name": "Server-3"
                 },
                 {
@@ -64,14 +63,14 @@
                 },
                 {
                     "domain": "elwin.shop",
-                    "name": "Server-6"
-                },
-                {
-                    "domain": "elviss.online",
                     "name": "Server-5"
                 },
                 {
                     "domain": "emmanul.site",
+                    "name": "Server-6"
+                },
+                {
+                    "domain": "bishop.monster",
                     "name": "Server-7"
                 }
             ],
