@@ -58,7 +58,7 @@
                     "name": "Server-3"
                 },
                 {
-                    "domain": "enoch.hair",
+                    "domain": "eugine.cfd",
                     "name": "Server-4"
                 },
                 {
@@ -66,8 +66,12 @@
                     "name": "Server-5"
                 },
                 {
-                    "domain": "ernest.homes",
+                    "domain": "evaan.sbs",
                     "name": "Server-6"
+                },
+                {
+                    "domain": "everley.cyou",
+                    "name": "Server-7"
                 }
             ],
             "ws-bk": [
