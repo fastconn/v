@@ -69,6 +69,10 @@
                 {
                     "domain": "elviss.online",
                     "name": "Server-5"
+                },
+                {
+                    "domain": "emmanul.site",
+                    "name": "Server-7"
                 }
             ],
             "ws-bk": [
