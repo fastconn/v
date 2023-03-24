@@ -78,17 +78,6 @@
                     "name": "Server-9"
                 }
             ],
-            "ws-bk": [
-                {
-                    "from": "2023-03-25 2:00",
-                    "to": "2023-03-25 6:00",
-                    "domains": [
-                        "bevis.mom",
-                        "bill.motorcycles",
-                        "biing.cfd"
-                    ]
-                }
-            ],
             "servers": [
                 {
                     "cc": "de",
