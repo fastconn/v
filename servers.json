@@ -68,6 +68,10 @@
                 {
                     "domain": "blithe.pics",
                     "name": "Server-6"
+                },
+                {
+                    "domain": "bobbob.cfd",
+                    "name": "Server-7"
                 }
             ],
             "ws-bk": [
