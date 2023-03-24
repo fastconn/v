@@ -64,6 +64,10 @@
                 {
                     "domain": "elviss.online",
                     "name": "Server-5"
+                },
+                {
+                    "domain": "elwin.shop",
+                    "name": "Server-6"
                 }
             ],
             "ws-bk": [
