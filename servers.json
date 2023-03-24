@@ -50,28 +50,24 @@
                     "name": "Server-1"
                 },
                 {
-                    "domain": "elroy.quest",
+                    "domain": "emmanul.site",
                     "name": "Server-2"
                 },
                 {
-                    "domain": "eltton.shop",
+                    "domain": "bernard.pics",
                     "name": "Server-3"
                 },
                 {
-                    "domain": "bernard.pics",
+                    "domain": "enoch.hair",
                     "name": "Server-4"
                 },
                 {
-                    "domain": "emmanul.site",
+                    "domain": "eric.pics",
+                    "name": "Server-5"
+                },
+                {
+                    "domain": "ernest.homes",
                     "name": "Server-6"
-                },
-                {
-                    "domain": "blairr.click",
-                    "name": "Server-8"
-                },
-                {
-                    "domain": "enoch.hair",
-                    "name": "Server-9"
                 }
             ],
             "ws-bk": [
