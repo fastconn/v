@@ -58,24 +58,16 @@
                     "name": "Server-3"
                 },
                 {
-                    "domain": "blaker.click",
+                    "domain": "borg.skin",
+                    "name": "Server-4"
+                },
+                {
+                    "domain": "fabian.boats",
                     "name": "Server-5"
                 },
                 {
-                    "domain": "blithe.pics",
+                    "domain": "felixt.cfd",
                     "name": "Server-6"
-                },
-                {
-                    "domain": "bobbob.cfd",
-                    "name": "Server-7"
-                },
-                {
-                    "domain": "bobbby.cyou",
-                    "name": "Server-8"
-                },
-                {
-                    "domain": "booth.monster",
-                    "name": "Server-9"
                 }
             ],
             "servers": [
