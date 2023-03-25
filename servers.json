@@ -50,10 +50,6 @@
                     "name": "Server-1"
                 },
                 {
-                    "domain": "emmanul.site",
-                    "name": "Server-2"
-                },
-                {
                     "domain": "bernard.pics",
                     "name": "Server-3"
                 },
@@ -68,6 +64,10 @@
                 {
                     "domain": "borg.skin",
                     "name": "Server-6"
+                },
+                {
+                    "domain": "biing.cfd",
+                    "name": "Server-7"
                 }
             ],
             "servers": [
