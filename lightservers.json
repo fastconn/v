@@ -26,24 +26,20 @@
             ],
             "ws3": [
                 {
-                    "domain": "cameeron.sbs",
+                    "domain": "cartter.autos",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "calebb.boats",
+                    "domain": "alvin.motorcycles",
                     "name": "Server-2"
                 },
                 {
-                    "domain": "alonnso.mom",
+                    "domain": "alvis.click",
                     "name": "Server-3"
                 },
                 {
-                    "domain": "alston.skin",
+                    "domain": "amadeo.beauty",
                     "name": "Server-4"
-                },
-                {
-                    "domain": "carr.lol",
-                    "name": "Server-5"
                 }
             ]
         }

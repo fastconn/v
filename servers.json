@@ -46,28 +46,20 @@
             ],
             "ws3": [
                 {
-                    "domain": "elviss.online",
+                    "domain": "boris.beauty",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "forder.cfd",
+                    "domain": "borilav.cfd",
+                    "name": "Server-2"
+                },
+                {
+                    "domain": "bowen.monster",
                     "name": "Server-3"
                 },
                 {
-                    "domain": "francis.quest",
+                    "domain": "boyce.skin",
                     "name": "Server-4"
-                },
-                {
-                    "domain": "frankt.sbs",
-                    "name": "Server-5"
-                },
-                {
-                    "domain": "franklin.pics",
-                    "name": "Server-6"
-                },
-                {
-                    "domain": "borg.homes",
-                    "name": "Server-7"
                 }
             ],
             "servers": [
