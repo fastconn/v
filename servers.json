@@ -50,10 +50,6 @@
                     "name": "Server-1"
                 },
                 {
-                    "domain": "fion.yachts",
-                    "name": "Server-2"
-                },
-                {
                     "domain": "forder.cfd",
                     "name": "Server-3"
                 },
@@ -68,6 +64,10 @@
                 {
                     "domain": "franklin.pics",
                     "name": "Server-6"
+                },
+                {
+                    "domain": "borg.homes",
+                    "name": "Server-7"
                 }
             ],
             "servers": [
