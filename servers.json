@@ -50,14 +50,6 @@
                     "name": "Server-1"
                 },
                 {
-                    "domain": "bernard.pics",
-                    "name": "Server-3"
-                },
-                {
-                    "domain": "bill.motorcycles",
-                    "name": "Server-4"
-                },
-                {
                     "domain": "bevis.mom",
                     "name": "Server-5"
                 },
@@ -68,6 +60,14 @@
                 {
                     "domain": "ferdinand.quest",
                     "name": "Server-7"
+                },
+                {
+                    "domain": "fidel.pics",
+                    "name": "Server-8"
+                },
+                {
+                    "domain": "fido.homes",
+                    "name": "Server-9"
                 }
             ],
             "servers": [
