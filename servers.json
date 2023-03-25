@@ -62,16 +62,12 @@
                     "name": "Server-5"
                 },
                 {
-                    "domain": "borg.skin",
+                    "domain": "felixt.cfd",
                     "name": "Server-6"
                 },
                 {
-                    "domain": "biing.cfd",
+                    "domain": "ferdinand.quest",
                     "name": "Server-7"
-                },
-                {
-                    "domain": "fabian.boats",
-                    "name": "Server-8"
                 }
             ],
             "servers": [
