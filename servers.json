@@ -50,24 +50,24 @@
                     "name": "Server-1"
                 },
                 {
-                    "domain": "bevis.mom",
-                    "name": "Server-5"
-                },
-                {
                     "domain": "felixt.cfd",
-                    "name": "Server-6"
-                },
-                {
-                    "domain": "ferdinand.quest",
-                    "name": "Server-7"
+                    "name": "Server-2"
                 },
                 {
                     "domain": "fidel.pics",
-                    "name": "Server-8"
+                    "name": "Server-3"
                 },
                 {
                     "domain": "fido.homes",
-                    "name": "Server-9"
+                    "name": "Server-4"
+                },
+                {
+                    "domain": "fion.yachts",
+                    "name": "Server-5"
+                },
+                {
+                    "domain": "fitch.lol",
+                    "name": "Server-6"
                 }
             ],
             "servers": [
