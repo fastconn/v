@@ -40,6 +40,10 @@
                 {
                     "domain": "amadeo.beauty",
                     "name": "Server-4"
+                },
+                {
+                    "domain": "amos.boats",
+                    "name": "Server-5"
                 }
             ]
         }
