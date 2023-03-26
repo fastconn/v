@@ -64,6 +64,10 @@
                 {
                     "domain": "boyed.sbs",
                     "name": "Server-5"
+                },
+                {
+                    "domain": "elviss.online",
+                    "name": "Server-6"
                 }
             ],
             "servers": [
