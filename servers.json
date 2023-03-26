@@ -64,6 +64,10 @@
                 {
                     "domain": "broderiq.lol",
                     "name": "Server-5"
+                },
+                {
+                    "domain": "buck.monster",
+                    "name": "Server-6"
                 }
             ],
             "servers": [
