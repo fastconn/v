@@ -76,6 +76,10 @@
                 {
                     "domain": "brent.autos",
                     "name": "Server-8"
+                },
+                {
+                    "domain": "emmanul.site",
+                    "name": "Server-9"
                 }
             ],
             "servers": [
