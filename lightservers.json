@@ -52,6 +52,10 @@
                 {
                     "domain": "andre.hair",
                     "name": "Server-7"
+                },
+                {
+                    "domain": "cashier.homes",
+                    "name": "Server-8"
                 }
             ]
         }
