@@ -60,6 +60,10 @@
                 {
                     "domain": "boyce.skin",
                     "name": "Server-4"
+                },
+                {
+                    "domain": "boyed.sbs",
+                    "name": "Server-5"
                 }
             ],
             "servers": [
