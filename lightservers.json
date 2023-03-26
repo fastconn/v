@@ -53,26 +53,6 @@
                     "domain": "andre.hair",
                     "name": "Server-7"
                 }
-            ],
-            "ws-bk": [
-                {
-                    "from": "2023-03-27 1:00",
-                    "to": "2023-03-27 4:00",
-                    "domains": [
-                        "cashier.homes",
-                        "cashest.click",
-                        "cecil.yachts"
-                    ]
-                },
-                {
-                    "from": "2023-03-27 4:00",
-                    "to": "2023-03-27 7:00",
-                    "domains": [
-                        "cedric.skin",
-                        "cedrec.quest",
-                        "chadd.sbs"
-                    ]
-                }
             ]
         }
     ]

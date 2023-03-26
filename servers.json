@@ -46,7 +46,7 @@
             ],
             "ws3": [
                 {
-                    "domain": "boris.beauty",
+                    "domain": "emmanul.site",
                     "name": "Server-1"
                 },
                 {
@@ -58,44 +58,20 @@
                     "name": "Server-3"
                 },
                 {
-                    "domain": "elviss.online",
+                    "domain": "briant.shop",
                     "name": "Server-4"
                 },
                 {
-                    "domain": "bradyr.cfd",
+                    "domain": "broderick.shop",
                     "name": "Server-5"
                 },
                 {
-                    "domain": "bradnon.cyou",
+                    "domain": "broderiq.lol",
                     "name": "Server-6"
                 },
                 {
-                    "domain": "emmanul.site",
+                    "domain": "brook.quest",
                     "name": "Server-7"
-                },
-                {
-                    "domain": "briane.sbs",
-                    "name": "Server-8"
-                }
-            ],
-            "ws-bk": [
-                {
-                    "from": "2023-03-27 1:00",
-                    "to": "2023-03-27 4:00",
-                    "domains": [
-                        "broderick.shop",
-                        "broderiq.lol",
-                        "brook.quest"
-                    ]
-                },
-                {
-                    "from": "2023-03-27 4:00",
-                    "to": "2023-03-27 7:00",
-                    "domains": [
-                        "bruno.beauty",
-                        "buck.monster",
-                        "bucks.makeup"
-                    ]
                 }
             ],
             "servers": [
