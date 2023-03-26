@@ -40,6 +40,10 @@
                 {
                     "domain": "cashest.click",
                     "name": "Server-4"
+                },
+                {
+                    "domain": "cecil.yachts",
+                    "name": "Server-5"
                 }
             ]
         }
