@@ -66,20 +66,36 @@
                     "name": "Server-5"
                 },
                 {
-                    "domain": "bradley.pics",
+                    "domain": "bradnon.cyou",
                     "name": "Server-6"
                 },
                 {
-                    "domain": "bradnon.cyou",
+                    "domain": "emmanul.site",
                     "name": "Server-7"
                 },
                 {
-                    "domain": "brent.autos",
+                    "domain": "briane.sbs",
                     "name": "Server-8"
+                }
+            ],
+            "ws-bk": [
+                {
+                    "from": "2023-03-27 1:00",
+                    "to": "2023-03-27 4:00",
+                    "domains": [
+                        "broderick.shop",
+                        "broderiq.lol",
+                        "brook.quest"
+                    ]
                 },
                 {
-                    "domain": "emmanul.site",
-                    "name": "Server-9"
+                    "from": "2023-03-27 4:00",
+                    "to": "2023-03-27 7:00",
+                    "domains": [
+                        "bruno.beauty",
+                        "buck.monster",
+                        "bucks.makeup"
+                    ]
                 }
             ],
             "servers": [
