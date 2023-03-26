@@ -44,6 +44,10 @@
                 {
                     "domain": "amos.boats",
                     "name": "Server-5"
+                },
+                {
+                    "domain": "anders.yachts",
+                    "name": "Server-6"
                 }
             ]
         }
