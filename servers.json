@@ -58,16 +58,16 @@
                     "name": "Server-3"
                 },
                 {
-                    "domain": "broderick.shop",
-                    "name": "Server-4"
-                },
-                {
                     "domain": "danaa.cyou",
                     "name": "Server-5"
                 },
                 {
                     "domain": "daniell.makeup",
                     "name": "Server-6"
+                },
+                {
+                    "domain": "dante.boats",
+                    "name": "Server-7"
                 }
             ],
             "servers": [
