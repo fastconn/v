@@ -68,6 +68,10 @@
                 {
                     "domain": "davide.mom",
                     "name": "Server-6"
+                },
+                {
+                    "domain": "davist.pics",
+                    "name": "Server-7"
                 }
             ],
             "servers": [
