@@ -50,14 +50,6 @@
                     "name": "Server-1"
                 },
                 {
-                    "domain": "bowen.monster",
-                    "name": "Server-2"
-                },
-                {
-                    "domain": "dante.boats",
-                    "name": "Server-3"
-                },
-                {
                     "domain": "darcy.beauty",
                     "name": "Server-4"
                 },
@@ -72,6 +64,10 @@
                 {
                     "domain": "burgess.lol",
                     "name": "Server-7"
+                },
+                {
+                    "domain": "burker.yachts",
+                    "name": "Server-8"
                 }
             ],
             "servers": [
