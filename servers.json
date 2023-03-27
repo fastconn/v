@@ -50,6 +50,10 @@
                     "name": "Server-1"
                 },
                 {
+                    "domain": "bowen.monster",
+                    "name": "Server-2"
+                },
+                {
                     "domain": "darcy.beauty",
                     "name": "Server-4"
                 },
