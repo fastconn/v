@@ -48,6 +48,10 @@
                 {
                     "domain": "cedrec.quest",
                     "name": "Server-6"
+                },
+                {
+                    "domain": "chadd.sbs",
+                    "name": "Server-7"
                 }
             ]
         }
