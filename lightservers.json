@@ -26,32 +26,28 @@
             ],
             "ws3": [
                 {
-                    "domain": "cartter.autos",
+                    "domain": "cashest.click",
                     "name": "Server-1"
                 },
                 {
-                    "domain": "alvin.motorcycles",
+                    "domain": "cecil.yachts",
                     "name": "Server-2"
                 },
                 {
-                    "domain": "cashest.click",
+                    "domain": "cedric.skin",
                     "name": "Server-3"
                 },
                 {
-                    "domain": "cecil.yachts",
+                    "domain": "chadd.sbs",
                     "name": "Server-4"
                 },
                 {
-                    "domain": "cedric.skin",
+                    "domain": "anderw.cfd",
                     "name": "Server-5"
                 },
                 {
-                    "domain": "chadd.sbs",
+                    "domain": "andyr.cyou",
                     "name": "Server-6"
-                },
-                {
-                    "domain": "anderw.cfd",
-                    "name": "Server-7"
                 }
             ]
         }
