@@ -38,16 +38,12 @@
                     "name": "Server-3"
                 },
                 {
-                    "domain": "chadd.sbs",
+                    "domain": "angelo.beauty",
                     "name": "Server-4"
                 },
                 {
-                    "domain": "angelo.beauty",
-                    "name": "Server-6"
-                },
-                {
                     "domain": "augus.pics",
-                    "name": "Server-7"
+                    "name": "Server-5"
                 }
             ]
         }

@@ -47,31 +47,27 @@
             "ws3": [
                 {
                     "domain": "bowen.monster",
-                    "name": "Server-2"
-                },
-                {
-                    "domain": "burt.makeup",
-                    "name": "Server-3"
-                },
-                {
-                    "domain": "emmanul.site",
                     "name": "Server-1"
                 },
                 {
                     "domain": "darren.homes",
-                    "name": "Server-4"
+                    "name": "Server-2"
                 },
                 {
                     "domain": "dave.autos",
-                    "name": "Server-5"
+                    "name": "Server-3"
                 },
                 {
                     "domain": "davide.mom",
-                    "name": "Server-6"
+                    "name": "Server-4"
                 },
                 {
                     "domain": "davist.pics",
-                    "name": "Server-7"
+                    "name": "Server-5"
+                },
+                {
+                    "domain": "deann.skin",
+                    "name": "Server-6"
                 }
             ],
             "servers": [
