@@ -44,6 +44,10 @@
                 {
                     "domain": "cedric.skin",
                     "name": "Server-5"
+                },
+                {
+                    "domain": "cedrec.quest",
+                    "name": "Server-6"
                 }
             ]
         }
