@@ -1,6 +1,6 @@
 {
-    "ageM": 15,
-    "v": 20230315,
+    "ageM": 5,
+    "v": 20230327,
     "cfgs": {
         "ws": {
             "a": {
@@ -46,11 +46,11 @@
                     "name": "Server-5"
                 },
                 {
-                    "domain": "cedrec.quest",
+                    "domain": "chadd.sbs",
                     "name": "Server-6"
                 },
                 {
-                    "domain": "chadd.sbs",
+                    "domain": "anderw.cfd",
                     "name": "Server-7"
                 }
             ]
