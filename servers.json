@@ -54,24 +54,24 @@
                     "name": "Server-2"
                 },
                 {
-                    "domain": "darcy.beauty",
-                    "name": "Server-4"
-                },
-                {
-                    "domain": "darnell.homes",
-                    "name": "Server-5"
-                },
-                {
                     "domain": "burt.makeup",
-                    "name": "Server-6"
+                    "name": "Server-3"
                 },
                 {
                     "domain": "burgess.lol",
-                    "name": "Server-7"
+                    "name": "Server-4"
                 },
                 {
                     "domain": "burker.yachts",
-                    "name": "Server-8"
+                    "name": "Server-5"
+                },
+                {
+                    "domain": "burtonn.sbs",
+                    "name": "Server-6"
+                },
+                {
+                    "domain": "byron.quest",
+                    "name": "Server-7"
                 }
             ],
             "servers": [
