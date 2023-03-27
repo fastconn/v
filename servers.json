@@ -46,10 +46,6 @@
             ],
             "ws3": [
                 {
-                    "domain": "emmanul.site",
-                    "name": "Server-1"
-                },
-                {
                     "domain": "bowen.monster",
                     "name": "Server-2"
                 },
@@ -66,15 +62,19 @@
                     "name": "Server-5"
                 },
                 {
-                    "domain": "byratt.cfd",
-                    "name": "Server-6"
+                    "domain": "emmanul.site",
+                    "name": "Server-1"
                 },
                 {
                     "domain": "darren.homes",
-                    "name": "Server-7"
+                    "name": "Server-6"
                 },
                 {
                     "domain": "dave.autos",
+                    "name": "Server-7"
+                },
+                {
+                    "domain": "davide.mom",
                     "name": "Server-8"
                 }
             ],
