@@ -68,6 +68,10 @@
                 {
                     "domain": "dempsey.hair",
                     "name": "Server-6"
+                },
+                {
+                    "domain": "denis.yachts",
+                    "name": "Server-7"
                 }
             ],
             "servers": [
