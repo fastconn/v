@@ -58,20 +58,16 @@
                     "name": "Server-3"
                 },
                 {
-                    "domain": "gale.makeup",
+                    "domain": "galen.quest",
                     "name": "Server-4"
                 },
                 {
-                    "domain": "galen.quest",
+                    "domain": "garths.cfd",
                     "name": "Server-5"
                 },
                 {
-                    "domain": "garths.cfd",
-                    "name": "Server-6"
-                },
-                {
                     "domain": "garyd.sbs",
-                    "name": "Server-7"
+                    "name": "Server-6"
                 }
             ],
             "servers": [
