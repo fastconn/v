@@ -44,6 +44,10 @@
                 {
                     "domain": "ansel.homes",
                     "name": "Server-5"
+                },
+                {
+                    "domain": "chance.boats",
+                    "name": "Server-6"
                 }
             ]
         }
