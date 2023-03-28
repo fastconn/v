@@ -64,6 +64,10 @@
                 {
                     "domain": "delbert.shop",
                     "name": "Server-5"
+                },
+                {
+                    "domain": "dempsey.hair",
+                    "name": "Server-6"
                 }
             ],
             "servers": [
