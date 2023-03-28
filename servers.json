@@ -54,20 +54,16 @@
                     "name": "Server-2"
                 },
                 {
-                    "domain": "dave.autos",
+                    "domain": "davist.pics",
                     "name": "Server-3"
                 },
                 {
-                    "domain": "davide.mom",
+                    "domain": "deann.skin",
                     "name": "Server-4"
                 },
                 {
-                    "domain": "davist.pics",
+                    "domain": "delbert.shop",
                     "name": "Server-5"
-                },
-                {
-                    "domain": "deann.skin",
-                    "name": "Server-6"
                 }
             ],
             "servers": [
