@@ -50,32 +50,20 @@
                     "name": "Server-1"
                 },
                 {
-                    "domain": "darren.homes",
+                    "domain": "dicks.monster",
                     "name": "Server-2"
                 },
                 {
-                    "domain": "galen.quest",
+                    "domain": "domini.homes",
+                    "name": "Server-3"
+                },
+                {
+                    "domain": "dondon.click",
                     "name": "Server-4"
                 },
                 {
-                    "domain": "garths.cfd",
+                    "domain": "donaldt.quest",
                     "name": "Server-5"
-                },
-                {
-                    "domain": "garyd.sbs",
-                    "name": "Server-6"
-                },
-                {
-                    "domain": "gavin.skin",
-                    "name": "Server-7"
-                },
-                {
-                    "domain": "gene.monster",
-                    "name": "Server-8"
-                },
-                {
-                    "domain": "deven.beauty",
-                    "name": "Server-9"
                 }
             ],
             "servers": [
