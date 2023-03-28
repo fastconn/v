@@ -68,6 +68,10 @@
                 {
                     "domain": "garyd.sbs",
                     "name": "Server-6"
+                },
+                {
+                    "domain": "gavin.skin",
+                    "name": "Server-7"
                 }
             ],
             "servers": [
