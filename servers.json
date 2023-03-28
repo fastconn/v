@@ -68,6 +68,10 @@
                 {
                     "domain": "garths.cfd",
                     "name": "Server-6"
+                },
+                {
+                    "domain": "garyd.sbs",
+                    "name": "Server-7"
                 }
             ],
             "servers": [
