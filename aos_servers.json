@@ -4,8 +4,7 @@
         "age": 10,
         "r": [
             {
-                "cc": "US",
-                "n": "New York City",
+                "cc": "US", "n": "New York City",
                 "s": [
                     { "pr": 1, "i": "216.39.249.163" },
                     { "pr": 2, "i": "216.39.249.163" },
@@ -13,8 +12,7 @@
                 ]
             },
             {
-                "cc": "DE",
-                "n": "Frankfurt",
+                "cc": "DE", "n": "Frankfurt",
                 "s": [
                     { "pr": 1, "i": "193.108.119.214" },
                     { "pr": 2, "i": "193.108.119.214" },
@@ -26,22 +24,12 @@
                 ]
             },
             {
-                "n": "Server-1",
-                "ws": true,
-                "s": [
-                    {
-                        "pr": 4, "name": "Global", "i": "eedd.cfd"
-                    }
-                ]
+                "n": "Server-1", "ws": true,
+                "s": [ { "pr": 4, "name": "Global", "i": "eedd.cfd" } ]
             },
             {
-                "n": "Server-2",
-                "ws": true,
-                "s": [
-                    {
-                        "pr": 4, "name": "Global", "i": "alvvin.click"
-                    }
-                ]
+                "n": "Server-2", "ws": true,
+                "s": [ { "pr": 4, "name": "Global", "i": "alvvin.click" } ]
             }
         ],
         "rv": []
