@@ -50,7 +50,8 @@
                 { "name": "Server-3", "domain": "geoffrey.quest" },
                 { "name": "Server-4", "domain": "geoff.sbs" },
                 { "name": "Server-5", "domain": "georger.pics" },
-                { "name": "Server-6", "domain": "geraldd.cfd" }
+                { "name": "Server-6", "domain": "geraldd.cfd" },
+                { "name": "Server-7", "domain": "gerben.beauty" }
             ],
             "servers": [
                 {
