@@ -48,10 +48,9 @@
                 {"v": "main"},
                 { "name": "Server-1", "domain": "bowen.monster" },
                 { "name": "Server-2", "domain": "driscoll.pics" },
-                { "name": "Server-3", "domain": "dukeke.sbs" },
-                { "name": "Server-4", "domain": "dwight.homes" },
-                { "name": "Server-5", "domain": "dylann.cyou" },
-                { "name": "Server-6", "domain": "glenn.monster" }
+                { "name": "Server-3", "domain": "dylann.cyou" },
+                { "name": "Server-4", "domain": "glenn.monster" },
+                { "name": "Server-5", "domain": "godfery.mom" }
             ],
             "servers": [
                 {
