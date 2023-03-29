@@ -28,9 +28,9 @@
                 { "name": "Server-1", "domain": "cecil.yachts" },
                 { "name": "Server-2", "domain": "angelo.beauty" },
                 { "name": "Server-3", "domain": "augus.pics" },
-                { "name": "Server-4", "domain": "august.yachts" },
-                { "name": "Server-5", "domain": "charlie.pics" },
-                { "name": "Server-6", "domain": "chasel.sbs" }
+                { "name": "Server-4", "domain": "charlie.pics" },
+                { "name": "Server-5", "domain": "chasel.sbs" },
+                { "name": "Server-6", "domain": "angus.lol" }
             ]
         }
     ]
