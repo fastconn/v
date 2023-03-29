@@ -26,24 +26,19 @@
             ],
             "ws3": [
                 {
-                    "domain": "cecil.yachts",
-                    "name": "Server-1"
+                    "name": "Server-1", "domain": "cecil.yachts"
                 },
                 {
-                    "domain": "angelo.beauty",
-                    "name": "Server-2"
+                    "name": "Server-2", "domain": "angelo.beauty"
                 },
                 {
-                    "domain": "augus.pics",
-                    "name": "Server-3"
+                    "name": "Server-3", "domain": "augus.pics"
                 },
                 {
-                    "domain": "august.yachts",
-                    "name": "Server-4"
+                    "name": "Server-4", "domain": "august.yachts"
                 },
                 {
-                    "domain": "channing.beauty",
-                    "name": "Server-5"
+                    "name": "Server-5", "domain": "channing.beauty"
                 }
             ]
         }

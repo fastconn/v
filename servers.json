@@ -46,24 +46,19 @@
             ],
             "ws3": [
                 {
-                    "domain": "bowen.monster",
-                    "name": "Server-1"
+                    "name": "Server-1", "domain": "bowen.monster"
                 },
                 {
-                    "domain": "dicks.monster",
-                    "name": "Server-2"
+                    "name": "Server-2", "domain": "dicks.monster"
                 },
                 {
-                    "domain": "domini.homes",
-                    "name": "Server-3"
+                    "name": "Server-3", "domain": "domini.homes"
                 },
                 {
-                    "domain": "dondon.click",
-                    "name": "Server-4"
+                    "name": "Server-4", "domain": "dondon.click"
                 },
                 {
-                    "domain": "donaldt.quest",
-                    "name": "Server-5"
+                    "name": "Server-5", "domain": "donaled.pics"
                 }
             ],
             "servers": [
