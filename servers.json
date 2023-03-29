@@ -48,10 +48,10 @@
                 {"v": "main"},
                 { "name": "Server-1", "domain": "bowen.monster" },
                 { "name": "Server-2", "domain": "geoffrey.quest" },
-                { "name": "Server-3", "domain": "geoff.sbs" },
-                { "name": "Server-5", "domain": "giless.hair" },
-                { "name": "Server-6", "domain": "donahue.lol" },
-                { "name": "Server-7", "domain": "douglas.quest" }
+                { "name": "Server-3", "domain": "giless.hair" },
+                { "name": "Server-4", "domain": "donahue.lol" },
+                { "name": "Server-5", "domain": "douglas.quest" },
+                { "name": "Server-6", "domain": "drew.makeup" }
             ],
             "servers": [
                 {
