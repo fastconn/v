@@ -49,9 +49,9 @@
                 { "name": "Server-1", "domain": "bowen.monster" },
                 { "name": "Server-2", "domain": "geoffrey.quest" },
                 { "name": "Server-3", "domain": "geoff.sbs" },
-                { "name": "Server-4", "domain": "gerben.beauty" },
                 { "name": "Server-5", "domain": "giless.hair" },
-                { "name": "Server-6", "domain": "donahue.lol" }
+                { "name": "Server-6", "domain": "donahue.lol" },
+                { "name": "Server-7", "domain": "douglas.quest" }
             ],
             "servers": [
                 {
