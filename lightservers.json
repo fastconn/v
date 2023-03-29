@@ -29,8 +29,7 @@
                 { "name": "Server-2", "domain": "angelo.beauty" },
                 { "name": "Server-3", "domain": "augus.pics" },
                 { "name": "Server-4", "domain": "charlie.pics" },
-                { "name": "Server-5", "domain": "chasel.sbs" },
-                { "name": "Server-6", "domain": "ansel.boats" }
+                { "name": "Server-5", "domain": "ansel.boats" }
             ]
         }
     ]
