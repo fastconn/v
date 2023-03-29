@@ -49,9 +49,9 @@
                 { "name": "Server-1", "domain": "bowen.monster" },
                 { "name": "Server-2", "domain": "driscoll.pics" },
                 { "name": "Server-3", "domain": "dukeke.sbs" },
-                { "name": "Server-4", "domain": "dunn.monster" },
-                { "name": "Server-5", "domain": "duncane.cfd" },
-                { "name": "Server-6", "domain": "dwight.homes" }
+                { "name": "Server-4", "domain": "dwight.homes" },
+                { "name": "Server-5", "domain": "dylann.cyou" },
+                { "name": "Server-g", "domain": "glenn.monster" }
             ],
             "servers": [
                 {
