@@ -47,7 +47,7 @@
             "ws3": [
                 {"v": "main"},
                 { "name": "Server-1", "domain": "bowen.monster" },
-                { "name": "Server-2", "domain": "dicks.monster" },
+                { "name": "Server-2", "domain": "" },
                 { "name": "Server-3", "domain": "geoffrey.quest" },
                 { "name": "Server-4", "domain": "geoff.sbs" },
                 { "name": "Server-5", "domain": "georger.pics" },
