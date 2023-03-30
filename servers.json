@@ -48,10 +48,9 @@
                 {"memo": "main"},
                 { "name": "Server-1", "domain": "bowen.monster" },
                 { "name": "Server-2", "domain": "grodon.cfd" },
-                { "name": "Server-3", "domain": "hamilton.quest" },
-                { "name": "Server-4", "domain": "hardy.monster" },
-                { "name": "Server-5", "domain": "harlan.yachts" },
-                { "name": "Server-6", "domain": "harleyd.sbs" }
+                { "name": "Server-3", "domain": "harlan.yachts" },
+                { "name": "Server-4", "domain": "harleyd.sbs" },
+                { "name": "Server-5", "domain": "harolde.shop" }
             ],
             "servers": [
                 {
