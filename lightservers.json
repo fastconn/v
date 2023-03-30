@@ -27,10 +27,10 @@
             "ws3": [
                 { "name": "Server-1", "domain": "antony.homes" },
                 { "name": "Server-2", "domain": "angelo.beauty" },
-                { "name": "Server-2", "domain": "antoine.quest" },
-                { "name": "Server-3", "domain": "archer.monster" },
-                { "name": "Server-4", "domain": "chasel.click" },
-                { "name": "Server-5", "domain": "chester.boats" }
+                { "name": "Server-3", "domain": "antoine.quest" },
+                { "name": "Server-4", "domain": "archer.monster" },
+                { "name": "Server-5", "domain": "chasel.click" },
+                { "name": "Server-6", "domain": "chester.boats" }
             ]
         }
     ]
