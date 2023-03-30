@@ -48,9 +48,9 @@
                 {"v": "main"},
                 { "name": "Server-1", "domain": "bowen.monster" },
                 { "name": "Server-2", "domain": "godard.sbs" },
-                { "name": "Server-3", "domain": "gordonn.skin" },
-                { "name": "Server-4", "domain": "gregg.yachts" },
-                { "name": "Server-5", "domain": "gregary.shop" }
+                { "name": "Server-3", "domain": "gregg.yachts" },
+                { "name": "Server-4", "domain": "gregary.shop" },
+                { "name": "Server-5", "domain": "griffith.quest" }
             ],
             "servers": [
                 {
