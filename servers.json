@@ -48,9 +48,10 @@
                 {"v": "main"},
                 { "name": "Server-1", "domain": "bowen.monster" },
                 { "name": "Server-2", "domain": "gregg.yachts" },
-                { "name": "Server-3", "domain": "gregary.shop" },
+                { "name": "Server-3", "domain": "griffith.quest" },
                 { "name": "Server-4", "domain": "grodon.cfd" },
-                { "name": "Server-5", "domain": "grover.boats" }
+                { "name": "Server-5", "domain": "grover.boats" },
+                { "name": "Server-6", "domain": "gustave.homes" }
             ],
             "servers": [
                 {
