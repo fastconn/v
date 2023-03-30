@@ -47,11 +47,10 @@
             "ws3": [
                 {"v": "main"},
                 { "name": "Server-1", "domain": "bowen.monster" },
-                { "name": "Server-2", "domain": "godard.sbs" },
-                { "name": "Server-3", "domain": "gregg.yachts" },
-                { "name": "Server-4", "domain": "gregary.shop" },
-                { "name": "Server-6", "domain": "grodon.cfd" },
-                { "name": "Server-7", "domain": "grover.boats" }
+                { "name": "Server-2", "domain": "gregg.yachts" },
+                { "name": "Server-3", "domain": "gregary.shop" },
+                { "name": "Server-4", "domain": "grodon.cfd" },
+                { "name": "Server-5", "domain": "grover.boats" }
             ],
             "servers": [
                 {
