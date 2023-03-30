@@ -27,7 +27,9 @@
             "ws3": [
                 { "name": "Server-1", "domain": "cecil.yachts" },
                 { "name": "Server-2", "domain": "angelo.beauty" },
-                { "name": "Server-3", "domain": "augus.pics" }
+                { "name": "Server-3", "domain": "augus.pics" },
+                { "name": "Server-4", "domain": "antony.homes" },
+                { "name": "Server-5", "domain": "antonio.boats" }
             ]
         }
     ]

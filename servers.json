@@ -49,7 +49,9 @@
                 { "name": "Server-1", "domain": "bowen.monster" },
                 { "name": "Server-2", "domain": "driscoll.pics" },
                 { "name": "Server-3", "domain": "dylann.cyou" },
-                { "name": "Server-4", "domain": "godfery.mom" }
+                { "name": "Server-4", "domain": "godfery.mom" },
+                { "name": "Server-5", "domain": "godard.sbs" },
+                { "name": "Server-6", "domain": "gordonn.skin" }
             ],
             "servers": [
                 {
