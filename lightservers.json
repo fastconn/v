@@ -26,11 +26,10 @@
             ],
             "ws3": [
                 {"memo": "light"},
-                { "name": "Server-1", "domain": "archer.monster" },
-                { "name": "Server-2", "domain": "chasel.click" },
-                { "name": "Server-3", "domain": "chester.boats" },
-                { "name": "Server-4", "domain": "clare.homes" },
-                { "name": "Server-5", "domain": "archibald.beauty" }
+                { "name": "Server-1", "domain": "clare.homes" },
+                { "name": "Server-2", "domain": "archibald.beauty" },
+                { "name": "Server-3", "domain": "ari.autos" },
+                { "name": "Server-4", "domain": "ariese.pics" }
             ]
         }
     ]
