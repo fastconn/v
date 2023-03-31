@@ -48,10 +48,10 @@
                 {"memo": "main"},
                 { "name": "Server-1", "domain": "bowen.monster" },
                 { "name": "Server-2", "domain": "harlan.yachts" },
-                { "name": "Server-3", "domain": "harleyd.sbs" },
-                { "name": "Server-4", "domain": "harvey.mom" },
-                { "name": "Server-5", "domain": "harvie.cyou" },
-                { "name": "Server-6", "domain": "hayden.monster" }
+                { "name": "Server-3", "domain": "harvey.mom" },
+                { "name": "Server-4", "domain": "harvie.cyou" },
+                { "name": "Server-5", "domain": "hayden.monster" },
+                { "name": "Server-6", "domain": "heather.lol" }
             ],
             "servers": [
                 {
