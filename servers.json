@@ -47,11 +47,11 @@
             "ws3": [
                 {"memo": "main"},
                 { "name": "Server-1", "domain": "bowen.monster" },
-                { "name": "Server-2", "domain": "harlan.yachts" },
-                { "name": "Server-3", "domain": "harvey.mom" },
-                { "name": "Server-4", "domain": "harvie.cyou" },
-                { "name": "Server-5", "domain": "hayden.monster" },
-                { "name": "Server-6", "domain": "heather.lol" }
+                { "name": "Server-2", "domain": "harvie.cyou" },
+                { "name": "Server-3", "domain": "hayden.monster" },
+                { "name": "Server-4", "domain": "heather.lol" },
+                { "name": "Server-5", "domain": "henrry.cfd" },
+                { "name": "Server-6", "domain": "herbert.boats" }
             ],
             "servers": [
                 {
