@@ -52,7 +52,8 @@
                 { "name": "Server-4", "domain": "ingram.lol", "desc": "websocket" },
                 { "name": "Server-5", "domain": "ignatius.cfd", "desc": "websocket" },
                 { "name": "Server-6", "domain": "ira.motorcycles", "desc": "websocket" },
-                { "name": "Server-7", "domain": "isaac.cyou", "desc": "websocket" }
+                { "name": "Server-7", "domain": "isidore.sbs", "desc": "websocket" },
+                { "name": "Server-8", "domain": "ivan.hair", "desc": "websocket" }
             ],
             "servers": [
                 {
