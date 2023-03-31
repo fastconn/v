@@ -30,7 +30,8 @@
                 { "name": "Server-2", "domain": "archibald.beauty" },
                 { "name": "Server-3", "domain": "ari.autos" },
                 { "name": "Server-4", "domain": "ariese.pics" },
-                { "name": "Server-5", "domain": "arkell.sbs" }
+                { "name": "Server-5", "domain": "arkell.sbs" },
+                { "name": "Server-6", "domain": "arlen.pics" }
             ]
         }
     ]
