@@ -27,10 +27,10 @@
             "ws3": [
                 {"memo": "light"},
                 { "name": "Server-1", "domain": "clare.homes" },
-                { "name": "Server-2", "domain": "archibald.beauty" },
-                { "name": "Server-3", "domain": "ari.autos" },
-                { "name": "Server-4", "domain": "clarks.monster" },
-                { "name": "Server-5", "domain": "clayblue.cfd" }
+                { "name": "Server-2", "domain": "clarks.monster" },
+                { "name": "Server-3", "domain": "clayblue.cfd" },
+                { "name": "Server-4", "domain": "claude.mom" },
+                { "name": "Server-5", "domain": "clement.lol" }
             ]
         }
     ]
