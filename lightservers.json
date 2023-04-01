@@ -27,11 +27,10 @@
             "ws3": [
                 {"memo": "light"},
                 { "name": "Server-1", "domain": "clare.homes" },
-                { "name": "Server-2", "domain": "clevelan.cfd" },
-                { "name": "Server-3", "domain": "armin.sbs" },
-                { "name": "Server-4", "domain": "arthur.monster" },
-                { "name": "Server-5", "domain": "arstrong.cfd" },
-                { "name": "Server-6", "domain": "arvin.mom" }
+                { "name": "Server-2", "domain": "arthur.monster" },
+                { "name": "Server-3", "domain": "arstrong.cfd" },
+                { "name": "Server-4", "domain": "cliff.beauty" },
+                { "name": "Server-5", "domain": "clifford.autos" }
             ]
         }
     ]
