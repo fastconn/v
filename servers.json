@@ -49,10 +49,10 @@
                 { "name": "Server-1", "domain": "bowen.monster", "desc": "websocket" },
                 { "name": "Server-2", "domain": "homer.pics", "desc": "websocket" },
                 { "name": "Server-3", "domain": "hogan.monster", "desc": "websocket" },
-                { "name": "Server-4", "domain": "horace.autos", "desc": "websocket" },
-                { "name": "Server-5", "domain": "howar.beauty", "desc": "websocket" },
-                { "name": "Server-6", "domain": "hubery.boats", "desc": "websocket" },
-                { "name": "Server-7", "domain": "hugh.homes", "desc": "websocket" }
+                { "name": "Server-4", "domain": "hugoo.cfd", "desc": "websocket" },
+                { "name": "Server-5", "domain": "humbert.click", "desc": "websocket" },
+                { "name": "Server-6", "domain": "humphrey.mom", "desc": "websocket" },
+                { "name": "Server-7", "domain": "huntter.makeup", "desc": "websocket" }
             ],
             "servers": [
                 {
