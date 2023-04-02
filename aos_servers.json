@@ -29,7 +29,7 @@
             },
             {
                 "n": "Server-2", "ws": true,
-                "s": [ { "pr": 4, "name": "Glo bal", "i": "alvvin.click" } ]
+                "s": [ { "pr": 4, "name": "Global", "i": "alvvin.click" } ]
             }
         ],
         "rv": []
