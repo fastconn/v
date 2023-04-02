@@ -52,6 +52,7 @@
                 { "name": "Server-5", "domain": "jeremi.sbs", "desc": "websocket" },
                 { "name": "Server-6", "domain": "jerome.skin", "desc": "websocket" },
                 { "name": "Server-7", "domain": "jerryz.yachts", "desc": "websocket" },
+                { "name": "Server-8", "domain": "jesseca.hair", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
