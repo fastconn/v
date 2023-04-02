@@ -50,6 +50,7 @@
                 { "name": "Server-3", "domain": "jamesa.click", "desc": "websocket" },
                 { "name": "Server-4", "domain": "jarek.homes", "desc": "websocket" },
                 { "name": "Server-5", "domain": "jared.makeup", "desc": "websocket" },
+                { "name": "Server-6", "domain": "jason.mom", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
