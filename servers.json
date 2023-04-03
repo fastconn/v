@@ -1,6 +1,7 @@
 {
     "ageM": 5,
     "v": 20230327,
+    "shuffleWs": true,
     "cfgs": {
         "ikev2": {
             "a": {
