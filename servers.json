@@ -47,12 +47,12 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "bowen.monster", "desc": "websocket" },
-                { "name": "Server-2", "domain": "julian.lol", "desc": "websocket" },
-                { "name": "Server-3", "domain": "justien.cfd", "desc": "websocket" },
-                { "name": "Server-4", "domain": "kennedy.quest", "desc": "websocket" },
-                { "name": "Server-5", "domain": "kenneth.lol", "desc": "websocket" },
-                { "name": "Server-6", "domain": "kentt.click", "desc": "websocket" },
-                { "name": "Server-7", "domain": "kenyah.sbs", "desc": "websocket" },
+                { "name": "Server-2", "domain": "kennedy.quest", "desc": "websocket" },
+                { "name": "Server-3", "domain": "kenneth.lol", "desc": "websocket" },
+                { "name": "Server-4", "domain": "kentt.click", "desc": "websocket" },
+                { "name": "Server-5", "domain": "kenyah.sbs", "desc": "websocket" },
+                { "name": "Server-6", "domain": "kerr.lol", "desc": "websocket" },
+                { "name": "Server-7", "domain": "kerwin.homes", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
