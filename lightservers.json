@@ -25,11 +25,11 @@
                 }
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "leonard.quest" },
-                { "name": "Server-2", "domain": "leopold.lol" },
-                { "name": "Server-3", "domain": "leroy.yachts" },
-                { "name": "Server-4", "domain": "les.beauty" },
-                { "name": "Server-5", "domain": "lester.lol" },
+                { "name": "Server-1", "domain": "leopold.lol" },
+                { "name": "Server-2", "domain": "leroy.yachts" },
+                { "name": "Server-3", "domain": "les.beauty" },
+                { "name": "Server-4", "domain": "lester.lol" },
+                { "name": "Server-5", "domain": "levii.homes" },
                 {"memo": "light"}
             ]
         }
