@@ -26,11 +26,11 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "craige.sbs" },
-                { "name": "Server-2", "domain": "curitis.pics" },
-                { "name": "Server-3", "domain": "asa.yachts" },
-                { "name": "Server-4", "domain": "ashbur.skin" },
-                { "name": "Server-5", "domain": "astor.sbs" },
-                { "name": "Server-6", "domain": "atwood.quest" },
+                { "name": "Server-2", "domain": "ashbur.skin" },
+                { "name": "Server-3", "domain": "astor.sbs" },
+                { "name": "Server-4", "domain": "atwood.quest" },
+                { "name": "Server-5", "domain": "aubrey.lol" },
+                { "name": "Server-6", "domain": "augusd.hair" },
                 {"memo": "light"}
             ]
         }
