@@ -27,9 +27,10 @@
             "ws3": [
                 { "name": "Server-1", "domain": "craige.sbs" },
                 { "name": "Server-2", "domain": "curitis.pics" },
-                { "name": "Server-3", "domain": "cyrus.makeup" },
-                { "name": "Server-4", "domain": "asa.yachts" },
-                { "name": "Server-5", "domain": "ashbur.skin" },
+                { "name": "Server-3", "domain": "asa.yachts" },
+                { "name": "Server-4", "domain": "ashbur.skin" },
+                { "name": "Server-5", "domain": "astor.sbs" },
+                { "name": "Server-6", "domain": "atwood.quest" },
                 {"memo": "light"}
             ]
         }
