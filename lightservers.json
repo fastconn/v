@@ -25,12 +25,12 @@
                 }
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "lance.homes" },
-                { "name": "Server-2", "domain": "larrie.cfd" },
-                { "name": "Server-3", "domain": "lens.motorcycles" },
-                { "name": "Server-4", "domain": "lennon.homes" },
-                { "name": "Server-5", "domain": "leoo.makeup" },
-                { "name": "Server-6", "domain": "leonard.quest" },
+                { "name": "Server-1", "domain": "lens.motorcycles" },
+                { "name": "Server-2", "domain": "lennon.homes" },
+                { "name": "Server-3", "domain": "leoo.makeup" },
+                { "name": "Server-4", "domain": "leonard.quest" },
+                { "name": "Server-5", "domain": "leopold.lol" },
+                { "name": "Server-6", "domain": "leroy.yachts" },
                 {"memo": "light"}
             ]
         }
