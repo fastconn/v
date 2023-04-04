@@ -51,6 +51,7 @@
                 { "name": "Server-3", "domain": "marcuss.cfd", "desc": "websocket" },
                 { "name": "Server-4", "domain": "marico.boats", "desc": "websocket" },
                 { "name": "Server-5", "domain": "marius.homes", "desc": "websocket" },
+                { "name": "Server-6", "domain": "markr.sbs", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
