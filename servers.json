@@ -52,6 +52,7 @@
                 { "name": "Server-4", "domain": "markr.sbs", "desc": "websocket" },
                 { "name": "Server-5", "domain": "marlon.skin", "desc": "websocket" },
                 { "name": "Server-6", "domain": "martinl.quest", "desc": "websocket" },
+                { "name": "Server-7", "domain": "marshell.click", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
