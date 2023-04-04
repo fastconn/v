@@ -3,7 +3,7 @@
         "ageM": 15,
         "showSplash": true,
         "secondSplash": 3,
-    	"cnDeny": [0,0],
+    	"cnDeny": [8,19],
     	"evNo": ["enterGg"],
         "testers": [
             "39E62C06-8E5E-435C-93BC-CB35AE622977 xsm", 
