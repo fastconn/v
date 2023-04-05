@@ -27,9 +27,9 @@
             "ws3": [
                 { "name": "Server-1", "domain": "lyle.skin" },
                 { "name": "Server-2", "domain": "lyndon.monster" },
-                { "name": "Server-3", "domain": "lynne.pics" },
-                { "name": "Server-4", "domain": "olivers.makeup" },
-                { "name": "Server-5", "domain": "ollie.mom" },
+                { "name": "Server-3", "domain": "ollie.mom" },
+                { "name": "Server-4", "domain": "omar.motorcycles" },
+                { "name": "Server-5", "domain": "oren.skin" },
                 {"memo": "light"}
             ]
         }
