@@ -28,9 +28,9 @@
                 { "name": "Server-1", "domain": "lyle.skin" },
                 { "name": "Server-2", "domain": "lyndon.monster" },
                 { "name": "Server-3", "domain": "ollie.mom" },
-                { "name": "Server-4", "domain": "omar.motorcycles" },
-                { "name": "Server-5", "domain": "osborn.boats" },
-                { "name": "Server-6", "domain": "orville.lol" },
+                { "name": "Server-4", "domain": "osborn.boats" },
+                { "name": "Server-5", "domain": "orville.lol" },
+                { "name": "Server-6", "domain": "parker.mom" },
                 {"memo": "light"}
             ]
         }
