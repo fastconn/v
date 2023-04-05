@@ -26,10 +26,10 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "pete.beauty" },
-                { "name": "Server-2", "domain": "perry.monster" },
-                { "name": "Server-3", "domain": "peterr.store" },
-                { "name": "Server-4", "domain": "oscar.beauty" },
-                { "name": "Server-5", "domain": "osmond.boats" },
+                { "name": "Server-2", "domain": "oscar.beauty" },
+                { "name": "Server-3", "domain": "osmond.boats" },
+                { "name": "Server-4", "domain": "oswald.homes" },
+                { "name": "Server-5", "domain": "oswin.makeup" },
                 {"memo": "light"}
             ]
         }
