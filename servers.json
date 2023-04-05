@@ -51,7 +51,6 @@
                 { "name": "Server-3", "domain": "matthewd.click", "desc": "websocket" },
                 { "name": "Server-4", "domain": "maxmin.cfd", "desc": "websocket" },
                 { "name": "Server-5", "domain": "nelsons.sbs", "desc": "websocket" },
-                { "name": "Server-6", "domain": "marvin.pics", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
