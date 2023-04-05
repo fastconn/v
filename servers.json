@@ -49,9 +49,9 @@
                 { "name": "Server-1", "domain": "bowen.monster", "desc": "websocket" },
                 { "name": "Server-2", "domain": "matts.boats", "desc": "websocket" },
                 { "name": "Server-3", "domain": "matthewd.click", "desc": "websocket" },
-                { "name": "Server-4", "domain": "maxmin.cfd", "desc": "websocket" },
                 { "name": "Server-5", "domain": "maximillian.lol", "desc": "websocket" },
                 { "name": "Server-6", "domain": "maxwell.quest", "desc": "websocket" },
+                { "name": "Server-7", "domain": "maredith.homes", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
