@@ -29,7 +29,7 @@
                 { "name": "Server-2", "domain": "otist.mom" },
                 { "name": "Server-3", "domain": "ottom.sbs" },
                 { "name": "Server-4", "domain": "porters.cfd" },
-                { "name": "Server-5", "domain": "plato.autos" },
+                { "name": "Server-5", "domain": "porters.cfd" },
                 {"memo": "light"}
             ]
         }
