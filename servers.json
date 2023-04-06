@@ -95,6 +95,10 @@
                 {
                     "name": "VIP-2",
                     "domain": "veryfast.shop"
+                },
+                {
+                    "name": "VIP-3",
+                    "domain": "xavier.monster"
                 }
             ], 
             "servers": [
