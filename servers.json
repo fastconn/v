@@ -48,10 +48,10 @@
             "ws3": [
                 { "name": "Server-1", "domain": "bowen.monster", "desc": "websocket" },
                 { "name": "Server-2", "domain": "raymond.monster", "desc": "websocket" },
-                { "name": "Server-3", "domain": "rein.hair", "desc": "websocket" },
-                { "name": "Server-4", "domain": "regan.lol", "desc": "websocket" },
-                { "name": "Server-5", "domain": "reginald.beauty", "desc": "websocket" },
-                { "name": "Server-6", "domain": "reuben.pics", "desc": "websocket" },
+                { "name": "Server-3", "domain": "regan.lol", "desc": "websocket" },
+                { "name": "Server-4", "domain": "reginald.beauty", "desc": "websocket" },
+                { "name": "Server-5", "domain": "reuben.pics", "desc": "websocket" },
+                { "name": "Server-6", "domain": "reynold.sbs", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
