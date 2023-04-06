@@ -47,11 +47,10 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "bowen.monster", "desc": "websocket" },
-                { "name": "Server-2", "domain": "milo.motorcycles", "desc": "websocket" },
-                { "name": "Server-3", "domain": "monty.skin", "desc": "websocket" },
-                { "name": "Server-4", "domain": "nicholass.cfd", "desc": "websocket" },
-                { "name": "Server-5", "domain": "nick.beauty", "desc": "websocket" },
-                { "name": "Server-6", "domain": "nicky.homes", "desc": "websocket" },
+                { "name": "Server-2", "domain": "nicky.homes", "desc": "websocket" },
+                { "name": "Server-3", "domain": "nigel.boats", "desc": "websocket" },
+                { "name": "Server-4", "domain": "noah.mom", "desc": "websocket" },
+                { "name": "Server-5", "domain": "noel.makeup", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
