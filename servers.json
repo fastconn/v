@@ -50,9 +50,8 @@
                 { "name": "Server-2", "domain": "rockfl.cfd", "desc": "websocket" },
                 { "name": "Server-3", "domain": "rex.motorcycles", "desc": "websocket" },
                 { "name": "Server-4", "domain": "richard.monster", "desc": "websocket" },
-                { "name": "Server-5", "domain": "robert.mom", "desc": "websocket" },
-                { "name": "Server-6", "domain": "robin.makeup", "desc": "websocket" },
-                { "name": "Server-7", "domain": "rod.motorcycles", "desc": "websocket" },
+                { "name": "Server-5", "domain": "rod.motorcycles", "desc": "websocket" },
+                { "name": "Server-6", "domain": "roderick.boats", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
