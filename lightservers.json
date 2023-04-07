@@ -27,10 +27,10 @@
             "ws3": [
                 { "name": "Server-1", "domain": "quennel.pics" },
                 { "name": "Server-2", "domain": "quintion.store" },
-                { "name": "Server-3", "domain": "yasir.homes" },
-                { "name": "Server-4", "domain": "zebulon.hair" },
-                { "name": "Server-5", "domain": "ziv.makeup" },
-                { "name": "Server-6", "domain": "wythe.store" },
+                { "name": "Server-3", "domain": "zebulon.hair" },
+                { "name": "Server-4", "domain": "ziv.makeup" },
+                { "name": "Server-5", "domain": "wythe.store" },
+                { "name": "Server-6", "domain": "wyatte.beauty" },
                 {"memo": "light"}
             ]
         }
