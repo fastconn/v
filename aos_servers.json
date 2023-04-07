@@ -30,6 +30,10 @@
             {
                 "n": "Server-2", "ws": true,
                 "s": [ { "pr": 4, "name": "Global", "i": "alvvin.click" } ]
+            },
+            {
+                "n": "Server-3", "ws": true,
+                "s": [ { "pr": 4, "name": "Global", "i": "waynn.makeup" } ]
             }
         ],
         "rv": []
