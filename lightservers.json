@@ -26,11 +26,10 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "quennel.pics" },
-                { "name": "Server-2", "domain": "quincy.quest" },
-                { "name": "Server-3", "domain": "quintion.store" },
-                { "name": "Server-4", "domain": "yasir.homes" },
-                { "name": "Server-5", "domain": "yehudi.cfd" },
-                { "name": "Server-6", "domain": "zebulon.hair" },
+                { "name": "Server-2", "domain": "quintion.store" },
+                { "name": "Server-3", "domain": "yasir.homes" },
+                { "name": "Server-4", "domain": "zebulon.hair" },
+                { "name": "Server-5", "domain": "ziv.makeup" },
                 {"memo": "light"}
             ]
         }
