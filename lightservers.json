@@ -29,8 +29,9 @@
                 { "name": "Server-2", "domain": "quintion.store" },
                 { "name": "Server-3", "domain": "zebulon.hair" },
                 { "name": "Server-4", "domain": "wordsworth.lol" },
-                { "name": "Server-5", "domain": "willard.pics" },
-                { "name": "Server-6", "domain": "william.quest" },
+                { "name": "Server-5", "domain": "william.quest" },
+                { "name": "Server-6", "domain": "willard.pics" },
+                { "name": "Server-7", "domain": "wilbert.homes" },
                 {"memo": "light"}
             ]
         }
