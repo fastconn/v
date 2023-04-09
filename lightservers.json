@@ -28,9 +28,10 @@
                 { "name": "Server-1", "domain": "quennel.pics" },
                 { "name": "Server-2", "domain": "quintion.store" },
                 { "name": "Server-3", "domain": "zebulon.hair" },
-                { "name": "Server-4", "domain": "willard.pics" },
-                { "name": "Server-5", "domain": "will.motorcycles" },
-                { "name": "Server-6", "domain": "werner.monster" },
+                { "name": "Server-4", "domain": "will.motorcycles" },
+                { "name": "Server-5", "domain": "werner.monster" },
+                { "name": "Server-6", "domain": "wendell.skin" },
+                { "name": "Server-7", "domain": "webbster.quest" },
                 {"memo": "light"}
             ]
         }
