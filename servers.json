@@ -52,6 +52,7 @@
                 { "name": "Server-4", "domain": "sidney.beauty", "desc": "websocket" },
                 { "name": "Server-5", "domain": "simons.lol", "desc": "websocket" },
                 { "name": "Server-6", "domain": "silverster.cfd", "desc": "websocket" },
+                { "name": "Server-7", "domain": "taylors.sbs", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
