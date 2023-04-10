@@ -29,9 +29,9 @@
                 { "name": "Server-1", "domain": "zebulon.hair" },
                 { "name": "Server-2", "domain": "webbo.lol" },
                 { "name": "Server-3", "domain": "wahn.homes" },
-                { "name": "Server-4", "domain": "waltern.sbs" },
-                { "name": "Server-5", "domain": "walker.monster" },
-                { "name": "Server-6", "domain": "waldo.yachts" },
+                { "name": "Server-4", "domain": "walker.monster" },
+                { "name": "Server-5", "domain": "waldo.yachts" },
+                { "name": "Server-6", "domain": "volker.mom" },
                 {"memo": "light"}
             ]
         }
