@@ -52,6 +52,7 @@
                 { "name": "Server-4", "domain": "teman.quest", "desc": "websocket" },
                 { "name": "Server-5", "domain": "theobald.store", "desc": "websocket" },
                 { "name": "Server-6", "domain": "theodore.monster", "desc": "websocket" },
+                { "name": "Server-7", "domain": "solomon.lol", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
