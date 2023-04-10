@@ -1,6 +1,7 @@
 {
     "ageM": 5,
     "v": 20230406,
+    "shuffleWs": true,
     "cfgs": {
         "ws": {
             "a": {
