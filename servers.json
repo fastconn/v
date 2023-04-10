@@ -47,7 +47,7 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "bowen.monster", "desc": "websocket" },
-                { "name": "Server-2", "domain": "ted.skin", "desc": "websocket" },
+                { "name": "Server-2", "domain": "stenley.makeup", "desc": "websocket" },
                 { "name": "Server-3", "domain": "solomon.lol", "desc": "websocket" },
                 { "name": "Server-4", "domain": "spences.homes", "desc": "websocket" },
                 { "name": "Server-5", "domain": "stenford.click", "desc": "websocket" },
