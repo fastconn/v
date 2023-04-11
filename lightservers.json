@@ -30,9 +30,9 @@
                 { "name": "Server-3", "domain": "uriah.quest" },
                 { "name": "Server-3", "domain": "verne.sbs" },
                 { "name": "Server-4", "domain": "vincent.monster" },
-                { "name": "Server-5", "domain": "victor.yachts" },
-                { "name": "Server-6", "domain": "vic.motorcycles" },
-                { "name": "Server-7", "domain": "valentine.monster" },
+                { "name": "Server-5", "domain": "vic.motorcycles" },
+                { "name": "Server-6", "domain": "valentine.monster" },
+                { "name": "Server-7", "domain": "upton.beauty" },
                 {"memo": "light"}
             ]
         }
