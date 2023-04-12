@@ -47,13 +47,11 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "bowen.monster", "desc": "websocket" },
-                { "name": "Server-2", "domain": "alberta.skin", "desc": "websocket" },
-                { "name": "Server-3", "domain": "althea.homes", "desc": "websocket" },
-                { "name": "Server-4", "domain": "alice.lat", "desc": "websocket" },
-                { "name": "Server-5", "domain": "alva.beauty", "desc": "websocket" },
-                { "name": "Server-6", "domain": "alexandra.mom", "desc": "websocket" },
-                { "name": "Server-7", "domain": "ameli.sbs", "desc": "websocket" },
-                { "name": "Server-8", "domain": "amanda.monster", "desc": "websocket" },
+                { "name": "Server-2", "domain": "althea.homes", "desc": "websocket" },
+                { "name": "Server-3", "domain": "ameli.sbs", "desc": "websocket" },
+                { "name": "Server-4", "domain": "amanda.monster", "desc": "websocket" },
+                { "name": "Server-5", "domain": "alyssa.skin", "desc": "websocket" },
+                { "name": "Server-5", "domain": "alison.yachts", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
