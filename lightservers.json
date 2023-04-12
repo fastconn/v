@@ -28,11 +28,11 @@
             "ws3": [
                 { "name": "Server-1", "domain": "zebulon.hair" },
                 { "name": "Server-2", "domain": "bertha.skin" },
-                { "name": "Server-3", "domain": "bellar.sbs" },
-                { "name": "Server-4", "domain": "blythe.boats" },
-                { "name": "Server-5", "domain": "belinda.lat" },
-                { "name": "Server-6", "domain": "belle.yachts" },
-                { "name": "Server-7", "domain": "bernice.homes" },
+                { "name": "Server-3", "domain": "blythe.boats" },
+                { "name": "Server-4", "domain": "belinda.lat" },
+                { "name": "Server-5", "domain": "belle.yachts" },
+                { "name": "Server-6", "domain": "bernice.homes" },
+                { "name": "Server-7", "domain": "beryl.mom" },
                 {"memo": "light"}
             ]
         }
