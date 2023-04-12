@@ -48,11 +48,12 @@
             "ws3": [
                 { "name": "Server-1", "domain": "bowen.monster", "desc": "websocket" },
                 { "name": "Server-2", "domain": "amyz.cfd", "desc": "websocket" },
-                { "name": "Server-3", "domain": "andrean.bond", "desc": "websocket" },
-                { "name": "Server-4", "domain": "angelad.boats", "desc": "websocket" },
-                { "name": "Server-5", "domain": "anila.beauty", "desc": "websocket" },
-                { "name": "Server-6", "domain": "ann.lol", "desc": "websocket" },
-                { "name": "Server-7", "domain": "annabelle.yachts", "desc": "websocket" },
+                { "name": "Server-3", "domain": "angelad.boats", "desc": "websocket" },
+                { "name": "Server-4", "domain": "anila.beauty", "desc": "websocket" },
+                { "name": "Server-5", "domain": "ann.lol", "desc": "websocket" },
+                { "name": "Server-6", "domain": "annabelle.yachts", "desc": "websocket" },
+                { "name": "Server-7", "domain": "annal.hair", "desc": "websocket" },
+                { "name": "Server-8", "domain": "antonia.skin", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
