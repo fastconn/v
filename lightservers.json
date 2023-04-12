@@ -29,9 +29,9 @@
                 { "name": "Server-1", "domain": "zebulon.hair" },
                 { "name": "Server-2", "domain": "barbara.pics" },
                 { "name": "Server-3", "domain": "basia.homes" },
-                { "name": "Server-4", "domain": "beatrice.beauty" },
-                { "name": "Server-5", "domain": "belen.makeup" },
-                { "name": "Server-6", "domain": "bellar.sbs" },
+                { "name": "Server-4", "domain": "belen.makeup" },
+                { "name": "Server-5", "domain": "bellar.sbs" },
+                { "name": "Server-6", "domain": "blythe.boats" },
                 {"memo": "light"}
             ]
         }
