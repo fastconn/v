@@ -27,12 +27,12 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "zebulon.hair" },
-                { "name": "Server-2", "domain": "bertha.skin" },
-                { "name": "Server-3", "domain": "bess.hair" },
-                { "name": "Server-4", "domain": "betsy.autos" },
-                { "name": "Server-5", "domain": "bettie.beauty" },
-                { "name": "Server-6", "domain": "beulah.boats" },
-                { "name": "Server-7", "domain": "beverl.bond" },
+                { "name": "Server-2", "domain": "betsy.autos" },
+                { "name": "Server-3", "domain": "bettie.beauty" },
+                { "name": "Server-4", "domain": "beulah.boats" },
+                { "name": "Server-5", "domain": "beverl.bond" },
+                { "name": "Server-6", "domain": "blanche.homes" },
+                { "name": "Server-7", "domain": "bonney.click" },
                 {"memo": "light"}
             ]
         }
