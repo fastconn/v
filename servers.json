@@ -52,6 +52,7 @@
                 { "name": "Server-4", "domain": "athena.lat", "desc": "websocket" },
                 { "name": "Server-5", "domain": "audrey.monster", "desc": "websocket" },
                 { "name": "Server-6", "domain": "daisy.autos", "desc": "websocket" },
+                { "name": "Server-7", "domain": "dale.beauty", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
