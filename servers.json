@@ -65,6 +65,7 @@
                 { "name": "Server-B6", "domain": "elsie.skin", "desc": "websocket" },
                 { "name": "Server-B7", "domain": "elvira.hair", "desc": "websocket" },
                 { "name": "Server-B8", "domain": "elva.yachts", "desc": "websocket" },
+                { "name": "Server-B9", "domain": "erica.pics", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
