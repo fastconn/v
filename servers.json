@@ -55,6 +55,17 @@
                 { "name": "Server-7", "domain": "horace.autos", "desc": "websocket" },
                 {"memo": "main"}
             ],
+            "ws-bk": [
+                {
+                    "from": "2023-04-14 17:00",
+                    "to": "2023-04-14 19:00",
+                    "domains": [
+                        "dora.beauty",
+                        "doreen.autos",
+                        "doris.lol"
+                    ]
+                }
+            ],
             "servers": [
 
                 {
