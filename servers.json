@@ -47,13 +47,13 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "bowen.monster", "desc": "websocket" },
-                { "name": "Server-2", "domain": "eartha.boats", "desc": "websocket" },
-                { "name": "Server-3", "domain": "dora.beauty", "desc": "websocket" },
-                { "name": "Server-4", "domain": "doreen.autos", "desc": "websocket" },
-                { "name": "Server-5", "domain": "doris.lol", "desc": "websocket" },
-                { "name": "Server-6", "domain": "edwina.mom", "desc": "websocket" },
-                { "name": "Server-7", "domain": "eileen.pics", "desc": "websocket" },
-                { "name": "Server-8", "domain": "elaine.skin", "desc": "websocket" },
+                { "name": "Server-2", "domain": "dora.beauty", "desc": "websocket" },
+                { "name": "Server-3", "domain": "doreen.autos", "desc": "websocket" },
+                { "name": "Server-4", "domain": "doris.lol", "desc": "websocket" },
+                { "name": "Server-5", "domain": "edwina.mom", "desc": "websocket" },
+                { "name": "Server-6", "domain": "eileen.pics", "desc": "websocket" },
+                { "name": "Server-7", "domain": "elaine.skin", "desc": "websocket" },
+                { "name": "Server-8", "domain": "eleanore.site", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
