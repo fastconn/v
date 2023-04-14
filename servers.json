@@ -54,6 +54,15 @@
                 { "name": "Server-6", "domain": "eileen.pics", "desc": "websocket" },
                 { "name": "Server-7", "domain": "elaine.skin", "desc": "websocket" },
                 { "name": "Server-8", "domain": "eleanore.site", "desc": "websocket" },
+                
+                { "name": "Server-B1", "domain": "elizabeth.mom", "desc": "websocket" },
+                { "name": "Server-B2", "domain": "ella.monster", "desc": "websocket" },
+                { "name": "Server-B3", "domain": "ellene.cfd", "desc": "websocket" },
+                { "name": "Server-B4", "domain": "elma.homes", "desc": "websocket" },
+                { "name": "Server-B5", "domain": "elsaa.sbs", "desc": "websocket" },
+                { "name": "Server-B6", "domain": "elsie.skin", "desc": "websocket" },
+                { "name": "Server-B7", "domain": "elvira.hair", "desc": "websocket" },
+                { "name": "Server-B8", "domain": "elva.yachts", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
