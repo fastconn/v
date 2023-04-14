@@ -47,25 +47,15 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "bowen.monster", "desc": "websocket" },
-                { "name": "Server-2", "domain": "diana.monster", "desc": "websocket" },
-                { "name": "Server-3", "domain": "dinah.fun", "desc": "websocket" },
-                { "name": "Server-4", "domain": "donnal.cfd", "desc": "websocket" },
-                { "name": "Server-5", "domain": "dorothy.quest", "desc": "websocket" },
-                { "name": "Server-6", "domain": "eartha.boats", "desc": "websocket" },
-                { "name": "Server-7", "domain": "eden.monster", "desc": "websocket" },
-                { "name": "Server-8", "domain": "edith.makeup", "desc": "websocket" },
+                { "name": "Server-2", "domain": "dorothy.quest", "desc": "websocket" },
+                { "name": "Server-3", "domain": "eartha.boats", "desc": "websocket" },
+                { "name": "Server-4", "domain": "eden.monster", "desc": "websocket" },
+                { "name": "Server-5", "domain": "edith.makeup", "desc": "websocket" },
+
+                { "name": "Server-6", "domain": "dora.beauty", "desc": "websocket" },
+                { "name": "Server-7", "domain": "doreen.autos", "desc": "websocket" },
+                { "name": "Server-8", "domain": "doris.lol", "desc": "websocket" },
                 {"memo": "main"}
-            ],
-            "ws-bk": [
-                {
-                    "from": "2023-04-14 17:00",
-                    "to": "2023-04-14 19:00",
-                    "domains": [
-                        "dora.beauty",
-                        "doreen.autos",
-                        "doris.lol"
-                    ]
-                }
             ],
             "servers": [
 
