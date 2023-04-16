@@ -27,15 +27,15 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "zebulon.hair" },
-                { "name": "Server-2", "domain": "betsy.autos" },
-                { "name": "Server-3", "domain": "bettie.beauty" },
-                { "name": "Server-4", "domain": "beulah.boats" },
-                { "name": "Server-5", "domain": "beverl.bond" },
-                { "name": "Server-6", "domain": "blanche.homes" },
-                { "name": "Server-7", "domain": "bonney.click" },
-                { "name": "Server-8", "domain": "brianna.lol" },
-                { "name": "Server-9", "domain": "bridget.makeup" },
-                { "name": "Server-10", "domain": "calista.pics" },
+                { "name": "Server-2", "domain": "calista.pics" },
+                { "name": "Server-3", "domain": "camille.quest" },
+                { "name": "Server-4", "domain": "candance.fun" },
+                { "name": "Server-5", "domain": "candice.lat" },
+                { "name": "Server-6", "domain": "cara.motorcycles" },
+                { "name": "Server-7", "domain": "carlin.skin" },
+                { "name": "Server-8", "domain": "carol.lol" },
+                { "name": "Server-9", "domain": "caroline.monster" },
+                { "name": "Server-10", "domain": "caitlin.beauty" },
                 {"memo": "light"}
             ]
         }
