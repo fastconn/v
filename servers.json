@@ -64,9 +64,9 @@
                 { "name": "Server-B5", "domain": "elsaa.sbs", "desc": "websocket" },
                 { "name": "Server-B6", "domain": "elsie.skin", "desc": "websocket" },
                 { "name": "Server-B7", "domain": "eve.motorcycles", "desc": "websocket" },
-                { "name": "Server-B8", "domain": "elva.yachts", "desc": "websocket" },
-                { "name": "Server-B9", "domain": "eunice.fun", "desc": "websocket" },
-                { "name": "Server-B10", "domain": "evangeline.lol", "desc": "websocket" },
+                { "name": "Server-B8", "domain": "eunice.fun", "desc": "websocket" },
+                { "name": "Server-B9", "domain": "evangeline.lol", "desc": "websocket" },
+                { "name": "Server-B10", "domain": "evelyn.monster", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
