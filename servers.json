@@ -37,6 +37,8 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
+            "wsGroupSize": 5,
+            "wsNameAuto": true,
             "ws2": [
                 {
                     "cfg": "a",
