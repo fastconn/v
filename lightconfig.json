@@ -14,10 +14,10 @@
     },
     "ad": {
         "0": {
-            "ver": 20230407,
+            "ver": 20230418,
             "adFullLoadwait": 5,
             "hotInterval": 3,
-            "fullAdOrder": "ni",
+            "??fullAdOrder": "ni",
 	    	"max": {
 				"admob": [-1,-1]
 			},
@@ -57,7 +57,7 @@
             "anyInter": {
                 "type": "inter",
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/4065041315" },
+                    { "id": "ca-app-pub-3510970371831048/7471456364" },
 		  			{ "id": "ca-app-pub-3510970371831048/1641924505" }
                 ]
             },
