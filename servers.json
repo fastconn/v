@@ -66,6 +66,7 @@
                 { "name": "Server-B8", "domain": "gail.yachts", "desc": "websocket" },
                 { "name": "Server-B9", "domain": "georgiay.cfd", "desc": "websocket" },
                 { "name": "Server-B10", "domain": "geraldine.lol", "desc": "websocket" },
+                { "name": "Server-B11", "domain": "gille.motorcycles", "desc": "websocket" },
                 {"memo": "main"}
             ],
             "servers": [
