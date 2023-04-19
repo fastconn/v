@@ -58,34 +58,18 @@
                 { "name": "Server-8", "domain": "hannar.beauty", "desc": "websocket" },
                 { "name": "Server-9", "domain": "harriet.boats", "desc": "websocket" },
                 { "name": "Server-10", "domain": "hazel.lol", "desc": "websocket" },
+                { "name": "Server-11", "domain": "heather.quest", "desc": "websocket" },
+                { "name": "Server-12", "domain": "hedda.homes", "desc": "websocket" },
+                { "name": "Server-13", "domain": "hedwig.makeup", "desc": "websocket" },
+                { "name": "Server-14", "domain": "hedy.motorcycles", "desc": "websocket" },
+                { "name": "Server-15", "domain": "helen.monster", "desc": "websocket" },
                 {}
             ],
             "servers": [
-
-                {
-                    "cc": "de",
-                    "city": "Frankfurt",
-                    "desc": "High speed",
-                    "ip": "193.108.117.63"
-                },
-                {
-                    "cc": "de",
-                    "city": "Frankfurt",
-                    "desc": "High speed",
-                    "ip": "193.108.117.132"
-                },
-                {
-                    "cc": "fr",
-                    "city": "Paris",
-                    "desc": "High speed",
-                    "ip": "23.134.91.95"
-                },
-                {
-                    "cc": "nl",
-                    "city": "Amsterdam",
-                    "desc": "New",
-                    "ip": "172.99.188.11"
-                }
+                { "cc": "de", "city": "Frankfurt", "ip": "193.108.117.63", "desc": "High speed" },
+                { "cc": "de", "city": "Frankfurt", "ip": "193.108.117.132", "desc": "High speed" },
+                { "cc": "fr", "city": "Paris", "ip": "23.134.91.95", "desc": "High speed" },
+                { "cc": "nl", "city": "Amsterdam", "ip": "172.99.188.11", "desc": "New" }
             ]
         },
         {
@@ -93,95 +77,27 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                {
-                    "name": "VIP-1",
-                    "domain": "vip2323.cfd",
-                    "enableCf": true
-                },
-                {
-                    "name": "VIP-2",
-                    "domain": "veryfast.shop"
-                },
-                {
-                    "name": "VIP-3",
-                    "domain": "xavier.monster"
-                }
+                { "name": "VIP-1", "domain": "vip2323.cfd", "enableCf": true },
+                { "name": "VIP-2", "domain": "veryfast.shop" },
+                { "name": "VIP-3", "domain": "xavier.monster" }
             ], 
             "servers": [
-                {
-                    "cc": "us",
-                    "city": "New York City",
-                    "desc": "High speed",
-                    "ip": "216.39.249.163"
-                },
-                {
-                    "cc": "us",
-                    "city": "Los Angeles",
-                    "desc": "High speed",
-                    "ip": "38.114.114.35"
-                },
-                {
-                    "cc": "ca",
-                    "city": "Vancouver",
-                    "desc": "High speed",
-                    "ip": "158.51.123.3"
-                },
-		        {
-                    "cc": "de",
-                    "city": "Frankfurt",
-                    "desc": "High speed",
-                    "ip": "193.108.119.214"
-                },
-		        {
-                    "cc": "fr",
-                    "city": "Paris",
-                    "desc": "High speed",
-                    "ip": "23.134.91.22"
-                },
-                {
-                    "cc": "gb",
-                    "city": "London",
-                    "desc": "High speed",
-                    "ip": "172.99.190.115"
-                },
-                {
-                    "desc": "New",
-                    "cc": "br",
-                    "city": "São Paulo",
-                    "ip": "5.188.238.18"
-                },
-                {
-                    "desc": "New",
-                    "cc": "jp",
-                    "city": "Tokyo",
-                    "ip": "5.8.71.208"
-                },
-                {
-                    "desc": "New",
-                    "cc": "au",
-                    "city": "Sydney",
-                    "ip": "146.185.214.15"
-                },
-                {
-                    "cc": "ua",
-                    "city": "Kyive",
-                    "ip": "5.188.6.98"
-                },
-                {
-                    "cc": "pl",
-                    "city": "Warsaw",
-                    "ip": "79.133.122.202"
-                },
-                {
-                    "cc": "hu",
-                    "city": "Budapest",
-                    "ip": "185.202.92.169"
-                },
-                {
-                    "cc": "il",
-                    "city": "Tel Aviv",
-                    "ip": "146.185.219.69"
-                }
+                { "cc": "us", "city": "New York City",  "ip": "216.39.249.163",     "desc": "High speed" },
+                { "cc": "us", "city": "Los Angeles",    "ip": "38.114.114.35",      "desc": "High speed" },
+                { "cc": "ca", "city": "Vancouver",      "ip": "158.51.123.3",       "desc": "High speed" },
+		        { "cc": "de", "city": "Frankfurt",      "ip": "193.108.119.214",    "desc": "High speed" },
+		        { "cc": "fr", "city": "Paris",          "ip": "23.134.91.22",       "desc": "High speed" },
+                { "cc": "gb", "city": "London",         "ip": "172.99.190.115",     "desc": "High speed" },
+
+                { "cc": "tk", "city": "Istanbul",       "ip": "95.85.76.122",       "desc": "New" },
+                { "cc": "ua", "city": "Kyive",          "ip": "95.85.72.138",       "desc": "New" },
+
+                { "cc": "br", "city": "São Paulo",      "ip": "5.188.238.18",       "desc": "Fast" },
+                { "cc": "jp", "city": "Tokyo",          "ip": "5.8.71.208",         "desc": "Fast" },
+                { "cc": "au", "city": "Sydney",         "ip": "146.185.214.15",     "desc": "Fast" },
+                { "cc": "pl", "city": "Warsaw",         "ip": "79.133.122.202",     "desc": "Fast" },
+                { "cc": "hu", "city": "Budapest",       "ip": "185.202.92.169",     "desc": "Fast" },
+                { "cc": "il", "city": "Tel Aviv",       "ip": "146.185.219.69",     "desc": "Fast" }
             ]
         }
     ]
