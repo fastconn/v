@@ -55,6 +55,9 @@
                 { "name": "Server-5", "domain": "griselda.mom", "desc": "websocket" },
                 { "name": "Server-6", "domain": "gustave.quest", "desc": "websocket" },
                 { "name": "Server-7", "domain": "gwendolyn.skin", "desc": "websocket" },
+                { "name": "Server-8", "domain": "hannar.beauty", "desc": "websocket" },
+                { "name": "Server-9", "domain": "harriet.boats", "desc": "websocket" },
+                { "name": "Server-10", "domain": "hazel.lol", "desc": "websocket" },
                 {}
             ],
             "servers": [
@@ -63,13 +66,13 @@
                     "cc": "de",
                     "city": "Frankfurt",
                     "desc": "High speed",
-                    "ip": "193.108.118.56"
+                    "ip": "193.108.117.63"
                 },
                 {
                     "cc": "de",
                     "city": "Frankfurt",
                     "desc": "High speed",
-                    "ip": "185.177.229.239"
+                    "ip": "193.108.117.132"
                 },
                 {
                     "cc": "fr",
@@ -78,10 +81,10 @@
                     "ip": "23.134.91.95"
                 },
                 {
-                    "cc": "gb",
-                    "city": "London",
-                    "desc": "High speed",
-                    "ip": "142.202.51.122"
+                    "cc": "nl",
+                    "city": "Amsterdam",
+                    "desc": "New",
+                    "ip": "172.99.188.11"
                 }
             ]
         },
