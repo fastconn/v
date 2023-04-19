@@ -67,6 +67,7 @@
                 { "name": "Server-17", "domain": "hermosa.hair", "desc": "websocket" },
                 { "name": "Server-18", "domain": "hilary.pics", "desc": "websocket" },
                 { "name": "Server-19", "domain": "hilda.skin", "desc": "websocket" },
+                { "name": "Server-20", "domain": "honie.sbs", "desc": "websocket" },
                 {}
             ],
             "servers": [
