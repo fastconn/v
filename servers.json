@@ -64,6 +64,7 @@
                 { "name": "Server-14", "domain": "hedy.motorcycles", "desc": "websocket" },
                 { "name": "Server-15", "domain": "helen.monster", "desc": "websocket" },
                 { "name": "Server-16", "domain": "heloise.yachts", "desc": "websocket" },
+                { "name": "Server-17", "domain": "hermosa.hair", "desc": "websocket" },
                 {}
             ],
             "servers": [
