@@ -94,6 +94,7 @@
 		        { "cc": "fr", "city": "Paris",          "ip": "23.134.91.22",       "desc": "High speed" },
                 { "cc": "gb", "city": "London",         "ip": "172.99.190.115",     "desc": "High speed" },
 
+                { "cc": "es", "city": "Madrid",         "ip": "5.189.222.28",       "desc": "New" },
                 { "cc": "tr", "city": "Istanbul",       "ip": "95.85.76.122",       "desc": "New" },
                 { "cc": "ua", "city": "Kyive",          "ip": "95.85.72.138",       "desc": "New" },
 
