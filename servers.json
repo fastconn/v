@@ -54,30 +54,8 @@
                 { "name": "Server-4", "domain": "graces.pics", "desc": "websocket" },
                 { "name": "Server-5", "domain": "griselda.mom", "desc": "websocket" },
                 { "name": "Server-6", "domain": "gustave.quest", "desc": "websocket" },
+                { "name": "Server-7", "domain": "gwendolyn.skin", "desc": "websocket" },
                 {}
-            ],
-            "ws4": [
-                { "name": "Server-1", "domain": "bowen.monster", "desc": "websocket" },
-                { "name": "Server-2", "domain": "ethel.skin", "desc": "websocket" },
-                { "name": "Server-3", "domain": "emili.space", "desc": "websocket" },
-                { "name": "Server-4", "domain": "ellene.cfd", "desc": "websocket" },
-                { "name": "Server-5", "domain": "elma.homes", "desc": "websocket" },
-                { "name": "Server-6", "domain": "elsaa.sbs", "desc": "websocket" },
-                { "name": "Server-7", "domain": "eunice.fun", "desc": "websocket" },
-                { "name": "Server-8", "domain": "evangeline.lol", "desc": "websocket" },
-                { "name": "Server-9", "domain": "faithe.cfd", "desc": "websocket" },
-                { "name": "Server-10", "domain": "fanny.beauty", "desc": "websocket" },
-                { "name": "Server-11", "domain": "fay.boats", "desc": "websocket" },
-                { "name": "Server-12", "domain": "flora.makeup", "desc": "websocket" },
-                { "name": "Server-13", "domain": "florence.mom", "desc": "websocket" },
-                { "name": "Server-14", "domain": "frances.pics", "desc": "websocket" },
-                { "name": "Server-15", "domain": "frederica.skin", "desc": "websocket" },
-                { "name": "Server-16", "domain": "gail.yachts", "desc": "websocket" },
-                { "name": "Server-17", "domain": "georgiay.cfd", "desc": "websocket" },
-                { "name": "Server-18", "domain": "geraldine.lol", "desc": "websocket" },
-                { "name": "Server-19", "domain": "gille.motorcycles", "desc": "websocket" },
-                { "name": "Server-20", "domain": "gina.boats", "desc": "websocket" },
-                {"memo": "main"}
             ],
             "servers": [
 
