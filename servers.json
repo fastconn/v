@@ -65,9 +65,9 @@
                 { "name": "Server-15", "domain": "hermosa.hair",    "desc": "websocket" },
                 { "name": "Server-16", "domain": "hilary.pics",     "desc": "websocket" },
                 { "name": "Server-17", "domain": "hulda.fun",       "desc": "websocket" },
-                { "name": "Server-18", "domain": "idaa.space",      "desc": "websocket" },
-                { "name": "Server-19", "domain": "ingrid.mom",      "desc": "websocket" },
-                { "name": "Server-20", "domain": "inna.cfd",        "desc": "websocket" },
+                { "name": "Server-18", "domain": "inna.cfd",        "desc": "websocket" },
+                { "name": "Server-19", "domain": "irene.lat",      "desc": "websocket" },
+                { "name": "Server-20", "domain": "iris.skin",      "desc": "websocket" },
                 {}
             ],
             "servers": [
