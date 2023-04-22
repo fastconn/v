@@ -36,10 +36,9 @@
                 { "name": "Server-6", "domain": "carlin.skin" },
                 { "name": "Server-7", "domain": "carol.lol" },
                 { "name": "Server-8", "domain": "caroline.monster" },
-                { "name": "Server-9", "domain": "carlin.autos" },
-                { "name": "Server-10", "domain": "cathy.boats" },
-                { "name": "Server-11", "domain": "celeste.homes" },
-                { "name": "Server-12", "domain": "charlotte.lat" },
+                { "name": "Server-9", "domain": "cathy.boats" },
+                { "name": "Server-10", "domain": "celeste.homes" },
+                { "name": "Server-11", "domain": "charlotte.lat" },
                 {"memo": "light"}
             ]
         }
