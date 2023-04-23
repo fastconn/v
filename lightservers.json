@@ -17,7 +17,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 1,
+            "wsGroupSize": 3,
             "wsNameAuto": true,
             "ws2": [
                 {
@@ -28,12 +28,17 @@
                 }
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "chaya.makeup" },
-                { "name": "Server-2", "domain": "cherrie.pics" },
-                { "name": "Server-3", "domain": "cheryl.lol" },
-                { "name": "Server-4", "domain": "chloee.cfd" },
-                { "name": "Server-5", "domain": "christina.quest" },
-                { "name": "Server-6", "domain": "claire.monster" },
+                { "name": "Server-1", "domain": "zebulon.hair" },
+                { "name": "Server-2", "domain": "camille.quest" },
+                { "name": "Server-3", "domain": "candance.fun" },
+                { "name": "Server-4", "domain": "candice.lat" },
+                { "name": "Server-5", "domain": "cara.motorcycles" },
+                { "name": "Server-6", "domain": "carlin.skin" },
+                { "name": "Server-7", "domain": "carol.lol" },
+                { "name": "Server-8", "domain": "caroline.monster" },
+                { "name": "Server-9", "domain": "cathy.boats" },
+                { "name": "Server-10", "domain": "celeste.homes" },
+                { "name": "Server-11", "domain": "charlotte.lat" },
                 {"memo": "light"}
             ]
         }
