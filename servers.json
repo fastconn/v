@@ -66,8 +66,8 @@
                 { "name": "Server-16", "domain": "hilary.pics",     "desc": "websocket" },
                 { "name": "Server-17", "domain": "irma.yachts",     "desc": "websocket" },
                 { "name": "Server-18", "domain": "isabel.hair",     "desc": "websocket" },
-                { "name": "Server-19", "domain": "iviy.shop",       "desc": "websocket" },
-                { "name": "Server-20", "domain": "janett.click",    "desc": "websocket" },
+                { "name": "Server-19", "domain": "janett.click",    "desc": "websocket" },
+                { "name": "Server-20", "domain": "janise.click",    "desc": "websocket" },
                 {}
             ],
             "servers": [
