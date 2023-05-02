@@ -18,7 +18,7 @@
     },
     "ad": {
         "0": {
-            "ver": 20230418,
+            "ver": 20230502,
             "adFullLoadwait": 5,
             "hotInterval": 3,
             "fullAdOrder": "ni",
@@ -36,6 +36,7 @@
         "run3": {
             "Open": "open",
             "MainOpen": "mainOpen",
+            "MainBanner": "banner1",
             "Connected2": "connected2",
             "DidConFull": "anyInter",
             "WillDisFull": "anyFull",
@@ -74,11 +75,11 @@
                     { "id": "ca-app-pub-3510970371831048/6894251183" }
                 ]
             },
-            "open": {
-                "type": "open", "memo": "ver<1.3.9",
+            "banner1": {
+                "type": "banner",
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/2402321885" },
-                    { "id": "ca-app-pub-3510970371831048/6894251183" }
+                    { "id": "ca-app-pub-3510970371831048/2459770431" },
+                    { "id": "ca-app-pub-3510970371831048/7045882705" }
                 ]
             }
         }
