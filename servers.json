@@ -37,7 +37,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 4,
+            "wsGroupSize": 2,
             "wsNameAuto": true,
             "ws2": [
                 {
