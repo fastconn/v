@@ -60,6 +60,8 @@
                 { "name": "Server-10", "domain": "joanne.autos",    "desc": "websocket" },
                 { "name": "Server-11", "domain": "jocelyn.beauty",  "desc": "websocket" },
                 { "name": "Server-12", "domain": "jodie.boats",     "desc": "websocket" },
+                { "name": "Server-13", "domain": "jolie.pics",      "desc": "websocket" },
+                { "name": "Server-14", "domain": "josephine.fun",   "desc": "websocket" },
                 {}
             ],
             "servers": [
