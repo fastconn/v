@@ -95,13 +95,14 @@
 		        { "cc": "fr", "city": "Paris",          "ip": "23.134.91.22",       "desc": "High speed" },
                 { "cc": "gb", "city": "London",         "ip": "172.99.190.115",     "desc": "High speed" },
 
-                { "cc": "es", "city": "Madrid",         "ip": "5.189.222.28",       "desc": "New" },
-                { "cc": "tr", "city": "Istanbul",       "ip": "95.85.76.122",       "desc": "New" },
-                { "cc": "ua", "city": "Kyive",          "ip": "95.85.72.138",       "desc": "New" },
+                { "cc": "br", "city": "São Paulo",      "ip": "5.188.238.94",       "desc": "New" },
+                { "cc": "jp", "city": "Tokyo",          "ip": "92.38.178.8",        "desc": "New" },
+                { "cc": "au", "city": "Sydney",         "ip": "146.185.214.57",     "desc": "New" },
 
-                { "cc": "br", "city": "São Paulo",      "ip": "5.188.238.18",       "desc": "Fast" },
-                { "cc": "jp", "city": "Tokyo",          "ip": "5.8.71.208",         "desc": "Fast" },
-                { "cc": "au", "city": "Sydney",         "ip": "146.185.214.15",     "desc": "Fast" },
+                { "cc": "es", "city": "Madrid",         "ip": "5.189.222.28",       "desc": "Fast" },
+                { "cc": "tr", "city": "Istanbul",       "ip": "95.85.76.122",       "desc": "Fast" },
+                { "cc": "ua", "city": "Kyive",          "ip": "95.85.72.138",       "desc": "Fast" },
+                
                 { "cc": "pl", "city": "Warsaw",         "ip": "79.133.122.202",     "desc": "Fast" },
                 { "cc": "hu", "city": "Budapest",       "ip": "185.202.92.169",     "desc": "Fast" },
                 { "cc": "il", "city": "Tel Aviv",       "ip": "146.185.219.69",     "desc": "Fast" }
