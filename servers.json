@@ -73,7 +73,7 @@
             "servers": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "193.108.117.63",     "desc": "High speed" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "193.108.117.132",    "desc": "High speed" },
-                { "cc": "uk", "city": "London",     "ip": "142.202.51.3",       "desc": "New" },
+                { "cc": "gb", "city": "London",     "ip": "142.202.51.3",       "desc": "New" },
                 { "cc": "us", "city": "New York",   "ip": "169.197.141.21",     "desc": "New" },
                 { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.14",     "desc": "New" }
             ]
