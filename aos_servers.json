@@ -46,6 +46,10 @@
             {
                 "n": "Server-3", "ws": true,
                 "s": [ { "pr": 4, "name": "Global", "i": "waynn.makeup" } ]
+            },
+            {
+                "n": "Server-4", "ws": true,
+                "s": [ { "pr": 4, "name": "Global", "i": "edeen.makeup" } ]
             }
         ],
         "rv": []
