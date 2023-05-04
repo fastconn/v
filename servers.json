@@ -50,8 +50,6 @@
             "ws3": [
                 { "name": "Server-1", "domain": "giselle.beauty",   "desc": "websocket" },
                 { "name": "Server-2", "domain": "gustave.quest",    "desc": "websocket" },
-                { "name": "Server-3", "domain": "jill.makeup",      "desc": "websocket" },
-                { "name": "Server-4", "domain": "joh.motorcycles",  "desc": "websocket" },
                 { "name": "Server-5", "domain": "joa.bio",          "desc": "websocket" },
                 { "name": "Server-6", "domain": "joanne.autos",    "desc": "websocket" },
                 { "name": "Server-7", "domain": "jocelyn.beauty",  "desc": "websocket" },
