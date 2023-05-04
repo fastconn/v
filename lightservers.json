@@ -31,13 +31,13 @@
                 { "name": "Server-1", "domain": "zebulon.hair" },
                 { "name": "Server-2", "domain": "cathy.boats" },
                 { "name": "Server-3", "domain": "chloee.cfd" },
-                { "name": "Server-4", "domain": "cherrie.pics" },
-                { "name": "Server-5", "domain": "chaya.makeup" },
-                { "name": "Server-6", "domain": "cheryl.lol" },
-                { "name": "Server-7", "domain": "christina.quest" },
-                { "name": "Server-8", "domain": "claire.monster" },
-                { "name": "Server-9", "domain": "clara.boats" },
-                { "name": "Server-10", "domain": "clementine.hair" },
+                { "name": "Server-4", "domain": "chaya.makeup" },
+                { "name": "Server-5", "domain": "cheryl.lol" },
+                { "name": "Server-6", "domain": "christina.quest" },
+                { "name": "Server-7", "domain": "constance.skin" },
+                { "name": "Server-8", "domain": "cora.fun" },
+                { "name": "Server-9", "domain": "coral.yachts" },
+                { "name": "Server-10","domain": "cornelia.autos" },
                 {"memo": "light"}
             ]
         }
