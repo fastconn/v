@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "v": 20230327,
+    "v": 20230504,
     "shuffleWs": true,
     "cfgs": {
         "ikev2": {
@@ -37,7 +37,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 2,
+            "wsGroupSize": 4,
             "wsNameAuto": true,
             "ws2": [
                 {
@@ -62,6 +62,12 @@
                 { "name": "Server-12", "domain": "jodie.boats",     "desc": "websocket" },
                 { "name": "Server-13", "domain": "jolie.pics",      "desc": "websocket" },
                 { "name": "Server-14", "domain": "josephine.fun",   "desc": "websocket" },
+                { "name": "Server-15", "domain": "isabel.hair",          "desc": "websocket" },
+                { "name": "Server-16", "domain": "jader.fun",    "desc": "websocket" },
+                { "name": "Server-17", "domain": "jamie.boats",  "desc": "websocket" },
+                { "name": "Server-18", "domain": "janett.click",     "desc": "websocket" },
+                { "name": "Server-19", "domain": "janise.click",      "desc": "websocket" },
+                { "name": "Server-20", "domain": "janne.bond",   "desc": "websocket" },
                 {}
             ],
             "servers": [
