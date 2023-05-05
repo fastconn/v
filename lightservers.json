@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "v": 20230406,
+    "v": 20230505,
     "shuffleWs": true,
     "cfgs": {
         "ws": {
@@ -17,7 +17,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 1,
+            "wsGroupSize": 2,
             "wsNameAuto": true,
             "ws2": [
                 {
@@ -39,6 +39,7 @@
                 { "name": "Server-9", "domain": "larae.homes" },
                 { "name": "Server-10","domain": "laurel.lol" },
                 { "name": "Server-11","domain": "laurra.cfd" },
+                { "name": "Server-12","domain": "laurren.icu" },
                 {"memo": "light"}
             ]
         }

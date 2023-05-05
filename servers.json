@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "v": 20230504,
+    "v": 20230505,
     "shuffleWs": true,
     "cfgs": {
         "ikev2": {
@@ -70,6 +70,8 @@
                 { "name": "Server-20", "domain": "inna.cfd",      "desc": "websocket" },
                 { "name": "Server-21", "domain": "mabell.sbs",      "desc": "websocket" },
                 { "name": "Server-22", "domain": "madelin.mom",      "desc": "websocket" },
+                { "name": "Server-23", "domain": "madge.quest",      "desc": "websocket" },
+                { "name": "Server-24", "domain": "maggiy.shop",      "desc": "websocket" },
                 {}
             ],
             "servers": [
