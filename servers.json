@@ -68,12 +68,8 @@
                 { "name": "Server-18", "domain": "kittiy.sbs",      "desc": "websocket" },
                 { "name": "Server-19", "domain": "kristin.makeup",      "desc": "websocket" },
                 { "name": "Server-20", "domain": "inna.cfd",      "desc": "websocket" },
-                { "name": "Server-21", "domain": "mabell.sbs",      "desc": "websocket" },
-                { "name": "Server-22", "domain": "madelin.mom",      "desc": "websocket" },
-                { "name": "Server-23", "domain": "madge.quest",      "desc": "websocket" },
-                { "name": "Server-24", "domain": "maggiy.shop",      "desc": "websocket" },
-                { "name": "Server-25", "domain": "mamier.skin",      "desc": "websocket" },
-                { "name": "Server-26", "domain": "mandie.hair",      "desc": "websocket" },
+                { "name": "Server-21", "domain": "maggiy.shop",      "desc": "websocket" },
+                { "name": "Server-22", "domain": "mamier.skin",      "desc": "websocket" },
                 {}
             ],
             "servers": [
