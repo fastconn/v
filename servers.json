@@ -68,14 +68,10 @@
                 { "name": "Server-18", "domain": "marary.skin",      "desc": "websocket" },
                 { "name": "Server-19", "domain": "marien.motorcycles",      "desc": "websocket" },
                 { "name": "Server-20", "domain": "marjorie.pics",      "desc": "websocket" },
-                { "name": "Server-21", "domain": "marthae.sbs",      "desc": "websocket" },
-                { "name": "Server-22", "domain": "martina.quest",      "desc": "websocket" },
-                { "name": "Server-23", "domain": "mauud.yachts",      "desc": "websocket" },
-                { "name": "Server-24", "domain": "magag.click",      "desc": "websocket" },
-                { "name": "Server-25", "domain": "maureen.autos",      "desc": "websocket" },
-                { "name": "Server-26", "domain": "maviss.cfd",      "desc": "websocket" },
-                { "name": "Server-27", "domain": "maxin.beauty",      "desc": "websocket" },
-                { "name": "Server-28", "domain": "maymay.boats",      "desc": "websocket" },
+                { "name": "Server-21", "domain": "martina.quest",      "desc": "websocket" },
+                { "name": "Server-22", "domain": "maureen.autos",      "desc": "websocket" },
+                { "name": "Server-23", "domain": "maviss.cfd",      "desc": "websocket" },
+                { "name": "Server-24", "domain": "maxin.beauty",      "desc": "websocket" },
                 {}
             ],
             "servers": [
