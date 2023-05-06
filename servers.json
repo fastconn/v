@@ -68,6 +68,10 @@
                 { "name": "Server-18", "domain": "marcia.yachts",      "desc": "websocket" },
                 { "name": "Server-19", "domain": "margare.fun",      "desc": "websocket" },
                 { "name": "Server-20", "domain": "marguerit.cfd",      "desc": "websocket" },
+                { "name": "Server-21", "domain": "mariia.monster",      "desc": "websocket" },
+                { "name": "Server-22", "domain": "marinar.shop",      "desc": "websocket" },
+                { "name": "Server-23", "domain": "marary.skin",      "desc": "websocket" },
+                { "name": "Server-24", "domain": "marien.motorcycles",      "desc": "websocket" },
                 {}
             ],
             "servers": [
