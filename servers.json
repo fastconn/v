@@ -72,6 +72,8 @@
                 { "name": "Server-22", "domain": "maureen.autos",      "desc": "websocket" },
                 { "name": "Server-23", "domain": "maviss.cfd",      "desc": "websocket" },
                 { "name": "Server-24", "domain": "maxin.beauty",      "desc": "websocket" },
+                { "name": "Server-25", "domain": "maymay.boats",      "desc": "websocket" },
+                { "name": "Server-26", "domain": "megaan.homes",      "desc": "websocket" },
                 {}
             ],
             "servers": [
