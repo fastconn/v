@@ -82,19 +82,6 @@
                 { "name": "Server-32", "domain": "mildred.bio",      "desc": "websocket" },
                 {}
             ],
-            "ws-n": [
-                { "name": "Server-23", "domain": "maviss.cfd",      "desc": "websocket" },
-                { "name": "Server-24", "domain": "maxin.beauty",      "desc": "websocket" },
-                { "name": "Server-25", "domain": "meerry.makeup",      "desc": "websocket" },
-                { "name": "Server-26", "domain": "melisa.lol",      "desc": "websocket" },
-                { "name": "Server-27", "domain": "meredit.mom",      "desc": "websocket" },
-                { "name": "Server-28", "domain": "meroiy.icu",      "desc": "websocket" },
-                { "name": "Server-29", "domain": "michaeli.sbs",      "desc": "websocket" },
-                { "name": "Server-30", "domain": "michell.pics",      "desc": "websocket" },
-                { "name": "Server-31", "domain": "mignoen.shop",      "desc": "websocket" },
-                { "name": "Server-32", "domain": "mildred.bio",      "desc": "websocket" },
-                {}
-            ],
             "servers": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "193.108.117.63",     "desc": "High speed" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "193.108.117.132",    "desc": "High speed" },
