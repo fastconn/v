@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "v": 20230505,
+    "v": 20230513,
     "shuffleWs": true,
     "cfgs": {
         "ws": {
@@ -28,21 +28,21 @@
                 }
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "zebulon.hair" },
-                { "name": "Server-2", "domain": "cathy.boats" },
-                { "name": "Server-3", "domain": "chloee.cfd" },
-                { "name": "Server-4", "domain": "chaya.makeup" },
-                { "name": "Server-5", "domain": "cheryl.lol" },
-                { "name": "Server-6", "domain": "christina.quest" },
-                { "name": "Server-7", "domain": "larae.homes" },
-                { "name": "Server-8","domain": "laurel.lol" },
-                { "name": "Server-9","domain": "laurra.cfd" },
-                { "name": "Server-10","domain": "laurren.icu" },
-                { "name": "Server-11","domain": "leee.motorcycles" },
-                { "name": "Server-12","domain": "leilla.makeup" },
-                { "name": "Server-13","domain": "lenar.hair" },
-                { "name": "Server-14","domain": "leona.monster" },
-                { "name": "Server-15","domain": "lesley.yachts" },
+                { "name": "Server-1", "domain": "cathy.boats" },
+                { "name": "Server-2", "domain": "chloee.cfd" },
+                { "name": "Server-3", "domain": "chaya.makeup" },
+                { "name": "Server-4", "domain": "cheryl.lol" },
+                { "name": "Server-5", "domain": "christina.quest" },
+                { "name": "Server-6", "domain": "larae.homes" },
+                { "name": "Server-7","domain": "laurel.lol" },
+                { "name": "Server-8","domain": "laurra.cfd" },
+                { "name": "Server-9","domain": "laurren.icu" },
+                { "name": "Server-10","domain": "leee.motorcycles" },
+                { "name": "Server-11","domain": "leilla.makeup" },
+                { "name": "Server-12","domain": "lenar.hair" },
+                { "name": "Server-13","domain": "leona.monster" },
+                { "name": "Server-14","domain": "lesley.yachts" },
+                { "name": "Server-15","domain": "letitia.space" },
                 { "name": "Server-16","domain": "lila.yachts" },
                 {"memo": "light"}
             ]
