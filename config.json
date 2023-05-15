@@ -21,7 +21,7 @@
             "ver": 20230511,
             "adFullLoadwait": 5,
             "hotInterval": 3,
-            "fullAdOrder": "in",
+            "fullAdOrder": "ni",
             "max": {
                 "admob": [-1,-1]
             },
@@ -49,8 +49,8 @@
             "anyFull": {
                     "type": "native", "layouts": [0,1],
                     "ids": [
-                        { "id": "ca-app-pub-3510970371831048/5958782309" },
-                        { "id": "ca-app-pub-3510970371831048/1871277762" }
+                        { "id": "ca-app-pub-3510970371831048/2469466578" },
+                        { "id": "ca-app-pub-3510970371831048/5095629911" }
                     ]
                 },
             "anyInter": {
