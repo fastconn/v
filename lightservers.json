@@ -5,7 +5,7 @@
     "cfgs": {
         "ws": {
             "a": {
-		        "domain": "edeen.makeup",
+		        "domain": "asguard.cfd",
                 "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
                 "pt": 443,
                 "path": "/linkvws"
