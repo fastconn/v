@@ -36,7 +36,6 @@
         "run3": {
             "Open": "open",
             "MainOpen": "mainOpen",
-            "MainBanner": "banner1",
             "Connected2": "connected2",
             "DidConFull": "anyInter",
             "WillDisFull": "anyFull",
