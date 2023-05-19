@@ -1,7 +1,6 @@
 {
     "policy": {
-        "cnLang": true,
-        "cnIp": true,
+        "cnDeny": [0,0],
         "autoProtocol": 4,
         "proxySelf": true
     },
