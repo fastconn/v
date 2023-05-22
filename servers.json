@@ -51,7 +51,7 @@
                 { "name": "Server-1", "domain": "inna.cfd",      "desc": "websocket" },
                 { "name": "Server-2", "domain": "irene.lat",      "desc": "websocket" },
                 { "name": "Server-3", "domain": "jader.fun",       "desc": "websocket" },
-                { "name": "Server-4", "domain": "jamie.boats",     "desc": "websocket" },
+                { "name": "Server-4", "domain": "muriel.makeup",     "desc": "websocket" },
                 { "name": "Server-5", "domain": "janett.click",     "desc": "websocket" },
                 { "name": "Server-6", "domain": "jocelyn.beauty",  "desc": "websocket" },
                 { "name": "Server-7", "domain": "jolie.pics",      "desc": "websocket" },
@@ -81,8 +81,8 @@
                 { "name": "Server-31", "domain": "mirand.cfd",          "desc": "websocket" },
                 { "name": "Server-32", "domain": "miriam.yachts",       "desc": "websocket" },
                 { "name": "Server-33", "domain": "molly.quest",         "desc": "websocket" },
-                { "name": "Server-34", "domain": "mona.motorcycles",    "desc": "websocket" },
-                { "name": "Server-35", "domain": "monica.pics",         "desc": "websocket" },
+                { "name": "Server-34", "domain": "murray.lol",          "desc": "websocket" },
+                { "name": "Server-35", "domain": "myira.sbs",           "desc": "websocket" },
                 {}
             ],
             "servers": [
