@@ -36,7 +36,6 @@
         "run3": {
             "Open": "open",
             "MainOpen": "mainOpen",
-            "MainBanner2": "banner2",
             "Connected2": "connected2",
             "DidConFull": "anyInter",
             "WillDisFull": "anyFull",
@@ -75,13 +74,6 @@
                 "ids": [
                     { "id": "ca-app-pub-3510970371831048/2402321885" },
                     { "id": "ca-app-pub-3510970371831048/6894251183" }
-                ]
-            },
-            "banner2": {
-                "type": "banner",
-                "ids": [
-                    { "id": "ca-app-pub-3510970371831048/2459770431" },
-                    { "id": "ca-app-pub-3510970371831048/7045882705" }
                 ]
             }
         }
