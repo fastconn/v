@@ -62,7 +62,7 @@
                     ]
                 },
             "connected2": {
-                "type": "native", "layouts": [0,1],
+                "type": "native",
                 "ids": [
                     { "id": "ca-app-pub-3510970371831048/8400655960" },
                     { "id": "ca-app-pub-3510970371831048/3148329287" },
