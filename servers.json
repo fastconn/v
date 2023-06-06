@@ -37,7 +37,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 4,
+            "wsGroupSize": 5,
             "wsNameAuto": true,
             "ws2": [
                 {
@@ -80,6 +80,9 @@
                 { "name": "Server-30", "domain": "natividad.icu",      "desc": "websocket" },
                 { "name": "Server-31", "domain": "nelly.homes",      "desc": "websocket" },
                 { "name": "Server-32", "domain": "nicoler.lol",           "desc": "websocket" },
+                { "name": "Server-33", "domain": "nicola.pics",      "desc": "websocket" },
+                { "name": "Server-34", "domain": "nina.bond",      "desc": "websocket" },
+                { "name": "Server-35", "domain": "nina.bond",           "desc": "websocket" },
                 {}
             ],
             "servers": [
