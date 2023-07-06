@@ -47,7 +47,7 @@
             },
             {
                 "n": "Server-1", "ws": true,
-                "s": [ { "pr": 4, "name": "Global", "i": "eedd.cfd" } ]
+                "s": [ { "pr": 4, "name": "Global", "i": "octavi.cfd" } ]
             },
             {
                 "n": "Server-2", "ws": true,
