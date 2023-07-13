@@ -14,7 +14,7 @@
     },
     "ad": {
         "0": {
-            "ver": 20230701,
+            "ver": 20230713,
             "adFullLoadwait": 5,
             "hotInterval": 3,
             "fullAdOrder": "ni",
@@ -43,7 +43,7 @@
 			"anyFull": {
 				"type": "native", "layouts": [0,1],
 				"ids": [
-					{ "id": "ca-app-pub-3510970371831048/6504138790", "memo":"h707" },
+					{ "id": "ca-app-pub-3510970371831048/5956858787", "memo":"h713" },
 					{ "id": "ca-app-pub-3510970371831048/9887892179", "memo":"m710" }
 				]
 	 	   },
