@@ -17,7 +17,7 @@
             "ver": 20230713,
             "adFullLoadwait": 5,
             "hotInterval": 3,
-            "fullAdOrder": "ni",
+            "fullAdOrder": "in",
 	    	"max": {
 				"admob": [-1,-1]
 			},
@@ -50,6 +50,7 @@
             "anyInter": {
                 "type": "inter",
                 "ids": [    
+					{ "id": "ca-app-pub-3510970371831048/3502881995", "h717":"" },
 					{ "id": "ca-app-pub-3510970371831048/5070943090", "h710":"" },
 		  			{ "id": "ca-app-pub-3510970371831048/3299345829" }
                 ]
