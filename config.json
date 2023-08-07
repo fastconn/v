@@ -18,8 +18,8 @@
     },
     "ad": {
         "0": {
-            "ver": 20230713,
-            "adFullLoadwait": 5,
+            "ver": 20230807,
+            "adFullLoadwait": 6,
             "hotInterval": 3,
             "fullAdOrder": "ni",
             "max": {
@@ -48,7 +48,7 @@
             "anyFull": {
                     "type": "native", "layouts": [0,1],
                     "ids": [
-                        { "id": "ca-app-pub-3510970371831048/5075466463", "memo": "h802"},
+                        { "id": "ca-app-pub-3510970371831048/9571160969", "memo": "h807"},
                         { "id": "ca-app-pub-3510970371831048/9709562657", "memo":"m725" }
                     ]
                 },
