@@ -117,7 +117,6 @@
                 { "cc": "es", "city": "Madrid",         "ip": "5.189.222.28",       "desc": "Fast" },
                 { "cc": "ua", "city": "Kyive",          "ip": "95.85.72.138",       "desc": "Fast" },
                
-                { "cc": "tr", "city": "Istanbul",       "ip": "5.188.168.247",      "desc": "Fast" },
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.168.35",       "desc": "New", "on": "8.9-newIp" },
                 { "cc": "il", "city": "Tel Aviv",       "ip": "146.185.219.42",     "desc": "New" }
             ]
