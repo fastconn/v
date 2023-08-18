@@ -14,7 +14,7 @@
     },
     "ad": {
         "0": {
-            "ver": 20230730,
+            "ver": 20230818,
             "adFullLoadwait": 5,
             "hotInterval": 3,
             "fullAdOrder": "ni",
@@ -43,9 +43,9 @@
 			"anyFull": {
 				"type": "native", "layouts": [0,1],
 				"ids": [
+					{ "id": "ca-app-pub-3510970371831048/6344922311", "memo":"h818" },
 					{ "id": "ca-app-pub-3510970371831048/8124882194", "memo":"h808_10" },
-					{ "id": "ca-app-pub-3510970371831048/4039531051", "memo":"h730" },
-					{ "id": "ca-app-pub-3510970371831048/9887892179", "memo":"m710" }
+					{ "id": "ca-app-pub-3510970371831048/6194284042", "memo":"m818" }
 				]
 	 	   },
             "anyInter": {
