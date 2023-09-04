@@ -47,30 +47,34 @@
             },
             {
                 "n": "Server-1", "ws": true,
-                "s": [ { "pr": 4, "name": "Global", "i": "octavi.cfd" } ]
+                "s": [ { "pr": 4, "name": "Global", "i": "olga.makeup" } ]
             },
             {
                 "n": "Server-2", "ws": true,
-                "s": [ { "pr": 4, "name": "Global", "i": "alvvin.click" } ]
+                "s": [ { "pr": 4, "name": "Global", "i": "octavi.cfd" } ]
             },
             {
                 "n": "Server-3", "ws": true,
-                "s": [ { "pr": 4, "name": "Global", "i": "waynn.makeup" } ]
+                "s": [ { "pr": 4, "name": "Global", "i": "alvvin.click" } ]
             },
             {
                 "n": "Server-4", "ws": true,
-                "s": [ { "pr": 4, "name": "Global", "i": "edeen.makeup" } ]
+                "s": [ { "pr": 4, "name": "Global", "i": "waynn.makeup" } ]
             },
             {
                 "n": "Server-5", "ws": true,
-                "s": [ { "pr": 4, "name": "Global", "i": "ophelia.mom" } ]
+                "s": [ { "pr": 4, "name": "Global", "i": "edeen.makeup" } ]
             },
             {
                 "n": "Server-6", "ws": true,
-                "s": [ { "pr": 4, "name": "Global", "i": "odelia.autos" } ]
+                "s": [ { "pr": 4, "name": "Global", "i": "ophelia.mom" } ]
             },
             {
                 "n": "Server-7", "ws": true,
+                "s": [ { "pr": 4, "name": "Global", "i": "odelia.autos" } ]
+            },
+            {
+                "n": "Server-8", "ws": true,
                 "s": [ { "pr": 4, "name": "Global", "i": "oliv.beauty" } ]
             }
         ],
