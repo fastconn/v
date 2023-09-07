@@ -1,7 +1,8 @@
 {
     "ageM": 5,
-    "v": 20230822,
+    "v": 20230908,
     "shuffleWs": true,
+    "wsMaxPing": 10,
     "cfgs": {
         "ikev2": {
             "a": {
