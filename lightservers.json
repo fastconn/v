@@ -2,6 +2,7 @@
     "ageM": 5,
     "v": 20230513,
     "shuffleWs": true,
+    "wsMaxPing": 10,
     "cfgs": {
         "ws": {
             "a": {
