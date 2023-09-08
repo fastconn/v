@@ -6,7 +6,7 @@
 		"cnDeny": [0,0],
 		"forceVer": "1.1.0",
         "recVer": "1.1.6",
-		"evNo": [],
+    	"evNo": ["enterGg", "ping2"],
 		"testers": ["FB182717-40B6-4542-A3E9-C55B87770208"],
 		"url": {},
 		"rateHrs": 24,
