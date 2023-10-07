@@ -14,6 +14,7 @@
         "autoTunnel": 4,
         "wsDefault": true,
         "iapColor": 0,
+        "umpEnabled": false,
         "rateHrs": 24 
     },
     "ad": {
@@ -48,7 +49,7 @@
             "anyFull": {
                     "type": "native", "layouts": [0,1],
                     "ids": [
-                        { "id": "ca-app-pub-3510970371831048/9941473234", "memo": "h1001"},  
+                        { "id": "ca-app-pub-3510970371831048/2275332678", "memo": "h1008"},  
                         { "id": "ca-app-pub-3510970371831048/3244202944", "memo": "m1001" }
                     ]
                 },
