@@ -15,10 +15,10 @@
     },
     "ad": {
         "0": {
-            "ver": 20231001,
+            "ver": 20231012,
             "adFullLoadwait": 5,
             "hotInterval": 3,
-            "fullAdOrder": "in",
+            "fullAdOrder": "ni",
 	    	"max": {
 				"admob": [-1,-1]
 			},
