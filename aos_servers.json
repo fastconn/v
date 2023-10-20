@@ -84,6 +84,14 @@
             {
                 "n": "Server-10", "ws": true,
                 "s": [ { "pr": 4, "name": "Global", "i": "oliv.beauty" } ]
+            },
+            {
+                "n": "Server-11", "ws": true,
+                "s": [ { "pr": 4, "name": "Global", "i": "ophelia.quest" } ]
+            },
+            {
+                "n": "Server-12", "ws": true,
+                "s": [ { "pr": 4, "name": "Global", "i": "lucie.boats" } ]
             }
         ],
         "rv": []
