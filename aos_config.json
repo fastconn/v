@@ -1,6 +1,6 @@
 {
     "policy": {
-        "cnDeny": [0,0],
+        "cnDeny": [6,20],
         "autoProtocol": 4,
         "proxySelf": true
     },
