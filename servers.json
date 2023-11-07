@@ -106,7 +106,7 @@
                 { "name": "VIP-3", "domain": "xavier.monster" }
             ], 
             "servers": [
-                { "cc": "us", "city": "New York City",  "ip": "38.91.100.195",     "desc": "High speed" },
+                { "cc": "us", "city": "New York City",  "ip": "38.91.100.195",     "desc": "High speed", "on": "11.7" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "38.114.114.35",      "desc": "High speed" },
                 { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.73",       "desc": "High speed" },
 		        { "cc": "de", "city": "Frankfurt",      "ip": "185.177.229.93",     "desc": "New", "on": "6.16" },
