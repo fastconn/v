@@ -19,10 +19,10 @@
     },
     "ad": {
         "0": {
-            "ver": 20231001,
+            "ver": 20231108,
             "adFullLoadwait": 6,
             "hotInterval": 3,
-            "fullAdOrder": "ni",
+            "fullAdOrder": "",
             "max": {
                 "admob": [-1,-1]
             },
@@ -49,7 +49,7 @@
             "anyFull": {
                     "type": "native", "layouts": [0,1],
                     "ids": [
-                        { "id": "ca-app-pub-3510970371831048/9505015032", "memo": "h1102"},  
+                        { "id": "ca-app-pub-3510970371831048/1911597483", "memo": "h1108"},  
                         { "id": "ca-app-pub-3510970371831048/1090450342", "memo": "h1106"},  
                         { "id": "ca-app-pub-3510970371831048/7226443850", "memo": "m1103" }
                     ]
