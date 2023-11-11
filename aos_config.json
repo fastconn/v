@@ -5,7 +5,13 @@
         "proxySelf": true
     },
     "update": {
-
+        "Title": "Update notice",
+        "Content": "New version is available, we recommend you update now!",
+        "force": false,
+        "isGp": true,
+        "okStr": "Update Now",
+        "cancelStr": "Later",
+        "verCode": 103000168
     },
     "adc": {
         "ageM": 5,
