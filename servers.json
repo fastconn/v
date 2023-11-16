@@ -113,14 +113,15 @@
 		        { "cc": "fr", "city": "Paris",          "ip": "23.134.91.119",      "desc": "High speed" },
                 { "cc": "gb", "city": "London",         "ip": "149.7.16.33",        "desc": "High speed" },
 
-                { "cc": "br", "city": "São Paulo",      "ip": "5.188.238.94",       "desc": "Fast" },
-                { "cc": "jp", "city": "Tokyo",          "ip": "92.38.178.8",        "desc": "Fast" },
-                { "cc": "au", "city": "Sydney",         "ip": "146.185.214.57",     "desc": "Fast" },
-                { "cc": "es", "city": "Madrid",         "ip": "5.189.222.28",       "desc": "Fast" },
-                { "cc": "ua", "city": "Kyive",          "ip": "95.85.72.138",       "desc": "Fast" },
-               
                 { "cc": "tr", "city": "Istanbul",       "ip": "213.156.152.107",    "desc": "New", "on": "8.29" },
-                { "cc": "il", "city": "Tel Aviv",       "ip": "146.185.219.42",     "desc": "New" }
+
+                { "cc": "br", "city": "São Paulo",      "ip": "5.188.238.120",      "desc": "New", "on": "11.16" },
+                { "cc": "au", "city": "Sydney",         "ip": "146.185.214.67",     "desc": "New", "on": "11.16" },
+                { "cc": "es", "city": "Madrid",         "ip": "92.38.171.95",       "desc": "New", "on": "11.16" },
+                { "cc": "il", "city": "Tel Aviv",       "ip": "146.185.219.154",    "desc": "New", "on": "11.16" },
+                { "cc": "az", "city": "Baku",           "ip": "180.149.44.182",     "desc": "New", "on": "11.16" },
+                { "cc": "kz", "city": "Almaty",         "ip": "45.80.208.161",      "desc": "New", "on": "11.16" }
+            
             ]
         }
     ]
