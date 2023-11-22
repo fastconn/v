@@ -14,7 +14,7 @@
         "autoTunnel": 4,
         "wsDefault": true,
         "iapColor": 0,
-        "umpEnabled": false,
+        "umpEnabled": true,
         "rateHrs": 24 
     },
     "ad": {
