@@ -2,7 +2,7 @@
     "code": 0,
     "data": {
         "age": 15,
-        "ver": 20231113,
+        "ver": 20231125,
         "r": [
             {
                 "cc": "US", "n": "New York City", "memo": "11.1",
@@ -51,13 +51,13 @@
                     { "pr": 4, "name": "Server-1", "i": "olivee.cfd" },
                     { "pr": 4, "name": "Server-2", "i": "oliviar.autos" },
                     { "pr": 4, "name": "Server-3", "i": "olga.makeup" },
-                    { "pr": 4, "name": "Server-4", "i": "octavi.cfd" },
-                    { "pr": 4, "name": "Server-5", "i": "alvvin.click" },
-                    { "pr": 4, "name": "Server-6", "i": "waynn.makeup" },
-                    { "pr": 4, "name": "Server-7", "i": "edeen.makeup" },
-                    { "pr": 4, "name": "Server-8", "i": "ophelia.mom" },
-                    { "pr": 4, "name": "Server-9", "i": "odelia.autos" },
-                    { "pr": 4, "name": "Server-10", "i": "oliv.beauty" },
+                    { "pr": 4, "name": "Server-4", "i": "nydia.hair" },
+                    { "pr": 4, "name": "Server-5", "i": "pagee.beauty" },
+                    { "pr": 4, "name": "Server-6", "i": "pagpag.autos" },
+                    { "pr": 4, "name": "Server-7", "i": "pamelaa.cfd" },
+                    { "pr": 4, "name": "Server-8", "i": "pandor.boats" },
+                    { "pr": 4, "name": "Server-9", "i": "patrici.click" },
+                    { "pr": 4, "name": "Server-10", "i": "paulaa.homes" },
                     { "pr": 4, "name": "Server-11", "i": "ophelia.quest" },
                     { "pr": 4, "name": "Server-12", "i": "lucie.boats" }
                 ]
