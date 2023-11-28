@@ -93,7 +93,7 @@
                 { "cc": "fr", "city": "Paris",      "ip": "23.162.152.13",      "desc": "New",        "on": "11.25-2Gb" },
                 { "cc": "gb", "city": "London",     "ip": "149.7.16.188",       "desc": "New", "on": "10.20" },
                 { "cc": "us", "city": "New York",   "ip": "38.91.101.243",      "desc": "New", "on": "10.20" },
-                { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.14",     "desc": "High speed" }
+                { "cc": "ca", "city": "Montreal",   "ip": "23.162.56.57",       "desc": "New", "on": "11.28" }
             ]
         },
         {
