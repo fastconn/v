@@ -111,7 +111,7 @@
                 { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.126",      "desc": "New", "on": "11.30" },
 		        { "cc": "de", "city": "Frankfurt",      "ip": "23.158.56.114",      "desc": "New", "on": "11.30" },
 		        { "cc": "fr", "city": "Paris",          "ip": "172.99.189.218",     "desc": "New", "on": "11.30" },
-                { "cc": "gb", "city": "London",         "ip": "142.202.51.31",      "desc": "New", "on": "11.30" },
+                { "cc": "gb", "city": "London",         "ip": "68.168.31.210",      "desc": "New", "on": "12.3" },
 
                 { "cc": "tr", "city": "Istanbul",       "ip": "213.156.152.107",    "desc": "High Speed", "on": "8.29" },
 
