@@ -1,6 +1,6 @@
 {
     "0": {
-		"ageM": 15,
+		"ageM": 5,
 		"showSplash": true,
         "secondSplash": 3,
 		"cnDeny": [0,0],
@@ -15,10 +15,10 @@
     },
     "ad": {
         "0": {
-            "ver": 20231201,
+            "ver": 20231205,
             "adFullLoadwait": 5,
             "hotInterval": 2,
-            "fullAdOrder": "",
+            "fullAdOrder": "in",
 	    	"max": {
 				"admob": [-1,-1]
 			},
