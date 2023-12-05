@@ -107,6 +107,7 @@
             ], 
             "servers": [
                 { "cc": "us", "city": "New York",       "ip": "38.91.100.195",      "desc": "High speed", "on": "11.7" },
+                { "cc": "us", "city": "Ashburn",        "ip": "23.154.136.129",     "desc": "New", "on": "VPS-12.5" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "23.150.152.52",      "desc": "New", "on": "'11.30" },
                 { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.126",      "desc": "New", "on": "11.30" },
 		        { "cc": "de", "city": "Frankfurt",      "ip": "23.158.56.114",      "desc": "New", "on": "11.30" },
