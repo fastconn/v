@@ -39,9 +39,9 @@
             "MainOpen": "mainOpen",
             "Connected2": "connected2",
             "DidConFull": "anyInter",
-            "WillDisFull": "anyFull",
+            "WillDisFull": "anyInter",
             "HotFull": "anyInter",
-            "AnyFull": "anyFull",
+            "AnyFull": "anyFull_n",
             "AnyInter": "anyInter"
         },
 
@@ -53,7 +53,7 @@
                     { "id": "ca-app-pub-3510970371831048/3381265248", "memo": "h1213-1100" }
                 ]
             },
-        "anyInter": {
+            "anyInter": {
                 "type": "inter",
                 "ids": [
                     { "id": "ca-app-pub-3510970371831048/8075759540", "memo": "h1213-1100" },
