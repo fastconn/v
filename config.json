@@ -41,7 +41,7 @@
             "DidConFull": "anyInter",
             "WillDisFull": "anyInter",
             "HotFull": "anyInter",
-            "AnyFull": "anyFull_n",
+            "AnyFull": "anyFull",
             "AnyInter": "anyInter"
         },
 
