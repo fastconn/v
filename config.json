@@ -41,15 +41,33 @@
             "DidConFull": "anyInter",
             "WillDisFull": "anyInter",
             "HotFull": "anyInter",
-            "AnyFull": "anyInter",
+            "AnyFull": "anyFull",
             "AnyInter": "anyInter"
         },
 
         "sets": {
+            "anyFull": {
+                "type": "native", "layouts": [0,1],
+                "ids": [
+                    { "id": "ca-app-pub-3510970371831048/7933580313", "memo": "m1216_1710" }
+                ]
+            },
             "anyInter": {
                 "type": "inter",
                 "ids": [
 					{ "id": "ca-app-pub-3510970371831048/3318164993", "memo":"h1215_1300" }
+                ]
+            },
+            "connected2": {
+                "type": "native",
+                "ids": [
+                    { "id": "ca-app-pub-3510970371831048/4047194249", "memo":"m1216_1720" }
+                ]
+            },
+            "mainOpen": {
+                "type": "open",
+                "ids": [
+                    { "id": "ca-app-pub-3510970371831048/9495758203", "memo":"h1216_1710" }
                 ]
             }
         }
