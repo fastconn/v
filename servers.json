@@ -88,12 +88,12 @@
                 {}
             ],
             "servers": [
-                { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.115",      "desc": "High speed", "on":"8.22-2Gb" },
-                { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.73",       "desc": "High speed", "on":"8.22-2Gb" },
-                { "cc": "fr", "city": "Paris",      "ip": "23.162.152.13",      "desc": "New",        "on": "11.25-2Gb" },
-                { "cc": "gb", "city": "London",     "ip": "149.7.16.188",       "desc": "New", "on": "10.20" },
-                { "cc": "us", "city": "New York",   "ip": "38.91.101.243",      "desc": "New", "on": "10.20" },
-                { "cc": "ca", "city": "Montreal",   "ip": "23.162.56.57",       "desc": "New", "on": "11.28" }
+                { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.35",       "desc": "New", "on":"12.17-2Gb" },
+                { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.78",       "desc": "New", "on":"8.22-2Gb" },
+                { "cc": "fr", "city": "Paris",      "ip": "23.162.152.13",      "desc": "High speed", "on": "11.25-2Gb" },
+                { "cc": "gb", "city": "London",     "ip": "149.7.16.188",       "desc": "High speed", "on": "10.20" },
+                { "cc": "us", "city": "New York",   "ip": "38.91.101.243",      "desc": "High speed", "on": "10.20" },
+                { "cc": "ca", "city": "Montreal",   "ip": "23.162.56.57",       "desc": "High speed", "on": "11.28" }
             ]
         },
         {
