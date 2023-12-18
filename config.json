@@ -22,7 +22,7 @@
             "ver": 20231215,
             "adFullLoadwait": 6,
             "hotInterval": 2,
-            "fullAdOrder": "ni",
+            "fullAdOrder": "in",
             "max": {
                 "admob": [-1,-1]
             },
@@ -35,7 +35,6 @@
             }
         },
         "run3": {
-            "Open": "open",
             "MainOpen": "mainOpen",
             "Connected2": "connected2",
             "DidConFull": "anyInter",
