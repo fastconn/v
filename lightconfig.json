@@ -4,8 +4,8 @@
 		"showSplash": true,
         "secondSplash": 3,
 		"cnDeny": [0,0],
-		"forceVer": "1.1.0",
-        "recVer": "1.1.6",
+		"forceVer": "1.1.6",
+        "recVer": "1.3.6",
     	"evNo": ["enterGg", "ping2", "googleTest2", "pingCf"],
 		"testers": ["??FB182717-40B6-4542-A3E9-C55B87770208 14pro"],
 		"url": {},
@@ -15,7 +15,7 @@
     },
     "ad": {
         "0": {
-            "ver": 20231215,
+            "ver": 20231229,
             "adFullLoadwait": 5,
             "hotInterval": 2,
             "fullAdOrder": "in",
@@ -51,7 +51,7 @@
 			"anyFull": {
 				"type": "native", "layouts": [0,1],
 				"ids": [
-					{ "id": "ca-app-pub-3510970371831048/4523955949", "memo":"h1227_1620" },
+					{ "id": "ca-app-pub-3510970371831048/1834283230", "memo":"h1229_1040" },
 					{ "id": "ca-app-pub-3510970371831048/2532115791", "memo":"l1224_1700" }
 				]
 	 	   },
