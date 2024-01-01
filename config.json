@@ -19,7 +19,7 @@
     },
     "ad": {
         "0": {
-            "ver": 20231229,
+            "ver": 20240101,
             "adFullLoadwait": 6,
             "hotInterval": 2,
             "fullAdOrder": "",
