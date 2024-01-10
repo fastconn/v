@@ -14,6 +14,7 @@
         "verCode": 106010000
     },
     "adc": {
+        "umpEnabled": true,
         "ageM": 5,
         "conWait": 8,
         "splashSec": 7,
