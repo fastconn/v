@@ -17,8 +17,8 @@
         "ageM": 5,
         "conWait": 8,
         "splashSec": 7,
-        "maxClick": 200,
-        "maxShow": 500
+        "maxClick": 10,
+        "maxShow": 20
     },
     "adid": {
         "Splash2": [           
