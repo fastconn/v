@@ -22,7 +22,7 @@
             "ver": 20240207,
             "adFullLoadwait": 6,
             "hotInterval": 2,
-            "fullAdOrder": "",
+            "fullAdOrder": "ni",
             "max": {
                 "admob": [-1,-1]
             },
