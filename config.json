@@ -4,7 +4,7 @@
         "showSplash": true,
         "secondSplash": 3,
     	"cnDeny": [0,0],
-    	"evNo": ["enterGg", "ping2", "googleTest2", "pingCf"],
+    	"evNo": ["enterGg", "ping2", "pingCf"],
         "testers": [
             "??39E62C06-8E5E-435C-93BC-CB35AE622977 14pro", 
             "??E4A0F79E-5D2C-4A09-96F8-1C9FAFB4983A x"
