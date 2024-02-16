@@ -107,8 +107,8 @@
                 { "name": "VIP-4", "domain": "louise.beauty" }
             ], 
             "servers": [
-                { "cc": "us", "city": "New York",       "ip": "38.99.82.203",       "desc": "New", "on": "12.17" },
-                { "cc": "gb", "city": "London",         "ip": "142.202.51.56",       "desc": "New", "on": "12.18" },
+                { "cc": "us", "city": "New York",       "ip": "38.99.82.203",       "desc": "Fast", "on": "12.17" },
+                { "cc": "gb", "city": "London",         "ip": "142.202.51.56",       "desc": "Fast", "on": "12.18" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "23.150.152.52",      "desc": "High Speed", "on": "'11.30" },
                 { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.126",      "desc": "High Speed", "on": "11.30" },
 		        { "cc": "de", "city": "Frankfurt",      "ip": "23.158.56.114",      "desc": "High Speed", "on": "11.30" },
@@ -116,12 +116,12 @@
 
                 { "cc": "tr", "city": "Istanbul",       "ip": "213.156.152.107",    "desc": "High Speed", "on": "8.29" },
 
-                { "cc": "br", "city": "São Paulo",      "ip": "5.188.238.120",      "desc": "New", "on": "11.16" },
-                { "cc": "au", "city": "Sydney",         "ip": "146.185.214.67",     "desc": "New", "on": "11.16" },
-                { "cc": "es", "city": "Madrid",         "ip": "92.38.171.95",       "desc": "New", "on": "11.16" },
-                { "cc": "il", "city": "Tel Aviv",       "ip": "146.185.219.154",    "desc": "New", "on": "11.16" },
-                { "cc": "az", "city": "Baku",           "ip": "180.149.44.182",     "desc": "New", "on": "11.16" },
-                { "cc": "kz", "city": "Almaty",         "ip": "45.80.208.161",      "desc": "New", "on": "11.16" }
+                { "cc": "br", "city": "São Paulo",      "ip": "5.188.238.120",      "desc": "Fast", "on": "11.16" },
+                { "cc": "au", "city": "Sydney",         "ip": "146.185.214.67",     "desc": "Fast", "on": "11.16" },
+                { "cc": "es", "city": "Madrid",         "ip": "92.38.171.95",       "desc": "Fast", "on": "11.16" },
+                { "cc": "il", "city": "Tel Aviv",       "ip": "146.185.219.70",    "desc": "New", "on": "2024.2.16" },
+                { "cc": "az", "city": "Baku",           "ip": "180.149.44.182",     "desc": "Fast", "on": "11.16" },
+                { "cc": "kz", "city": "Almaty",         "ip": "45.80.208.161",      "desc": "Fast", "on": "11.16" }
             
             ]
         }
