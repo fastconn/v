@@ -103,7 +103,8 @@
             "ws3": [
                 { "name": "VIP-1", "domain": "vip2323.cfd", "enableCf": true },
                 { "name": "VIP-2", "domain": "veryfast.shop" },
-                { "name": "VIP-3", "domain": "xavier.monster" }
+                { "name": "VIP-3", "domain": "xavier.monster" },
+                { "name": "VIP-4", "domain": "louise.beauty" }
             ], 
             "servers": [
                 { "cc": "us", "city": "New York",       "ip": "38.99.82.203",       "desc": "New", "on": "12.17" },
