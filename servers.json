@@ -114,8 +114,6 @@
 		        { "cc": "de", "city": "Frankfurt",      "ip": "23.158.56.114",      "desc": "High Speed", "on": "11.30" },
 		        { "cc": "fr", "city": "Paris",          "ip": "172.99.189.218",     "desc": "High Speed", "on": "11.30" },
 
-                { "cc": "tr", "city": "Istanbul",       "ip": "213.156.152.107",    "desc": "High Speed", "on": "8.29" },
-
                 { "cc": "br", "city": "São Paulo",      "ip": "5.188.238.124",      "desc": "New", "on": "2024.2.19" },
                 { "cc": "au", "city": "Sydney",         "ip": "146.185.214.67",     "desc": "Fast", "on": "11.16" },
                 { "cc": "es", "city": "Madrid",         "ip": "92.38.171.95",       "desc": "Fast", "on": "11.16" },
