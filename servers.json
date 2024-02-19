@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "v": 20240205,
+    "v": 20240218,
     "shuffleWs": true,
     "wsMaxPing": 10,
     "cfgs": {
@@ -103,8 +103,8 @@
             "ws3": [
                 { "name": "VIP-1", "domain": "vip2323.cfd", "enableCf": true },
                 { "name": "VIP-2", "domain": "veryfast.shop" },
-                { "name": "VIP-3", "domain": "xavier.monster" },
-                { "name": "VIP-4", "domain": "louise.beauty" }
+                { "name": "VIP-4", "domain": "louise.beauty" },
+                { "name": "VIP-5", "domain": "angoon.homes" }
             ], 
             "servers": [
                 { "cc": "us", "city": "New York",       "ip": "38.99.82.203",       "desc": "Fast", "on": "12.17" },
