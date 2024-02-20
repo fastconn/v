@@ -101,8 +101,7 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "vip2323.cfd" },
-                { "name": "VIP-2", "domain": "veryfast.shop" },
+                { "name": "VIP-1", "domain": "vip2323.cfd", "enableCf": true },
                 { "name": "VIP-5", "domain": "angoon.homes", "enableCf": true }
             ], 
             "servers": [
