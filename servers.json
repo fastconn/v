@@ -111,8 +111,8 @@
                 { "cc": "gb", "city": "London",         "ip": "149.7.16.172",       "desc": "New", "on": "2.19" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "38.75.136.56",       "desc": "New", "on": "'2.19" },
 		        { "cc": "de", "city": "Frankfurt",      "ip": "193.108.118.241",    "desc": "New", "on": "2.19" },
-                { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.126",      "desc": "High Speed", "on": "11.30" },
-		        { "cc": "fr", "city": "Paris",          "ip": "172.99.189.218",     "desc": "High Speed", "on": "11.30" },
+                { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.168",      "desc": "New", "on": "2.20" },
+		        { "cc": "fr", "city": "Paris",          "ip": "23.134.91.157",     "desc": "New", "on": "2.20" },
 
                 { "cc": "br", "city": "São Paulo",      "ip": "5.188.238.124",      "desc": "New", "on": "2024.2.19" },
                 { "cc": "il", "city": "Tel Aviv",       "ip": "146.185.219.70",    "desc": "New", "on": "2024.2.16" },
