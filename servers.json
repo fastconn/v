@@ -102,7 +102,9 @@
             "image": "for_VIP",
             "ws3": [
                 { "name": "VIP-1", "domain": "vip2323.cfd", "enableCf": true },
-                { "name": "VIP-5", "domain": "angoon.homes", "enableCf": true }
+                { "name": "VIP-5", "domain": "angoon.homes", "enableCf": true },
+                { "name": "VIP-6", "domain": "katla.click" },
+                {}
             ], 
             "servers": [
                 { "cc": "us", "city": "New York",       "ip": "38.99.82.128",       "desc": "New", "on": "2.19" },
