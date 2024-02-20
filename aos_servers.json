@@ -43,7 +43,9 @@
                     { "pr": 4, "name": "Server-9", "i": "patrici.click", "memo": "11.13" },
                     { "pr": 4, "name": "Server-10", "i": "paulaa.homes", "memo": "11.13" },
                     { "pr": 4, "name": "Server-11", "i": "ophelia.quest" },
-                    { "pr": 4, "name": "Server-12", "i": "lucie.boats" }
+                    { "pr": 4, "name": "Server-12", "i": "lucie.boats" },
+                    
+                    { "pr": 4, "name": "Server-13", "i": "wrangell.autos", "memo": "2.20"}
                 ]
             }
         ],
