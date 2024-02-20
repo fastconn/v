@@ -1,6 +1,6 @@
 {
     "policy": {
-        "cnDeny": [6,20],
+        "cnDeny": [0,0],
         "autoProtocol": 4,
         "proxySelf": true
     },
@@ -11,7 +11,7 @@
         "isGp": true,
         "okStr": "Update Now",
         "cancelStr": "Later",
-        "verCode": 115010000
+        "verCode": 118000000
     },
     "adc": {
         "umpEnabled": true,
