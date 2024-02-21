@@ -45,8 +45,8 @@
                 { "name": "Server-14","domain": "linnda.beauty" },
                 { "name": "Server-15","domain": "lissa.beauty" },
                 { "name": "Server-16","domain": "lizz.homes" },
-                
-                { "name": "Server-17","domain": "gakona.cfd" },
+
+                { "name": "Server-17","domain": "gakona.cfd", "desc": "NEW" },
                 {"memo": "light"}
             ]
         }
