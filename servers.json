@@ -85,8 +85,8 @@
                 { "name": "Server-33", "domain": "nicola.pics",      "desc": "websocket" },
                 { "name": "Server-34", "domain": "nina.bond",      "desc": "websocket" },
                 { "name": "Server-35", "domain": "nolra.cyou",           "desc": "websocket" },
-                
-                { "name": "Server-36", "domain": "wales.beauty",           "desc": "websocket" },
+
+                { "name": "Server-36", "domain": "wales.beauty",           "desc": "New!" },
                 {}
             ],
             "servers": [
@@ -104,8 +104,7 @@
             "image": "for_VIP",
             "ws3": [
                 { "name": "VIP-1", "domain": "vip2323.cfd", "enableCf": true },
-                { "name": "VIP-5", "domain": "angoon.homes", "enableCf": true },
-                { "name": "VIP-6", "domain": "katla.click" },
+                { "name": "VIP-6", "domain": "katla.click", "desc": "New!" },
                 {}
             ], 
             "servers": [
