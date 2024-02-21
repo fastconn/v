@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "v": 20230513,
+    "v": 20240221,
     "shuffleWs": true,
     "wsMaxPing": 10,
     "cfgs": {
@@ -44,9 +44,9 @@
                 { "name": "Server-13","domain": "lilliane.autos" },
                 { "name": "Server-14","domain": "linnda.beauty" },
                 { "name": "Server-15","domain": "lissa.beauty" },
-                { "name": "Server-16","domain": "tongass.lol" },
-                { "name": "Server-17","domain": "metlak.boats" },
-                { "name": "Server-18","domain": "lizz.homes" },
+                { "name": "Server-16","domain": "lizz.homes" },
+                
+                { "name": "Server-17","domain": "gakona.cfd" },
                 {"memo": "light"}
             ]
         }
