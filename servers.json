@@ -105,7 +105,7 @@
             "ws3": [
                 { "name": "VIP-1", "domain": "vip2323.cfd", "enableCf": true },
                 { "name": "VIP-2", "domain": "asguard.cfd" },
-                { "name": "VIP-6", "domain": "koyukuk.mom", "desc": "New!" },
+                { "name": "VIP-6", "domain": "dornoch.cyou", "desc": "New!" },
                 {}
             ], 
             "servers": [
