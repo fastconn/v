@@ -93,7 +93,7 @@
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.49",       "desc": "High speed", "on":"2.09-2Gb" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.184",      "desc": "High speed", "on":"2.09-2Gb" },
                 { "cc": "fr", "city": "Paris",      "ip": "23.162.152.18",      "desc": "New",        "on": "2.10-2Gb" },
-                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.89",     "desc": "New!", "on": "2.24-23:30" },
+                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.242",     "desc": "New!", "on": "2.25-20:00" },
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.121",     "desc": "New!", "on": "2.22-17:50" },
                 { "cc": "us", "city": "New York",   "ip": "38.91.100.228",      "desc": "New", "on": "2.21" },
                 { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.147",    "desc": "New", "on": "2.19" }
