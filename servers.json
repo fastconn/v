@@ -106,7 +106,7 @@
             "ws3": [
                 { "name": "VIP-1", "domain": "vip2323.cfd", "enableCf": true },
                 { "name": "VIP-2", "domain": "asguard.cfd" },
-                { "name": "VIP-6", "domain": "walla.quest", "desc": "New!" },
+                { "name": "VIP-6", "domain": "bukit.makeup", "desc": "New!" },
                 {}
             ], 
             "servers": [
