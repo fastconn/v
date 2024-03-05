@@ -15,7 +15,8 @@
         "wsDefault": true,
         "iapColor": 0,
         "umpEnabled": true,
-        "rateHrs": 24 
+        "noFlurry": false,
+        "rateHrs": 72 
     },
     "ad": {
         "0": {
