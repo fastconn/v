@@ -2,7 +2,6 @@
     "ageM": 5,
     "v": 20240309,
     "shuffleWs": true,
-    "wsMaxPing": 7,
     "cfgs": {
         "ikev2": {
             "a": {
@@ -74,9 +73,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "vip2323.cfd", "enableCf": false },
-                { "name": "VIP-2", "domain": "asguard.cfd" },
-                { "name": "VIP-6", "domain": "venicer.com", "enableCf": true, "desc": "New!" },
+                { "name": "VIP-1", "domain": "venicer.com", "enableCf": true, "desc": "websocket" },
+                { "name": "VIP-2", "domain": "vip2323.cfd", "desc": "websocket" },
+                { "name": "VIP-3", "domain": "asguard.cfd", "desc": "websocket" },
                 {}
             ], 
             "servers": [
