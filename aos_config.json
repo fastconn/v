@@ -25,22 +25,18 @@
     "adid": {
         "Splash-v1.17": [           
             { "pri": 100, "id": "ca-app-pub-3510970371831048/3087551899", "memo": "h307_2315", "type": "open" },
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/7232231912", "memo": "h307_2315", "type": "inter" },
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/3154673536", "memo": "m224", "type": "open" },
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/6449899217", "memo": "m210", "type": "inter" },
-            { "pri": 80, "id": "ca-app-pub-3510970371831048/2916195926", "memo": "l216", "type": "open" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/7360294239", "memo": "h310_1630", "type": "inter" },
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/6449899217", "memo": "m210_0.6", "type": "inter" },
             { "pri": 80, "id": "ca-app-pub-3510970371831048/9626920412", "memo": "l216", "type": "inter" }
         ],
         "Splash3": [           
             { "pri": 100, "id": "ca-app-pub-3510970371831048/3087551899", "type": "open" },
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/7232231912", "type": "inter" },
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/3154673536", "type": "open" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/7360294239", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/6449899217", "type": "inter" },
-            { "pri": 80, "id": "ca-app-pub-3510970371831048/2916195926", "type": "open" },
             { "pri": 80, "id": "ca-app-pub-3510970371831048/9626920412", "type": "inter" }
         ],
         "Anyfull-v1.17": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/7232231912", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/7360294239", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/6449899217", "type": "inter" },
             { "pri": 80, "id": "ca-app-pub-3510970371831048/9626920412", "type": "inter" }
         ],
