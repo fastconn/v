@@ -20,6 +20,7 @@
             "adFullLoadwait": 5,
             "hotInterval": 2,
             "fullAdOrder": "ni",
+            "skipOffset" : 0,
 	    	"max": {
 				"admob": [-1,-1]
 			},
@@ -66,7 +67,7 @@
 			"connected2": {
 				"type": "native",
 				"ids": [
-                    { "id": "ca-app-pub-3510970371831048/1564509244", "memo":"m311_1150" },
+                    { "id": "ca-app-pub-3510970371831048/3504099268", "memo":"m312_1030" },
 					{ "id": "ca-app-pub-3510970371831048/9935081219", "memo":"l1217_1320" }
 				]
 			}

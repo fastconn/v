@@ -24,6 +24,7 @@
             "adFullLoadwait": 6,
             "hotInterval": 2,
             "fullAdOrder": "ni",
+            "skipOffset" : 0,
             "max": {
                 "admob": [-1,-1]
             },
@@ -57,22 +58,20 @@
             "anyFull": {
                 "type": "native", "layouts": [0,1],
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/5503754256", "memo": "h311_1120" },
-                    { "id": "ca-app-pub-3510970371831048/4248821839", "memo": "m306_l311" }
+                    { "id": "ca-app-pub-3510970371831048/5270808202", "memo": "h312_1030" }
                 ]
             },
             "mainOpen": {
                 "type": "open",
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/2145291304", "memo":"h222_1030" },
+                    { "id": "ca-app-pub-3510970371831048/9018481523", "memo":"h312_1030" },
                     { "id": "ca-app-pub-3510970371831048/3455063653", "memo":"m1217_1230" }
                 ]
             },
             "connected2": {
                 "type": "native",
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/5288965986", "memo":"m311_1420" },
-                    { "id": "ca-app-pub-3510970371831048/7601986360", "memo":"l1231_1330" }
+                    { "id": "ca-app-pub-3510970371831048/9251249964", "memo":"m312_1030" }
                 ]
             }
         }
