@@ -37,7 +37,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 6,
+            "wsGroupSize": 1,
             "wsNameAuto": true,
             "ws2": [
                 {
@@ -48,47 +48,13 @@
                 }
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "inna.cfd",      "desc": "websocket" },
-                { "name": "Server-2", "domain": "jolie.pics",      "desc": "websocket" },
-                { "name": "Server-3", "domain": "marary.skin",      "desc": "websocket" },
-                { "name": "Server-4", "domain": "muriel.makeup",     "desc": "websocket" },
-                { "name": "Server-5", "domain": "maxin.beauty",      "desc": "websocket" },
-                { "name": "Server-6", "domain": "jocelyn.beauty",  "desc": "websocket" },
-
-                { "name": "Server-7", "domain": "irene.lat",      "desc": "websocket" },
-                { "name": "Server-8", "domain": "josephine.fun",   "desc": "websocket" },
-                { "name": "Server-9", "domain": "kellie.makeup",     "desc": "websocket" },
-                { "name": "Server-10", "domain": "kittiy.sbs",      "desc": "websocket" },
-                { "name": "Server-11", "domain": "kristin.makeup",      "desc": "websocket" },
-                { "name": "Server-12", "domain": "maggiy.shop",      "desc": "websocket" },
-
-                { "name": "Server-13", "domain": "jader.fun",       "desc": "websocket" },
-                { "name": "Server-14", "domain": "marien.motorcycles",      "desc": "websocket" },
-                { "name": "Server-15", "domain": "marjorie.pics",      "desc": "websocket" },
-                { "name": "Server-16", "domain": "martina.quest",      "desc": "websocket" },
-                { "name": "Server-17", "domain": "maureen.autos",      "desc": "websocket" },
-                { "name": "Server-18", "domain": "maviss.cfd",      "desc": "websocket" },
-
-                { "name": "Server-19", "domain": "janett.click",     "desc": "websocket" },
-                { "name": "Server-20", "domain": "maymay.boats",      "desc": "websocket" },
-                { "name": "Server-21", "domain": "megaan.homes",      "desc": "websocket" },
-                { "name": "Server-22", "domain": "melisa.lol",      "desc": "websocket" },
-                { "name": "Server-23", "domain": "meroiy.icu",      "desc": "websocket" },
-                { "name": "Server-24", "domain": "michaeli.sbs",      "desc": "websocket" },
-
-                { "name": "Server-25", "domain": "myrna.fun",           "desc": "websocket" },
-                { "name": "Server-26", "domain": "nancie.beauty",      "desc": "websocket" },
-                { "name": "Server-27", "domain": "naomir.cfd",      "desc": "websocket" },
-                { "name": "Server-28", "domain": "natali.boats",      "desc": "websocket" },
-                { "name": "Server-29", "domain": "normae.cfd",      "desc": "websocket" },
-                { "name": "Server-30", "domain": "novia.makeup",           "desc": "websocket" },
-
-                { "name": "Server-31", "domain": "nelly.homes",      "desc": "websocket" },
-                { "name": "Server-32", "domain": "nicoler.lol",           "desc": "websocket" },
-                { "name": "Server-33", "domain": "nicola.pics",      "desc": "websocket" },
-                { "name": "Server-34", "domain": "nina.bond",      "desc": "websocket" },
-                { "name": "Server-35", "domain": "nolra.cyou",           "desc": "websocket" },
-                { "name": "Server-36", "domain": "capellare.com",           "desc": "websocket" },
+                { "name": "Server-1", "domain": "marktred.com",    "desc": "websocket" },
+                { "name": "Server-2", "domain": "metuji.com",      "desc": "websocket" },
+                { "name": "Server-3", "domain": "podbrdy.com",     "desc": "websocket" },
+                { "name": "Server-4", "domain": "sazavou.com",     "desc": "websocket" },
+                { "name": "Server-5", "domain": "sokovov.com",     "desc": "websocket" },
+                { "name": "Server-6", "domain": "morvaner.com",    "desc": "websocket" },
+                { "name": "Server-7", "domain": "capellare.com",   "desc": "websocket" },
                 {}
             ],
             "servers": [
