@@ -29,21 +29,26 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "chaya.makeup" },
-                { "name": "Server-2", "domain": "cheryl.lol" },
-                { "name": "Server-3", "domain": "christina.quest" },
-                { "name": "Server-4","domain": "laurel.lol" },
-                { "name": "Server-5","domain": "laurra.cfd" },
-                { "name": "Server-6","domain": "laurren.icu" },
-                { "name": "Server-7","domain": "leee.motorcycles" },
+                { "name": "Server-2","domain": "laurel.lol" },
+                { "name": "Server-3","domain": "laurra.cfd" },
+                { "name": "Server-4","domain": "laurren.icu" },
+                { "name": "Server-5","domain": "leee.motorcycles" },
+                { "name": "Server-6","domain": "jindrichuv.com" },
+
+                { "name": "Server-7", "domain": "cheryl.lol" },
                 { "name": "Server-8","domain": "leilla.makeup" },
                 { "name": "Server-9","domain": "lenar.hair" },
                 { "name": "Server-10","domain": "lesley.yachts" },
                 { "name": "Server-11","domain": "letitia.space" },
-                { "name": "Server-12","domain": "lilith.skin" },
-                { "name": "Server-13","domain": "lilliane.autos" },
-                { "name": "Server-14","domain": "jindrichuv.com" },
-                { "name": "Server-15","domain": "kotzting.com" },
-                { "name": "Server-16","domain": "ferndaler.com" },
+                { "name": "Server-12","domain": "kotzting.com" },
+
+                { "name": "Server-13", "domain": "christina.quest" },
+                { "name": "Server-14","domain": "lilith.skin" },
+                { "name": "Server-15","domain": "lilliane.autos" },
+                { "name": "Server-16","domain": "linnda.beauty" },
+                { "name": "Server-17","domain": "lissa.beauty" },
+                { "name": "Server-18", "domain": "limericker.com" },
+                
                 {"memo": "light"}
             ]
         }
