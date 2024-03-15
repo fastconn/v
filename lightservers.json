@@ -17,7 +17,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 2,
+            "wsGroupSize": 3,
             "wsNameAuto": true,
             "ws2": [
                 {
@@ -48,7 +48,7 @@
                 { "name": "Server-16","domain": "linnda.beauty" },
                 { "name": "Server-17","domain": "lissa.beauty" },
                 { "name": "Server-18", "domain": "limericker.com" },
-                
+
                 {"memo": "light"}
             ]
         }
