@@ -5,11 +5,11 @@
         "ver": 20240221,
         "r": [
             {
-                "cc": "DE", "n": "Frankfurt", "memo": "11.25, newIp-2.22-3.10-3.11-3.15", 
+                "cc": "DE", "n": "Frankfurt", "memo": "3.16", 
                 "s": [
-                    { "pr": 1, "i": "185.177.229.219" },
-                    { "pr": 2, "i": "185.177.229.219" },
-                    { "pr": 3, "i": "185.177.229.219" }
+                    { "pr": 1, "i": "193.108.119.32" },
+                    { "pr": 2, "i": "193.108.119.32" },
+                    { "pr": 3, "i": "193.108.119.32" }
                 ]
             }, {
                 "cc": "GB", "n": "London", "memo": "3.16",
@@ -36,7 +36,7 @@
                     { "pr": 4, "name": "Server-4", "i": "nydia.hair", "memo": "11.13" },
                     { "pr": 4, "name": "Server-5", "i": "pagee.beauty", "memo": "11.13" },
                     { "pr": 4, "name": "Server-6", "i": "pamelaa.cfd", "memo": "11.13" },
-                    
+
                     { "pr": 4, "name": "Server-7", "i": "patrici.click", "memo": "11.13" },
                     { "pr": 4, "name": "Server-8", "i": "paulaa.homes", "memo": "11.13" },
                     { "pr": 4, "name": "Server-9", "i": "lucie.boats" },
