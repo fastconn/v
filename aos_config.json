@@ -6,13 +6,13 @@
     },
     "update": {
         "Title": "Update notice",
-        "Content2": "New version is available, we recommend you update now!",
-        "Content": "The current version will be out of service soon, please update now!",
+        "Content": "New version is available, we recommend you update now!",
+        "Content2": "The current version will be out of service soon, please update now!",
         "force": false,
         "isGp": true,
         "okStr": "Update Now",
         "cancelStr": "Later",
-        "verCode": 118000000
+        "verCode": 119000000
     },
     "adc": {
         "umpEnabled": true,
