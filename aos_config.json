@@ -38,7 +38,7 @@
         "Anyfull-v1.17": [           
             { "pri": 100, "id": "ca-app-pub-3510970371831048/1650448770", "memo": "a_h319_1030", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/9348087342", "memo": "a_m319_1030", "type": "inter" },
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/2612176650", "memo": "a_h319_1030", "type": "native" }
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/6715853440", "memo": "a_l319_1800", "type": "inter" }
         ],
         "Splash2": [           
         ],
