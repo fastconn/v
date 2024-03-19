@@ -4,7 +4,7 @@
         "showSplash": true,
         "secondSplash": 3,
     	"cnDeny": [0,0],
-    	"evNo": ["enterGg", "ping2", "pingCf"],
+    	"evNo": ["enterGg", "ping2", "pingCf", "admobUMP", "request"],
         "testers": [
             "??39E62C06-8E5E-435C-93BC-CB35AE622977 14pro", 
             "??E4A0F79E-5D2C-4A09-96F8-1C9FAFB4983A x"
@@ -50,7 +50,7 @@
             "anyInter": {
                 "type": "inter",
                 "ids": [
-					{ "id": "ca-app-pub-3510970371831048/5668148041", "memo":"h317_1010" },
+					{ "id": "ca-app-pub-3510970371831048/9324924661", "memo":"h319_1030" },
 					{ "id": "ca-app-pub-3510970371831048/7989548881", "memo":"m224_1100" },
 					{ "id": "ca-app-pub-3510970371831048/3477069751", "memo":"l210" }
                 ]

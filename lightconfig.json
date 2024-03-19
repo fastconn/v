@@ -6,7 +6,7 @@
 		"cnDeny": [0,0],
 		"forceVer": "1.1.6",
         "recVer": "1.3.6",
-    	"evNo": ["enterGg", "ping2", "pingCf"],
+    	"evNo": ["enterGg", "ping2", "pingCf", "admobUMP", "request"],
 		"testers": ["??FB182717-40B6-4542-A3E9-C55B87770208 14pro"],
 		"url": {},
 		"rateHrs": 72,
@@ -46,21 +46,21 @@
             "anyInter": {
                 "type": "inter",
                 "ids": [    
-					{ "id": "ca-app-pub-3510970371831048/5431510173", "memo":"h317_1010" },
+					{ "id": "ca-app-pub-3510970371831048/7073277791", "memo":"h319_1030" },
 					{ "id": "ca-app-pub-3510970371831048/4088166624", "memo":"m120_2010" }
                 ]
             },
 			"anyFull": {
 				"type": "native", "layouts": [0,1],
 				"ids": [
-					{ "id": "ca-app-pub-3510970371831048/3693076618", "memo":"h318_1030" },
+					{ "id": "ca-app-pub-3510970371831048/3161118794", "memo":"h319_1030" },
 					{ "id": "ca-app-pub-3510970371831048/8630472863", "memo":"m315_1300" }
 				]
 	 	   },
 			"mainOpen": {
 				"type": "open",
 				"ids": [
-					{ "id": "ca-app-pub-3510970371831048/9917286768", "memo":"h309_1120" },
+					{ "id": "ca-app-pub-3510970371831048/8194787777", "memo":"h319_1030" },
 					{ "id": "ca-app-pub-3510970371831048/2918192822", "memo":"m1217_1320" }
 				]
 			},
