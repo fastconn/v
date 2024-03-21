@@ -33,7 +33,7 @@
 			"orders": {
 				"DidConFull": ["AnyFull", "AnyInter"],
 				"WillDisFull": ["AnyFull", "AnyInter"],
-				"HotFull": ["AnyOpen", "AnyFull", "AnyInter"],
+				"HotFull": ["AnyFull", "AnyInter", "AnyOpen"],
 				"memo": "321_1000"
 			},
             "fullAdOrder": "ni",
