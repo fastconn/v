@@ -30,7 +30,13 @@
                     "open": 10800,
 				    "nativeFull": 1800
                 }
-            }
+            },
+			"orders": {
+				"DidConFull": ["AnyFull", "AnyInter"],
+				"WillDisFull": ["AnyFull", "AnyInter"],
+				"HotFull": ["AynOpen", "AnyFull", "AnyInter"],
+				"memo": "321_1000"
+			}
         },
 		"run": {},
 		"run3": {
@@ -40,6 +46,7 @@
 			"HotFull": "anyInter",
 			"AnyInter": "anyInter",
 			"AnyFull": "anyFull",
+			"AnyOpen": "mainOpen",
 			"Connected2": "connected2"
 		},
         "sets": {
@@ -53,7 +60,7 @@
 			"anyFull": {
 				"type": "native", "layouts": [0,1],
 				"ids": [
-					{ "id": "ca-app-pub-3510970371831048/3161118794", "memo":"h319_1030" },
+					{ "id": "ca-app-pub-3510970371831048/7537818820", "memo":"h321_1000" },
 					{ "id": "ca-app-pub-3510970371831048/8630472863", "memo":"m315_1300" }
 				]
 	 	   },
