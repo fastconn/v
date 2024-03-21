@@ -34,7 +34,7 @@
 			"orders": {
 				"DidConFull": ["AnyFull", "AnyInter"],
 				"WillDisFull": ["AnyFull", "AnyInter"],
-				"HotFull": ["AynOpen", "AnyFull", "AnyInter"],
+				"HotFull": ["AnyOpen", "AnyFull", "AnyInter"],
 				"memo": "321_1000"
 			}
         },
