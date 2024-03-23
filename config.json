@@ -20,10 +20,9 @@
     },
     "ad": {
         "0": {
-            "ver": 20240321,
+            "ver": 20240323,
             "adFullLoadwait": 6,
             "hotInterval": 2,
-            "fullAdOrder": "",
             "skipOffset" : 0,
             "max": {
                 "admob": [-1,-1]
@@ -34,7 +33,15 @@
                     "open": 10800,
 		            "nativeFull": 1800
                 }
-            }
+            },
+			"orders": {
+				"DidConFull": ["AnyFull", "AnyInter"],
+				"WillDisFull": ["AnyFull", "AnyInter"],
+				"HotFull": ["AnyFull", "AnyInter", "AnyOpen"],
+				"memo": "323_1030"
+			},
+            "fullAdOrder": "ni",
+            "offAdOrder": "ni"
         },
         "run3": {
             "MainOpen": "mainOpen",
@@ -43,7 +50,10 @@
             "WillDisFull": "anyInter",
             "HotFull": "anyInter",
             "AnyFull": "anyFull",
-            "AnyInter": "anyInter"
+            "AnyInter": "anyInter",
+			"AnyOpen": "open",
+            "OffNative": "offN",
+            "OffInter": "offI"
         },
 
         "sets": {
@@ -74,6 +84,20 @@
                 "ids": [
                     { "id": "ca-app-pub-3510970371831048/7436363589", "memo":"m321_1320" },
                     { "id": "ca-app-pub-3510970371831048/9578568938", "memo":"l314_1630" }        
+                ]
+            },
+			"offI": {
+				"type": "inter",
+				"ids": [
+					{ "id": "ca-app-pub-3510970371831048/9603431739", "memo": "h323_1030" },
+					{ "id": "ca-app-pub-3510970371831048/8290350060", "memo": "h323_1030" }
+				]
+			},
+            "offN": {
+                "type": "native",
+                "ids": [
+                    { "id": "ca-app-pub-3510970371831048/4766038021", "memo": "h323_1030" },
+                    { "id": "ca-app-pub-3510970371831048/5664186728", "memo": "h323_1030" }
                 ]
             }
         }
