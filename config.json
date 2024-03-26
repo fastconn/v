@@ -40,8 +40,8 @@
 				"HotFull": ["AnyFull", "AnyInter"],
 				"memo": "323_1030"
 			},
-            "fullAdOrder": "ni",
-            "offAdOrder": "ni"
+            "fullAdOrder": "",
+            "offAdOrder": ""
         },
         "run3": {
             "MainOpen": "mainOpen",
@@ -67,7 +67,7 @@
             "anyFull": {
                 "type": "native", "layouts": [0,1],
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/8945403295", "memo": "h318_241215" },
+                    { "id": "ca-app-pub-3510970371831048/4355066376", "memo": "h317_260815" },
                     { "id": "ca-app-pub-3510970371831048/6099338982", "memo": "m317_1010" }
                 ]
             },
@@ -81,7 +81,7 @@
             "conn": {
                 "type": "native",
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/9316589339", "memo":"m306_241215" },
+                    { "id": "ca-app-pub-3510970371831048/5848225417", "memo":"m303_260815" },
                     { "id": "ca-app-pub-3510970371831048/9578568938", "memo":"l314_1630" }        
                 ]
             },
