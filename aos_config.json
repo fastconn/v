@@ -15,6 +15,7 @@
         "verCode": 119000000
     },
     "adc": {
+        "ver": 20240328,
         "umpEnabled": true,
         "ageM": 5,
         "conWait": 8,
