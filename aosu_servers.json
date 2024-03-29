@@ -1,0 +1,33 @@
+{
+    "ageM": 15,
+    "ver": 20240329,
+    "l": [
+        {
+            "name": "Free",
+            "isVip": false,
+            "ws": [
+                { "name": "Server-1", "desc": "websocket", "domain": "arlyndan.com" },
+
+                { "name": "Server-2", "desc": "websocket", "domain": "oliviar.autos" },
+                { "name": "Server-3", "desc": "websocket", "domain": "olga.makeup" },
+                { "name": "Server-4", "desc": "websocket", "domain": "nydia.hair", "memo": "11.13" },
+                { "name": "Server-5", "desc": "websocket", "domain": "pagee.beauty", "memo": "11.13" },
+                { "name": "Server-6", "desc": "websocket", "domain": "pamelaa.cfd", "memo": "11.13" },
+
+                { "name": "Server-7", "desc": "websocket", "domain": "patrici.click", "memo": "11.13" },
+                { "name": "Server-8", "desc": "websocket", "domain": "paulaa.homes", "memo": "11.13" },
+                { "name": "Server-9", "desc": "websocket", "domain": "lucie.boats" },
+                { "name": "Server-10", "desc": "websocket", "domain": "olivee.cfd" },
+                { "name": "Server-11", "desc": "websocket", "domain": "aveiror.com"},
+                {}
+            ],
+            "ips": [
+                { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.241",      "desc": "High speed", "on":"2.22" },
+                { "cc": "de", "city": "Frankfurt",  "ip": "193.108.119.32",      "desc": "High speed", "on":"2.22" },
+                { "cc": "gb", "city": "London",     "ip": "172.99.190.168",      "desc": "High speed", "on": "2.20" },
+                { "cc": "us", "city": "New York",   "ip": "169.197.141.213",     "desc": "High speed" }
+            ]
+        }
+    ]
+}
+
