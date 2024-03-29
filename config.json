@@ -16,6 +16,7 @@
         "iapColor": 0,
         "umpEnabled": true,
         "noFlurry": true,
+        "mixPanel": false,
         "rateHrs": 72 
     },
     "ad": {
