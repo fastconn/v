@@ -113,16 +113,16 @@
                 {}
             ], 
             "servers": [
-                { "cc": "us", "city": "New York",       "ip": "38.99.82.128",       "desc": "New", "on": "2.19" },
-                { "cc": "gb", "city": "London",         "ip": "149.7.16.172",       "desc": "New", "on": "2.19" },
-                { "cc": "us", "city": "Los Angeles",    "ip": "38.75.136.56",       "desc": "New", "on": "'2.19" },
-		        { "cc": "de", "city": "Frankfurt",      "ip": "23.158.56.103",    "desc": "New", "on": "2.20" },
-                { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.168",      "desc": "New", "on": "2.20" },
-		        { "cc": "fr", "city": "Paris",          "ip": "23.134.91.157",     "desc": "New", "on": "2.20" },
+                { "cc": "us", "city": "New York",       "ip": "38.99.82.128",       "desc": "Performance", "on": "2.19" },
+                { "cc": "gb", "city": "London",         "ip": "149.7.16.172",       "desc": "Performance", "on": "2.19" },
+                { "cc": "us", "city": "Los Angeles",    "ip": "38.75.136.56",       "desc": "Performance", "on": "'2.19" },
+		        { "cc": "de", "city": "Frankfurt",      "ip": "23.158.56.103",    "desc": "Performance", "on": "2.20" },
+                { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.168",      "desc": "Performance", "on": "2.20" },
+		        { "cc": "fr", "city": "Paris",          "ip": "23.134.91.157",     "desc": "Performance", "on": "2.20" },
 
-                { "cc": "br", "city": "São Paulo",      "ip": "5.188.238.124",      "desc": "New", "on": "2024.2.19" },
-                { "cc": "il", "city": "Tel Aviv",       "ip": "146.185.219.70",    "desc": "New", "on": "2024.2.16" },
-                { "cc": "au", "city": "Sydney",         "ip": "146.185.214.67",     "desc": "Fast", "on": "11.16" },
+                { "cc": "br", "city": "São Paulo",      "ip": "5.188.238.120",      "desc": "New", "on": "2024.3.29" },
+                { "cc": "il", "city": "Tel Aviv",       "ip": "146.185.219.70",    "desc": "Fast", "on": "2024.2.16" },
+                { "cc": "au", "city": "Sydney",         "ip": "146.185.214.91",     "desc": "New", "on": "2024.3.29" },
                 { "cc": "es", "city": "Madrid",         "ip": "92.38.171.95",       "desc": "Fast", "on": "11.16" },
                 { "cc": "az", "city": "Baku",           "ip": "180.149.44.182",     "desc": "Fast", "on": "11.16" },
                 { "cc": "kz", "city": "Almaty",         "ip": "45.80.208.161",      "desc": "Fast", "on": "11.16" }
