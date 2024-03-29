@@ -36,7 +36,7 @@
 				"HotFull": ["AnyFull", "AnyInter"],
 				"memo": "321_1000"
 			},
-            "fullAdOrder": "ni",
+            "fullAdOrder": "",
             "offAdOrder": "ni"
         },
 		"run": {},
@@ -62,7 +62,7 @@
 			"anyN": {
 				"type": "native", "layouts": [0,1],
 				"ids": [
-					{ "id": "ca-app-pub-3510970371831048/7694216597", "memo":"h311_281300" },
+					{ "id": "ca-app-pub-3510970371831048/4048163782", "memo":"h329_1000" },
 					{ "id": "ca-app-pub-3510970371831048/8630472863", "memo":"m315_1300" }
 				]
 	 	    },
