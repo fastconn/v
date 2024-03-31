@@ -2,7 +2,8 @@
     "policy": {
         "cnDeny": [0,0],
         "autoProtocol": 4,
-        "proxySelf": true
+        "proxySelf": true,
+        "postHog": true
     },
     "update": {
         "Title": "Update notice",
