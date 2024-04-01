@@ -64,13 +64,13 @@
         "WilldisFull": [
         ],
         "Didcon": [
-            { "pri": 80, "id": "ca-app-pub-3510970371831048/2691953733", "memo": "l401", "type": "native", "mask": "200"}
+            { "pri": 80, "id": "ca-app-pub-3510970371831048/2691953733", "memo": "l401", "type": "native", "mask": 200 }
         ],
         "Mainpage": [
-            { "pri": 80, "id": "ca-app-pub-3510970371831048/9366641902", "memo": "l401", "type": "native", "mask": "200"}
+            { "pri": 80, "id": "ca-app-pub-3510970371831048/9366641902", "memo": "l401", "type": "native", "mask": 200 }
         ],
         "Location": [
-             { "pri": 80, "id": "ca-app-pub-3510970371831048/3314770262", "memo": "l401", "type": "native", "mask": "200"}
+             { "pri": 80, "id": "ca-app-pub-3510970371831048/3314770262", "memo": "l401", "type": "native", "mask": 200 }
         ]
     }
 }
