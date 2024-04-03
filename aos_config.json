@@ -16,13 +16,17 @@
         "verCode": 119000000
     },
     "adc": {
-        "ver": 20240328,
+        "ver": 20240403,
         "umpEnabled": true,
         "ageM": 5,
-        "conWait": 8,
-        "splashSec": 7,
         "maxClick": 20,
-        "maxShow": 50
+        "maxShow": 100,
+
+        "skipSec": 6,
+        "adWait": 6,
+        "splashSec": 6,
+        "nativeOfficial": [1,7],
+        "mainAdFlag": 2
     },
     "adid": {
         "SplashFull": [
