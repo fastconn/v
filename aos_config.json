@@ -55,21 +55,19 @@
             { "pri": 90, "id": "ca-app-pub-3510970371831048/9348087342", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/6274323134", "type": "inter" }
         ],
-        "Splash2": [           
+        "Splash-v2": [
         ],
-        "Splash": [
+        "DidconFull-v2": [
         ],
-        "DidconFull": [
+        "WilldisFull-v2": [
         ],
-        "WilldisFull": [
-        ],
-        "Didcon": [
+        "Didcon-v2": [
             { "pri": 80, "id": "ca-app-pub-3510970371831048/2691953733", "memo": "l401", "type": "native", "mask": 200 }
         ],
-        "Mainpage": [
+        "Mainpage-v2": [
             { "pri": 80, "id": "ca-app-pub-3510970371831048/9366641902", "memo": "l401", "type": "native", "mask": 200 }
         ],
-        "Location": [
+        "Location-v2": [
              { "pri": 80, "id": "ca-app-pub-3510970371831048/3314770262", "memo": "l401", "type": "native", "mask": 200 }
         ]
     }
