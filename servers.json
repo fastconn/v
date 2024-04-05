@@ -110,7 +110,6 @@
             "ws3": [
                 { "name": "VIP-1", "domain": "venicer.com", "enableCf": true, "desc": "websocket" },
                 { "name": "VIP-2", "domain": "kinleyville.com", "desc": "websocket", "on": "24.3.15" },
-                { "name": "VIP-3", "domain": "asguard.cfd",     "desc": "websocket" },
                 {}
             ], 
             "servers": [
@@ -122,8 +121,9 @@
 		        { "cc": "fr", "city": "Paris",          "ip": "23.134.91.157",     "desc": "Performance", "on": "2.20" },
 
                 { "cc": "br", "city": "São Paulo",      "ip": "5.188.238.120",      "desc": "New", "on": "2024.3.29" },
-                { "cc": "il", "city": "Tel Aviv",       "ip": "146.185.219.70",    "desc": "Fast", "on": "2024.2.16" },
+                { "cc": "sg", "city": "Singapore",      "ip": "5.188.34.106",      "desc": "New", "on": "2024.4.5" },
                 { "cc": "au", "city": "Sydney",         "ip": "146.185.214.91",     "desc": "New", "on": "2024.3.29" },
+                { "cc": "il", "city": "Tel Aviv",       "ip": "146.185.219.70",    "desc": "Fast", "on": "2024.2.16" },
                 { "cc": "es", "city": "Madrid",         "ip": "92.38.171.95",       "desc": "Fast", "on": "11.16" },
                 { "cc": "az", "city": "Baku",           "ip": "180.149.44.182",     "desc": "Fast", "on": "11.16" },
                 { "cc": "kz", "city": "Almaty",         "ip": "45.80.208.161",      "desc": "Fast", "on": "11.16" }
