@@ -86,8 +86,8 @@
                 { "name": "Server-31", "domain": "albacete.homes",     "desc": "websocket" , "memo": 410},
                 { "name": "Server-32", "domain": "nicoler.lol",     "desc": "websocket" },
                 { "name": "Server-33", "domain": "nicola.pics",     "desc": "websocket" },
-                { "name": "Server-34", "domain": "nina.bond",       "desc": "websocket" },
-                { "name": "Server-35", "domain": "mannheim.makeup",      "desc": "websocket", "memo": 410 },
+                { "name": "Server-34", "domain": "mannheim.makeup",      "desc": "websocket", "memo": 410 },
+                { "name": "Server-35", "domain": "nolra.cyou",      "desc": "websocket" },
                 { "name": "Server-36", "domain": "capellare.com",   "desc": "websocket" },
                 {}
             ],
