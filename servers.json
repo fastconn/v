@@ -57,13 +57,13 @@
 
                 { "name": "Server-7", "domain": "metuji.com",      "desc": "websocket" },
                 { "name": "Server-8", "domain": "josephine.fun",   "desc": "websocket" },
-                { "name": "Server-9", "domain": "kellie.makeup",     "desc": "websocket" },
+                { "name": "Server-9", "domain": "asguard.cfd",     "desc": "websocket", "memo": 410 },
                 { "name": "Server-10", "domain": "kittiy.sbs",      "desc": "websocket" },
                 { "name": "Server-11", "domain": "kristin.makeup",      "desc": "websocket" },
                 { "name": "Server-12", "domain": "maggiy.shop",      "desc": "websocket" },
 
                 { "name": "Server-13", "domain": "podbrdy.com",       "desc": "websocket" },
-                { "name": "Server-14", "domain": "marien.motorcycles",      "desc": "websocket" },
+                { "name": "Server-14", "domain": "scotiatown.com",      "desc": "websocket", "memo": 410 },
                 { "name": "Server-15", "domain": "marjorie.pics",      "desc": "websocket" },
                 { "name": "Server-16", "domain": "martina.quest",      "desc": "websocket" },
                 { "name": "Server-17", "domain": "maureen.autos",      "desc": "websocket" },
@@ -73,7 +73,7 @@
                 { "name": "Server-20", "domain": "maymay.boats",      "desc": "websocket" },
                 { "name": "Server-21", "domain": "megaan.homes",      "desc": "websocket" },
                 { "name": "Server-22", "domain": "melisa.lol",      "desc": "websocket" },
-                { "name": "Server-23", "domain": "meroiy.icu",      "desc": "websocket" },
+                { "name": "Server-23", "domain": "harriscity.com",      "desc": "websocket", "memo": 410 },
                 { "name": "Server-24", "domain": "michaeli.sbs",    "desc": "websocket" },
 
                 { "name": "Server-37", "domain": "morvaner.com",    "desc": "websocket" },
@@ -83,11 +83,11 @@
                 { "name": "Server-29", "domain": "normae.cfd",      "desc": "websocket" },
                 { "name": "Server-30", "domain": "novia.makeup",    "desc": "websocket" },
 
-                { "name": "Server-31", "domain": "nelly.homes",     "desc": "websocket" },
+                { "name": "Server-31", "domain": "albacete.homes",     "desc": "websocket" , "memo": 410},
                 { "name": "Server-32", "domain": "nicoler.lol",     "desc": "websocket" },
                 { "name": "Server-33", "domain": "nicola.pics",     "desc": "websocket" },
                 { "name": "Server-34", "domain": "nina.bond",       "desc": "websocket" },
-                { "name": "Server-35", "domain": "nolra.cyou",      "desc": "websocket" },
+                { "name": "Server-35", "domain": "mannheim.makeup",      "desc": "websocket", "memo": 410 },
                 { "name": "Server-36", "domain": "capellare.com",   "desc": "websocket" },
                 {}
             ],
