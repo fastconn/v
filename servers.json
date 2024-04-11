@@ -58,7 +58,7 @@
                 { "name": "Server-7", "domain": "metuji.com",      "desc": "websocket" },
                 { "name": "Server-8", "domain": "josephine.fun",   "desc": "websocket" },
                 { "name": "Server-9", "domain": "asguard.cfd",     "desc": "websocket", "memo": 410 },
-                { "name": "Server-10", "domain": "kalakatha.org",      "desc": "websocket", "memo": 411 },
+                { "name": "Server-10", "domain": "maureen.autos",      "desc": "websocket", "memo": "411pending" },
                 { "name": "Server-11", "domain": "khilei.com",      "desc": "websocket","memo":411 },
                 { "name": "Server-12", "domain": "mankadmu.com",      "desc": "websocket", "memo":411 },
 
