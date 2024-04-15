@@ -30,15 +30,15 @@
                     "open": 10800,
 				    "nativeFull": 1800
                 }
-            },
+            },			
 			"orders": {
-				"DidConFull??": ["AnyFull", "AnyInter"],
-				"WillDisFull??": ["AnyFull", "AnyInter"],
+				"DidConFull": ["AnyFull", "AnyInter"],
+				"WillDisFull": ["AnyFull", "AnyInter"],
 				"HotFull": ["AnyInter", "AnyFull"],
 				"memo": "321_1000"
 			},
-            "fullAdOrder??": "in",
-            "offAdOrder": "in"
+            "fullAdOrder": "in",
+            "offAdOrder": "ni"
         },
 		"run": {},
 		"run3": {
