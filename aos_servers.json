@@ -36,7 +36,7 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Server-1", "i": "arlyndan.com" },
+                    { "pr": 4, "name": "Server-1", "i": "a.arlyndan.com" },
 
                     { "pr": 4, "name": "Server-2", "i": "oliviar.autos" },
                     { "pr": 4, "name": "Server-3", "i": "olga.makeup" },

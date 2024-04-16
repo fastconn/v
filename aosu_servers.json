@@ -6,7 +6,7 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "websocket", "domain": "arlyndan.com" },
+                { "name": "Server-1", "desc": "websocket", "domain": "a.arlyndan.com" },
 
                 { "name": "Server-2", "desc": "websocket", "domain": "oliviar.autos" },
                 { "name": "Server-3", "desc": "websocket", "domain": "olga.makeup" },
