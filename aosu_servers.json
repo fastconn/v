@@ -6,11 +6,11 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "websocket", "domain": "a.arlyndan.com" },
+                { "name": "Server-1", "desc": "websocket", "domain": "a.arlyndan.com", "memo": 416 },
 
                 { "name": "Server-2", "desc": "websocket", "domain": "oliviar.autos" },
-                { "name": "Server-3", "desc": "websocket", "domain": "olga.makeup" },
-                { "name": "Server-4", "desc": "websocket", "domain": "nydia.hair", "memo": "11.13" },
+                { "name": "Server-3", "desc": "websocket", "domain": "pagpag.autos", "memo": 416 },
+                { "name": "Server-4", "desc": "websocket", "domain": "pandor.boats", "memo": 416 },
                 { "name": "Server-5", "desc": "websocket", "domain": "pagee.beauty", "memo": "11.13" },
                 { "name": "Server-6", "desc": "websocket", "domain": "pamelaa.cfd", "memo": "11.13" },
 
