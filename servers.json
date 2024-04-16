@@ -52,14 +52,14 @@
                 { "name": "Server-2", "domain": "jolie.pics",      "desc": "websocket" },
                 { "name": "Server-3", "domain": "marary.skin",      "desc": "websocket" },
                 { "name": "Server-4", "domain": "jamankira.com",     "desc": "websocket", "memo": 411},
-                { "name": "Server-5", "domain": "maxin.beauty",      "desc": "websocket" },
+                { "name": "Server-5", "domain": "khilei.com",      "desc": "websocket","memo":411 },
                 { "name": "Server-6", "domain": "jocelyn.beauty",  "desc": "websocket" },
 
                 { "name": "Server-7", "domain": "metuji.com",      "desc": "websocket" },
                 { "name": "Server-8", "domain": "josephine.fun",   "desc": "websocket" },
                 { "name": "Server-9", "domain": "asguard.cfd",     "desc": "websocket", "memo": 410 },
                 { "name": "Server-10", "domain": "kalakatha.org",      "desc": "websocket", "memo": 411 },
-                { "name": "Server-11", "domain": "khilei.com",      "desc": "websocket","memo":411 },
+                { "name": "Server-11", "domain": "maxin.beauty",      "desc": "websocket" },
                 { "name": "Server-12", "domain": "mankadmu.com",      "desc": "websocket", "memo":411 },
 
                 { "name": "Server-13", "domain": "podbrdy.com",       "desc": "websocket" },
@@ -80,7 +80,7 @@
                 { "name": "Server-26", "domain": "nancie.beauty",   "desc": "websocket" },
                 { "name": "Server-27", "domain": "tilebani.com",      "desc": "websocket", "memo":411 },
                 { "name": "Server-28", "domain": "natali.boats",    "desc": "websocket" },
-                { "name": "Server-29", "domain": "normae.cfd",      "desc": "websocket" },
+                { "name": "Server-29", "domain": "sareikela.com",      "desc": "websocket" },
                 { "name": "Server-30", "domain": "novia.makeup",    "desc": "websocket" },
 
                 { "name": "Server-31", "domain": "bamparda.com",     "desc": "websocket" , "memo": 413},
