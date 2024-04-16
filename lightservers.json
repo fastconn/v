@@ -29,24 +29,24 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "ferndaler.com" },
-                { "name": "Server-2","domain": "laurel.lol" },
-                { "name": "Server-3","domain": "laurra.cfd" },
+                { "name": "Server-2","domain": "buy.ferndaler.com" },
+                { "name": "Server-3","domain": "doc.derapathar.com" },
                 { "name": "Server-4","domain": "derapathar.com" },
-                { "name": "Server-5","domain": "leee.motorcycles" },
+                { "name": "Server-5","domain": "p.jindrichuv.com" },
                 { "name": "Server-6","domain": "jindrichuv.com" },
 
                 { "name": "Server-7", "domain": "sokovov.com" },
-                { "name": "Server-8","domain": "leilla.makeup" },
-                { "name": "Server-9","domain": "lenar.hair" },
+                { "name": "Server-8","domain": "p.sokovov.com" },
+                { "name": "Server-9","domain": "x.goidamal.com" },
                 { "name": "Server-10","domain": "goidamal.com" },
-                { "name": "Server-11","domain": "letitia.space" },
+                { "name": "Server-11","domain": "ad.lotzting.com" },
                 { "name": "Server-12","domain": "kotzting.com" },
 
                 { "name": "Server-13", "domain": "holmest.com" },
-                { "name": "Server-14","domain": "lilith.skin" },
-                { "name": "Server-15","domain": "lilliane.autos" },
+                { "name": "Server-14","domain": "safe.holmest.com" },
+                { "name": "Server-15","domain": "b.javaphal.com" },
                 { "name": "Server-16","domain": "javaphal.com" },
-                { "name": "Server-17","domain": "lissa.beauty" },
+                { "name": "Server-17","domain": "go.limericker.com" },
                 { "name": "Server-18", "domain": "limericker.com" },
 
                 {"memo": "light"}
