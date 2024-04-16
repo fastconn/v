@@ -31,26 +31,26 @@
     "adid": {
         "SplashFull": [
             { "pri": 100, "id": "ca-app-pub-3510970371831048/6228967972", "memo": "h313_0000", "type": "open" },
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/7835165862", "memo": "h412_1120", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/4078440604", "memo": "h416_0830", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/2136452361", "memo": "m318_1030", "type": "inter" }
         ],
         "Splash-v1.17": [           
             { "pri": 100, "id": "ca-app-pub-3510970371831048/6228967972", "type": "open" },
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/7835165862", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/4078440604", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/2136452361", "type": "inter" }
         ],
         "Splash3": [           
             { "pri": 100, "id": "ca-app-pub-3510970371831048/6228967972", "type": "open" },
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/7835165862", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/4078440604", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/2136452361", "type": "inter" }
         ],
         "AnyFull-v2": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/1314506464", "memo": "h412_1120", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/5959665776", "memo": "h416_0830", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/9348087342", "memo": "m319_1030", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/6274323134", "memo": "l330_2200", "type": "inter" }
         ],
         "Anyfull-v1.17": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/1314506464", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/5959665776", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/9348087342", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/6274323134", "type": "inter" }
         ],
