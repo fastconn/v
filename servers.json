@@ -70,24 +70,24 @@
                 { "name": "Server-18", "domain": "go.tainsar.com",      "desc": "websocket" },
 
                 { "name": "Server-19", "domain": "sazavou.com",     "desc": "websocket" },
-                { "name": "Server-20", "domain": "maymay.boats",      "desc": "websocket" },
+                { "name": "Server-20", "domain": "do.sazavou.com",      "desc": "websocket" },
                 { "name": "Server-21", "domain": "music.harriscity.com",      "desc": "websocket", "memo": 415 },
-                { "name": "Server-22", "domain": "m415.harriscity.com",      "desc": "websocket", "memo": 415 },
-                { "name": "Server-23", "domain": "harriscity.com",      "desc": "websocket", "memo": 410 },
-                { "name": "Server-24", "domain": "michaeli.sbs",    "desc": "websocket" },
+                { "name": "Server-22", "domain": "harriscity.com",      "desc": "websocket", "memo": 410 },
+                { "name": "Server-23", "domain": "kinleyville.com",      "desc": "websocket", "memo": 415 },
+                { "name": "Server-24", "domain": "u.kinleyville.com",    "desc": "websocket" },
 
                 { "name": "Server-37", "domain": "morvaner.com",    "desc": "websocket" },
-                { "name": "Server-26", "domain": "nancie.beauty",   "desc": "websocket" },
+                { "name": "Server-26", "domain": "m.morvaner.com",   "desc": "websocket" },
                 { "name": "Server-27", "domain": "tilebani.com",      "desc": "websocket", "memo":411 },
-                { "name": "Server-28", "domain": "natali.boats",    "desc": "websocket" },
+                { "name": "Server-28", "domain": "to.tilebani.com",    "desc": "websocket" },
                 { "name": "Server-29", "domain": "sareikela.com",      "desc": "websocket" },
-                { "name": "Server-30", "domain": "novia.makeup",    "desc": "websocket" },
+                { "name": "Server-30", "domain": "doc.sareikela.com",    "desc": "websocket" },
 
                 { "name": "Server-31", "domain": "bamparda.com",     "desc": "websocket" , "memo": 413},
-                { "name": "Server-32", "domain": "nicoler.lol",     "desc": "websocket" },
-                { "name": "Server-33", "domain": "nicola.pics",     "desc": "websocket" },
+                { "name": "Server-32", "domain": "be.bamparda.com",     "desc": "websocket" },
+                { "name": "Server-33", "domain": "a.baradiha.com",     "desc": "websocket" },
                 { "name": "Server-34", "domain": "baradiha.com",      "desc": "websocket", "memo": 413 },
-                { "name": "Server-35", "domain": "nolra.cyou",      "desc": "websocket" },
+                { "name": "Server-35", "domain": "cake.capellare.com",      "desc": "websocket" },
                 { "name": "Server-36", "domain": "capellare.com",   "desc": "websocket" },
                 {}
             ],
@@ -109,7 +109,7 @@
             "image": "for_VIP",
             "ws3": [
                 { "name": "VIP-1", "domain": "venicer.com", "enableCf": true, "desc": "websocket" },
-                { "name": "VIP-2", "domain": "kinleyville.com", "desc": "websocket", "on": "24.3.15" },
+                { "name": "VIP-2", "domain": "p.venicer.com", "desc": "websocket", "on": "24.4.16" },
                 {}
             ], 
             "servers": [
