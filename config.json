@@ -36,13 +36,13 @@
                 }
             },
 			"orders": {
-				"DidConFull": ["AnyFull", "AnyInter"],
-				"WillDisFull": ["AnyFull", "AnyInter"],
+				"DidConFull??": ["AnyFull", "AnyInter"],
+				"WillDisFull??": ["AnyFull", "AnyInter"],
 				"HotFull": ["AnyInter", "AnyFull"],
 				"memo": "323_1030"
 			},
             "fullAdOrder": "in",
-            "offAdOrder": "ni"
+            "offAdOrder??": "ni"
         },
         "run3": {
             "MainOpen": "mainOpen",
@@ -67,7 +67,7 @@
             "anyFull": {
                 "type": "native", "layouts": [0,1],
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/9654200919", "memo": "h416_1015" },
+                    { "id": "ca-app-pub-3510970371831048/4444276268", "memo": "h419_1115" },
                     { "id": "ca-app-pub-3510970371831048/2804801669", "memo": "m331_1320" }
                 ]
             },
