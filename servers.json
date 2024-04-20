@@ -99,7 +99,7 @@
                 { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.114",    "desc": "High speed",   "on": "2.29-19:00" },
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.140",       "desc": "High speed",   "on": "2.28" },
                 { "cc": "fr", "city": "Paris",      "ip": "23.162.152.18",      "desc": "High speed",   "on": "2.10-2Gb" },
-                { "cc": "gb", "city": "London",     "ip": "38.114.120.121",     "desc": "High speed",   "on": "2.22-17:50" },
+                { "cc": "gb", "city": "London",     "ip": "142.202.51.39",     "desc": "High speed",   "on": "4.20" },
                 { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.147",    "desc": "High speed",   "on": "2.19" }
             ]
         },
