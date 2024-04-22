@@ -4,7 +4,7 @@
 		"showSplash": true,
         "secondSplash": 3,
 		"cnDeny": [0,0],
-		"forceVer": "1.1.6",
+		"forceVer": "1.3.3",
         "recVer": "1.3.6",
     	"evNo": ["enterGg", "ping2", "pingCf", "admobUMP", "request"],
 		"testers": ["??FB182717-40B6-4542-A3E9-C55B87770208 14pro"],
