@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "v": 20240415,
+    "v": 20240422,
     "shuffleWs": true,
     "cfgs": {
         "ikev2": {
@@ -44,7 +44,7 @@
                     "cfg": "a",
                     "city":"Server-1",
                     "desc": "websocket",
-                    "ip": "asguard.cfd"
+                    "ip": "capellare.com"
                 }
             ],
             "ws3": [
