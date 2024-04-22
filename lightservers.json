@@ -3,14 +3,6 @@
     "v": 20240416,
     "shuffleWs": true,
     "cfgs": {
-        "ws": {
-            "a": {
-		        "domain": "asguard.cfd",
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            }
-        }
     },
     "l": [
         {
@@ -19,14 +11,7 @@
             "image": "global",
             "wsGroupSize": 3,
             "wsNameAuto": true,
-            "ws2": [
-                {
-                    "cfg": "a",
-                    "city": "Server-1",
-                    "desc": "websocket",
-                    "ip": "limericker.com"
-                }
-            ],
+            "ws2": [ ],
             "ws3": [
                 { "name": "Server-1", "domain": "ferndaler.com" },
                 { "name": "Server-2","domain": "buy.ferndaler.com" },
