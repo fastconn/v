@@ -36,9 +36,10 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
+                    { "pr": 4, "name": "Server-2", "i": "oliviar.autos" },
+
                     { "pr": 4, "name": "Server-1", "i": "a.arlyndan.com", "memo": 416 },
 
-                    { "pr": 4, "name": "Server-2", "i": "oliviar.autos" },
                     { "pr": 4, "name": "Server-3", "i": "pagpag.autos", "memo": 416 },
                     { "pr": 4, "name": "Server-4", "i": "pandor.boats", "memo": 416 },
                     { "pr": 4, "name": "Server-5", "i": "pagee.beauty", "memo": "11.13" },
