@@ -36,8 +36,6 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Server-7", "i": "patrici.click", "memo": "11.13" },
-
                     { "pr": 4, "name": "Server-1", "i": "a.arlyndan.com", "memo": 416 },
 
                     { "pr": 4, "name": "Server-2", "i": "oliviar.autos" },
@@ -46,6 +44,7 @@
                     { "pr": 4, "name": "Server-5", "i": "pagee.beauty", "memo": "11.13" },
                     { "pr": 4, "name": "Server-6", "i": "pamelaa.cfd", "memo": "11.13" },
 
+                    { "pr": 4, "name": "Server-7", "i": "patrici.click", "memo": "11.13" },
                     { "pr": 4, "name": "Server-8", "i": "paulaa.homes", "memo": "11.13" },
                     { "pr": 4, "name": "Server-9", "i": "lucie.boats" },
                     { "pr": 4, "name": "Server-10", "i": "olivee.cfd" },
