@@ -41,7 +41,7 @@
 				"HotFull": ["AnyInter", "AnyFull"],
 				"memo": "323_1030"
 			},
-            "fullAdOrder": "in",
+            "fullAdOrder??": "in",
             "offAdOrder??": "ni"
         },
         "run3": {
@@ -60,14 +60,14 @@
             "anyInter": {
                 "type": "inter",
                 "ids": [
-					{ "id": "ca-app-pub-3510970371831048/3445903250", "memo":"h428_1000" },
+					{ "id": "ca-app-pub-3510970371831048/2086991061", "memo":"h430_1210" },
 					{ "id": "ca-app-pub-3510970371831048/7989548881", "memo":"m224_1100" }
                 ]
             },
             "anyFull": {
                 "type": "native", "layouts": [0,1],
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/3641845387", "memo": "h428_1210" },
+                    { "id": "ca-app-pub-3510970371831048/1378498332", "memo": "h430_1210" },
                     { "id": "ca-app-pub-3510970371831048/2804801669", "memo": "m331_1320" }
                 ]
             },
