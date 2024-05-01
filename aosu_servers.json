@@ -6,7 +6,7 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "a.arlyndan.com", "memo": 416 },
+                { "name": "Server-1", "desc": "Global", "domain": "v2.arlyndan.com", "memo": 501 },
 
                 { "name": "Server-2", "desc": "Global", "domain": "oliviar.autos" },
                 { "name": "Server-3", "desc": "Global", "domain": "pagpag.autos", "memo": 416 },
