@@ -103,8 +103,8 @@
                 { "cc": "us", "city": "Los Angeles",    "ip": "38.75.136.56",       "desc": "Performance", "on": "'2.19" },
 		        { "cc": "de", "city": "Frankfurt",      "ip": "23.158.56.103",    "desc": "Performance", "on": "2.20" },
                 { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.168",      "desc": "Performance", "on": "2.20" },
-		        { "cc": "fr", "city": "Paris",          "ip": "23.134.91.157",     "desc": "Performance", "on": "2.20" },
-
+		       
+                { "cc": "fr", "city": "Paris",          "ip": "172.99.189.247",     "desc": "New", "on": "vps-5.1" },
                 { "cc": "br", "city": "São Paulo",      "ip": "5.188.238.120",      "desc": "New", "on": "2024.3.29" },
                 { "cc": "sg", "city": "Singapore",      "ip": "5.188.34.106",      "desc": "New", "on": "2024.4.5" },
                 { "cc": "au", "city": "Sydney",         "ip": "146.185.214.91",     "desc": "New", "on": "2024.3.29" },
