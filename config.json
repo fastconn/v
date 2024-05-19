@@ -52,8 +52,8 @@
             "HotFull": "anyInter",
             "AnyFull": "anyFull",
             "AnyInter": "anyInter",
-            "OffNative": "offN",
-            "OffInter": "offI"
+            "OffNative??": "offN",
+            "OffInter??": "offI"
         },
 
         "sets": {

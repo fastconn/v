@@ -48,8 +48,8 @@
 			"HotFull": "anyI",
 			"AnyInter": "anyI",
 			"AnyFull": "anyN",
-            "OffNative": "offN",
-            "OffInter": "offI",
+            "OffNative??": "offN",
+            "OffInter??": "offI",
 			"Connected2": "native2"
 		},
         "sets": {
