@@ -30,30 +30,30 @@
     },
     "adid": {
         "SplashFull": [
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/8940500991", "memo": "h517_1000", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/1154414279", "memo": "h519_2000", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/9366192193", "memo": "m515_1000", "type": "native" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/4785344580", "memo": "h503_m507", "type": "open" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/8933532647", "memo": "m507_1000", "type": "inter" }
         ],
         "Splash-v1.17": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/8940500991", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/1154414279", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/4785344580", "type": "open" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/8933532647", "type": "inter" }
         ],
         
         "AnyFull-v2": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/7074220712", "memo": "h517_1000", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/8964621537", "memo": "h519_2000", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/8106695812", "memo": "m515_1000", "type": "native" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/9348087342", "memo": "m319_1030", "type": "inter" }
         ],
         "Anyfull-v1.17": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/7074220712", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/8964621537", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/9348087342", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/6274323134", "memo": "l330", "type": "inter" }
         ],
         
         "Didcon-v2": [
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/3573029792", "memo": "m428", "type": "native" },
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/7903655452", "memo": "m519", "type": "native" },
             { "pri": 80, "id": "ca-app-pub-3510970371831048/2691953733", "memo": "l401", "type": "native" }
         ],
         "Mainpage-v2??": [
