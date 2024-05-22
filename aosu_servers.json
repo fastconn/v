@@ -22,7 +22,7 @@
                 {}
             ],
             "ips": [
-                { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.54",      "desc": "High speed", "on":"4.24" },
+                { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.55",      "desc": "High speed", "on":"4.24,5.22" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "193.108.119.175",      "desc": "High speed", "on":"from main,5.8" },
                 { "cc": "gb", "city": "London",     "ip": "172.99.190.184",      "desc": "High speed", "on": "2.20, 184@5.17" },
                 { "cc": "us", "city": "New York",   "ip": "169.197.141.55",     "desc": "High speed" }
