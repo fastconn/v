@@ -84,7 +84,7 @@
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.107",       "desc": "High speed",   "on":"3Gb-4.5,5.22" },
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.8",       "desc": "High speed",   "on":"3Gb-4.23,5.22" },
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.33",       "desc": "High speed",   "on": "4.28" },
-                { "cc": "gb", "city": "London",     "ip": "172.99.190.32",     "desc": "High speed",   "on": "4.20,4.22" },
+                { "cc": "gb", "city": "London",     "ip": "172.99.190.249",     "desc": "High speed",   "on": "4.20,4.22,5.22" },
                 { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.7",    "desc": "High speed",   "on": "2.19,4.22" }    
             ]
         },
