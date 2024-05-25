@@ -27,12 +27,7 @@
                 { "name": "Server-11","domain": "ad.kotzting.com" },
                 { "name": "Server-12","domain": "kotzting.com" },
 
-                { "name": "Server-13", "domain": "holmest.com" },
-                { "name": "Server-14","domain": "safe.holmest.com" },
-                { "name": "Server-15","domain": "b.javaphal.com" },
-                { "name": "Server-16","domain": "javaphal.com" },
-                { "name": "Server-17","domain": "go.limericker.com" },
-                { "name": "Server-18", "domain": "limericker.com" },
+                { "name": "Server-13", "domain": "acomastore.com", "memo":525 },
 
                 {"memo": "light"}
             ]
