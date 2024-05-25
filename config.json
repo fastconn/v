@@ -41,8 +41,8 @@
 				"HotFull": ["AnyInter", "AnyFull"],
 				"memo": "323_1030"
 			},
-            "fullAdOrder": "in",
-            "offAdOrder??": "ni"
+            "fullAdOrder": "ni",
+            "offAdOrder": "in"
         },
         "run3": {
             "MainOpen": "mainOpen",
@@ -52,8 +52,8 @@
             "HotFull": "anyInter",
             "AnyFull": "anyFull",
             "AnyInter": "anyInter",
-            "OffNative??": "offN",
-            "OffInter??": "offI"
+            "OffNative": "offN",
+            "OffInter": "offI"
         },
 
         "sets": {
@@ -67,14 +67,14 @@
             "anyFull": {
                 "type": "native", "layouts": [0,1],
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/1548223999", "memo": "h523_0930" },
+                    { "id": "ca-app-pub-3510970371831048/6342736741", "memo": "h525_1000" },
                     { "id": "ca-app-pub-3510970371831048/2804801669", "memo": "m331_1320" }
                 ]
             },
             "conn": {
                 "type": "native",
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/2328551689", "memo":"m521_1920" },
+                    { "id": "ca-app-pub-3510970371831048/1548293804", "memo":"m525_1000" },
                     { "id": "ca-app-pub-3510970371831048/2455640233", "memo":"l519" }        
                 ]
             },
