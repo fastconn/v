@@ -69,7 +69,12 @@
                 { "name": "Server-29", "domain": "sareikela.com",      "desc": "websocket" },
                 { "name": "Server-30", "domain": "doc.sareikela.com",    "desc": "websocket" },
 
-                { "name": "Server-31", "domain": "gallupes.com",     "desc": "websocket" , "memo": 525},
+                { "name": "Server-31", "domain": "bamparda.com",     "desc": "websocket" , "memo": 413},
+                { "name": "Server-32", "domain": "be.bamparda.com",     "desc": "websocket" },
+                { "name": "Server-33", "domain": "a.baradiha.com",     "desc": "websocket" },
+                { "name": "Server-34", "domain": "baradiha.com",      "desc": "websocket", "memo": 413 },
+                { "name": "Server-35", "domain": "cake.capellare.com",      "desc": "websocket" },
+                { "name": "Server-36", "domain": "capellare.com",   "desc": "websocket" },
                 {}
             ],
             "servers": [
