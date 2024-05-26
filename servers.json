@@ -105,7 +105,7 @@
                 { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.168",      "desc": "Performance", "on": "2.20" },
 		       
                 { "cc": "fr", "city": "Paris",          "ip": "172.99.189.247",     "desc": "New", "on": "vps-5.1" },
-                { "cc": "br", "city": "São Paulo",      "ip": "5.188.238.120",      "desc": "New", "on": "2024.3.29" },
+                { "cc": "br", "city": "São Paulo",      "ip": "172.233.14.197",      "desc": "New", "on": "li-5.26" },
                 { "cc": "sg", "city": "Singapore",      "ip": "139.162.49.11",      "desc": "New", "on": "li-5.10" },
                 { "cc": "au", "city": "Sydney",         "ip": "172.105.171.226",     "desc": "New", "on": "li-5.10" },
                 { "cc": "in", "city": "Mumbai",         "ip": "194.195.115.94",    "desc": "New", "on": "li-4.28,5.26" },
