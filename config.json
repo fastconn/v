@@ -2,6 +2,7 @@
     "0": {
         "ageM": 15,
         "showSplash": true,
+        "domain": "i.ostrichvpn.app",
         "secondSplash": 3,
     	"cnDeny": [0,0],
     	"evNo": ["enterGg", "ping2", "pingCf", "admobUMP", "request"],

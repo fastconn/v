@@ -23,8 +23,8 @@
         "maxShow": 100,
 
         "skipSec": 6,
-        "adWait": 6,
-        "splashSec": 6,
+        "adWait": 3,
+        "splashSec": 3,
         "nativeOfficial": [1,7],
         "mainAdFlag": 0
     },
