@@ -38,7 +38,7 @@
 				"memo": "321_1000"
 			},
             "fullAdOrder": "in",
-            "offAdOrder??": "ni"
+            "offAdOrder": "ni"
         },
 		"run": {},
 		"run3": {
@@ -48,8 +48,8 @@
 			"HotFull": "anyI",
 			"AnyInter": "anyI",
 			"AnyFull": "anyN",
-            "OffNative??": "offN",
-            "OffInter??": "offI",
+            "OffNative": "offN",
+            "OffInter": "offI",
 			"Connected2": "native2"
 		},
         "sets": {
@@ -70,7 +70,7 @@
 			"native2": {
 				 "type": "native",
 				 "ids": [
-					{ "id": "ca-app-pub-3510970371831048/2861305668", "memo":"m523_0930" },
+					{ "id": "ca-app-pub-3510970371831048/5504599118", "memo":"m526_1140" },
 					{ "id": "ca-app-pub-3510970371831048/9935081219", "memo":"l1217_1320" }
 				 ]
 			 },
