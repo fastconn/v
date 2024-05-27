@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "v": 20240416,
+    "v": 20240527,
     "shuffleWs": true,
     "cfgs": {
     },
@@ -9,30 +9,16 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 3,
+            "wsGroupSize": 1,
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "domain": "ferndaler.com" },
-                { "name": "Server-2","domain": "buy.ferndaler.com" },
-                { "name": "Server-3","domain": "doc.derapathar.com" },
-                { "name": "Server-4","domain": "derapathar.com" },
-                { "name": "Server-5","domain": "p.jindrichuv.com" },
-                { "name": "Server-6","domain": "jindrichuv.com" },
-
-                { "name": "Server-7", "domain": "sokovov.com" },
-                { "name": "Server-8","domain": "p.sokovov.com" },
-                { "name": "Server-9","domain": "x.goidamal.com" },
-                { "name": "Server-10","domain": "goidamal.com" },
-                { "name": "Server-11","domain": "ad.kotzting.com" },
-                { "name": "Server-12","domain": "kotzting.com" },
-
-                { "name": "Server-13", "domain": "holmest.com" },
-                { "name": "Server-14","domain": "safe.holmest.com" },
-                { "name": "Server-15","domain": "b.javaphal.com" },
-                { "name": "Server-16","domain": "javaphal.com" },
-                { "name": "Server-17","domain": "go.limericker.com" },
-                { "name": "Server-18", "domain": "limericker.com" },
+                { "name": "Server-1", "desc": "Global", "domain": "durangor.com" },
+                { "name": "Server-2", "desc": "Global", "domain": "albuquerq.cfd" },
+                { "name": "Server-3", "desc": "Global", "domain": "kayentar.com" },
+                { "name": "Server-4", "desc": "Global", "domain": "shiprock.lol" },
+                { "name": "Server-5", "desc": "Global", "domain": "portales.bond" },
+                { "name": "Server-6", "desc": "Global", "domain": "acomastore.com" },
 
                 {"memo": "light"}
             ]
