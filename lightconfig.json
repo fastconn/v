@@ -3,6 +3,7 @@
 		"ageM": 5,
 		"showSplash": true,
         "secondSplash": 3,
+        "domain": "i.ostrichvpn.app",
 		"cnDeny": [0,0],
 		"forceVer": "1.3.3",
         "recVer": "1.3.6",
