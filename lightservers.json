@@ -14,11 +14,11 @@
             "ws2": [ ],
             "ws3": [
                 { "name": "Server-1", "desc": "Global", "domain": "durangor.com" },
-                { "name": "Server-2", "desc": "Global", "domain": "albuquerq.cfd" },
+                { "name": "Server-2", "desc": "Global", "domain": "a.durangor.com" },
                 { "name": "Server-3", "desc": "Global", "domain": "kayentar.com" },
-                { "name": "Server-4", "desc": "Global", "domain": "shiprock.lol" },
-                { "name": "Server-5", "desc": "Global", "domain": "portales.bond" },
-                { "name": "Server-6", "desc": "Global", "domain": "acomastore.com" },
+                { "name": "Server-4", "desc": "Global", "domain": "b.kayentar.com" },
+                { "name": "Server-5", "desc": "Global", "domain": "acomastore.com" },
+                { "name": "Server-6", "desc": "Global", "domain": "c.acomastore.com" },
 
                 {"memo": "light"}
             ]
