@@ -33,13 +33,13 @@
                 }
             },			
 			"orders": {
-				"DidConFull??": ["AnyFull", "AnyInter"],
-				"WillDisFull??": ["AnyFull", "AnyInter"],
-				"HotFull": ["AnyInter", "AnyFull"],
+				"DidConFull": ["AnyFull", "AnyInter"],
+				"WillDisFull": ["AnyFull", "AnyInter"],
+				"HotFull": ["AnyFull", "AnyInter"],
 				"memo": "321_1000"
 			},
-            "fullAdOrder": "in",
-            "offAdOrder": "ni"
+            "fullAdOrder": "ni",
+            "offAdOrder": "in"
         },
 		"run": {},
 		"run3": {
