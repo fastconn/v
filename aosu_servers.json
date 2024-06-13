@@ -25,7 +25,7 @@
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.55",      "desc": "High speed", "on":"4.24,5.22" },
                 { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.193",   "desc": "High speed", "on":"6.1" },
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.47",     "desc": "High speed", "on": "5.25" },
-                { "cc": "gb", "city": "London",     "ip": "149.7.16.167",      "desc": "High speed", "on": "5.26，6.11,6.12" }
+                { "cc": "gb", "city": "London",     "ip": "172.99.190.135",      "desc": "High speed", "on": "6.13" }
             ]
         }
     ]
