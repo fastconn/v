@@ -24,7 +24,7 @@
             "ips": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.55",      "desc": "High speed", "on":"4.24,5.22" },
                 { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.193",   "desc": "High speed", "on":"6.1" },
-                { "cc": "us", "city": "Miami",    "ip": "162.251.62.95",     "desc": "High speed", "on": "6.14,6.15" },
+                { "cc": "us", "city": "Santa Clara",    "ip": "169.197.142.134",     "desc": "High speed", "on": "6.15" },
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.47",     "desc": "High speed", "on": "5.25" },
                 { "cc": "ca", "city": "Toronto",     "ip": "23.162.200.182",      "desc": "High speed", "on": "6.14" },
                 { "cc": "gb", "city": "London",     "ip": "172.99.190.50",      "desc": "High speed", "on": "noIr" }
