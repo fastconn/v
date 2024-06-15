@@ -46,15 +46,15 @@
             "offAdOrder": "in"
         },
         "run3": {
-            "MainOpen": "mainOpen??",
+            "MainOpen": "mainOpen_d614",
             "Connected2": "conn",
             "DidConFull": "anyInter",
             "WillDisFull": "anyInter",
             "HotFull": "anyInter",
             "AnyFull": "anyFull",
             "AnyInter": "anyInter",
-            "OffNative": "offN",
-            "OffInter": "offI"
+            "OffNative": "offN_d615",
+            "OffInter": "offI_d615"
         },
 
         "sets": {
@@ -76,7 +76,7 @@
             "conn": {
                 "type": "native",
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/8727260886", "memo":"6_614_2220" },
+                    { "id": "ca-app-pub-3510970371831048/6145630898", "memo":"8_615_1330" },
                     { "id": "ca-app-pub-3510970371831048/2455640233", "memo":"l519" }        
                 ]
             },
