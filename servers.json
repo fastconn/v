@@ -102,7 +102,7 @@
             "servers": [
                 { "cc": "us", "city": "New York",       "ip": "38.99.82.160",       "desc": "Performance", "on": "2.19,5.6,5.26，6.12，6.17" },
                 { "cc": "gb", "city": "London",         "ip": "38.114.120.70",       "desc": "Performance", "on": "light-6.17" },
-                { "cc": "us", "city": "Los Angeles",    "ip": "38.75.137.219",       "desc": "Performance", "on": "'2.19,5.6,5.26" },
+                { "cc": "us", "city": "Los Angeles",    "ip": "38.75.137.162",       "desc": "Performance", "on": "'2.19,5.6,5.26，6.17" },
 		        { "cc": "de", "city": "Frankfurt",      "ip": "57.129.28.67",    "desc": "Performance", "on": "ov5.2" },
                 { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.168",      "desc": "Performance", "on": "2.20" },
 		       
