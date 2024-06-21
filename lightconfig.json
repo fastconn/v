@@ -49,8 +49,8 @@
 			"HotFull": "anyI",
 			"AnyInter": "anyI",
 			"AnyFull": "anyN",
-            "OffNative": "offN",
-            "OffInter": "offI",
+            "OffNative": "offN_d621",
+            "OffInter": "offI_d621",
 			"Connected2": "native2"
 		},
         "sets": {
