@@ -47,7 +47,7 @@
         },
         "run3": {
             "MainOpen": "mainOpen_d614",
-            "Connected2": "conn",
+            "Connected2": "conn_d623",
             "DidConFull": "anyInter",
             "WillDisFull": "anyInter",
             "HotFull": "anyInter",
@@ -62,15 +62,13 @@
                 "type": "inter",
                 "ids": [
 					{ "id": "ca-app-pub-3510970371831048/8477270443", "memo":"h620_1630_4" },
-					{ "id": "ca-app-pub-3510970371831048/9952481132", "memo":"h616_1100_4" },
-					{ "id": "ca-app-pub-3510970371831048/7989548881", "memo":"m224_1100" }
+					{ "id": "ca-app-pub-3510970371831048/9952481132", "memo":"h616_1100_4" }
                 ]
             },
             "anyFull": {
                 "type": "native", "layouts": [0,1],
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/5658717178", "memo": "6_622_1420" },
-                    { "id": "ca-app-pub-3510970371831048/2804801669", "memo": "m331_1320" }
+                    { "id": "ca-app-pub-3510970371831048/5658717178", "memo": "6_622_1420" }
                 ]
             },
             "conn": {
