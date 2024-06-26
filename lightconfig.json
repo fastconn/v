@@ -19,7 +19,7 @@
     "ad": {
         "0": {
             "ver": 20240321,
-            "adFullLoadwait": 8,
+            "adFullLoadwait": 6,
             "hotInterval": 2,
             "skipOffset" : 0,
 	    	"max": {
@@ -65,8 +65,8 @@
 			"anyN": {
 				"type": "native", 
 				"ids": [
-					{ "id": "ca-app-pub-3510970371831048/8153357881", "memo":"6_622_1420" },			
-					{ "id": "ca-app-pub-3510970371831048/8071249790", "memo":"h615_2315" }
+					{ "id": "ca-app-pub-3510970371831048/8923438091", "memo":"6_626_0840" },			
+					{ "id": "ca-app-pub-3510970371831048/8153357881", "memo":"6_622_1420" }
 				]
 	 	    },
 			"native2": {
