@@ -73,8 +73,8 @@
                 { "name": "Server-32", "domain": "be.bamparda.com",     "desc": "websocket" },
                 { "name": "Server-33", "domain": "a.baradiha.com",     "desc": "websocket" },
                 { "name": "Server-34", "domain": "baradiha.com",      "desc": "websocket", "memo": 413 },
-                { "name": "Server-35", "domain": "cake.capellare.com",      "desc": "websocket" },
-                { "name": "Server-36", "domain": "capellare.com",   "desc": "websocket" },
+                { "name": "Server-35", "domain": "t.taosangle.com",      "desc": "websocket","memo": 709 },
+                { "name": "Server-36", "domain": "taosangle.com",   "desc": "websocket" },
                 {}
             ],
             "servers": [
