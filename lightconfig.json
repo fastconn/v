@@ -49,7 +49,7 @@
 			"HotFull": "anyI",
 			"AnyInter": "anyI",
 			"AnyFull": "anyN",
-            "OffNative": "offN",
+            "OffNative": "offN_d621",
             "OffInter": "offI",
 			"Connected2": "native2"
 		},
