@@ -34,10 +34,10 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "angmoko.com",      "desc": "websocket" },
+                { "name": "Server-1", "domain": "angmoko.com",      "desc": "websocket", "memo": 811 },
                 { "name": "Server-2", "domain": "s.angmoko.com",      "desc": "websocket" },
 
-                { "name": "Server-7", "domain": "sengkann.com",      "desc": "websocket" },
+                { "name": "Server-7", "domain": "sengkann.com",      "desc": "websocket", "memo": 811 },
                 { "name": "Server-8", "domain": "o.sengkann.com",   "desc": "websocket" },
 
                 { "name": "Server-13", "domain": "podbrdy.com",       "desc": "websocket" },
