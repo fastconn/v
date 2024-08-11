@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "v": 20240502,
+    "v": 20240811,
     "shuffleWs": true,
     "cfgs": {
         "ikev2": {
@@ -63,7 +63,7 @@
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.141",       "desc": "High speed",   "on": "5.26,6.8，6.11，6.17，7.9，7.15,7.18" },
                 { "cc": "us", "city": "Miami",   "ip": "38.91.106.137",       "desc": "High speed",   "on": "6.18，7.12,7.13,7.15，7.20,7.28" },
                 { "cc": "gb", "city": "London",     "ip": "68.168.31.130",     "desc": "High speed",   "on": "6.12" },
-                { "cc": "nl", "city": "Amsterdam",  "ip": "91.239.53.42",     "desc": "High speed",   "on": "7.10...7.23，7.25,7.28,8.9" },
+                { "cc": "nl", "city": "Amsterdam",  "ip": "91.239.53.52",     "desc": "High speed",   "on": "7.10...7.23，7.25,7.28,8.9,8.11" },
                 { "cc": "ca", "city": "Toronto",   "ip": "23.162.200.141",    "desc": "High speed",   "on": "7.11,7.11" },   
                 { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.171",    "desc": "High speed",   "on": "2.19,4.22,6.28" }    
             ]
