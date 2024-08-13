@@ -3,7 +3,7 @@
         "cnDeny": [0,0],
         "autoProtocol": 4,
         "proxySelf": true,
-        "postHog": true
+        "postHog": false
     },
     "update": {
         "Title": "Update notice",
