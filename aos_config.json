@@ -30,21 +30,22 @@
     },
     "adid": {
         "SplashFull": [
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/3682387536", "memo": "h814_1220", "type": "inter" },
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/5848916680", "memo": "l815", "type": "inter" }
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/5039571358", "memo": "h816_2030_2", "type": "inter" },
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/9480985063", "memo": "m704_1430_l710", "type": "inter" }
         ],
         "Splash-v1.17": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/3682387536", "type": "inter" },
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/5848916680", "memo": "l815", "type": "inter" }
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/5039571358", "type": "inter" },
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/9480985063", "memo": "m704_1430", "type": "inter" }
         ],
         
         "AnyFull-v2": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/8997824209", "memo": "h814_1220", "type": "inter" },
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/5848916680", "memo": "l815", "type": "inter" }
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/5039571358", "memo": "h816_2030_2", "type": "inter" },
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/1844585898", "memo": "native_m811", "type": "native" }
         ],
         "Anyfull-v1.17": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/8997824209", "type": "inter" },
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/5848916680", "memo": "l815", "type": "inter" }
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/5039571358", "type": "inter" },
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/3451594881", "type": "inter" },
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/6274323134", "memo": "l330", "type": "inter" }
         ],
         
         "Didcon-v2??": [
