@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 2,
+            "wsGroupSize": 1,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -52,6 +52,10 @@
 
                 { "name": "Server-35", "domain": "t.taosangle.com",      "desc": "websocket","memo": 709 },
                 { "name": "Server-36", "domain": "taosangle.com",   "desc": "websocket" },
+
+
+                { "name": "Server-37", "domain": "t.ruidoso.icu",      "desc": "websocket","memo": "821" },
+                { "name": "Server-38", "domain": "ruidoso.icu",   "desc": "websocket" },
                 {}
             ],
             "servers": [
