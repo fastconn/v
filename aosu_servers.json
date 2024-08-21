@@ -8,17 +8,10 @@
             "ws": [
                 { "name": "Server-1", "desc": "Global", "domain": "v2.arlyndan.com", "memo": 501 },
 
-                { "name": "Server-2", "desc": "Global", "domain": "oliviar.autos" },
-                { "name": "Server-3", "desc": "Global", "domain": "pagpag.autos", "memo": 416 },
-                { "name": "Server-4", "desc": "Global", "domain": "pandor.boats", "memo": 416 },
-                { "name": "Server-5", "desc": "Global", "domain": "pagee.beauty", "memo": "11.13" },
-                { "name": "Server-6", "desc": "Global", "domain": "pamelaa.cfd", "memo": "11.13" },
-
-                { "name": "Server-7", "desc": "Global", "domain": "patrici.click", "memo": "11.13" },
-                { "name": "Server-8", "desc": "Global", "domain": "paulaa.homes", "memo": "11.13" },
-                { "name": "Server-9", "desc": "Global", "domain": "lucie.boats" },
-                { "name": "Server-10", "desc": "Global", "domain": "olivee.cfd" },
-                { "name": "Server-11", "desc": "Global", "domain": "aveiror.com"},
+                { "name": "Server-2", "desc": "Global", "domain": "bubatok.com", "memo": "811,821" },
+                { "name": "Server-3", "desc": "Global", "domain": "v.bubatok.com", "memo": "811,821" },
+                { "name": "Server-4", "desc": "Global", "domain": "aveiror.com" },
+                { "name": "Server-5", "desc": "Global", "domain": "tucumcari.homes", "memo": "821" },
                 {}
             ],
             "ips": [
