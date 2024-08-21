@@ -19,6 +19,7 @@
                 { "name": "Server-4", "desc": "Global", "domain": "b.kayentar.com" },
                 { "name": "Server-5", "desc": "Global", "domain": "acomastore.com" },
                 { "name": "Server-6", "desc": "Global", "domain": "boonlak.com", "memo": 811 },
+                { "name": "Server-7", "desc": "Global", "domain": "sitgreav.cfd", "memo": 821 },
 
                 {"memo": "light"}
             ]
