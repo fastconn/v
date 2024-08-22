@@ -54,8 +54,8 @@
                 { "name": "Server-36", "domain": "taosangle.com",   "desc": "websocket" },
 
 
-                { "name": "Server-37", "domain": "t.ruidoso.icu",      "desc": "websocket","memo": "821" },
-                { "name": "Server-38", "domain": "ruidoso.icu",   "desc": "websocket" },
+                { "name": "Server-37", "domain": "k1.khatibes.lol",      "desc": "websocket","memo": "821" },
+                { "name": "Server-38", "domain": "p.khatibes.lol",   "desc": "websocket" },
                 {}
             ],
             "servers": [
