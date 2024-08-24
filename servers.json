@@ -29,34 +29,27 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 2,
+            "wsGroupSize": 1,
             "wsNameAuto": true,
             "ws2": [
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "angmoko.com",      "desc": "websocket", "memo": 811 },
-                { "name": "Server-2", "domain": "s.angmoko.com",      "desc": "websocket" },
 
-                { "name": "Server-7", "domain": "sengkann.com",      "desc": "websocket", "memo": 811 },
-                { "name": "Server-8", "domain": "o.sengkann.com",   "desc": "websocket" },
+                { "name": "Server-2", "domain": "sengkann.com",      "desc": "websocket", "memo": 811 },
 
-                { "name": "Server-13", "domain": "podbrdy.com",       "desc": "websocket" },
-                { "name": "Server-14", "domain": "free.podbrdy.com",      "desc": "websocket" },
+                { "name": "Server-3", "domain": "podbrdy.com",       "desc": "websocket" },
 
-                { "name": "Server-19", "domain": "sazavou.com",     "desc": "websocket" },
-                { "name": "Server-20", "domain": "do.sazavou.com",      "desc": "websocket" },
+                { "name": "Server-4", "domain": "sazavou.com",     "desc": "websocket" },
 
-                { "name": "Server-25", "domain": "morvaner.com",    "desc": "websocket" },
-                { "name": "Server-26", "domain": "m.morvaner.com",   "desc": "websocket" },
+                { "name": "Server-5", "domain": "morvaner.com",    "desc": "websocket" },
+                { "name": "Server-6", "domain": "capellare.com",   "desc": "websocket" },
 
-
-                { "name": "Server-35", "domain": "t.taosangle.com",      "desc": "websocket","memo": 709 },
                 { "name": "Server-36", "domain": "taosangle.com",   "desc": "websocket" },
 
                 { "name": "Server-37", "domain": "tessenderl.com",      "desc": "New" },
-                { "name": "Server-38", "domain": "p.tessenderl.com",      "desc": "New" },
                 { "name": "Server-39", "domain": "ravels.lol",   "desc": "New" },
-                {}
+               {}
             ],
             "servers": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.157.88.73",       "desc": "High speed",   "on":"5.8-5Gb, 35@5.22，73@7.6" },
