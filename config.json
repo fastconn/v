@@ -2,7 +2,7 @@
     "0": {
         "ageM": 15,
         "showSplash": true,
-        "domain": "i.ostrichvpn.app",
+        "domain": "i.ostrichvpn.net",
         "secondSplash": 3,
     	"cnDeny": [0,0],
     	"evNo": ["enterGg", "ping2", "pingCf", "admobUMP", "request"],
@@ -69,7 +69,6 @@
                 "type": "native", "layouts_d625": [0,1],
                 "ids": [
                     { "id": "ca-app-pub-3510970371831048/6299654467", "memo": "h823_1350_6" },
-                    { "id": "ca-app-pub-3510970371831048/1959920362", "memo": "h822_0945_6" },
                     { "id": "ca-app-pub-3510970371831048/8334964902", "memo": "m723_1245" }
                 ]
             },
