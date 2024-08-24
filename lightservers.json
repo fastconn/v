@@ -19,7 +19,7 @@
                 { "name": "Server-4", "desc": "Global", "domain": "b.kayentar.com" },
                 { "name": "Server-5", "desc": "Global", "domain": "acomastore.com" },
                 { "name": "Server-6", "desc": "Global", "domain": "boonlak.com", "memo": 811 },
-                { "name": "Server-7", "desc": "New", "domain": "kampung.lat", "memo": 822 },
+                { "name": "Server-7", "desc": "New", "domain": "lommelle.com"},
 
                 {"memo": "light"}
             ]

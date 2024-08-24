@@ -12,6 +12,7 @@
                 { "name": "Server-3", "desc": "Global", "domain": "v.bubatok.com", "memo": "811,821" },
                 { "name": "Server-4", "desc": "Global", "domain": "aveiror.com" },
                 { "name": "Server-5", "desc": "New", "domain": "tamansri.click" },
+                { "name": "Server-6", "desc": "New", "domain": "hamont.cfd" },
                 {}
             ],
             "ips": [
