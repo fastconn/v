@@ -11,7 +11,6 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bubatok.com", "memo": "811,821" },
                 { "name": "Server-3", "desc": "Global", "domain": "v.bubatok.com", "memo": "811,821" },
                 { "name": "Server-4", "desc": "Global", "domain": "aveiror.com" },
-                { "name": "Server-6", "desc": "New", "domain": "hamont.cfd" },
                 {}
             ],
             "ips": [

@@ -46,9 +46,7 @@
                 { "name": "Server-6", "domain": "capellare.com",   "desc": "websocket" },
 
                 { "name": "Server-36", "domain": "taosangle.com",   "desc": "websocket" },
-
                 { "name": "Server-37", "domain": "tessenderl.com",      "desc": "New" },
-                { "name": "Server-39", "domain": "ravels.lol",   "desc": "New" },
                {}
             ],
             "servers": [
