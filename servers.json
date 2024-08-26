@@ -38,15 +38,12 @@
 
                 { "name": "Server-2", "domain": "sengkann.com",      "desc": "websocket", "memo": 811 },
 
-                { "name": "Server-3", "domain": "podbrdy.com",       "desc": "websocket" },
+                { "name": "Server-3", "domain": "boekelt.com",       "desc": "websocket", "memo": "826" },
 
-                { "name": "Server-4", "domain": "sazavou.com",     "desc": "websocket" },
+                { "name": "Server-4", "domain": "wolphaart.com",   "desc": "websocket", "memo": "826" },
 
-                { "name": "Server-5", "domain": "morvaner.com",    "desc": "websocket" },
-                { "name": "Server-6", "domain": "wolphaart.com",   "desc": "websocket", "memo": "826" },
-
-                { "name": "Server-36", "domain": "taosangle.com",   "desc": "websocket" },
-                { "name": "Server-37", "domain": "tessenderl.com",      "desc": "New" },
+                { "name": "Server-5", "domain": "taosangle.com",   "desc": "websocket" },
+                { "name": "Server-6", "domain": "tessenderl.com",      "desc": "New" },
                {}
             ],
             "servers": [
