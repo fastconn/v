@@ -57,7 +57,7 @@
                     { "pr": 4, "name": "Server-2", "i": "bubatok.com", "memo": 811 },
                     { "pr": 4, "name": "Server-3", "i": "v.bubatok.com", "memo": 811 },
 
-                    { "pr": 4, "name": "Server-4", "i": "aveiror.com"}
+                    { "pr": 4, "name": "Server-4", "i": "aveiror.com", "memo": 416}
                 ]
             }
         ],

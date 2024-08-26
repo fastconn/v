@@ -6,10 +6,10 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "a.astenweet.com", "memo": "825" },
-
-                { "name": "Server-2", "desc": "Global", "domain": "b.astenweet.com", "memo": "825" },
-                { "name": "Server-3", "desc": "Global", "domain": "c.astenweet.com", "memo": "825" }
+                { "name": "Server-1", "desc": "Global", "domain": "bubatok.com", "memo": "811" },
+                { "name": "Server-2", "desc": "Global", "domain": "a.astenweet.com", "memo": "825" },
+                { "name": "Server-3", "desc": "Global", "domain": "b.astenweet.com", "memo": "825" },
+                { "name": "Server-4", "desc": "Global", "domain": "c.astenweet.com", "memo": "825" }
             ],
             "ips": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.55",      "desc": "High speed", "on":"4.24,5.22" },
