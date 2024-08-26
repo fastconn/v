@@ -43,7 +43,7 @@
                 { "name": "Server-4", "domain": "sazavou.com",     "desc": "websocket" },
 
                 { "name": "Server-5", "domain": "morvaner.com",    "desc": "websocket" },
-                { "name": "Server-6", "domain": "wolphaart",   "desc": "websocket", "memo": "826" },
+                { "name": "Server-6", "domain": "wolphaart.com",   "desc": "websocket", "memo": "826" },
 
                 { "name": "Server-36", "domain": "taosangle.com",   "desc": "websocket" },
                 { "name": "Server-37", "domain": "tessenderl.com",      "desc": "New" },
