@@ -55,7 +55,7 @@
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.141",       "desc": "High speed",   "on": "5.26,6.8，6.11，6.17，7.9，7.15,7.18" },
                 { "cc": "us", "city": "Miami",   "ip": "38.91.107.158",       "desc": "High speed",   "on": "6.18，...，7.20,7.28,8.22" },
                 { "cc": "gb", "city": "London",     "ip": "68.168.31.130",     "desc": "High speed",   "on": "6.12" },
-                { "cc": "nl", "city": "Amsterdam",  "ip": "91.239.53.63",     "desc": "High speed",   "on": "7.10...,8.15，8.20,8.22,8.26" },
+                { "cc": "nl", "city": "Amsterdam",  "ip": "91.239.53.57",     "desc": "High speed",   "on": "7.10...,8.15，8.20,8.22,8.26" },
                 { "cc": "ca", "city": "Toronto",   "ip": "23.162.200.141",    "desc": "High speed",   "on": "7.11,7.11" },   
                 { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.171",    "desc": "High speed",   "on": "2.19,4.22,6.28" }    
             ]
@@ -73,10 +73,10 @@
             ], 
             "servers": [
                 { "cc": "us", "city": "New York",       "ip": "38.99.82.221",       "desc": "Performance", "on": "2.19,5.6,5.26，6.12，6.17,7.10" },
-                { "cc": "gb", "city": "London",         "ip": "38.114.120.70",       "desc": "Performance", "on": "light-6.17" },
+                { "cc": "gb", "city": "London",         "ip": "57.128.184.123",       "desc": "Performance", "on": "ov8.27" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "38.75.136.20",       "desc": "Performance", "on": "'2.19,5.6,5.26，6.17,8.10" },
-		        { "cc": "de", "city": "Frankfurt",      "ip": "57.129.28.67",    "desc": "Performance", "on": "ov5.2" },
-                { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.168",      "desc": "Performance", "on": "2.20" },
+		        { "cc": "de", "city": "Frankfurt",      "ip": "57.129.25.26",    "desc": "Performance", "on": "ov8.27" },
+                { "cc": "ca", "city": "Toronto",        "ip": "23.162.200.103",      "desc": "Performance", "on": "8.27" },
 		       
                 { "cc": "br", "city": "São Paulo",      "ip": "172.233.14.197",      "desc": "New", "on": "li-5.26" },
                 { "cc": "sg", "city": "Singapore",      "ip": "139.162.49.11",      "desc": "New", "on": "li-5.10" },
