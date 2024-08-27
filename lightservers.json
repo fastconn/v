@@ -13,11 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "durangor.com" },
-                { "name": "Server-2", "desc": "New", "domain": "lochristy.com" },
-                { "name": "Server-3", "desc": "Global", "domain": "acomastore.com" },
-                { "name": "Server-4", "desc": "Global", "domain": "boonlak.com", "memo": 811 },
-                { "name": "Server-5", "desc": "New", "domain": "lommelle.com"},
+                { "name": "Server-1", "desc": "New", "domain": "lochristy.com" },
+                { "name": "Server-2", "desc": "Global", "domain": "acomastore.com" },
+                { "name": "Server-3", "desc": "New", "domain": "lommelle.com"},
 
                 {"memo": "light"}
             ]
