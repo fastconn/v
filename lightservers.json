@@ -13,8 +13,8 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "New", "domain": "lochristy.com" },
-                { "name": "Server-2", "desc": "Global", "domain": "acomastore.com" },
+                { "name": "Server-1", "desc": "Global", "domain": "schotend.com" },
+                { "name": "Server-2", "desc": "New", "domain": "lochristy.com" },
                 { "name": "Server-3", "desc": "New", "domain": "lommelle.com"},
 
                 {"memo": "light"}
