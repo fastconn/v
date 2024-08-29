@@ -34,16 +34,16 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "angmoko.com",      "desc": "websocket", "memo": 811 },
+                { "name": "Server-1", "domain": "emmadorp.com",      "desc": "New", "memo": "829" },
 
-                { "name": "Server-2", "domain": "sengkann.com",      "desc": "websocket", "memo": 811 },
+                { "name": "Server-2", "domain": "b.emmadorp.com",      "desc": "New", "memo": "829" },
 
-                { "name": "Server-3", "domain": "boekelt.com",       "desc": "websocket", "memo": "826" },
+                { "name": "Server-3", "domain": "womellgen.com",       "desc": "New", "memo": "829" },
 
-                { "name": "Server-4", "domain": "wolphaart.com",   "desc": "websocket", "memo": "826" },
+                { "name": "Server-4", "domain": "b.wolphaart.com",   "desc": "New", "memo": "829" },
 
                 { "name": "Server-5", "domain": "kapelleng.com",   "desc": "websocket", "memo": "828" },
-                { "name": "Server-6", "domain": "tessenderl.com",      "desc": "New" },
+                { "name": "Server-6", "domain": "areendonk.com",      "desc": "New", "memo": "829" },
                {}
             ],
             "servers": [
