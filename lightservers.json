@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "schotend.com" },
-                { "name": "Server-2", "desc": "New", "domain": "lochristy.com" },
-                { "name": "Server-3", "desc": "New", "domain": "lommelle.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "schotend.com", "memo": "8.28" },
+                { "name": "Server-2", "desc": "New", "domain": "poederlee.com", "memo": "8.29" },
+                { "name": "Server-3", "desc": "New", "domain": "lichtaart.com", "memo": "8.29"},
 
                 {"memo": "light"}
             ]
