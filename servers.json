@@ -65,10 +65,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "venicer.com", "enableCf": true, "desc": "websocket" },
-                { "name": "VIP-2", "domain": "p.venicer.com", "desc": "websocket", "on": "24.4.16" },
-                { "name": "VIP-3", "domain": "gallupes.com", "desc": "websocket", "on": "5.26" },
-                { "name": "VIP-4", "domain": "merkspla.com", "desc": "New", "on": "8.25" },
+                { "name": "VIP-1", "domain": "gallupes.com", "enableCf": true, "desc": "websocket", "on": "5.26" },
+                { "name": "VIP-2", "domain": "merkspla.com", "desc": "New", "on": "8.25" },
                 {}
             ], 
             "servers": [
