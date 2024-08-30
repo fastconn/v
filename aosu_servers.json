@@ -6,7 +6,7 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "bubatok.com", "memo": "811" },
+                { "name": "Server-1", "desc": "Global", "domain": "zandhove.com", "memo": "8.30" },
                 { "name": "Server-2", "desc": "Global", "domain": "b.astenweet.com", "memo": "825" },
                 { "name": "Server-3", "desc": "Global", "domain": "prinsenbee.com", "memo": "8.29" }
             ],
