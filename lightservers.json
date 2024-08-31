@@ -18,9 +18,6 @@
                 { "name": "Server-3", "desc": "New", "domain": "lichtaart.com", "memo": "8.29"},
 
                 {"memo": "light"}
-            ],
-            "servers": [
-                { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.213",       "desc": "High speed",   "on":"2Gb-8.31" }
             ]
         }
     ]
