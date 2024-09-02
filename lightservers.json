@@ -14,8 +14,8 @@
             "ws2": [ ],
             "ws3": [
                 { "name": "Server-1", "desc": "Global", "domain": "a.osbroe.com", "memo": "9.2" },
-                { "name": "Server-2", "desc": "New", "domain": "b.osbroe.com", "memo": "9.2" },
-                { "name": "Server-3", "desc": "New", "domain": "c.osbroe.com", "memo": "9.2"},
+                { "name": "Server-2", "desc": "Global", "domain": "b.osbroe.com", "memo": "9.2" },
+                { "name": "Server-3", "desc": "New", "domain": "sanitase.com", "memo": "9.3"},
 
                 {"memo": "light"}
             ]
