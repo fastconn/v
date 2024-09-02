@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "schotend.com", "memo": "8.28" },
-                { "name": "Server-2", "desc": "New", "domain": "poederlee.com", "memo": "8.29" },
-                { "name": "Server-3", "desc": "New", "domain": "lichtaart.com", "memo": "8.29"},
+                { "name": "Server-1", "desc": "Global", "domain": "erpemera.com", "memo": "9.2" },
+                { "name": "Server-2", "desc": "New", "domain": "moorsell.com", "memo": "9.2" },
+                { "name": "Server-3", "desc": "New", "domain": "gijzegem.com", "memo": "9.2"},
 
                 {"memo": "light"}
             ]
