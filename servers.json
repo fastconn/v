@@ -36,7 +36,7 @@
             "ws3": [
                 { "name": "Server-1", "domain": "a.ressege.com",      "desc": "New", "memo": "9.2" },
                 { "name": "Server-2", "domain": "b.ressege.com",      "desc": "New", "memo": "9.2" },
-                { "name": "Server-3", "domain": "c.ressegecom",       "desc": "New", "memo": "829" },
+                { "name": "Server-3", "domain": "c.ressege.com",       "desc": "New", "memo": "829" },
                 { "name": "Server-4", "domain": "a.bambrugge.com",   "desc": "New", "memo": "829" },
                 { "name": "Server-5", "domain": "b.bambrugge.com",   "desc": "websocket", "memo": "9.2" },
                 { "name": "Server-6", "domain": "c.bambrugge.com",      "desc": "New", "memo": "9.2" },
