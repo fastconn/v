@@ -39,7 +39,7 @@
                 { "name": "Server-3", "domain": "rebroek.com",       "desc": "Global", "memo": "9.3-1130" },
                 { "name": "Server-4", "domain": "paddenhoek.com",   "desc": "Global", "memo": "9.3-1130" },
                 { "name": "Server-5", "domain": "terlindent.com",   "desc": "Global", "memo": "9.3-1130" },
-                { "name": "Server-6", "domain": "colruytt.com",      "desc": "Global(New)", "memo": "9.3-1040" },
+                { "name": "Server-6", "domain": "tolstraat.com",      "desc": "Global(New)", "memo": "9.3-1440" },
                 {}
             ],
             "servers": [
