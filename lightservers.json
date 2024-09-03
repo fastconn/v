@@ -14,7 +14,7 @@
             "ws2": [ ],
             "ws3": [
                 { "name": "Server-1", "desc": "Global", "domain": "ankeistraat.com", "memo": "9.3-1800" },
-                { "name": "Server-2", "desc": "Global", "domain": "b.ankeistraat.xyz", "memo": "9.3-1800" },
+                { "name": "Server-2", "desc": "Global", "domain": "b.ankeistraat.com", "memo": "9.3-1800" },
                 { "name": "Server-3", "desc": "Global", "domain": "frituurt.com", "memo": "9.3-1440"},
 
                 {"memo": "light"}
