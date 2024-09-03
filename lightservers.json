@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "siesegem.com", "memo": "9.3-1130" },
-                { "name": "Server-2", "desc": "Global", "domain": "kasteevan.xyz", "memo": "9.3-1040" },
-                { "name": "Server-3", "desc": "Global(New)", "domain": "frituurt.com", "memo": "9.3-1440"},
+                { "name": "Server-1", "desc": "Global", "domain": "ankeistraat.com", "memo": "9.3-1800" },
+                { "name": "Server-2", "desc": "Global", "domain": "b.ankeistraat.xyz", "memo": "9.3-1800" },
+                { "name": "Server-3", "desc": "Global", "domain": "frituurt.com", "memo": "9.3-1440"},
 
                 {"memo": "light"}
             ]
