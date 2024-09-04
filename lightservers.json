@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "aspelare.com", "memo": "9.4-2330" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.aspelare.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.aspelare.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "muylemheve.com", "memo": "9.5-737" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.muylemheve.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.muylemheve.com"},
 
                 {"memo": "light"}
             ]

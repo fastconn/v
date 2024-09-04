@@ -34,12 +34,12 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "lovilenbvba.com",      "desc": "Global(New)", "memo": "9.5-0015" },
-                { "name": "Server-2", "domain": "b.lovilenbvba.com",      "desc": "Global" },
-                { "name": "Server-3", "domain": "c.lovilenbvba.com",       "desc": "Global" },
-                { "name": "Server-4", "domain": "d.zuurstraat.com",   "desc": "Global", "memo": "9.4-2355" },
-                { "name": "Server-5", "domain": "e.zuurstraat.com",   "desc": "Global" },
-                { "name": "Server-6", "domain": "zuurstraat.com",      "desc": "Global(New)" },
+                { "name": "Server-1", "domain": "smeerebbe.com",      "desc": "Global", "memo": "9.5-737" },
+                { "name": "Server-2", "domain": "b.smeerebbe.com",      "desc": "Global" },
+                { "name": "Server-3", "domain": "c.smeerebbe.com",       "desc": "Global" },
+                { "name": "Server-4", "domain": "d.vloerzegem.com",   "desc": "Global(New)", "memo": "9.5-737" },
+                { "name": "Server-5", "domain": "e.vloerzegem.com",   "desc": "Global" },
+                { "name": "Server-6", "domain": "vloerzegem.com",      "desc": "Global" },
                 {}
             ],
             "servers": [
