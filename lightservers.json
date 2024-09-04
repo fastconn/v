@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "parochiaal.com", "memo": "9.4-1100" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.parochiaal.com", "memo": "9.4-1100" },
-                { "name": "Server-3", "desc": "Global", "domain": "cl.parochiaal.com", "memo": "9.4-1100"},
+                { "name": "Server-1", "desc": "Global", "domain": "lebekest.com", "memo": "9.4-1430" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.lebekest.com", "memo": "9.4-1430" },
+                { "name": "Server-3", "desc": "Global", "domain": "cl.lebekest.com", "memo": "9.4-1430"},
 
                 {"memo": "light"}
             ]
