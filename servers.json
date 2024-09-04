@@ -34,9 +34,9 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "ceafdecoa.com",      "desc": "Global(New)", "memo": "9.4-1100" },
-                { "name": "Server-2", "domain": "b.ceafdecoa.com",      "desc": "Global", "memo": "9.4-1100" },
-                { "name": "Server-3", "domain": "c.ceafdecoa.com",       "desc": "Global", "memo": "9.4-1100" },
+                { "name": "Server-1", "domain": "slettem.com.com",      "desc": "Global(New)", "memo": "9.4-1610" },
+                { "name": "Server-2", "domain": "b.slettem.com.com",      "desc": "Global", "memo": "9.4-1610" },
+                { "name": "Server-3", "domain": "c.slettem.com.com",       "desc": "Global", "memo": "9.4-1610" },
                 { "name": "Server-4", "domain": "d.nederhas.com",   "desc": "Global", "memo": "9.4-1430" },
                 { "name": "Server-5", "domain": "e.nederhas.com",   "desc": "Global", "memo": "9.4-1430" },
                 { "name": "Server-6", "domain": "nederhas.com",      "desc": "Global(New)", "memo": "9.4-1430" },
