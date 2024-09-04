@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "groenstry.com", "memo": "9.4-1800" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.groenstry.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.groenstry.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "aspelare.com", "memo": "9.4-2330" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.aspelare.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.aspelare.com"},
 
                 {"memo": "light"}
             ]
