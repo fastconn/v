@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "nieuwerk.com", "memo": "9.3-2340" },
-                { "name": "Server-2", "desc": "Global", "domain": "b.nieuwerk.com", "memo": "9.3-2340" },
-                { "name": "Server-3", "desc": "Global", "domain": "frituurt.com", "memo": "9.3-1440"},
+                { "name": "Server-1", "desc": "Global", "domain": "parochiaal.com", "memo": "9.4-1100" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.parochiaal.com", "memo": "9.4-1100" },
+                { "name": "Server-3", "desc": "Global", "domain": "cl.parochiaal.com", "memo": "9.4-1100"},
 
                 {"memo": "light"}
             ]

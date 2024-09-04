@@ -34,12 +34,12 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "vandesij.com",      "desc": "Global(New)", "memo": "9.3-2340" },
-                { "name": "Server-2", "domain": "b.vandesij.com",      "desc": "Global", "memo": "9.3-2340" },
-                { "name": "Server-3", "domain": "c.vandesij.com",       "desc": "Global", "memo": "9.3-2340" },
-                { "name": "Server-4", "domain": "d.hetvest.com",   "desc": "Global", "memo": "9.3-2340" },
-                { "name": "Server-5", "domain": "e.hetvest.com",   "desc": "Global", "memo": "9.3-2340" },
-                { "name": "Server-6", "domain": "hetvest.com",      "desc": "Global(New)", "memo": "9.3-1440" },
+                { "name": "Server-1", "domain": "ceafdecoa.com",      "desc": "Global(New)", "memo": "9.4-1100" },
+                { "name": "Server-2", "domain": "b.ceafdecoa.com",      "desc": "Global", "memo": "9.4-1100" },
+                { "name": "Server-3", "domain": "c.ceafdecoa.com",       "desc": "Global", "memo": "9.4-1100" },
+                { "name": "Server-4", "domain": "d.ceafdecoa.com",   "desc": "Global", "memo": "9.4-1100" },
+                { "name": "Server-5", "domain": "e.ceafdecoa.com",   "desc": "Global", "memo": "9.4-1100" },
+                { "name": "Server-6", "domain": "f.ceafdecoa.com",      "desc": "Global(New)", "memo": "9.4-1100" },
                 {}
             ],
             "servers": [
