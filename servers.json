@@ -34,9 +34,9 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "slettem.com",      "desc": "Global(New)", "memo": "9.4-1610" },
-                { "name": "Server-2", "domain": "b.slettem.com",      "desc": "Global" },
-                { "name": "Server-3", "domain": "c.slettem.com",       "desc": "Global" },
+                { "name": "Server-1", "domain": "nederhass.com",      "desc": "Global(New)", "memo": "9.4-1800" },
+                { "name": "Server-2", "domain": "b.nederhass.com",      "desc": "Global" },
+                { "name": "Server-3", "domain": "c.nederhass.com",       "desc": "Global" },
                 { "name": "Server-4", "domain": "d.paellepe.com",   "desc": "Global", "memo": "9.4-1800" },
                 { "name": "Server-5", "domain": "e.paellepe.com",   "desc": "Global" },
                 { "name": "Server-6", "domain": "paellepe.com",      "desc": "Global(New)" },
