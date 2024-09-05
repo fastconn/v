@@ -34,12 +34,12 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "smeerebbe.com",      "desc": "Global", "memo": "9.5-737" },
-                { "name": "Server-2", "domain": "b.smeerebbe.com",      "desc": "Global" },
-                { "name": "Server-3", "domain": "c.smeerebbe.com",       "desc": "Global" },
-                { "name": "Server-4", "domain": "d.vloerzegem.com",   "desc": "Global(New)", "memo": "9.5-737" },
-                { "name": "Server-5", "domain": "e.vloerzegem.com",   "desc": "Global" },
-                { "name": "Server-6", "domain": "vloerzegem.com",      "desc": "Global" },
+                { "name": "Server-1", "domain": "nrgysolu.com",      "desc": "Global", "memo": "9.5-1640" },
+                { "name": "Server-2", "domain": "b.nrgysolu.com",      "desc": "Global" },
+                { "name": "Server-3", "domain": "c.nrgysolu.com",       "desc": "Global" },
+                { "name": "Server-4", "domain": "d.flapuit.com",   "desc": "Global(New)", "memo": "9.5-1640" },
+                { "name": "Server-5", "domain": "e.flapuit.com",   "desc": "Global" },
+                { "name": "Server-6", "domain": "flapuit.com",      "desc": "Global" },
                 {}
             ],
             "servers": [
