@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "zandhove.com", "memo": "8.30" },
-                { "name": "Server-2", "desc": "Global", "domain": "b.astenweet.com", "memo": "825" },
-                { "name": "Server-3", "desc": "Global", "domain": "prinsenbee.com", "memo": "8.29" }
+                { "name": "Server-1", "desc": "Global", "domain": "meieriji.com", "memo": "9.6" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.meieriji.com" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.meieriji.com" }
             ],
             "ips": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.55",      "desc": "High speed", "on":"4.24,5.22" },
