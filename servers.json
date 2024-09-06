@@ -34,12 +34,12 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "dizzydancer.com",          "desc": "Global", "memo": "9.6-0200" },
-                { "name": "Server-2", "domain": "b.dizzydancer.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.dizzydancer.com",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.abdijvan.com",       "desc": "Global(New)", "memo": "" },
-                { "name": "Server-5", "domain": "e.abdijvan.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "abdijvan.com",         "desc": "Global" },
+                { "name": "Server-1", "domain": "hoogvarst.com",          "desc": "Global", "memo": "9.6-1800" },
+                { "name": "Server-2", "domain": "b.hoogvarst.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.hoogvarst.com",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.bamorek.com",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-5", "domain": "e.bamorek.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "bamorek.com",         "desc": "Global" },
                 {}
             ],
             "servers": [
