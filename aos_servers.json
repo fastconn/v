@@ -54,7 +54,11 @@
                 "s": [ 
                     { "pr": 4, "name": "Global-1", "i": "meieriji.com", "memo": "9.6" },
                     { "pr": 4, "name": "Global-2", "i": "an.meieriji.com" },
-                    { "pr": 4, "name": "Global-3", "i": "be.meieriji.com" }
+                    { "pr": 4, "name": "Global-3", "i": "be.meieriji.com" },
+                    
+                    { "pr": 4, "name": "Global-4", "i": "zandhove.com", "memo": "8.30" },
+                    { "pr": 4, "name": "Global-5", "i": "a.astenweet.com", "memo": "8.25" },
+                    { "pr": 4, "name": "Global-6", "i": "prinsenbee.com", "memo": "8.29" }  
                 ]
             }
         ],
