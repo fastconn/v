@@ -34,7 +34,7 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "dizzydancer.com",          "desc": "Global", "memo": "9.6-" },
+                { "name": "Server-1", "domain": "dizzydancer.com",          "desc": "Global", "memo": "9.6-0200" },
                 { "name": "Server-2", "domain": "b.dizzydancer.com",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.dizzydancer.com",        "desc": "Global" },
                 { "name": "Server-4", "domain": "d.abdijvan.com",       "desc": "Global(New)", "memo": "" },
