@@ -44,14 +44,14 @@
             ],
             "servers": [
                 { "cc": "fr", "city": "Paris",      "ip": "23.162.152.146",      "desc": "High speed",   "on": "3Gb-4.21,4.26，7.6,9.5" },
-                { "cc": "de", "city": "Frankfurt",  "ip": "23.157.88.20",       "desc": "High speed(New)",   "on":"5.8-5Gb, 35@5.22，73@7.6,9.6" },
+                { "cc": "de", "city": "Frankfurt",  "ip": "23.157.88.20",       "desc": "High speed",   "on":"5.8-5Gb, 35@5.22，73@7.6,9.6" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.129",       "desc": "High speed",   "on":"4.21-3Gb,7.18" },
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.47",       "desc": "High speed",   "on":"3Gb-4.5,5.22,9.5" },
                 { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.93",       "desc": "High speed",   "on":"2Gb-9.4,9.5" },
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.141",       "desc": "High speed",   "on": "5.26,6.8，6.11，6.17，7.9，7.15,7.18" },
                 { "cc": "us", "city": "Miami",   "ip": "38.91.107.158",       "desc": "High speed",   "on": "6.18，...，7.20,7.28,8.22" },
-                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.200",     "desc": "High speed(New)",   "on": "2Gb,9.6" },
-                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.122",     "desc": "High speed(New)",   "on": "2Gb,9.6" },
+                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.200",     "desc": "High speed",   "on": "2Gb,9.6" },
+                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.168",     "desc": "High speed(New)",   "on": "2Gb,9.6" },
                 { "cc": "gb", "city": "London",     "ip": "68.168.31.244",     "desc": "High speed(New)",   "on": "6.12,9.6" },
                 { "cc": "ca", "city": "Toronto",   "ip": "23.162.200.141",    "desc": "High speed",   "on": "7.11,7.11" },   
                 { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.171",    "desc": "High speed",   "on": "2.19,4.22,6.28" }    
