@@ -16,7 +16,9 @@
                 { "name": "Server-1", "desc": "Global", "domain": "broeckh.com", "memo": "9.6-1000" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.broeckh.com"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.broeckh.com"},
-
+                { "name": "Server-4", "desc": "Global", "domain": "zandhove.com", "memo": "9.6-1000" },
+                { "name": "Server-5", "desc": "Global", "domain": "b.astenweet.com"},
+                { "name": "Server-6", "desc": "Global", "domain": "prinsenbee.com"},
                 {"memo": "light"}
             ]
         }
