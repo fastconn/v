@@ -34,12 +34,12 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "jatarae.com",          "desc": "Global", "memo": "9.7-900" },
-                { "name": "Server-2", "domain": "b.jatarae.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.jatarae.com",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.kakawaha.com",       "desc": "Global(New)", "memo": "" },
-                { "name": "Server-5", "domain": "e.kakawaha.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "kakawaha.com",         "desc": "Global" },
+                { "name": "Server-1", "domain": "khitwans.com",          "desc": "Global", "memo": "9.7-2000" },
+                { "name": "Server-2", "domain": "b.khitwans.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.khitwans.com",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.sindwaha.com",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-5", "domain": "e.sindwaha.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "sindwaha.com",         "desc": "Global" },
                 {}
             ],
             "servers": [

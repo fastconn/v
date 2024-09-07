@@ -13,7 +13,7 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "prithvipu.com", "memo": "9.7-0100" },
+                { "name": "Server-1", "desc": "Global", "domain": "prithvipu.com", "memo": "9.7-2000" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.prithvipu.com"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.prithvipu.com"},
                 {"memo": "light"}
