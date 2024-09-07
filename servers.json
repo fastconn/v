@@ -40,7 +40,8 @@
                 { "name": "Server-4", "domain": "d.sindwaha.com",       "desc": "Global(New)", "memo": "" },
                 { "name": "Server-5", "domain": "e.sindwaha.com",       "desc": "Global" },
                 { "name": "Server-6", "domain": "sindwaha.com",         "desc": "Global" },
-                {}
+                 { "name": "Server-7", "domain": "meieriji.com",         "desc": "Global" },
+               {}
             ],
             "servers": [
                 { "cc": "fr", "city": "Paris",      "ip": "23.162.152.146",      "desc": "High speed",   "on": "3Gb-4.21,4.26，7.6,9.5" },
