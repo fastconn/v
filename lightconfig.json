@@ -7,7 +7,7 @@
 		"cnDeny": [0,0],
 		"forceVer": "1.3.3",
         "recVer": "1.3.6",
-    	"evNo": ["enterGg", "ping2", "pingCf", "admobUMP", "request"],
+    	"evNo": ["enterGg", "ping2", "pingCf", "admobUMP", "request", "asn"],
 		"testers": ["??FB182717-40B6-4542-A3E9-C55B87770208 14pro"],
 		"url": {},
 		"rateHrs": 72,
@@ -72,7 +72,7 @@
 			"native2": {
 				 "type": "native",
 				 "ids": [
-					{ "id": "ca-app-pub-3510970371831048/8281009458", "memo":"m905_1430" },
+					{ "id": "ca-app-pub-3510970371831048/9152703033", "memo":"m907_1515" },
 					{ "id": "ca-app-pub-3510970371831048/8814879420", "memo":"l830" }
 				 ]
 			 },
