@@ -34,12 +34,12 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "bhangarht.com",          "desc": "Global", "memo": "9.8-1700" },
-                { "name": "Server-2", "domain": "b.bhangarht.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.bhangarht.com",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.karondae.com",       "desc": "Global(New)", "memo": "" },
-                { "name": "Server-5", "domain": "e.karondae.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "karondae.com",         "desc": "Global" },
+                { "name": "Server-1", "domain": "badholi.com",          "desc": "Global", "memo": "9.9-0100" },
+                { "name": "Server-2", "domain": "b.badholi.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.badholi.com",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.gundheru.com",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-5", "domain": "e.gundheru.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "gundheru.com",         "desc": "Global" },
                {}
             ],
             "servers": [
