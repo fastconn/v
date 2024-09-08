@@ -34,12 +34,12 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "madwasa.com",          "desc": "Global", "memo": "9.8-830" },
-                { "name": "Server-2", "domain": "b.madwasa.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.madwasa.com",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.bamuriya.com",       "desc": "Global(New)", "memo": "" },
-                { "name": "Server-5", "domain": "e.bamuriya.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "bamuriya.com",         "desc": "Global" },
+                { "name": "Server-1", "domain": "bhangarht.com",          "desc": "Global", "memo": "9.8-1700" },
+                { "name": "Server-2", "domain": "b.bhangarht.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.bhangarht.com",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.karondae.com",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-5", "domain": "e.karondae.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "karondae.com",         "desc": "Global" },
                {}
             ],
             "servers": [
