@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "tallbehat.com", "memo": "9.7-2000" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.tallbehat.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.tallbehat.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "karaiyak.com", "memo": "9.8-830" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.karaiyak.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.karaiyak.com"},
                 {"memo": "light"}
             ]
         }
