@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "jugpura.com", "memo": "9.9-0100" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.jugpura.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.jugpura.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "sirchopi.com", "memo": "9.9-1000" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.sirchopi.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.sirchopi.com"},
                 {"memo": "light"}
             ]
         }
