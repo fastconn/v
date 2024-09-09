@@ -34,12 +34,12 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "matawali.com",          "desc": "Global", "memo": "9.9-1000" },
-                { "name": "Server-2", "domain": "b.matawali.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.matawali.com",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.khutiya.com",       "desc": "Global(New)", "memo": "" },
-                { "name": "Server-5", "domain": "e.khutiya.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "khutiya.com",         "desc": "Global" },
+                { "name": "Server-1", "domain": "nunawali.com",          "desc": "Global", "memo": "9.9-1700" },
+                { "name": "Server-2", "domain": "b.nunawali.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.nunawali.com",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.jakhalon.com",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-5", "domain": "e.jakhalon.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "jakhalon.com",         "desc": "Global" },
                {}
             ],
             "servers": [
