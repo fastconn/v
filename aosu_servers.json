@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "meieriji.com", "memo": "9.6" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.meieriji.com" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.meieriji.com" },
+                { "name": "Server-1", "desc": "Global", "domain": "emloelan.com", "memo": "9.11-0030" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.emloelan.com" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.emloelan.com" },
                 
                 { "name": "Server-4", "desc": "Global", "domain": "zandhove.com", "memo": "8.30" },
                 { "name": "Server-5", "desc": "Global", "domain": "b.astenweet.com", "memo": "825" },
