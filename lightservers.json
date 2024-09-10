@@ -13,7 +13,7 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "parooda.com", "memo": "9.9-1700" },
+                { "name": "Server-1", "desc": "Global", "domain": "parooda.com", "memo": "9.10-820" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.parooda.com"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.parooda.com"},
                 {"memo": "light"}
