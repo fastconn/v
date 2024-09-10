@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "parooda.com", "memo": "9.10-820" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.parooda.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.parooda.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "chandery.com", "memo": "9.10-900" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.chandery.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.chandery.com"},
                 {"memo": "light"}
             ]
         }
