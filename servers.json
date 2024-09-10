@@ -34,12 +34,12 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "masjidale.com",          "desc": "Global", "memo": "9.10-1630" },
-                { "name": "Server-2", "domain": "b.masjidale.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.masjidale.com",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.kelantand.com",       "desc": "Global(New)", "memo": "" },
-                { "name": "Server-5", "domain": "e.kelantand.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "kelantand.com",         "desc": "Global" },
+                { "name": "Server-1", "domain": "rantaudoe.com",          "desc": "Global", "memo": "9.11-0030" },
+                { "name": "Server-2", "domain": "b.rantaudoe.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.rantaudoe.com",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.lubukseb.com",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-5", "domain": "e.lubukseb.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "lubukseb.com",         "desc": "Global" },
                {}
             ],
             "servers": [

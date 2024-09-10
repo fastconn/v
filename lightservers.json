@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "serdangmer.com", "memo": "9.10-1630" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.serdangmer.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.serdangmer.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "embatiang.com", "memo": "9.11-0030" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.embatiang.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.embatiang.com"},
                 {"memo": "light"}
             ]
         }
