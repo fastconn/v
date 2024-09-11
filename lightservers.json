@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "popilnya.com", "memo": "9.11-1540" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.popilnya.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.popilnya.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "verkhivnya.com", "memo": "9.11-2010" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.verkhivnya.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.verkhivnya.com"},
                 {"memo": "light"}
             ]
         }

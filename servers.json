@@ -34,12 +34,12 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "pyatyhory.com",          "desc": "Global", "memo": "9.11-1540" },
-                { "name": "Server-2", "domain": "b.pyatyhory.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.pyatyhory.com",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.samhorodok.com",       "desc": "Global(New)", "memo": "" },
-                { "name": "Server-5", "domain": "e.samhorodok.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "samhorodok.com",         "desc": "Global" },
+                { "name": "Server-1", "domain": "khodorkiv.com",          "desc": "Global", "memo": "9.11-2010" },
+                { "name": "Server-2", "domain": "b.khodorkiv.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.khodorkiv.com",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.kornynko.com",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-5", "domain": "e.kornynko.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "kornynko.com",         "desc": "Global" },
                {}
             ],
             "servers": [
