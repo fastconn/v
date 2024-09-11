@@ -34,12 +34,12 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "rantaudoe.com",          "desc": "Global", "memo": "9.11-0030" },
-                { "name": "Server-2", "domain": "b.rantaudoe.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.rantaudoe.com",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.lubukseb.com",       "desc": "Global(New)", "memo": "" },
-                { "name": "Server-5", "domain": "e.lubukseb.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "lubukseb.com",         "desc": "Global" },
+                { "name": "Server-1", "domain": "gatwicks.com",          "desc": "Global", "memo": "9.11-0930" },
+                { "name": "Server-2", "domain": "b.gatwicks.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.gatwicks.com",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.horleyrd.com",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-5", "domain": "e.horleyrd.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "horleyrd.com",         "desc": "Global" },
                {}
             ],
             "servers": [
