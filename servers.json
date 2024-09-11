@@ -34,12 +34,12 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "malynmah.com",          "desc": "Global", "memo": "9.11-2320" },
-                { "name": "Server-2", "domain": "b.malynmah.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.malynmah.com",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.novipetriv.com",       "desc": "Global(New)", "memo": "" },
-                { "name": "Server-5", "domain": "e.novipetriv.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "novipetriv.com",         "desc": "Global" },
+                { "name": "Server-1", "domain": "rudkivka.com",          "desc": "Global", "memo": "9.12-200" },
+                { "name": "Server-2", "domain": "b.rudkivka.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.rudkivka.com",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.nosivkar.com",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-5", "domain": "e.nosivkar.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "nosivkar.com",         "desc": "Global" },
                {}
             ],
             "servers": [

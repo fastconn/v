@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "strakhol.com", "memo": "9.11-2320" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.strakhol.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.strakhol.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "lykhachiv.com", "memo": "9.12-200" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.lykhachiv.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.lykhachiv.com"},
                 {"memo": "light"}
             ]
         }
