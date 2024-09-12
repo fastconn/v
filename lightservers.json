@@ -13,9 +13,6 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "lykhachiv.com", "memo": "9.12-200" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.lykhachiv.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.lykhachiv.com"},
                 { "name": "Server-1", "desc": "Global", "domain": "pohreby.net", "memo": "9.12-920" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.pohreby.net"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.pohreby.net"},
