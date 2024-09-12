@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "malakara.net", "memo": "9.12-2340" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.malakara.net"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.malakara.net"},
+                { "name": "Server-1", "desc": "Global", "domain": "khreshchate.net", "memo": "9.13-210" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.khreshchate.net"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.khreshchate.net"},
                 {"memo": "light"}
             ]
         }

@@ -34,12 +34,12 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "nekhaiky.net",          "desc": "Global", "memo": "9.12-2340" },
-                { "name": "Server-2", "domain": "b.nekhaiky.net",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.nekhaiky.net",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.vypovzky.net",       "desc": "Global(New)", "memo": "" },
-                { "name": "Server-5", "domain": "e.vypovzky.net",       "desc": "Global" },
-                { "name": "Server-6", "domain": "vypovzky.net",         "desc": "Global" },               
+                { "name": "Server-1", "domain": "ushnyayu.net",          "desc": "Global", "memo": "9.13-210" },
+                { "name": "Server-2", "domain": "b.ushnyayu.net",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.ushnyayu.net",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.drimailiv.net",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-5", "domain": "e.drimailiv.net",       "desc": "Global" },
+                { "name": "Server-6", "domain": "drimailiv.net",         "desc": "Global" },               
                {}
             ],
             "servers": [
