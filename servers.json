@@ -40,6 +40,12 @@
                 { "name": "Server-4", "domain": "d.nosivkar.com",       "desc": "Global(New)", "memo": "" },
                 { "name": "Server-5", "domain": "e.nosivkar.com",       "desc": "Global" },
                 { "name": "Server-6", "domain": "nosivkar.com",         "desc": "Global" },
+                { "name": "Server-1", "domain": "novaolek.net",          "desc": "Global", "memo": "9.12-920" },
+                { "name": "Server-2", "domain": "b.novaolek.net",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.novaolek.net",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.shnyakivk.net",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-5", "domain": "e.shnyakivk.net",       "desc": "Global" },
+                { "name": "Server-6", "domain": "shnyakivk.net",         "desc": "Global" },               
                {}
             ],
             "servers": [
