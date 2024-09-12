@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "kobyzhcha.net", "memo": "9.12-1430" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.kobyzhcha.net" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.kobyzhcha.net" }
+                { "name": "Server-1", "desc": "Global", "domain": "andrushiv.com", "memo": "9.11-1815" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.andrushiv.com" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.andrushiv.com" }
             ],
             "ips": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.55",      "desc": "High speed", "on":"4.24,5.22" },
