@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "lekhnivka.net", "memo": "9.12-1500" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.lekhnivka.net"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.lekhnivka.net"},
+                { "name": "Server-1", "desc": "Global", "domain": "irzhavets.net", "memo": "9.12-1815" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.irzhavets.net"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.irzhavets.net"},
                 {"memo": "light"}
             ]
         }

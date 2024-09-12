@@ -34,12 +34,12 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "doslidne.net",          "desc": "Global", "memo": "9.12-1500" },
-                { "name": "Server-2", "domain": "b.doslidne.net",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.doslidne.net",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.halytsay.net",       "desc": "Global(New)", "memo": "" },
-                { "name": "Server-5", "domain": "e.halytsay.net",       "desc": "Global" },
-                { "name": "Server-6", "domain": "halytsay.net",         "desc": "Global" },               
+                { "name": "Server-1", "domain": "kuchakiv.net",          "desc": "Global", "memo": "9.12-1815" },
+                { "name": "Server-2", "domain": "b.kuchakiv.net",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.kuchakiv.net",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.oleksand.net",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-5", "domain": "e.oleksand.net",       "desc": "Global" },
+                { "name": "Server-6", "domain": "oleksand.net",         "desc": "Global" },               
                {}
             ],
             "servers": [
