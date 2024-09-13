@@ -9,7 +9,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 2,
+            "wsGroupSize": 3,
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
@@ -28,7 +28,10 @@
                 { "name": "Server-4", "desc": "Global", "domain": "bl.mekshuniv.net"},
                 { "name": "Server-5", "desc": "Global", "domain": "cl.mekshuniv.net"},
                 { "name": "Server-6", "desc": "Global", "domain": "mekshuniv.net", "memo": "9.13-1615" },
-                
+
+                { "name": "Server-4", "desc": "Global", "domain": "bl.litochky.net"},
+                { "name": "Server-5", "desc": "Global", "domain": "cl.litochky.net"},
+                { "name": "Server-6", "desc": "Global", "domain": "litochky.net", "memo": "9.13-1615" },                
                 {"memo": "light"}
             ]
         }
