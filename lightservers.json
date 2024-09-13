@@ -16,6 +16,11 @@
                 { "name": "Server-1", "desc": "Global", "domain": "adamivka.net", "memo": "9.13-1020" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.adamivka.net"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.adamivka.net"},
+
+                { "name": "Server-4", "desc": "Global", "domain": "bl.kupovate.net"},
+                { "name": "Server-5", "desc": "Global", "domain": "cl.kupovate.net"},
+                { "name": "Server-6", "desc": "Global", "domain": "kupovate.net", "memo": "9.13-1220" },
+                
                 {"memo": "light"}
             ]
         }

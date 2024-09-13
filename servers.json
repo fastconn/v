@@ -29,18 +29,26 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 1,
+            "wsGroupSize": 2,
             "wsNameAuto": true,
             "ws2": [
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "honchariv.net",          "desc": "Global", "memo": "9.13-1020" },
+                { "name": "Server-6", "domain": "sukholuch.net",         "desc": "Global" },           
                 { "name": "Server-2", "domain": "b.honchariv.net",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.honchariv.net",        "desc": "Global" },
                 { "name": "Server-4", "domain": "d.loknyste.net",       "desc": "Global(New)", "memo": "" },
                 { "name": "Server-5", "domain": "e.loknyste.net",       "desc": "Global" },
-                { "name": "Server-6", "domain": "loknyste.net",         "desc": "Global" },               
-               {}
+                { "name": "Server-6", "domain": "loknyste.net",         "desc": "Global" },   
+
+                { "name": "Server-1", "domain": "zhydynychi.net",          "desc": "Global", "memo": "9.13-1216" },
+                { "name": "Server-2", "domain": "b.zhydynychi.net",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.zhydynychi.net",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.sukholuch.net",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-5", "domain": "e.sukholuch.net",       "desc": "Global" },
+                
+                {}
             ],
             "servers": [
                 { "cc": "fr", "city": "Paris",      "ip": "23.162.152.146",      "desc": "High speed",   "on": "3Gb-4.21,4.26，7.6,9.5" },
