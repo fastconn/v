@@ -34,16 +34,16 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "honchariv.net",          "desc": "Global", "memo": "9.13-1020" },
+                { "name": "Server-1", "domain": "havryliv.net",          "desc": "Global", "memo": "9.13-1020" },
                 { "name": "Server-6", "domain": "sukholuch.net",         "desc": "Global" },    
                 { "name": "Server-5", "domain": "e.yasonohor.net",       "desc": "Global" },
                 { "name": "Server-2", "domain": "b.nadyniv.net",        "desc": "Global" },
 
-                { "name": "Server-2", "domain": "b.honchariv.net",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.honchariv.net",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.loknyste.net",       "desc": "Global(New)", "memo": "" },
-                { "name": "Server-5", "domain": "e.loknyste.net",       "desc": "Global" },
-                { "name": "Server-6", "domain": "loknyste.net",         "desc": "Global" },   
+                { "name": "Server-2", "domain": "b.havryliv.net",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.havryliv.net",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.fenevychi.net",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-5", "domain": "e.fenevychi.net",       "desc": "Global" },
+                { "name": "Server-6", "domain": "fenevychi.net",         "desc": "Global" },   
 
                 { "name": "Server-1", "domain": "zhydynychi.net",          "desc": "Global", "memo": "9.13-1216" },
                 { "name": "Server-2", "domain": "b.zhydynychi.net",        "desc": "Global" },
