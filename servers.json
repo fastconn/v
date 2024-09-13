@@ -94,8 +94,8 @@
             "image": "for_VIP",
             "ws3": [
                 { "name": "VIP-1", "domain": "velykado.net", "enableCf": true, "desc": "websocket", "on": "9.12" },
-                { "name": "VIP-2", "domain": "merkspla.com", "desc": "New", "on": "8.25" },
-                { "name": "VIP-3", "domain": "v.merkspla.com", "desc": "New", "on": "9.11" },
+                { "name": "VIP-2", "domain": "kulazhin.net.com", "desc": "New", "on": "9.13" },
+                { "name": "VIP-3", "domain": "v.kulazhin.net.com", "desc": "New", "on": "9.13" },
                 {}
             ], 
             "servers": [
