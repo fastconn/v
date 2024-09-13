@@ -21,8 +21,14 @@
                 { "name": "Server-5", "desc": "Global", "domain": "cl.kupovate.net"},
                 { "name": "Server-6", "desc": "Global", "domain": "kupovate.net", "memo": "9.13-1220" },
 
+                { "name": "Server-5", "desc": "Global", "domain": "bl.bulakhiv.net"},
                 { "name": "Server-5", "desc": "Global", "domain": "cl.bulakhiv.net"},
                 { "name": "Server-6", "desc": "Global", "domain": "bulakhiv.net", "memo": "9.13-1400" },                
+
+                { "name": "Server-4", "desc": "Global", "domain": "bl.mekshuniv.net"},
+                { "name": "Server-5", "desc": "Global", "domain": "cl.mekshuniv.net"},
+                { "name": "Server-6", "desc": "Global", "domain": "mekshuniv.net", "memo": "9.13-1615" },
+                
                 {"memo": "light"}
             ]
         }

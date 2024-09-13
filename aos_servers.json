@@ -54,7 +54,11 @@
                 "s": [ 
                     { "pr": 4, "name": "Global-1", "i": "rudnyap.net", "memo": "913-0820" },
                     { "pr": 4, "name": "Global-2", "i": "an.rudnyap.net" },
-                    { "pr": 4, "name": "Global-3", "i": "be.rudnyap.net" }
+                    { "pr": 4, "name": "Global-3", "i": "be.rudnyap.net" },
+                    
+                    { "pr": 4, "name": "Global-4", "i": "yevmynka.net", "memo": "913-1620" },
+                    { "pr": 4, "name": "Global-5", "i": "an.yevmynka.net" },
+                    { "pr": 4, "name": "Global-6", "i": "be.yevmynka.net" }
                 ]
             }
         ],

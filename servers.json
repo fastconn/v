@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 4,
+            "wsGroupSize": 5,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -64,6 +64,13 @@
                 { "name": "Server-5", "domain": "e.shestovy.net",       "desc": "Global" },
                 { "name": "Server-6", "domain": "shestovy.net",         "desc": "Global" },   
                 
+                { "name": "Server-1", "domain": "shevchen.net",          "desc": "Global", "memo": "9.13-1610" },
+                { "name": "Server-2", "domain": "b.shevchen.net",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.shevchen.net",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.nedanchy.net",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-5", "domain": "e.nedanchy.net",       "desc": "Global" },
+                { "name": "Server-6", "domain": "nedanchy.net",         "desc": "Global" },   
+
                 {}
             ],
             "servers": [
