@@ -6,9 +6,14 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "rudnyap.net", "memo": "9.13-0820" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.rudnyap.net" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.rudnyap.net" }
+                { "name": "Server-1", "desc": "Global", "domain": "yevmynka.net", "memo": "9.13-1810" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.yevmynka.net" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.yevmynka.net" },
+
+                { "name": "Server-4", "desc": "Global", "domain": "rudnyap.net", "memo": "9.13-0820" },
+                { "name": "Server-5", "desc": "Global", "domain": "an.rudnyap.net" },
+                { "name": "Server-6", "desc": "Global", "domain": "be.rudnyap.net" }
+
             ],
             "ips": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.55",      "desc": "High speed", "on":"4.24,5.22" },
