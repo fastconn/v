@@ -31,7 +31,7 @@
 
                 { "name": "Server-4", "desc": "Global", "domain": "bl.litochky.net"},
                 { "name": "Server-5", "desc": "Global", "domain": "cl.litochky.net"},
-                { "name": "Server-6", "desc": "Global", "domain": "litochky.net", "memo": "9.13-1615" },                
+                { "name": "Server-6", "desc": "Global", "domain": "litochky.net", "memo": "9.13-1815" },                
                 {"memo": "light"}
             ]
         }
