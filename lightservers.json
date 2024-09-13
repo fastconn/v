@@ -19,6 +19,9 @@
 
                 { "name": "Server-5", "desc": "Global", "domain": "cl.fedbymika.net"},
 
+                { "name": "Server-1", "desc": "Global", "domain": "lebedivka.net", "memo": "9.13-2240" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.lebedivka.net"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.lebedivka.net"},
 
                 { "name": "Server-4", "desc": "Global", "domain": "bl.kupovate.net"},
                 { "name": "Server-5", "desc": "Global", "domain": "cl.kupovate.net"},

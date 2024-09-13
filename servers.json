@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 6,
+            "wsGroupSize": 7,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -58,7 +58,9 @@
                 { "name": "Server-6", "domain": "yasonohor.net",         "desc": "Global" },      
       
                 { "name": "Server-4", "domain": "d.nedanchy.net",       "desc": "Global(New)", "memo": "" },
-             
+    
+                { "name": "Server-3", "domain": "c.hornsotaipil.net",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.zakaznyk.net",       "desc": "Global(New)", "memo": "" },           
                                 
                 { "name": "Server-1", "domain": "nadyniv.net",          "desc": "Global", "memo": "9.13-1400" },
                 { "name": "Server-3", "domain": "c.nadyniv.net",        "desc": "Global" },
@@ -80,6 +82,11 @@
                 { "name": "Server-4", "domain": "d.parkhymiv.net",       "desc": "Global(New)", "memo": "" },
                 { "name": "Server-6", "domain": "parkhymiv.net",         "desc": "Global" },   
 
+                { "name": "Server-1", "domain": "hornsotaipil.net",          "desc": "Global", "memo": "9.13-2240" },
+                { "name": "Server-2", "domain": "b.hornsotaipil.net",        "desc": "Global" },
+
+                { "name": "Server-5", "domain": "e.zakaznyk.net",       "desc": "Global" },
+                { "name": "Server-6", "domain": "zakaznyk.net",         "desc": "Global" },   
                 {}
             ],
             "servers": [
