@@ -17,6 +17,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.adamivka.net"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.adamivka.net"},
 
+                { "name": "Server-5", "desc": "Global", "domain": "cl.fedbymika.net"},
+
+
                 { "name": "Server-4", "desc": "Global", "domain": "bl.kupovate.net"},
                 { "name": "Server-5", "desc": "Global", "domain": "cl.kupovate.net"},
                 { "name": "Server-6", "desc": "Global", "domain": "kupovate.net", "memo": "9.13-1220" },
@@ -31,7 +34,10 @@
 
                 { "name": "Server-4", "desc": "Global", "domain": "bl.litochky.net"},
                 { "name": "Server-5", "desc": "Global", "domain": "cl.litochky.net"},
-                { "name": "Server-6", "desc": "Global", "domain": "litochky.net", "memo": "9.13-1815" },                
+                { "name": "Server-6", "desc": "Global", "domain": "litochky.net", "memo": "9.13-1815" },     
+
+                { "name": "Server-4", "desc": "Global", "domain": "bl.fedbymika.net"},
+                { "name": "Server-6", "desc": "Global", "domain": "fedbymika.net", "memo": "9.13-2050" },              
                 {"memo": "light"}
             ]
         }

@@ -56,20 +56,29 @@
                 { "name": "Server-3", "domain": "c.kraslyiv.net",        "desc": "Global" },
                 { "name": "Server-4", "domain": "d.yasonohor.net",       "desc": "Global(New)", "memo": "" },
                 { "name": "Server-6", "domain": "yasonohor.net",         "desc": "Global" },      
-                
+      
+                { "name": "Server-4", "domain": "d.nedanchy.net",       "desc": "Global(New)", "memo": "" },
+             
                                 
                 { "name": "Server-1", "domain": "nadyniv.net",          "desc": "Global", "memo": "9.13-1400" },
                 { "name": "Server-3", "domain": "c.nadyniv.net",        "desc": "Global" },
                 { "name": "Server-4", "domain": "d.shestovy.net",       "desc": "Global(New)", "memo": "" },
                 { "name": "Server-5", "domain": "e.shestovy.net",       "desc": "Global" },
                 { "name": "Server-6", "domain": "shestovy.net",         "desc": "Global" },   
-                
+                { "name": "Server-5", "domain": "e.parkhymiv.net",       "desc": "Global" },
+             
                 { "name": "Server-1", "domain": "shevchen.net",          "desc": "Global", "memo": "9.13-1610" },
                 { "name": "Server-2", "domain": "b.shevchen.net",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.shevchen.net",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.nedanchy.net",       "desc": "Global(New)", "memo": "" },
                 { "name": "Server-5", "domain": "e.nedanchy.net",       "desc": "Global" },
                 { "name": "Server-6", "domain": "nedanchy.net",         "desc": "Global" },   
+
+                             
+                { "name": "Server-1", "domain": "rundnya.net",          "desc": "Global", "memo": "9.13-2050" },
+                { "name": "Server-2", "domain": "b.rundnya.net",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.rundnya.net",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.parkhymiv.net",       "desc": "Global(New)", "memo": "" },
+                { "name": "Server-6", "domain": "parkhymiv.net",         "desc": "Global" },   
 
                 {}
             ],
