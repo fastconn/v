@@ -62,9 +62,9 @@
                 { "name": "Server-2", "domain": "b.rozaliv.net",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.rozaliv.net",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.shestovy.net",       "desc": "Global(New)" },
-                { "name": "Server-5", "domain": "e.shestovy.net",       "desc": "Global" },
-                { "name": "Server-6", "domain": "shestovy.net",         "desc": "Global" },   
+                { "name": "Server-4", "domain": "d.skuraty.us",       "desc": "Global(New)" },
+                { "name": "Server-5", "domain": "e.skuraty.us",       "desc": "Global" },
+                { "name": "Server-6", "domain": "skuraty.us",         "desc": "Global", "memo": "9.14-2100" },   
              
                 { "name": "Server-1", "domain": "tomashiv.net",          "desc": "Global", "memo": "9.14-1100" },
                 { "name": "Server-2", "domain": "b.tomashiv.net",        "desc": "Global" },
@@ -83,13 +83,13 @@
                 { "name": "Server-5", "domain": "e.irshansk.us",       "desc": "Global" },
                 { "name": "Server-6", "domain": "irshansk.us",         "desc": "Global", "memo": "9.14-1530" },   
 
-                { "name": "Server-1", "domain": "hornsotaipil.net",          "desc": "Global", "memo": "9.13-2240" },
-                { "name": "Server-2", "domain": "b.hornsotaipil.net",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.hornsotaipil.net",        "desc": "Global" },
+                { "name": "Server-1", "domain": "pershort.us",          "desc": "Global", "memo": "9.14-2100" },
+                { "name": "Server-2", "domain": "b.pershort.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.pershort.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.zakaznyk.net",       "desc": "Global(New)" },           
-                { "name": "Server-5", "domain": "e.zakaznyk.net",       "desc": "Global" },
-                { "name": "Server-6", "domain": "zakaznyk.net",         "desc": "Global" },   
+                { "name": "Server-4", "domain": "d.lystvyn.us",       "desc": "Global(New)" },           
+                { "name": "Server-5", "domain": "e.lystvyn.us",       "desc": "Global" },
+                { "name": "Server-6", "domain": "lystvyn.us",         "desc": "Global", "memo": "9.14-2100" },   
                 {}
             ],
             "servers": [
