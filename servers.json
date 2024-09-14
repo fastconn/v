@@ -36,7 +36,7 @@
             "ws3": [
                 { "name": "Server-1", "domain": "havryliv.net",          "desc": "Global", "memo": "9.13-1020" },
                 { "name": "Server-6", "domain": "tarasove.net",         "desc": "Global", "memo": "9.14-1100" },    
-                { "name": "Server-5", "domain": "e.yasonohor.net",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.zahaltsi.net",       "desc": "Global" },
                 { "name": "Server-2", "domain": "b.nadyniv.net",        "desc": "Global" },
 
                 { "name": "Server-2", "domain": "b.havryliv.net",        "desc": "Global" },
@@ -51,11 +51,11 @@
                 { "name": "Server-4", "domain": "d.tarasove.net",       "desc": "Global(New)" },
                 { "name": "Server-5", "domain": "e.tarasove.net",       "desc": "Global" },
                 
-                { "name": "Server-1", "domain": "kraslyiv.net",          "desc": "Global", "memo": "9.13-1400" },
-                { "name": "Server-2", "domain": "b.kraslyiv.net",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.kraslyiv.net",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.yasonohor.net",       "desc": "Global(New)" },
-                { "name": "Server-6", "domain": "yasonohor.net",         "desc": "Global" },      
+                { "name": "Server-1", "domain": "doslidnyts.net",          "desc": "Global", "memo": "9.14-1100" },
+                { "name": "Server-2", "domain": "b.doslidnyts.net",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.doslidnyts.net",        "desc": "Global" },
+                { "name": "Server-4", "domain": "d.zahaltsi.net",       "desc": "Global(New)" },
+                { "name": "Server-6", "domain": "zahaltsi.net",         "desc": "Global", "memo": "9.14-1100" },      
       
                 { "name": "Server-4", "domain": "d.vyshneve.net",       "desc": "Global(New)" },
     
