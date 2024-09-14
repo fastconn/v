@@ -39,9 +39,9 @@
                 { "name": "Server-6", "desc": "Global", "domain": "kholosne.us", "memo": "9.14-2200" },   
                 
                 
-                { "name": "Server-1", "desc": "Global", "domain": "slovechne.com", "memo": "9.14-1330" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.slovechne.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.slovechne.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "ivanovychi.us", "memo": "9.15-0115" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.ivanovychi.us"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.ivanovychi.us"},
 
                 {"memo": "light"}
             ]
