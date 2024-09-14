@@ -79,9 +79,9 @@
                 { "name": "Server-2", "domain": "b.bezrady.net",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.bezrady.net",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.horodets.lol",       "desc": "Global(New)" },
-                { "name": "Server-5", "domain": "e.horodets.lol",       "desc": "Global" },
-                { "name": "Server-6", "domain": "horodets.lol",         "desc": "Global", "memo": "9.14-1320" },   
+                { "name": "Server-4", "domain": "d.irshansk.us",       "desc": "Global(New)" },
+                { "name": "Server-5", "domain": "e.irshansk.us",       "desc": "Global" },
+                { "name": "Server-6", "domain": "irshansk.us",         "desc": "Global", "memo": "9.14-1530" },   
 
                 { "name": "Server-1", "domain": "hornsotaipil.net",          "desc": "Global", "memo": "9.13-2240" },
                 { "name": "Server-2", "domain": "b.hornsotaipil.net",        "desc": "Global" },
