@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "yevmynka.net", "memo": "9.13-1810" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.yevmynka.net" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.yevmynka.net" },
+                { "name": "Server-1", "desc": "Global", "domain": "vekopolov.net", "memo": "9.14-1130" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.vekopolov.net" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.vekopolov.net" },
 
                 { "name": "Server-4", "desc": "Global", "domain": "chernyakhiv.net", "memo": "9.14-1120" },
                 { "name": "Server-5", "desc": "Global", "domain": "an.chernyakhiv.net" },
