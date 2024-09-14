@@ -34,9 +34,9 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "syrnytsya.org",          "desc": "Global", "memo": "9.14-1230" },
-                { "name": "Server-2", "domain": "b.syrnytsya.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.syrnytsya.org",        "desc": "Global" },
+                { "name": "Server-1", "domain": "havryliv.net",          "desc": "Global", "memo": "9.13-1020" },
+                { "name": "Server-2", "domain": "b.havryliv.net",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.havryliv.net",        "desc": "Global" },
 
                 { "name": "Server-6", "domain": "kovanka.com",         "desc": "Global", "memo": "9.14-1230" },   
                 { "name": "Server-4", "domain": "d.kovanka.com",       "desc": "Global(New)" },
