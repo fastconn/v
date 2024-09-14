@@ -38,15 +38,15 @@
                 { "name": "Server-2", "domain": "b.syrnytsya.org",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.syrnytsya.org",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "kovanka.com",         "desc": "Global", "memo": "9.14-1230" },   
-                { "name": "Server-4", "domain": "d.kovanka.com",       "desc": "Global(New)" },
-                { "name": "Server-5", "domain": "e.kovanka.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "bilkaka.us",         "desc": "Global", "memo": "9.15-0100" },   
+                { "name": "Server-4", "domain": "d.bilkaka.us",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.bilkaka.us",       "desc": "Global" },
 
                 { "name": "Server-1", "domain": "kremne.us",          "desc": "Global", "memo": "9.14-2200" },
                 { "name": "Server-2", "domain": "b.kremne.us",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.kremne.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.usovebe.us",       "desc": "Global(New)", "memo": "9.15-0010" },
+                { "name": "Server-4", "domain": "d.usovebe.us",       "desc": "Global", "memo": "9.15-0010" },
                 { "name": "Server-5", "domain": "e.usovebe.us",       "desc": "Global" },
                 { "name": "Server-6", "domain": "usovebe.us",         "desc": "Global" },    
                 
@@ -54,7 +54,7 @@
                 { "name": "Server-2", "domain": "b.doslidnyts.net",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.doslidnyts.net",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.zahaltsi.net",       "desc": "Global(New)" },
+                { "name": "Server-4", "domain": "d.zahaltsi.net",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.zahaltsi.net",       "desc": "Global" },
                 { "name": "Server-6", "domain": "zahaltsi.net",         "desc": "Global", "memo": "9.14-1100" },      
                                 
@@ -62,7 +62,7 @@
                 { "name": "Server-2", "domain": "b.rozaliv.net",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.rozaliv.net",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.skuraty.us",       "desc": "Global(New)" },
+                { "name": "Server-4", "domain": "d.skuraty.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.skuraty.us",       "desc": "Global" },
                 { "name": "Server-6", "domain": "skuraty.us",         "desc": "Global", "memo": "9.14-2100" },   
              
@@ -70,7 +70,7 @@
                 { "name": "Server-2", "domain": "b.putylovy.us",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.putylovy.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.pulynohuta.us",       "desc": "Global(New)" },
+                { "name": "Server-4", "domain": "d.pulynohuta.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.pulynohuta.us",       "desc": "Global" },
                 { "name": "Server-6", "domain": "pulynohuta.us",         "desc": "Global", "memo": "9.15-0010" },   
 
@@ -79,7 +79,7 @@
                 { "name": "Server-2", "domain": "b.bezrady.net",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.bezrady.net",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.irshansk.us",       "desc": "Global(New)" },
+                { "name": "Server-4", "domain": "d.irshansk.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.irshansk.us",       "desc": "Global" },
                 { "name": "Server-6", "domain": "irshansk.us",         "desc": "Global", "memo": "9.14-1530" },   
 
@@ -87,7 +87,7 @@
                 { "name": "Server-2", "domain": "b.pershort.us",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.pershort.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.lystvyn.us",       "desc": "Global(New)" },           
+                { "name": "Server-4", "domain": "d.lystvyn.us",       "desc": "Global" },           
                 { "name": "Server-5", "domain": "e.lystvyn.us",       "desc": "Global" },
                 { "name": "Server-6", "domain": "lystvyn.us",         "desc": "Global", "memo": "9.14-2100" },   
                 {}
@@ -97,11 +97,11 @@
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.157.88.20",       "desc": "High speed",   "on":"5.8-5Gb, 35@5.22，73@7.6,9.6" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.129",       "desc": "High speed",   "on":"4.21-3Gb,7.18" },
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.47",       "desc": "High speed",   "on":"3Gb-4.5,5.22,9.5" },
-                { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.200",       "desc": "High speed(New)",   "on":"2Gb-9.4,9.8" },
+                { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.200",       "desc": "High speed",   "on":"2Gb-9.4,9.8" },
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.141",       "desc": "High speed",   "on": "5.26,6.8，6.11，6.17，7.9，7.15,7.18" },
                 { "cc": "us", "city": "Miami",   "ip": "38.91.107.158",       "desc": "High speed",   "on": "6.18，...，7.20,7.28,8.22" },
                 { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.93",     "desc": "High speed",   "on": "2Gb,9.6" },
-                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.27",     "desc": "High speed(New)",   "on": "2Gb,9.8" },
+                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.27",     "desc": "High speed",   "on": "2Gb,9.8" },
                 { "cc": "gb", "city": "London",     "ip": "68.168.31.244",     "desc": "High speed",   "on": "6.12,9.6" },
                 { "cc": "ca", "city": "Toronto",   "ip": "23.162.200.141",    "desc": "High speed",   "on": "7.11,7.11" },   
                 { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.171",    "desc": "High speed",   "on": "2.19,4.22,6.28" }    
