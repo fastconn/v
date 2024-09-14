@@ -35,12 +35,9 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "havryliv.net",          "desc": "Global", "memo": "9.13-1020" },
-                { "name": "Server-6", "domain": "tarasove.net",         "desc": "Global", "memo": "9.14-1100" },    
-                { "name": "Server-5", "domain": "e.zahaltsi.net",       "desc": "Global" },
-                { "name": "Server-2", "domain": "b.nadyniv.net",        "desc": "Global" },
-
                 { "name": "Server-2", "domain": "b.havryliv.net",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.havryliv.net",        "desc": "Global" },
+
                 { "name": "Server-4", "domain": "d.fenevychi.net",       "desc": "Global(New)" },
                 { "name": "Server-5", "domain": "e.fenevychi.net",       "desc": "Global" },
                 { "name": "Server-6", "domain": "fenevychi.net",         "desc": "Global" },   
@@ -48,30 +45,32 @@
                 { "name": "Server-1", "domain": "klavdije.net",          "desc": "Global", "memo": "9.14-11000" },
                 { "name": "Server-2", "domain": "b.klavdije.net",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.klavdije.net",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.tarasove.net",       "desc": "Global(New)" },
+
+                { "name": "Server-4", "domain": "d.tarasove.net",       "desc": "Global(New)", "memo": "9.14-1100" },
                 { "name": "Server-5", "domain": "e.tarasove.net",       "desc": "Global" },
+                { "name": "Server-6", "domain": "tarasove.net",         "desc": "Global" },    
                 
                 { "name": "Server-1", "domain": "doslidnyts.net",          "desc": "Global", "memo": "9.14-1100" },
                 { "name": "Server-2", "domain": "b.doslidnyts.net",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.doslidnyts.net",        "desc": "Global" },
+
                 { "name": "Server-4", "domain": "d.zahaltsi.net",       "desc": "Global(New)" },
+                { "name": "Server-5", "domain": "e.zahaltsi.net",       "desc": "Global" },
                 { "name": "Server-6", "domain": "zahaltsi.net",         "desc": "Global", "memo": "9.14-1100" },      
-      
-                { "name": "Server-4", "domain": "d.vyshneve.net",       "desc": "Global(New)" },
-    
-                { "name": "Server-3", "domain": "c.hornsotaipil.net",        "desc": "Global" },
-                { "name": "Server-4", "domain": "d.zakaznyk.net",       "desc": "Global(New)" },           
                                 
                 { "name": "Server-1", "domain": "nadyniv.net",          "desc": "Global", "memo": "9.13-1400" },
+                { "name": "Server-2", "domain": "b.nadyniv.net",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.nadyniv.net",        "desc": "Global" },
+
                 { "name": "Server-4", "domain": "d.shestovy.net",       "desc": "Global(New)" },
                 { "name": "Server-5", "domain": "e.shestovy.net",       "desc": "Global" },
                 { "name": "Server-6", "domain": "shestovy.net",         "desc": "Global" },   
-                { "name": "Server-5", "domain": "e.parkhymiv.net",       "desc": "Global" },
              
                 { "name": "Server-1", "domain": "tomashiv.net",          "desc": "Global", "memo": "9.14-1100" },
                 { "name": "Server-2", "domain": "b.tomashiv.net",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.tomashiv.net",        "desc": "Global" },
+
+                { "name": "Server-4", "domain": "d.vyshneve.net",       "desc": "Global(New)" },
                 { "name": "Server-5", "domain": "e.vyshneve.net",       "desc": "Global" },
                 { "name": "Server-6", "domain": "vyshneve.net",         "desc": "Global", "memo": "9.14-1100" },   
 
@@ -79,12 +78,16 @@
                 { "name": "Server-1", "domain": "rundnya.net",          "desc": "Global", "memo": "9.13-2050" },
                 { "name": "Server-2", "domain": "b.rundnya.net",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.rundnya.net",        "desc": "Global" },
+
                 { "name": "Server-4", "domain": "d.parkhymiv.net",       "desc": "Global(New)" },
+                { "name": "Server-5", "domain": "e.parkhymiv.net",       "desc": "Global" },
                 { "name": "Server-6", "domain": "parkhymiv.net",         "desc": "Global" },   
 
                 { "name": "Server-1", "domain": "hornsotaipil.net",          "desc": "Global", "memo": "9.13-2240" },
                 { "name": "Server-2", "domain": "b.hornsotaipil.net",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.hornsotaipil.net",        "desc": "Global" },
 
+                { "name": "Server-4", "domain": "d.zakaznyk.net",       "desc": "Global(New)" },           
                 { "name": "Server-5", "domain": "e.zakaznyk.net",       "desc": "Global" },
                 { "name": "Server-6", "domain": "zakaznyk.net",         "desc": "Global" },   
                 {}
