@@ -8,8 +8,8 @@
             "ws": [
                 { "name": "Server-1", "desc": "Global", "domain": "velykaya.us", "memo": "9.14-1610" },
                 
-                { "name": "Server-2", "desc": "Global", "domain": "vekopolov.net", "memo": "9.14-1130" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.vekopolov.net" },
+                { "name": "Server-2", "desc": "Global", "domain": "novakyho.us", "memo": "9.14-2200" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.novakyho.us" },
 
                 { "name": "Server-4", "desc": "Global", "domain": "chernyakhiv.net", "memo": "9.14-1120" },
                 { "name": "Server-5", "desc": "Global", "domain": "an.chernyakhiv.net" },
