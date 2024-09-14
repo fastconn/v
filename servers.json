@@ -46,9 +46,9 @@
                 { "name": "Server-2", "domain": "b.kremne.us",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.kremne.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.tarasove.net",       "desc": "Global(New)", "memo": "9.14-1100" },
-                { "name": "Server-5", "domain": "e.tarasove.net",       "desc": "Global" },
-                { "name": "Server-6", "domain": "tarasove.net",         "desc": "Global" },    
+                { "name": "Server-4", "domain": "d.usovebe.us",       "desc": "Global(New)", "memo": "9.15-0010" },
+                { "name": "Server-5", "domain": "e.usovebe.us",       "desc": "Global" },
+                { "name": "Server-6", "domain": "usovebe.us",         "desc": "Global" },    
                 
                 { "name": "Server-1", "domain": "doslidnyts.net",          "desc": "Global", "memo": "9.14-1100" },
                 { "name": "Server-2", "domain": "b.doslidnyts.net",        "desc": "Global" },
@@ -66,13 +66,13 @@
                 { "name": "Server-5", "domain": "e.skuraty.us",       "desc": "Global" },
                 { "name": "Server-6", "domain": "skuraty.us",         "desc": "Global", "memo": "9.14-2100" },   
              
-                { "name": "Server-1", "domain": "tomashiv.net",          "desc": "Global", "memo": "9.14-1100" },
-                { "name": "Server-2", "domain": "b.tomashiv.net",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.tomashiv.net",        "desc": "Global" },
+                { "name": "Server-1", "domain": "putylovy.us",          "desc": "Global", "memo": "9.15-0010" },
+                { "name": "Server-2", "domain": "b.putylovy.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.putylovy.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.vyshneve.net",       "desc": "Global(New)" },
-                { "name": "Server-5", "domain": "e.vyshneve.net",       "desc": "Global" },
-                { "name": "Server-6", "domain": "vyshneve.net",         "desc": "Global", "memo": "9.14-1100" },   
+                { "name": "Server-4", "domain": "d.pulynohuta.us",       "desc": "Global(New)" },
+                { "name": "Server-5", "domain": "e.pulynohuta.us",       "desc": "Global" },
+                { "name": "Server-6", "domain": "pulynohuta.us",         "desc": "Global", "memo": "9.15-0010" },   
 
                              
                 { "name": "Server-1", "domain": "bezrady.net",          "desc": "Global", "memo": "9.14-1115" },
