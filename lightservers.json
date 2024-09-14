@@ -26,21 +26,21 @@
                 { "name": "Server-5", "desc": "Global", "domain": "cl.pidhaine.net"},
                 { "name": "Server-6", "desc": "Global", "domain": "pidhaine.net", "memo": "9.14-1100" },
 
-                { "name": "Server-5", "desc": "Global", "domain": "bl.bulakhiv.net"},
-                { "name": "Server-5", "desc": "Global", "domain": "cl.bulakhiv.net"},
-                { "name": "Server-6", "desc": "Global", "domain": "bulakhiv.net", "memo": "9.13-1400" },                
+                { "name": "Server-5", "desc": "Global", "domain": "bl.myrivka.net"},
+                { "name": "Server-5", "desc": "Global", "domain": "cl.myrivka.net"},
+                { "name": "Server-6", "desc": "Global", "domain": "myrivka.net", "memo": "9.14-1120" },                
 
                 { "name": "Server-4", "desc": "Global", "domain": "bl.kozarovi.net"},
                 { "name": "Server-5", "desc": "Global", "domain": "cl.kozarovi.net"},
                 { "name": "Server-6", "desc": "Global", "domain": "kozarovi.net", "memo": "9.14-1100" },
 
-                { "name": "Server-4", "desc": "Global", "domain": "bl.litochky.net"},
-                { "name": "Server-5", "desc": "Global", "domain": "cl.litochky.net"},
-                { "name": "Server-6", "desc": "Global", "domain": "litochky.net", "memo": "9.13-1815" },     
+                { "name": "Server-4", "desc": "Global", "domain": "bl.veremya.net"},
+                { "name": "Server-5", "desc": "Global", "domain": "cl.veremya.net"},
+                { "name": "Server-6", "desc": "Global", "domain": "veremya.net", "memo": "9.14-1120" },     
 
-                { "name": "Server-4", "desc": "Global", "domain": "bl.fedbymika.net"},
-                { "name": "Server-5", "desc": "Global", "domain": "cl.fedbymika.net"},
-                { "name": "Server-6", "desc": "Global", "domain": "fedbymika.net", "memo": "9.13-2050" },              
+                { "name": "Server-4", "desc": "Global", "domain": "bl.pinchuky.net"},
+                { "name": "Server-5", "desc": "Global", "domain": "cl.pinchuky.net"},
+                { "name": "Server-6", "desc": "Global", "domain": "pinchuky.net", "memo": "9.14-1120" },              
                 {"memo": "light"}
             ]
         }
