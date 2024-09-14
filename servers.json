@@ -42,9 +42,9 @@
                 { "name": "Server-4", "domain": "d.kovanka.com",       "desc": "Global(New)" },
                 { "name": "Server-5", "domain": "e.kovanka.com",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "klavdije.net",          "desc": "Global", "memo": "9.14-11000" },
-                { "name": "Server-2", "domain": "b.klavdije.net",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.klavdije.net",        "desc": "Global" },
+                { "name": "Server-1", "domain": "kremne.us",          "desc": "Global", "memo": "9.14-2200" },
+                { "name": "Server-2", "domain": "b.kremne.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.kremne.us",        "desc": "Global" },
 
                 { "name": "Server-4", "domain": "d.tarasove.net",       "desc": "Global(New)", "memo": "9.14-1100" },
                 { "name": "Server-5", "domain": "e.tarasove.net",       "desc": "Global" },
