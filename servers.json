@@ -58,9 +58,9 @@
                 { "name": "Server-5", "domain": "e.mushini.us",       "desc": "Global" },
                 { "name": "Server-6", "domain": "mushini.us",         "desc": "Global", "memo": "9.15-1440" },      
                                 
-                { "name": "Server-1", "domain": "rozaliv.net",          "desc": "Global", "memo": "9.14-1115" },
-                { "name": "Server-2", "domain": "b.rozaliv.net",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.rozaliv.net",        "desc": "Global" },
+                { "name": "Server-1", "domain": "khochyne.us",          "desc": "Global", "memo": "9.15-1530" },
+                { "name": "Server-2", "domain": "b.khochyne.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.khochyne.us",        "desc": "Global" },
 
                 { "name": "Server-4", "domain": "d.skuraty.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.skuraty.us",       "desc": "Global" },
