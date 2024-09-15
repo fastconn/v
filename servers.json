@@ -58,17 +58,17 @@
                 { "name": "Server-5", "domain": "e.liaskavicy.us",       "desc": "Global" },
                 { "name": "Server-6", "domain": "liaskavicy.us",         "desc": "Global", "memo": "9.16-0100" },      
                                 
-                { "name": "Server-1", "domain": "khochyne.us",          "desc": "Global", "memo": "9.15-1530" },
-                { "name": "Server-2", "domain": "b.khochyne.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.khochyne.us",        "desc": "Global" },
+                { "name": "Server-1", "domain": "dzerzhin.us",          "desc": "Global", "memo": "9.16-0200" },
+                { "name": "Server-2", "domain": "b.dzerzhin.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.dzerzhin.us",        "desc": "Global" },
 
                 { "name": "Server-4", "domain": "d.skuraty.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.skuraty.us",       "desc": "Global" },
                 { "name": "Server-6", "domain": "skuraty.us",         "desc": "Global", "memo": "9.14-2100" },   
              
-                { "name": "Server-1", "domain": "putylovy.us",          "desc": "Global", "memo": "9.15-0010" },
-                { "name": "Server-2", "domain": "b.putylovy.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.putylovy.us",        "desc": "Global" },
+                { "name": "Server-1", "domain": "aziarany.us",          "desc": "Global", "memo": "9.16-0200" },
+                { "name": "Server-2", "domain": "b.aziarany.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.aziarany.us",        "desc": "Global" },
 
                 { "name": "Server-4", "domain": "d.malahlum.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.malahlum.us",       "desc": "Global" },
