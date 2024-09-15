@@ -34,9 +34,9 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "syrnytsya.org",          "desc": "Global", "memo": "9.14-1320" },
-                { "name": "Server-2", "domain": "b.syrnytsya.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.syrnytsya.org",        "desc": "Global" },
+                { "name": "Server-1", "domain": "radohosh.us",          "desc": "Global", "memo": "9.15-1130" },
+                { "name": "Server-2", "domain": "b.radohosh.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.radohosh.us",        "desc": "Global" },
 
                 { "name": "Server-6", "domain": "bilkaka.us",         "desc": "Global", "memo": "9.15-0100" },   
                 { "name": "Server-4", "domain": "d.bilkaka.us",       "desc": "Global" },
@@ -83,9 +83,9 @@
                 { "name": "Server-5", "domain": "e.irshansk.us",       "desc": "Global" },
                 { "name": "Server-6", "domain": "irshansk.us",         "desc": "Global", "memo": "9.14-1530" },   
 
-                { "name": "Server-1", "domain": "pershort.us",          "desc": "Global", "memo": "9.14-2100" },
-                { "name": "Server-2", "domain": "b.pershort.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.pershort.us",        "desc": "Global" },
+                { "name": "Server-1", "domain": "torchyn.us",          "desc": "Global", "memo": "9.15-1135" },
+                { "name": "Server-2", "domain": "b.torchyn.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.torchyn.us",        "desc": "Global" },
 
                 { "name": "Server-4", "domain": "d.lystvyn.us",       "desc": "Global" },           
                 { "name": "Server-5", "domain": "e.lystvyn.us",       "desc": "Global" },
