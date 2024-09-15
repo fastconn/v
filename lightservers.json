@@ -26,9 +26,9 @@
                 { "name": "Server-5", "desc": "Global", "domain": "cl.myrivka.net"},
                 { "name": "Server-6", "desc": "Global", "domain": "myrivka.net", "memo": "9.14-1120" },                
 
-                { "name": "Server-4", "desc": "Global", "domain": "bl.kozarovi.net"},
-                { "name": "Server-5", "desc": "Global", "domain": "cl.kozarovi.net"},
-                { "name": "Server-6", "desc": "Global", "domain": "kozarovi.net", "memo": "9.14-1100" },
+                { "name": "Server-4", "desc": "Global", "domain": "bl.budkykam.us"},
+                { "name": "Server-5", "desc": "Global", "domain": "cl.budkykam.us"},
+                { "name": "Server-6", "desc": "Global", "domain": "budkykam.us", "memo": "9.15-1450" },
 
                 { "name": "Server-4", "desc": "Global", "domain": "bl.veremya.net"},
                 { "name": "Server-5", "desc": "Global", "domain": "cl.veremya.net"},
