@@ -42,17 +42,17 @@
                 { "name": "Server-4", "domain": "d.bilkaka.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.bilkaka.us",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "poznana.us",          "desc": "Global", "memo": "9.15-1440" },
-                { "name": "Server-2", "domain": "b.poznana.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.poznana.us",        "desc": "Global" },
+                { "name": "Server-1", "domain": "sudibor.us",          "desc": "Global", "memo": "9.16-0115" },
+                { "name": "Server-2", "domain": "b.sudibor.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.sudibor.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.kamyanyi.us",       "desc": "Global", "memo": "9.15-1240" },
-                { "name": "Server-5", "domain": "e.kamyanyi.us",       "desc": "Global" },
-                { "name": "Server-6", "domain": "kamyanyi.us",         "desc": "Global" },    
+                { "name": "Server-4", "domain": "d.snyadin.us",       "desc": "Global", "memo": "9.16-0115" },
+                { "name": "Server-5", "domain": "e.snyadin.us",       "desc": "Global" },
+                { "name": "Server-6", "domain": "snyadin.us",         "desc": "Global" },    
                 
-                { "name": "Server-1", "domain": "glushkovi.us",          "desc": "Global", "memo": "9.15-1500" },
-                { "name": "Server-2", "domain": "b.glushkovi.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.glushkovi.us",        "desc": "Global" },
+                { "name": "Server-1", "domain": "pietryk.us",          "desc": "Global", "memo": "9.16-0115" },
+                { "name": "Server-2", "domain": "b.pietryk.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.pietryk.us",        "desc": "Global" },
 
                 { "name": "Server-4", "domain": "d.liaskavicy.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.liaskavicy.us",       "desc": "Global" },
