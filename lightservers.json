@@ -14,17 +14,17 @@
             "ws2": [ ],
             "ws3": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "povch.us", "memo": "9.14-2200" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.povch.us"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.povch.us"},
+                { "name": "Server-1", "desc": "Global", "domain": "mikashev.us", "memo": "9.16-0145" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.mikashev.us"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.mikashev.us"},
 
                 { "name": "Server-4", "desc": "Global", "domain": "bl.pidhaine.net"},
                 { "name": "Server-5", "desc": "Global", "domain": "cl.pidhaine.net"},
                 { "name": "Server-6", "desc": "Global", "domain": "pidhaine.net", "memo": "9.14-1100" },
 
-                { "name": "Server-5", "desc": "Global", "domain": "bl.myrivka.net"},
-                { "name": "Server-5", "desc": "Global", "domain": "cl.myrivka.net"},
-                { "name": "Server-6", "desc": "Global", "domain": "myrivka.net", "memo": "9.14-1120" },                
+                { "name": "Server-5", "desc": "Global", "domain": "bl.vilcha.us"},
+                { "name": "Server-5", "desc": "Global", "domain": "cl.vilcha.us"},
+                { "name": "Server-6", "desc": "Global", "domain": "vilcha.us", "memo": "9.16-0145" },                
 
                 { "name": "Server-4", "desc": "Global", "domain": "bl.budkykam.us"},
                 { "name": "Server-5", "desc": "Global", "domain": "cl.budkykam.us"},
@@ -34,14 +34,14 @@
                 { "name": "Server-5", "desc": "Global", "domain": "cl.kamyyanka.us"},
                 { "name": "Server-6", "desc": "Global", "domain": "kamyyanka.us", "memo": "9.15-1800" },     
 
-                { "name": "Server-4", "desc": "Global", "domain": "bl.kholosne.us"},
-                { "name": "Server-5", "desc": "Global", "domain": "cl.kholosne.us"},
-                { "name": "Server-6", "desc": "Global", "domain": "kholosne.us", "memo": "9.14-2200" },   
+                { "name": "Server-4", "desc": "Global", "domain": "bl.lagvoshchi.us"},
+                { "name": "Server-5", "desc": "Global", "domain": "cl.lagvoshchi.us"},
+                { "name": "Server-6", "desc": "Global", "domain": "lagvoshchi.us", "memo": "9.16-0145" },   
                 
                 
-                { "name": "Server-1", "desc": "Global", "domain": "ivanovychi.us", "memo": "9.15-0115" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.ivanovychi.us"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.ivanovychi.us"},
+                { "name": "Server-1", "desc": "Global", "domain": "zaprose.us", "memo": "9.16-0145" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.zaprose.us"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.zaprose.us"},
 
                 {"memo": "light"}
             ]

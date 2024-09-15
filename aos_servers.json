@@ -54,12 +54,12 @@
                 "s": [ 
                     { "pr": 4, "name": "Global-1", "i": "velykaya.us", "memo": "914-1610" },
 
-                    { "pr": 4, "name": "Global-2", "i": "zhurzhev.us", "memo": "915-1800" },
-                    { "pr": 4, "name": "Global-3", "i": "be.zhurzhev.us" },
+                    { "pr": 4, "name": "Global-2", "i": "yurkevi.us", "memo": "916-0150" },
+                    { "pr": 4, "name": "Global-3", "i": "be.yurkevi.us" },
 
-                    { "pr": 4, "name": "Global-4", "i": "zhurzhev.us", "memo": "915-1530" },
-                    { "pr": 4, "name": "Global-5", "i": "an.zhurzhev.us" },
-                    { "pr": 4, "name": "Global-6", "i": "be.zhurzhev.us" }
+                    { "pr": 4, "name": "Global-4", "i": "zytavicy.us", "memo": "916-0150" },
+                    { "pr": 4, "name": "Global-5", "i": "an.zytavicy.us" },
+                    { "pr": 4, "name": "Global-6", "i": "be.zytavicy.us" }
                 ]
             }
         ],

@@ -8,13 +8,13 @@
             "ws": [
                 { "name": "Server-1", "desc": "Global", "domain": "velykaya.us", "memo": "9.14-1610" },
 
-                { "name": "Server-2", "desc": "Global", "domain": "zhurzhev.us", "memo": "9.15-1530" },
-                { "name": "Server-3", "desc": "Global", "domain": "an.zhurzhev.us" },
-                { "name": "Server-4", "desc": "Global", "domain": "be.zhurzhev.us" },
+                { "name": "Server-2", "desc": "Global", "domain": "yurkevi.us", "memo": "9.16-0150" },
+                { "name": "Server-3", "desc": "Global", "domain": "an.yurkevi.us" },
+                { "name": "Server-4", "desc": "Global", "domain": "be.yurkevi.us" },
                 
-                { "name": "Server-5", "desc": "Global", "domain": "biloviah.us", "memo": "9.15-1800" },
-                { "name": "Server-6", "desc": "Global", "domain": "an.biloviah.us" },
-                { "name": "Server-7", "desc": "Global", "domain": "be.biloviah.us" }
+                { "name": "Server-5", "desc": "Global", "domain": "zytavicy.us", "memo": "9.16-0145" },
+                { "name": "Server-6", "desc": "Global", "domain": "an.zytavicy.us" },
+                { "name": "Server-7", "desc": "Global", "domain": "be.zytavicy.us" }
 
             ],
             "ips": [
