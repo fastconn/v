@@ -34,9 +34,9 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "radohosh.us",          "desc": "Global", "memo": "9.15-1130" },
-                { "name": "Server-2", "domain": "b.radohosh.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.radohosh.us",        "desc": "Global" },
+                { "name": "Server-1", "domain": "chervona.us",          "desc": "Global", "memo": "9.16-0100" },
+                { "name": "Server-2", "domain": "b.chervona.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.chervona.us",        "desc": "Global" },
 
                 { "name": "Server-6", "domain": "bilkaka.us",         "desc": "Global", "memo": "9.15-0100" },   
                 { "name": "Server-4", "domain": "d.bilkaka.us",       "desc": "Global" },
