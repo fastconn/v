@@ -70,9 +70,9 @@
                 { "name": "Server-2", "domain": "b.putylovy.us",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.putylovy.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.pulynohuta.us",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.pulynohuta.us",       "desc": "Global" },
-                { "name": "Server-6", "domain": "pulynohuta.us",         "desc": "Global", "memo": "9.15-0010" },   
+                { "name": "Server-4", "domain": "d.malahlum.us",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.malahlum.us",       "desc": "Global" },
+                { "name": "Server-6", "domain": "malahlum.us",         "desc": "Global", "memo": "9.15-1800" },   
 
                              
                 { "name": "Server-1", "domain": "bilovizh.us",          "desc": "Global", "memo": "9.15-1445" },
