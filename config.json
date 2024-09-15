@@ -45,7 +45,7 @@
             "offAdOrder": "in"
         },
         "run3": {
-            "MainOpen": "mainOpen_d614",
+            "MainOpen": "mainOpen",
             "Connected2": "conn",
             "DidConFull": "anyInter",
             "WillDisFull": "anyInter",
