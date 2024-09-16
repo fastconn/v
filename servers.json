@@ -43,9 +43,9 @@
                 { "name": "Server-5", "domain": "e.snyadin.us",       "desc": "Global" },
                 { "name": "Server-6", "domain": "snyadin.us",         "desc": "Global" },    
                 
-                { "name": "Server-1", "domain": "pietryk.us",          "desc": "Global", "memo": "9.16-0115" },
-                { "name": "Server-2", "domain": "b.pietryk.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.pietryk.us",        "desc": "Global" },
+                { "name": "Server-1", "domain": "pribolov.us",          "desc": "Global", "memo": "9.16-1115" },
+                { "name": "Server-2", "domain": "b.pribolov.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.pribolov.us",        "desc": "Global" },
 
                 { "name": "Server-4", "domain": "d.liaskavicy.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.liaskavicy.us",       "desc": "Global" },
@@ -72,9 +72,9 @@
                 { "name": "Server-2", "domain": "b.halubica.us",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.halubica.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.irshansk.us",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.irshansk.us",       "desc": "Global" },
-                { "name": "Server-6", "domain": "irshansk.us",         "desc": "Global", "memo": "9.14-1530" },
+                { "name": "Server-4", "domain": "d.tserabli.us",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.tserabli.us",       "desc": "Global" },
+                { "name": "Server-6", "domain": "tserabli.us",         "desc": "Global", "memo": "9.16-1118" },
                 {}
             ],
             "servers": [
