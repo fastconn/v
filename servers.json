@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 5,
+            "wsGroupSize": 6,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -67,7 +67,6 @@
                 { "name": "Server-5", "domain": "e.simonichi.us",       "desc": "Global" },
                 { "name": "Server-6", "domain": "simonichi.us",         "desc": "Global", "memo": "9.16-1150" },   
 
-                             
                 { "name": "Server-1", "domain": "halubica.us",          "desc": "Global", "memo": "9.16-0105" },
                 { "name": "Server-2", "domain": "b.halubica.us",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.halubica.us",        "desc": "Global" },
@@ -75,6 +74,14 @@
                 { "name": "Server-4", "domain": "d.tserabli.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.tserabli.us",       "desc": "Global" },
                 { "name": "Server-6", "domain": "tserabli.us",         "desc": "Global", "memo": "9.16-1118" },
+                             
+                { "name": "Server-1", "domain": "liusino.us",          "desc": "Global", "memo": "9.16-1430" },
+                { "name": "Server-2", "domain": "b.liusino.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.liusino.us",        "desc": "Global" },
+
+                { "name": "Server-6", "domain": "vyalikiya.us",         "desc": "Global", "memo": "9.16-1430" },
+                { "name": "Server-4", "domain": "d.vyalikiya.us",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.vyalikiya.us",       "desc": "Global" },
                 {}
             ],
             "servers": [
