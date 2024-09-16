@@ -34,10 +34,13 @@
                 { "name": "Server-2", "desc": "Global", "domain": "cl.lagvoshchi.us"},
                 { "name": "Server-3", "desc": "Global", "domain": "lagvoshchi.us", "memo": "9.16-0145" },   
                 
-                
                 { "name": "Server-1", "desc": "Global", "domain": "zaprose.us", "memo": "9.16-0145" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.zaprose.us"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.zaprose.us"},
+                
+                { "name": "Server-1", "desc": "Global", "domain": "bostyn.us", "memo": "9.16-1736" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.bostyn.us"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.bostyn.us"},
 
                 {"memo": "light"}
             ]
