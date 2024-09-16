@@ -63,9 +63,9 @@
                 { "name": "Server-2", "domain": "b.aziarany.us",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.aziarany.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.malahlum.us",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.malahlum.us",       "desc": "Global" },
-                { "name": "Server-6", "domain": "malahlum.us",         "desc": "Global", "memo": "9.15-1800" },   
+                { "name": "Server-4", "domain": "d.simonichi.us",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.simonichi.us",       "desc": "Global" },
+                { "name": "Server-6", "domain": "simonichi.us",         "desc": "Global", "memo": "9.16-1150" },   
 
                              
                 { "name": "Server-1", "domain": "halubica.us",          "desc": "Global", "memo": "9.16-0105" },
