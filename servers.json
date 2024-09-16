@@ -35,9 +35,9 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "sudibor.us",          "desc": "Global", "memo": "9.16-0115" },
-                { "name": "Server-2", "domain": "b.sudibor.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.sudibor.us",        "desc": "Global" },
+                { "name": "Server-1", "domain": "liushcha.us",          "desc": "Global", "memo": "9.16-1620" },
+                { "name": "Server-2", "domain": "b.liushcha.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.liushcha.us",        "desc": "Global" },
 
                 { "name": "Server-4", "domain": "d.snyadin.us",       "desc": "Global", "memo": "9.16-0115" },
                 { "name": "Server-5", "domain": "e.snyadin.us",       "desc": "Global" },
@@ -82,6 +82,14 @@
                 { "name": "Server-6", "domain": "vyalikiya.us",         "desc": "Global", "memo": "9.16-1430" },
                 { "name": "Server-4", "domain": "d.vyalikiya.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.vyalikiya.us",       "desc": "Global" },
+                             
+                { "name": "Server-1", "domain": "novoselki.us",          "desc": "Global", "memo": "9.16-1620" },
+                { "name": "Server-2", "domain": "b.novoselki.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.novoselki.us",        "desc": "Global" },
+
+                { "name": "Server-6", "domain": "malkovi.us",         "desc": "Global", "memo": "9.16-1620" },
+                { "name": "Server-4", "domain": "d.malkovi.us",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.malkovi.us",       "desc": "Global" },
                 {}
             ],
             "servers": [
