@@ -29,18 +29,11 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 7,
+            "wsGroupSize": 5,
             "wsNameAuto": true,
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "chervona.us",          "desc": "Global", "memo": "9.16-0100" },
-                { "name": "Server-2", "domain": "b.chervona.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.chervona.us",        "desc": "Global" },
-
-                { "name": "Server-6", "domain": "bilkaka.us",         "desc": "Global", "memo": "9.15-0100" },   
-                { "name": "Server-4", "domain": "d.bilkaka.us",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.bilkaka.us",       "desc": "Global" },
 
                 { "name": "Server-1", "domain": "sudibor.us",          "desc": "Global", "memo": "9.16-0115" },
                 { "name": "Server-2", "domain": "b.sudibor.us",        "desc": "Global" },
@@ -81,15 +74,7 @@
 
                 { "name": "Server-4", "domain": "d.irshansk.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.irshansk.us",       "desc": "Global" },
-                { "name": "Server-6", "domain": "irshansk.us",         "desc": "Global", "memo": "9.14-1530" },   
-
-                { "name": "Server-1", "domain": "torchyn.us",          "desc": "Global", "memo": "9.15-1135" },
-                { "name": "Server-2", "domain": "b.torchyn.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.torchyn.us",        "desc": "Global" },
-
-                { "name": "Server-4", "domain": "d.malayacha.us",       "desc": "Global" },           
-                { "name": "Server-5", "domain": "e.malayacha.us",       "desc": "Global" },
-                { "name": "Server-6", "domain": "malayacha.us",         "desc": "Global", "memo": "9.15-1240" },   
+                { "name": "Server-6", "domain": "irshansk.us",         "desc": "Global", "memo": "9.14-1530" },
                 {}
             ],
             "servers": [
