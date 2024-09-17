@@ -26,9 +26,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "cl.slobodak.us"},
                 { "name": "Server-3", "desc": "Global", "domain": "slobodak.us", "memo": "9.16-1115" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.kamyyanka.us"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.kamyyanka.us"},
-                { "name": "Server-3", "desc": "Global", "domain": "kamyyanka.us", "memo": "9.15-1800" },     
+                { "name": "Server-1", "desc": "Global", "domain": "bl.mezhlese.us"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.mezhlese.us"},
+                { "name": "Server-3", "desc": "Global", "domain": "mezhlese.us", "memo": "9.17-1620" },     
 
                 { "name": "Server-1", "desc": "Global", "domain": "bl.lagvoshchi.us"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.lagvoshchi.us"},
@@ -38,9 +38,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.zaprose.us"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.zaprose.us"},
                 
-                { "name": "Server-1", "desc": "Global", "domain": "bostyn.us", "memo": "9.16-1736" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.bostyn.us"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.bostyn.us"},
+                { "name": "Server-1", "desc": "Global", "domain": "perebrody.us", "memo": "9.17-1620" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.perebrody.us"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.perebrody.us"},
 
                 {"memo": "light"}
             ]
