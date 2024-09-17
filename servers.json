@@ -79,17 +79,17 @@
                 { "name": "Server-2", "domain": "b.tesnacha.us",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.tesnacha.us",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "vyalikiya.us",         "desc": "Global", "memo": "9.16-1430" },
-                { "name": "Server-4", "domain": "d.vyalikiya.us",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.vyalikiya.us",       "desc": "Global" },
+                { "name": "Server-6", "domain": "pavlinovo.us",         "desc": "Global", "memo": "9.18-0110" },
+                { "name": "Server-4", "domain": "d.pavlinovo.us",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.pavlinovo.us",       "desc": "Global" },
                              
                 { "name": "Server-1", "domain": "novoselki.us",          "desc": "Global", "memo": "9.16-1620" },
                 { "name": "Server-2", "domain": "b.novoselki.us",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.novoselki.us",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "malkovi.us",         "desc": "Global", "memo": "9.16-1620" },
-                { "name": "Server-4", "domain": "d.malkovi.us",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.malkovi.us",       "desc": "Global" },
+                { "name": "Server-6", "domain": "tartaki.us",         "desc": "Global", "memo": "9.18-0110" },
+                { "name": "Server-4", "domain": "d.tartaki.us",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.tartaki.us",       "desc": "Global" },
                 {}
             ],
             "servers": [
