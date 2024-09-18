@@ -41,15 +41,18 @@
 
                 { "name": "Server-4", "domain": "d.redigero.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.redigero.us",       "desc": "Global" },
-                { "name": "Server-6", "domain": "redigero.us",         "desc": "Global", "memo": "9.17-1620" },      
-                                
-                { "name": "Server-1", "domain": "porazava.us",          "desc": "Global", "memo": "9.18-1722" },
-                { "name": "Server-2", "domain": "b.porazava.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.porazava.us",        "desc": "Global" },
+                { "name": "Server-6", "domain": "redigero.us",         "desc": "Global", "memo": "9.17-1620" },   
+                
+                
+                             
+                { "name": "Server-1", "domain": "derechins.us",          "desc": "Global", "memo": "9.18-1300" },
+                { "name": "Server-2", "domain": "b.derechins.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.derechins.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.pavlovo.us",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.pavlovo.us",       "desc": "Global" },
-                { "name": "Server-6", "domain": "pavlovo.us",         "desc": "Global", "memo": "9.18-1400" },   
+                { "name": "Server-6", "domain": "bolshie.us",         "desc": "Global", "memo": "9.18-1300" },
+                { "name": "Server-4", "domain": "d.bolshie.us",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.bolshie.us",       "desc": "Global" },
+                                
              
                 { "name": "Server-1", "domain": "milevichi.us",          "desc": "Global", "memo": "9.18-1300" },
                 { "name": "Server-2", "domain": "b.milevichi.us",        "desc": "Global" },
@@ -74,14 +77,14 @@
                 { "name": "Server-6", "domain": "pavlinovo.us",         "desc": "Global", "memo": "9.18-0110" },
                 { "name": "Server-4", "domain": "d.pavlinovo.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.pavlinovo.us",       "desc": "Global" },
-                             
-                { "name": "Server-1", "domain": "derechins.us",          "desc": "Global", "memo": "9.18-1300" },
-                { "name": "Server-2", "domain": "b.derechins.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.derechins.us",        "desc": "Global" },
+                
+                { "name": "Server-1", "domain": "porazava.us",          "desc": "Global", "memo": "9.18-1722" },
+                { "name": "Server-2", "domain": "b.porazava.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.porazava.us",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "bolshie.us",         "desc": "Global", "memo": "9.18-1300" },
-                { "name": "Server-4", "domain": "d.bolshie.us",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.bolshie.us",       "desc": "Global" },
+                { "name": "Server-4", "domain": "d.pavlovo.us",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.pavlovo.us",       "desc": "Global" },
+                { "name": "Server-6", "domain": "pavlovo.us",         "desc": "Global", "memo": "9.18-1400" },   
                              
                 { "name": "Server-1", "domain": "matveevt.us",          "desc": "Global", "memo": "9.18-1720" },
                 { "name": "Server-2", "domain": "b.matveevt.us",        "desc": "Global" },
