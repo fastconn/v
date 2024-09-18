@@ -18,9 +18,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.mikashev.us"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.mikashev.us"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.kostrovichi.us"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.kostrovichi.us"},
-                { "name": "Server-3", "desc": "Global", "domain": "kostrovichi.us", "memo": "9.18-1300" },                
+                { "name": "Server-1", "desc": "Global", "domain": "bl.gornostae.us"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.gornostae.us"},
+                { "name": "Server-3", "desc": "Global", "domain": "gornostae.us", "memo": "9.18-2150" },                
 
                 { "name": "Server-1", "desc": "Global", "domain": "bl.strubnitsa.us"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.strubnitsa.us"},
