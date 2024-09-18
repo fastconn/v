@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 6,
+            "wsGroupSize": 7,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -82,6 +82,14 @@
                 { "name": "Server-6", "domain": "bolshie.us",         "desc": "Global", "memo": "9.18-1300" },
                 { "name": "Server-4", "domain": "d.bolshie.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.bolshie.us",       "desc": "Global" },
+                             
+                { "name": "Server-1", "domain": "matveevt.us",          "desc": "Global", "memo": "9.18-1720" },
+                { "name": "Server-2", "domain": "b.matveevt.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.matveevt.us",        "desc": "Global" },
+
+                { "name": "Server-6", "domain": "izabielin.us",         "desc": "Global", "memo": "9.18-1720" },
+                { "name": "Server-4", "domain": "d.izabielin.us",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.izabielin.us",       "desc": "Global" },
                 {}
             ],
             "servers": [
