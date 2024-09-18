@@ -43,9 +43,9 @@
                 { "name": "Server-5", "domain": "e.redigero.us",       "desc": "Global" },
                 { "name": "Server-6", "domain": "redigero.us",         "desc": "Global", "memo": "9.17-1620" },      
                                 
-                { "name": "Server-1", "domain": "gavrisyl.us",          "desc": "Global", "memo": "9.17-1620" },
-                { "name": "Server-2", "domain": "b.gavrisyl.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.gavrisyl.us",        "desc": "Global" },
+                { "name": "Server-1", "domain": "porazava.us",          "desc": "Global", "memo": "9.18-1722" },
+                { "name": "Server-2", "domain": "b.porazava.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.porazava.us",        "desc": "Global" },
 
                 { "name": "Server-4", "domain": "d.pavlovo.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.pavlovo.us",       "desc": "Global" },
