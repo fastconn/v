@@ -29,23 +29,15 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 7,
+            "wsGroupSize": 6,
             "wsNameAuto": true,
             "ws2": [
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "liushcha.us",          "desc": "Global", "memo": "9.16-1620" },
-                { "name": "Server-2", "domain": "b.liushcha.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.liushcha.us",        "desc": "Global" },
-
-                { "name": "Server-4", "domain": "d.dzyat.us",       "desc": "Global", "memo": "9.16-2240" },
-                { "name": "Server-5", "domain": "e.dzyat.us",       "desc": "Global" },
-                { "name": "Server-6", "domain": "dzyat.us",         "desc": "Global" },    
-                
-                { "name": "Server-1", "domain": "luninets.us",          "desc": "Global", "memo": "9.16-1115" },
-                { "name": "Server-2", "domain": "b.luninets.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.luninets.us",        "desc": "Global" },
+                { "name": "Server-1", "domain": "yamichno.cloud",          "desc": "Global", "memo": "9.18-1200" },
+                { "name": "Server-2", "domain": "b.yamichno.cloud",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.yamichno.cloud",        "desc": "Global" },
 
                 { "name": "Server-4", "domain": "d.redigero.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.redigero.us",       "desc": "Global" },
@@ -63,9 +55,9 @@
                 { "name": "Server-2", "domain": "b.yazvinki.us",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.yazvinki.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.veluta.us",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.veluta.us",       "desc": "Global" },
-                { "name": "Server-6", "domain": "veluta.us",         "desc": "Global", "memo": "9.17-1620" },   
+                { "name": "Server-4", "domain": "d.pavlinovo.cfd",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.pavlinovo.cfd",       "desc": "Global" },
+                { "name": "Server-6", "domain": "pavlinovo.cfd",         "desc": "Global", "memo": "9.18-1200" },   
 
                 { "name": "Server-1", "domain": "halubica.us",          "desc": "Global", "memo": "9.16-0105" },
                 { "name": "Server-2", "domain": "b.halubica.us",        "desc": "Global" },
