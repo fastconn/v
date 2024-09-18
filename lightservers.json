@@ -22,17 +22,17 @@
                 { "name": "Server-2", "desc": "Global", "domain": "cl.kostrovichi.us"},
                 { "name": "Server-3", "desc": "Global", "domain": "kostrovichi.us", "memo": "9.18-1300" },                
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.slobodak.us"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.slobodak.us"},
-                { "name": "Server-3", "desc": "Global", "domain": "slobodak.us", "memo": "9.16-1115" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.strubnitsa.us"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.strubnitsa.us"},
+                { "name": "Server-3", "desc": "Global", "domain": "strubnitsa.us", "memo": "9.18-1400" },
 
                 { "name": "Server-1", "desc": "Global", "domain": "bl.staraya.us"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.staraya.us"},
                 { "name": "Server-3", "desc": "Global", "domain": "staraya.us", "memo": "9.18-1300" },     
                 
-                { "name": "Server-1", "desc": "Global", "domain": "zaprose.us", "memo": "9.16-0145" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.zaprose.us"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.zaprose.us"},
+                { "name": "Server-1", "desc": "Global", "domain": "mochulino.us", "memo": "9.18-1400" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.mochulino.us"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.mochulino.us"},
                 
                 { "name": "Server-1", "desc": "Global", "domain": "kazlous.us", "memo": "9.18-1300" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.kazlous.us"},
