@@ -37,6 +37,10 @@
                 { "name": "Server-1", "desc": "Global", "domain": "kazlous.us", "memo": "9.18-1300" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.kazlous.us"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.kazlous.us"},
+                
+                { "name": "Server-1", "desc": "Global", "domain": "mstibovo.us", "memo": "9.18-2140" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.mstibovo.us"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.mstibovo.us"},
 
                 {"memo": "light"}
             ]
