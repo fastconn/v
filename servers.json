@@ -63,9 +63,9 @@
                 { "name": "Server-2", "domain": "b.plebanov.us",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.plebanov.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.brodnitsa.us",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.brodnitsa.us",       "desc": "Global" },
-                { "name": "Server-6", "domain": "brodnitsa.us",         "desc": "Global", "memo": "9.16-2240" },
+                { "name": "Server-4", "domain": "d.khatkov.us",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.khatkov.us",       "desc": "Global" },
+                { "name": "Server-6", "domain": "khatkov.us",         "desc": "Global", "memo": "9.18-1450" },
                              
                 { "name": "Server-1", "domain": "tesnacha.us",          "desc": "Global", "memo": "9.17-1620" },
                 { "name": "Server-2", "domain": "b.tesnacha.us",        "desc": "Global" },
