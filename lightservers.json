@@ -30,9 +30,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "cl.bicokoe.pro"},
                 { "name": "Server-3", "desc": "Global", "domain": "bicokoe.pro", "memo": "9.19-1405" },   
                 
-                { "name": "Server-1", "desc": "Global", "domain": "kalino.pro", "memo": "9.19-1250" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.kalino.pro"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.kalino.pro"},
+                { "name": "Server-1", "desc": "Global", "domain": "olkhova.homes", "memo": "9.19-1645" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.olkhova.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.olkhova.homes"},
 
                 {"memo": "light"}
             ]
