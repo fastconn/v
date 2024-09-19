@@ -51,14 +51,6 @@
                 { "name": "Server-5", "domain": "e.sadovoe.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "sadovoe.homes",         "desc": "Global", "memo": "9.19-1645" },   
 
-                { "name": "Server-1", "domain": "biala.vip",          "desc": "Global", "memo": "9.19-1200" },
-                { "name": "Server-2", "domain": "b.biala.vip",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.biala.vip",        "desc": "Global" }, 
-
-                { "name": "Server-4", "domain": "d.cichy.vip",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.cichy.vip",       "desc": "Global" },
-                { "name": "Server-6", "domain": "cichy.vip",         "desc": "Global", "memo": "9.19-1200" },   
-
                 { "name": "Server-1", "domain": "bartosze.vip",          "desc": "Global", "memo": "9.19-1400" },
                 { "name": "Server-2", "domain": "b.bartosze.vip",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.bartosze.vip",        "desc": "Global" }, 
@@ -74,6 +66,15 @@
                 { "name": "Server-4", "domain": "d.rudzis.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.rudzis.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "rudzis.homes",         "desc": "Global", "memo": "9.19-1900" },  
+
+
+                { "name": "Server-1", "domain": "slavyan.homes",          "desc": "Global", "memo": "9.19-2115" },
+                { "name": "Server-2", "domain": "b.slavyan.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.slavyan.homes",        "desc": "Global" }, 
+
+                { "name": "Server-4", "domain": "d.marshal.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.marshal.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "marshal.homes",         "desc": "Global", "memo": "9.19-2115" },   
                 
                 {}
             ],

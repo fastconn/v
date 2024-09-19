@@ -17,10 +17,6 @@
                 { "name": "Server-1", "desc": "Global", "domain": "chruscie.vip", "memo": "9.19-1400" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.chruscie.vip"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.chruscie.vip"},             
-
-                { "name": "Server-1", "desc": "Global", "domain": "bl.wizajny.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.wizajny.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "wizajny.homes", "memo": "9.19-1300" },
                 
                 { "name": "Server-1", "desc": "Global", "domain": "zalivn.homes", "memo": "9.19-1900" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.zalivn.homes"},
@@ -33,6 +29,10 @@
                 { "name": "Server-1", "desc": "Global", "domain": "olkhova.homes", "memo": "9.19-1645" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.olkhova.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.olkhova.homes"},
+
+                { "name": "Server-1", "desc": "Global", "domain": "bl.polessk.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.polessk.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "polessk.homes", "memo": "9.19-2115" },
 
                 {"memo": "light"}
             ]
