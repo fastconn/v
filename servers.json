@@ -35,13 +35,13 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "yamichno.cloud",          "desc": "Global", "memo": "9.18-1200" },
-                { "name": "Server-2", "domain": "b.yamichno.cloud",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.yamichno.cloud",        "desc": "Global" },
+                { "name": "Server-1", "domain": "kvasovka.us",          "desc": "Global", "memo": "9.19-1020" },
+                { "name": "Server-2", "domain": "b.kvasovka.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.kvasovka.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.redigero.us",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.redigero.us",       "desc": "Global" },
-                { "name": "Server-6", "domain": "redigero.us",         "desc": "Global", "memo": "9.17-1620" },   
+                { "name": "Server-4", "domain": "d.indura.cfd",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.indura.cfd",       "desc": "Global" },
+                { "name": "Server-6", "domain": "indura.cfd",         "desc": "Global", "memo": "9.19-1020" },   
                 
                 
                              
@@ -77,7 +77,7 @@
                 { "name": "Server-6", "domain": "pavlinovo.us",         "desc": "Global", "memo": "9.18-0110" },
                 { "name": "Server-4", "domain": "d.pavlinovo.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.pavlinovo.us",       "desc": "Global" },
-                
+
                 { "name": "Server-1", "domain": "porazava.us",          "desc": "Global", "memo": "9.18-1722" },
                 { "name": "Server-2", "domain": "b.porazava.us",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.porazava.us",        "desc": "Global" },
