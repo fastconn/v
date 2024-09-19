@@ -14,9 +14,9 @@
             "ws2": [ ],
             "ws3": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "chruscie.vip", "memo": "9.19-1400" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.chruscie.vip"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.chruscie.vip"},             
+                { "name": "Server-1", "desc": "Global", "domain": "chekhovo.homes", "memo": "9.19-2350" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.chekhovo.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.chekhovo.homes"},             
                 
                 { "name": "Server-1", "desc": "Global", "domain": "zalivn.homes", "memo": "9.19-1900" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.zalivn.homes"},

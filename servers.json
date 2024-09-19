@@ -35,9 +35,9 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "olecko.homes",          "desc": "Global", "memo": "9.19-1350" },
-                { "name": "Server-2", "domain": "b.olecko.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.olecko.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "deiskoe.homes",          "desc": "Global", "memo": "9.19-2350" },
+                { "name": "Server-2", "domain": "b.deiskoe.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.deiskoe.homes",        "desc": "Global" },
 
                 { "name": "Server-4", "domain": "d.mayahov.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.mayahov.homes",       "desc": "Global" },
