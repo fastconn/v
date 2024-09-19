@@ -58,9 +58,9 @@
                 { "name": "Server-2", "domain": "b.milevichi.us",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.milevichi.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.pavlinovo.cfd",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.pavlinovo.cfd",       "desc": "Global" },
-                { "name": "Server-6", "domain": "pavlinovo.cfd",         "desc": "Global", "memo": "9.18-1200" },   
+                { "name": "Server-4", "domain": "d.vialikjia.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.vialikjia.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "vialikjia.homes",         "desc": "Global", "memo": "9.19-1020" },   
 
                 { "name": "Server-1", "domain": "plebanov.us",          "desc": "Global", "memo": "9.18-1400" },
                 { "name": "Server-2", "domain": "b.plebanov.us",        "desc": "Global" },
