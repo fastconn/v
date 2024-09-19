@@ -55,9 +55,9 @@
                 { "name": "Server-2", "domain": "b.bartosze.vip",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.bartosze.vip",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.oracze.vip",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.oracze.vip",       "desc": "Global" },
-                { "name": "Server-6", "domain": "oracze.vip",         "desc": "Global", "memo": "9.19-1400" },      
+                { "name": "Server-4", "domain": "d.tishino.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.tishino.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "tishino.homes",         "desc": "Global", "memo": "9.19-2350" },      
 
                 { "name": "Server-1", "domain": "novostroe.homes",          "desc": "Global", "memo": "9.19-1900" },
                 { "name": "Server-2", "domain": "b.novostroe.homes",        "desc": "Global" },
