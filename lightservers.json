@@ -14,13 +14,13 @@
             "ws2": [ ],
             "ws3": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "lunno.homes", "memo": "9.19-1110" },
+                { "name": "Server-1", "desc": "Global", "domain": "lunno.homes", "memo": "9.19-1102" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.lunno.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.lunno.homes"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.glyadovich.cfd"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.glyadovich.cfd"},
-                { "name": "Server-3", "desc": "Global", "domain": "glyadovich.cfd", "memo": "9.19-1110" },                
+                { "name": "Server-1", "desc": "Global", "domain": "bl.gornostae.us"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.gornostae.us"},
+                { "name": "Server-3", "desc": "Global", "domain": "gornostae.us", "memo": "9.18-2150" },                
 
                 { "name": "Server-1", "desc": "Global", "domain": "bl.strubnitsa.us"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.strubnitsa.us"},
