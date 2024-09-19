@@ -39,9 +39,9 @@
                 { "name": "Server-2", "domain": "b.kvasovka.us",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.kvasovka.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.vialikjia.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.vialikjia.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "vialikjia.homes",         "desc": "Global", "memo": "9.19-1020" },  
+                { "name": "Server-4", "domain": "d.klajpeda.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.klajpeda.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "klajpeda.homes",         "desc": "Global", "memo": "9.19-1310" },  
 
                 { "name": "Server-1", "domain": "dubeninki.vip",          "desc": "Global", "memo": "9.19-1200" },
                 { "name": "Server-2", "domain": "b.dubeninki.vip",        "desc": "Global" },
