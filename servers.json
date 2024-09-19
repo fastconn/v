@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 3,
+            "wsGroupSize": 4,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -58,7 +58,14 @@
                 { "name": "Server-4", "domain": "d.cichy.vip",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.cichy.vip",       "desc": "Global" },
                 { "name": "Server-6", "domain": "cichy.vip",         "desc": "Global", "memo": "9.19-1200" },   
-   
+
+                { "name": "Server-1", "domain": "bartosze.vip",          "desc": "Global", "memo": "9.19-1400" },
+                { "name": "Server-2", "domain": "b.bartosze.vip",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.bartosze.vip",        "desc": "Global" }, 
+
+                { "name": "Server-4", "domain": "d.oracze.vip",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.oracze.vip",       "desc": "Global" },
+                { "name": "Server-6", "domain": "oracze.vip",         "desc": "Global", "memo": "9.19-1200" },      
                 {}
             ],
             "servers": [
@@ -80,7 +87,7 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "velykado.net", "enableCf": true, "desc": "websocket", "on": "9.12" },
+                { "name": "VIP-1", "domain": "straduny.vip", "enableCf": true, "desc": "websocket", "on": "9.19-1400" },
                 { "name": "VIP-2", "domain": "mazury.homes", "desc": "New", "on": "9.19-1300" },
                 { "name": "VIP-3", "domain": "v.mazury.homes", "desc": "New", "on": "9.13" },
                 {}

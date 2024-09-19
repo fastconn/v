@@ -14,9 +14,9 @@
             "ws2": [ ],
             "ws3": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "lunno.homes", "memo": "9.19-1102" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.lunno.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.lunno.homes"},             
+                { "name": "Server-1", "desc": "Global", "domain": "chruscie.vip", "memo": "9.19-1400" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.chruscie.vip"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.chruscie.vip"},             
 
                 { "name": "Server-1", "desc": "Global", "domain": "bl.wizajny.homes"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.wizajny.homes"},
