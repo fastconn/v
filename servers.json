@@ -47,9 +47,9 @@
                 { "name": "Server-2", "domain": "b.dubeninki.vip",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.dubeninki.vip",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.rostek.vip",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.rostek.vip",       "desc": "Global" },
-                { "name": "Server-6", "domain": "rostek.vip",         "desc": "Global", "memo": "9.19-1120" },   
+                { "name": "Server-4", "domain": "d.vysokoe.pro",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.vysokoe.pro",       "desc": "Global" },
+                { "name": "Server-6", "domain": "vysokoe.pro",         "desc": "Global", "memo": "9.19-1405" },   
 
                 { "name": "Server-1", "domain": "biala.vip",          "desc": "Global", "memo": "9.19-1200" },
                 { "name": "Server-2", "domain": "b.biala.vip",        "desc": "Global" },
