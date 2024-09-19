@@ -35,9 +35,9 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "kvasovka.us",          "desc": "Global", "memo": "9.19-1020" },
-                { "name": "Server-2", "domain": "b.kvasovka.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.kvasovka.us",        "desc": "Global" },
+                { "name": "Server-1", "domain": "olecko.homes",          "desc": "Global", "memo": "9.19-1350" },
+                { "name": "Server-2", "domain": "b.olecko.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.olecko.homes",        "desc": "Global" },
 
                 { "name": "Server-4", "domain": "d.klajpeda.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.klajpeda.homes",       "desc": "Global" },
