@@ -54,13 +54,13 @@
                 "s": [ 
                     { "pr": 4, "name": "Global-1", "i": "velykaya.us", "memo": "914-1610" },
 
-                    { "pr": 4, "name": "Global-2", "i": "zytkiej.homes", "memo": "919-1210" },
-                    { "pr": 4, "name": "Global-3", "i": "an.zytkiej.homes" },
-                    { "pr": 4, "name": "Global-4", "i": "be.zytkiej.homes" },
+                    { "pr": 4, "name": "Global-2", "i": "zelenoe.homes", "memo": "919-2210" },
+                    { "pr": 4, "name": "Global-3", "i": "an.zelenoe.homes" },
 
-                    { "pr": 4, "name": "Global-5", "i": "zajdy.vip", "memo": "919-1200" },
-                    { "pr": 4, "name": "Global-6", "i": "an.zajdy.vip" },
-                    { "pr": 4, "name": "Global-7", "i": "be.zajdy.vip" }
+                    { "pr": 4, "name": "Global-4", "i": "zajdy.vip", "memo": "919-1200" },
+                    { "pr": 4, "name": "Global-5", "i": "an.zajdy.vip" },
+
+                    { "pr": 4, "name": "Global-6", "i": "be.zelenoe.homes" }
                 ]
             }
         ],
