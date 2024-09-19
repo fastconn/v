@@ -18,9 +18,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.lunno.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.lunno.homes"},             
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.strubnitsa.us"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.strubnitsa.us"},
-                { "name": "Server-3", "desc": "Global", "domain": "strubnitsa.us", "memo": "9.18-1400" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.wizajny.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.wizajny.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "wizajny.homes", "memo": "9.19-1300" },
                 
                 { "name": "Server-1", "desc": "Global", "domain": "stanczyki.vip", "memo": "9.19-1200" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.stanczyki.vip"},
