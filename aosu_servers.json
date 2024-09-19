@@ -12,9 +12,9 @@
                 { "name": "Server-3", "desc": "Global", "domain": "an.vaukavysk.us" },
                 { "name": "Server-4", "desc": "Global", "domain": "be.vaukavysk.us" },
                 
-                { "name": "Server-5", "desc": "Global", "domain": "rupeiki.us", "memo": "9.18-1630" },
-                { "name": "Server-6", "desc": "Global", "domain": "an.rupeiki.us" },
-                { "name": "Server-7", "desc": "Global", "domain": "be.rupeiki.us" }
+                { "name": "Server-5", "desc": "Global", "domain": "zajdy.vip", "memo": "9.19-1200" },
+                { "name": "Server-6", "desc": "Global", "domain": "an.zajdy.vip" },
+                { "name": "Server-7", "desc": "Global", "domain": "be.zajdy.vip" }
 
             ],
             "ips": [

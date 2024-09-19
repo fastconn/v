@@ -22,9 +22,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "cl.strubnitsa.us"},
                 { "name": "Server-3", "desc": "Global", "domain": "strubnitsa.us", "memo": "9.18-1400" },
                 
-                { "name": "Server-1", "desc": "Global", "domain": "mstibovo.us", "memo": "9.18-2140" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.mstibovo.us"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.mstibovo.us"},
+                { "name": "Server-1", "desc": "Global", "domain": "stanczyki.vip", "memo": "9.19-1200" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.stanczyki.vip"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.stanczyki.vip"},
 
                 { "name": "Server-1", "desc": "Global", "domain": "bl.pieknet.vip"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.pieknet.vip"},

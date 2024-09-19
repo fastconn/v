@@ -43,13 +43,22 @@
                 { "name": "Server-5", "domain": "e.vialikjia.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "vialikjia.homes",         "desc": "Global", "memo": "9.19-1020" },  
 
-                { "name": "Server-1", "domain": "milevichi.us",          "desc": "Global", "memo": "9.18-1300" },
-                { "name": "Server-2", "domain": "b.milevichi.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.milevichi.us",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "dubeninki.vip",          "desc": "Global", "memo": "9.19-1200" },
+                { "name": "Server-2", "domain": "b.dubeninki.vip",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.dubeninki.vip",        "desc": "Global" }, 
 
                 { "name": "Server-4", "domain": "d.rostek.vip",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.rostek.vip",       "desc": "Global" },
                 { "name": "Server-6", "domain": "rostek.vip",         "desc": "Global", "memo": "9.19-1120" },   
+
+                { "name": "Server-1", "domain": "biala.vip",          "desc": "Global", "memo": "9.19-1200" },
+                { "name": "Server-2", "domain": "b.biala.vip",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.biala.vip",        "desc": "Global" }, 
+
+                { "name": "Server-4", "domain": "d.cichy.vip",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.cichy.vip",       "desc": "Global" },
+                { "name": "Server-6", "domain": "cichy.vip",         "desc": "Global", "memo": "9.19-1200" },   
+   
                 {}
             ],
             "servers": [
