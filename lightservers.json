@@ -22,13 +22,13 @@
                 { "name": "Server-2", "desc": "Global", "domain": "cl.wizajny.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "wizajny.homes", "memo": "9.19-1300" },
                 
-                { "name": "Server-1", "desc": "Global", "domain": "stanczyki.vip", "memo": "9.19-1200" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.stanczyki.vip"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.stanczyki.vip"},
+                { "name": "Server-1", "desc": "Global", "domain": "zalivn.homes", "memo": "9.19-1900" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.zalivn.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.zalivn.homes"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.bicokoe.pro"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.bicokoe.pro"},
-                { "name": "Server-3", "desc": "Global", "domain": "bicokoe.pro", "memo": "9.19-1405" },   
+                { "name": "Server-1", "desc": "Global", "domain": "bl.nekrasovo.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.nekrasovo.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "nekrasovo.homes", "memo": "9.19-1900" },   
                 
                 { "name": "Server-1", "desc": "Global", "domain": "olkhova.homes", "memo": "9.19-1645" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.olkhova.homes"},

@@ -39,13 +39,13 @@
                 { "name": "Server-2", "domain": "b.olecko.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.olecko.homes",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.klajpeda.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.klajpeda.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "klajpeda.homes",         "desc": "Global", "memo": "9.19-1310" },  
+                { "name": "Server-4", "domain": "d.mayahov.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.mayahov.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "mayahov.homes",         "desc": "Global", "memo": "9.19-1310" },  
 
-                { "name": "Server-1", "domain": "dubeninki.vip",          "desc": "Global", "memo": "9.19-1200" },
-                { "name": "Server-2", "domain": "b.dubeninki.vip",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.dubeninki.vip",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "budzevo.homes",          "desc": "Global", "memo": "9.19-1900" },
+                { "name": "Server-2", "domain": "b.budzevo.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.budzevo.homes",        "desc": "Global" }, 
 
                 { "name": "Server-4", "domain": "d.sadovoe.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.sadovoe.homes",       "desc": "Global" },
@@ -67,13 +67,13 @@
                 { "name": "Server-5", "domain": "e.oracze.vip",       "desc": "Global" },
                 { "name": "Server-6", "domain": "oracze.vip",         "desc": "Global", "memo": "9.19-1400" },      
 
-                { "name": "Server-1", "domain": "wieselc.vip",          "desc": "Global", "memo": "9.19-1450" },
-                { "name": "Server-2", "domain": "b.wieselc.vip",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.wieselc.vip",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "novostroe.homes",          "desc": "Global", "memo": "9.19-1900" },
+                { "name": "Server-2", "domain": "b.novostroe.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.novostroe.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.mrozy.vip",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.mrozy.vip",       "desc": "Global" },
-                { "name": "Server-6", "domain": "mrozy.vip",         "desc": "Global", "memo": "9.19-1450" },  
+                { "name": "Server-4", "domain": "d.rudzis.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.rudzis.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "rudzis.homes",         "desc": "Global", "memo": "9.19-1900" },  
                 
                 {}
             ],
