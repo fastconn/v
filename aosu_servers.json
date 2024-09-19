@@ -6,15 +6,15 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "", "desc": "Global", "domain": "zytkiej.homes", "memo": "9.19-1210" },
-                { "name": "", "desc": "Global", "domain": "an.zytkiej.homes" },
+                { "name": "Server-1", "desc": "Global", "domain": "zytkiej.homes", "memo": "9.19-1210" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.zytkiej.homes" },
                 
-                { "name": "", "desc": "Global", "domain": "zajdy.vip", "memo": "9.19-1200" },
-                { "name": "", "desc": "Global", "domain": "an.zajdy.vip" },
+                { "name": "Server-3", "desc": "Global", "domain": "zajdy.vip", "memo": "9.19-1200" },
+                { "name": "Server-4", "desc": "Global", "domain": "an.zajdy.vip" },
                 
-                { "name": "", "desc": "Global", "domain": "wieliczki.homes", "memo": "9.19-1500" },
-                { "name": "", "desc": "Global", "domain": "an.wieliczki.homes" },
-                { "name": "", "desc": "Global", "domain": "be.wieliczki.homes" }
+                { "name": "Server-5", "desc": "Global", "domain": "wieliczki.homes", "memo": "9.19-1500" },
+                { "name": "Server-6", "desc": "Global", "domain": "an.wieliczki.homes" },
+                { "name": "Server-7", "desc": "Global", "domain": "be.wieliczki.homes" }
 
             ],
             "ips": [
