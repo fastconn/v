@@ -9,7 +9,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 2,
+            "wsGroupSize": 3,
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
@@ -29,6 +29,10 @@
                 { "name": "Server-1", "desc": "Global", "domain": "bl.pieknet.vip"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.pieknet.vip"},
                 { "name": "Server-3", "desc": "Global", "domain": "pieknet.vip", "memo": "9.19-1120" },   
+                
+                { "name": "Server-1", "desc": "Global", "domain": "kalino.pro", "memo": "9.19-1450" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.kalino.pro"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.kalino.pro"},
 
                 {"memo": "light"}
             ]

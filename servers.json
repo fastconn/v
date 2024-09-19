@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 4,
+            "wsGroupSize": 5,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -65,7 +65,16 @@
 
                 { "name": "Server-4", "domain": "d.oracze.vip",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.oracze.vip",       "desc": "Global" },
-                { "name": "Server-6", "domain": "oracze.vip",         "desc": "Global", "memo": "9.19-1200" },      
+                { "name": "Server-6", "domain": "oracze.vip",         "desc": "Global", "memo": "9.19-1400" },      
+
+                { "name": "Server-1", "domain": "wieselc.vip",          "desc": "Global", "memo": "9.19-1450" },
+                { "name": "Server-2", "domain": "b.wieselc.vip",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.wieselc.vip",        "desc": "Global" }, 
+
+                { "name": "Server-4", "domain": "d.mrozy.vip",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.mrozy.vip",       "desc": "Global" },
+                { "name": "Server-6", "domain": "mrozy.vip",         "desc": "Global", "memo": "9.19-1450" },  
+                
                 {}
             ],
             "servers": [
