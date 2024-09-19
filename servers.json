@@ -42,8 +42,6 @@
                 { "name": "Server-4", "domain": "d.indura.cfd",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.indura.cfd",       "desc": "Global" },
                 { "name": "Server-6", "domain": "indura.cfd",         "desc": "Global", "memo": "9.19-1020" },   
-                
-                
                              
                 { "name": "Server-1", "domain": "derechins.us",          "desc": "Global", "memo": "9.18-1300" },
                 { "name": "Server-2", "domain": "b.derechins.us",        "desc": "Global" },
@@ -53,14 +51,7 @@
                 { "name": "Server-4", "domain": "d.bolshie.us",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.bolshie.us",       "desc": "Global" },
                                 
-             
-                { "name": "Server-1", "domain": "milevichi.us",          "desc": "Global", "memo": "9.18-1300" },
-                { "name": "Server-2", "domain": "b.milevichi.us",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.milevichi.us",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.vialikjia.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.vialikjia.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "vialikjia.homes",         "desc": "Global", "memo": "9.19-1020" },   
 
                 { "name": "Server-1", "domain": "plebanov.us",          "desc": "Global", "memo": "9.18-1400" },
                 { "name": "Server-2", "domain": "b.plebanov.us",        "desc": "Global" },
@@ -92,7 +83,15 @@
 
                 { "name": "Server-6", "domain": "izabielin.us",         "desc": "Global", "memo": "9.18-1720" },
                 { "name": "Server-4", "domain": "d.izabielin.us",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.izabielin.us",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.izabielin.us",       "desc": "Global" },    
+
+                { "name": "Server-1", "domain": "milevichi.us",          "desc": "Global", "memo": "9.18-1300" },
+                { "name": "Server-2", "domain": "b.milevichi.us",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.milevichi.us",        "desc": "Global" },
+
+                { "name": "Server-4", "domain": "d.vialikjia.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.vialikjia.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "vialikjia.homes",         "desc": "Global", "memo": "9.19-1020" },   
                 {}
             ],
             "servers": [
