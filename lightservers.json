@@ -9,7 +9,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 3,
+            "wsGroupSize": 2,
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
@@ -26,9 +26,10 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.domnovo.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.domnovo.homes"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.zelen.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.zelen.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "zelen.homes", "memo": "9.20-1130" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.kestro.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.kestro.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "kestro.homes", "memo": "9.20-1130" },
+
 
                 {"memo": "light"}
             ]

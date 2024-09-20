@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 3,
+            "wsGroupSize": 4,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -51,7 +51,6 @@
                 { "name": "Server-5", "domain": "e.grachev.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "grachev.homes",         "desc": "Global", "memo": "9.20-1130" },      
 
-
                 { "name": "Server-1", "domain": "svelot.homes",          "desc": "Global", "memo": "9.20-1130" },
                 { "name": "Server-2", "domain": "b.svelot.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.svelot.homes",        "desc": "Global" }, 
@@ -59,6 +58,14 @@
                 { "name": "Server-4", "domain": "d.peresla.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.peresla.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "peresla.homes",         "desc": "Global", "memo": "9.20-1130" },   
+
+                { "name": "Server-1", "domain": "kholm.homes",          "desc": "Global", "memo": "9.20-1420" },
+                { "name": "Server-2", "domain": "b.kholm.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.kholm.homes",        "desc": "Global" }, 
+
+                { "name": "Server-4", "domain": "d.liub.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.liub.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "liub.homes",         "desc": "Global", "memo": "9.20-1420" },   
                 
                 {}
             ],
