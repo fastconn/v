@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 5,
+            "wsGroupSize": 6,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -76,6 +76,14 @@
                 { "name": "Server-5", "domain": "e.kalin.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "kalin.homes",         "desc": "Global", "memo": "9.20-1545" },   
                 
+
+                { "name": "Server-1", "domain": "jarocin.homes",          "desc": "Global", "memo": "9.20-1645" },
+                { "name": "Server-2", "domain": "b.jarocin.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.jarocin.homes",        "desc": "Global" }, 
+
+                { "name": "Server-4", "domain": "d.ponar.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.ponar.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "ponar.homes",         "desc": "Global", "memo": "9.20-1645" },   
                 {}
             ],
             "servers": [

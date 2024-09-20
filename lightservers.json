@@ -34,6 +34,10 @@
                 { "name": "Server-2", "desc": "Global", "domain": "cl.nigrad.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "nigrad.homes", "memo": "9.20-1545" },
 
+                { "name": "Server-1", "desc": "Global", "domain": "bl.isako.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.isako.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "isako.homes", "memo": "9.20-1645" },
+
                 {"memo": "light"}
             ]
         }
