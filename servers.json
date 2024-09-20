@@ -35,17 +35,17 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "khrab.homes",          "desc": "Global", "memo": "9.20-1130" },
-                { "name": "Server-2", "domain": "b.khrab.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.khrab.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "razen.homes",          "desc": "Global", "memo": "9.20-1730" },
+                { "name": "Server-2", "domain": "b.razen.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.razen.homes",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.lesnoy.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.lesnoy.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "lesnoy.homes",         "desc": "Global", "memo": "9.20-1130" },  
+                { "name": "Server-4", "domain": "d.zagaje.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.zagaje.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "zagaje.homes",         "desc": "Global", "memo": "9.20-1730" },  
 
-                { "name": "Server-1", "domain": "pravdinsk.homes",          "desc": "Global", "memo": "9.20-1106" },
-                { "name": "Server-2", "domain": "b.pravdinsk.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.pravdinsk.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "piele.homes",          "desc": "Global", "memo": "9.20-1730" },
+                { "name": "Server-2", "domain": "b.piele.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.piele.homes",        "desc": "Global" }, 
 
                 { "name": "Server-4", "domain": "d.grachev.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.grachev.homes",       "desc": "Global" },
