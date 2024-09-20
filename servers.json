@@ -51,9 +51,9 @@
                 { "name": "Server-5", "domain": "e.sadovoe.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "sadovoe.homes",         "desc": "Global", "memo": "9.19-1645" },   
 
-                { "name": "Server-1", "domain": "bartosze.vip",          "desc": "Global", "memo": "9.19-1400" },
-                { "name": "Server-2", "domain": "b.bartosze.vip",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.bartosze.vip",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "pravdinsk.homes",          "desc": "Global", "memo": "9.20-1106" },
+                { "name": "Server-2", "domain": "b.pravdinsk.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.pravdinsk.homes",        "desc": "Global" }, 
 
                 { "name": "Server-4", "domain": "d.tishino.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.tishino.homes",       "desc": "Global" },
