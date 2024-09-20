@@ -25,6 +25,7 @@
         "adWait": 7,
         "useAdWait": false,
         "resultBackAd": true,
+        "firstAd": 30,
         "splashSec": 6,
         "nativeOfficial": [1,7],
         "mainAdFlag": 0
