@@ -9,8 +9,8 @@
                 { "name": "Server-1", "desc": "Global", "domain": "zytkiej.homes", "memo": "9.19-1210" },
                 { "name": "Server-2", "desc": "Global", "domain": "an.zytkiej.homes" },
                 
-                { "name": "Server-3", "desc": "Global", "domain": "wieliczki.homes", "memo": "9.19-1500" },
-                { "name": "Server-4", "desc": "Global", "domain": "an.wieliczki.homes" },
+                { "name": "Server-3", "desc": "Global", "domain": "nekra.homes", "memo": "9.20-1130" },
+                { "name": "Server-4", "desc": "Global", "domain": "an.nekra.homes" },
 
                 { "name": "Server-5", "desc": "Global", "domain": "druzhba.homes", "memo": "9.20-1110" },
                 { "name": "Server-6", "desc": "Global", "domain": "an.druzhba.homes" },

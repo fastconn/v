@@ -14,25 +14,21 @@
             "ws2": [ ],
             "ws3": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "chekhovo.homes", "memo": "9.19-2350" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.chekhovo.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.chekhovo.homes"},             
+                { "name": "Server-1", "desc": "Global", "domain": "matro.homes", "memo": "9.20-1130" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.matro.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.matro.homes"},             
                 
-                { "name": "Server-1", "desc": "Global", "domain": "zalivn.homes", "memo": "9.19-1900" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.zalivn.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.zalivn.homes"},
-
-                { "name": "Server-1", "desc": "Global", "domain": "bl.nekrasovo.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.nekrasovo.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "nekrasovo.homes", "memo": "9.19-1900" },   
+                { "name": "Server-1", "desc": "Global", "domain": "kovrov.homes", "memo": "9.20-1130" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.kovrov.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.kovrov.homes"},
                 
                 { "name": "Server-1", "desc": "Global", "domain": "domnovo.homes", "memo": "9.20-1107" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.domnovo.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.domnovo.homes"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.polessk.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.polessk.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "polessk.homes", "memo": "9.19-2115" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.zelen.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.zelen.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "zelen.homes", "memo": "9.20-1130" },
 
                 {"memo": "light"}
             ]
