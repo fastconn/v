@@ -9,7 +9,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 2,
+            "wsGroupSize": 3,
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
@@ -30,6 +30,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "cl.kestro.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "kestro.homes", "memo": "9.20-1130" },
 
+                { "name": "Server-1", "desc": "Global", "domain": "bl.nigrad.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.nigrad.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "nigrad.homes", "memo": "9.20-1545" },
 
                 {"memo": "light"}
             ]
