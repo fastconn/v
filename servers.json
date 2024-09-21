@@ -43,14 +43,6 @@
                 { "name": "Server-5", "domain": "es.wich.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "wich.homes",         "desc": "Global", "memo": "9.21-1545" },   
 
-                { "name": "Server-1", "domain": "razen.homes",          "desc": "Global", "memo": "9.20-1730" },
-                { "name": "Server-2", "domain": "b.razen.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.razen.homes",        "desc": "Global" },
-
-                { "name": "Server-4", "domain": "d.zagaje.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.zagaje.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "zagaje.homes",         "desc": "Global", "memo": "9.20-1730" },   
-
                 { "name": "Server-1", "domain": "wory.homes",          "desc": "Global", "memo": "9.21-1240" },
                 { "name": "Server-2", "domain": "b.wory.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.wory.homes",        "desc": "Global" }, 
@@ -84,6 +76,15 @@
                 { "name": "Server-6", "domain": "rosno.homes",         "desc": "Global", "memo": "9.21-1330" },     
                 { "name": "Server-4", "domain": "d.rosno.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.rosno.homes",       "desc": "Global" },
+
+                { "name": "Server-1", "domain": "warmin.homes",          "desc": "Global", "memo": "9.21-1730" },
+                { "name": "Server-2", "domain": "b.warmin.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.warmin.homes",        "desc": "Global" },
+
+                { "name": "Server-4", "domain": "d.warmin.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.warmin.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "warmin.homes",         "desc": "Global", "memo": "9.21-1730" },   
+                
                 {}
             ],
             "servers": [
