@@ -41,15 +41,7 @@
 
                 { "name": "Server-4", "domain": "d.zagaje.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.zagaje.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "zagaje.homes",         "desc": "Global", "memo": "9.20-1730" },  
-
-                { "name": "Server-1", "domain": "piele.homes",          "desc": "Global", "memo": "9.20-1730" },
-                { "name": "Server-2", "domain": "b.piele.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.piele.homes",        "desc": "Global" }, 
-
-                { "name": "Server-4", "domain": "d.grachev.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.grachev.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "grachev.homes",         "desc": "Global", "memo": "9.20-1130" },      
+                { "name": "Server-6", "domain": "zagaje.homes",         "desc": "Global", "memo": "9.20-1730" },   
 
                 { "name": "Server-1", "domain": "svelot.homes",          "desc": "Global", "memo": "9.20-1130" },
                 { "name": "Server-2", "domain": "b.svelot.homes",        "desc": "Global" },
@@ -84,6 +76,14 @@
                 { "name": "Server-4", "domain": "d.wielo.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.wielo.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "wielo.homes",         "desc": "Global", "memo": "9.21-1310" },   
+
+                { "name": "Server-1", "domain": "lauda.homes",          "desc": "Global", "memo": "9.21-1330" },
+                { "name": "Server-2", "domain": "b.lauda.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.lauda.homes",        "desc": "Global" }, 
+
+                { "name": "Server-6", "domain": "rosno.homes",         "desc": "Global", "memo": "9.21-1330" },     
+                { "name": "Server-4", "domain": "d.rosno.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.rosno.homes",       "desc": "Global" },
                 {}
             ],
             "servers": [
