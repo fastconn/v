@@ -6,16 +6,13 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "zytkiej.homes", "memo": "9.19-1210" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.zytkiej.homes" },
-                
-                { "name": "Server-3", "desc": "Global", "domain": "nekra.homes", "memo": "9.20-1130" },
-                { "name": "Server-4", "desc": "Global", "domain": "be.nekra.homes" },
+                { "name": "Server-1", "desc": "Global", "domain": "prosity.homes", "memo": "9.21-1620" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.prosity.homes" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.prosity.homes" },
 
-                { "name": "Server-5", "desc": "Global", "domain": "henri.homes", "memo": "9.21-1240" },
-                { "name": "Server-6", "desc": "Global", "domain": "an.henri.homes" },
-                { "name": "Server-7", "desc": "Global", "domain": "be.henri.homes" }
-
+                { "name": "Server-4", "desc": "Global", "domain": "henri.homes", "memo": "9.21-1240" },
+                { "name": "Server-5", "desc": "Global", "domain": "an.henri.homes" },
+                { "name": "Server-6", "desc": "Global", "domain": "be.henri.homes" }
             ],
             "ips": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.55",      "desc": "High speed", "on":"4.24,5.22" },

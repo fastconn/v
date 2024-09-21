@@ -22,10 +22,6 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.kovrov.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.kovrov.homes"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.kestro.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.kestro.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "kestro.homes", "memo": "9.20-1130" },
-
                 { "name": "Server-1", "desc": "Global", "domain": "bl.barcis.homes"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.barcis.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "barcis.homes", "memo": "9.21-1240" },
@@ -37,6 +33,10 @@
                 { "name": "Server-1", "desc": "Global", "domain": "orneta.homes", "memo": "9.20-1107" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.orneta.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.orneta.homes"},
+
+                { "name": "Server-1", "desc": "Global", "domain": "bl.bomino.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.bomino.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "bomino.homes", "memo": "9.21-1620" },
 
                 {"memo": "light"}
             ]
