@@ -77,13 +77,13 @@
                 { "name": "Server-6", "domain": "lelko.homes",         "desc": "Global", "memo": "9.21-1240" },   
                 
 
-                { "name": "Server-1", "domain": "jarocin.homes",          "desc": "Global", "memo": "9.20-1645" },
-                { "name": "Server-2", "domain": "b.jarocin.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.jarocin.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "majny.homes",          "desc": "Global", "memo": "9.21-1310" },
+                { "name": "Server-2", "domain": "b.majny.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.majny.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.ponar.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.ponar.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "ponar.homes",         "desc": "Global", "memo": "9.20-1645" },   
+                { "name": "Server-4", "domain": "d.wielo.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.wielo.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "wielo.homes",         "desc": "Global", "memo": "9.21-1310" },   
                 {}
             ],
             "servers": [
