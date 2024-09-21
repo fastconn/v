@@ -35,6 +35,14 @@
             ],
             "ws3": [
 
+                { "name": "Server-1", "domain": "zyka.homes",          "desc": "Global", "memo": "9.21-1545" },
+                { "name": "Server-2", "domain": "b.zyka.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.zyka.homes",        "desc": "Global" }, 
+
+                { "name": "Server-4", "domain": "d.wich.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.wich.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "wich.homes",         "desc": "Global", "memo": "9.21-1545" },   
+
                 { "name": "Server-1", "domain": "razen.homes",          "desc": "Global", "memo": "9.20-1730" },
                 { "name": "Server-2", "domain": "b.razen.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.razen.homes",        "desc": "Global" },
@@ -42,14 +50,6 @@
                 { "name": "Server-4", "domain": "d.zagaje.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.zagaje.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "zagaje.homes",         "desc": "Global", "memo": "9.20-1730" },   
-
-                { "name": "Server-1", "domain": "svelot.homes",          "desc": "Global", "memo": "9.20-1130" },
-                { "name": "Server-2", "domain": "b.svelot.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.svelot.homes",        "desc": "Global" }, 
-
-                { "name": "Server-4", "domain": "d.gurye.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.gurye.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "gurye.homes",         "desc": "Global", "memo": "9.20-1420" },   
 
                 { "name": "Server-1", "domain": "wory.homes",          "desc": "Global", "memo": "9.21-1240" },
                 { "name": "Server-2", "domain": "b.wory.homes",        "desc": "Global" },
