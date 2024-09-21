@@ -12,9 +12,9 @@
                 { "name": "Server-3", "desc": "Global", "domain": "nekra.homes", "memo": "9.20-1130" },
                 { "name": "Server-4", "desc": "Global", "domain": "be.nekra.homes" },
 
-                { "name": "Server-5", "desc": "Global", "domain": "druzhba.homes", "memo": "9.20-1110" },
-                { "name": "Server-6", "desc": "Global", "domain": "an.druzhba.homes" },
-                { "name": "Server-7", "desc": "Global", "domain": "be.druzhba.homes" }
+                { "name": "Server-5", "desc": "Global", "domain": "henri.homes", "memo": "9.21-1240" },
+                { "name": "Server-6", "desc": "Global", "domain": "an.henri.homes" },
+                { "name": "Server-7", "desc": "Global", "domain": "be.henri.homes" }
 
             ],
             "ips": [
