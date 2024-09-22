@@ -52,13 +52,13 @@
                 { "name": "Server-6", "domain": "kiez.homes",         "desc": "Global", "memo": "9.22-1045" },   
 
 
-                { "name": "Server-1", "domain": "bialc.homes",          "desc": "Global", "memo": "9.21-1240" },
-                { "name": "Server-2", "domain": "b.bialc.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.bialc.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "sewo.homes",          "desc": "Global", "memo": "9.22-1110" },
+                { "name": "Server-2", "domain": "b.sewo.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.sewo.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.lelko.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.lelko.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "lelko.homes",         "desc": "Global", "memo": "9.21-1240" },   
+                { "name": "Server-4", "domain": "d.zeste.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.zeste.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "zeste.homes",         "desc": "Global", "memo": "9.22-1110" },   
                 
 
                 { "name": "Server-1", "domain": "majny.homes",          "desc": "Global", "memo": "9.21-1310" },
