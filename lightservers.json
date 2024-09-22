@@ -34,9 +34,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "cl.spreco.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "spreco.homes", "memo": "9.22-1045" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "orneta.homes", "memo": "9.22-1030" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.orneta.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.orneta.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "riowo.homes", "memo": "9.22-1030" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.riowo.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.riowo.homes"},
 
                 {"memo": "light"}
             ]
