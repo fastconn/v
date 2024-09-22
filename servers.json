@@ -43,18 +43,18 @@
                 { "name": "Server-5", "domain": "e.nower.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "nower.homes",         "desc": "Global", "on": "9.22-1500" },   
 
-                { "name": "Server-1", "domain": "lupst.homes",          "desc": "Global", "on": "9.22-1045" },
-                { "name": "Server-2", "domain": "b.lupst.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.lupst.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "wolom.homes",          "desc": "Global", "on": "9.23-0145" },
+                { "name": "Server-2", "domain": "b.wolom.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.wolom.homes",        "desc": "Global" }, 
 
                 { "name": "Server-4", "domain": "d.sochac.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.sochac.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "sochac.homes",         "desc": "Global", "on": "9.23-0138" },   
 
 
-                { "name": "Server-1", "domain": "sewo.homes",          "desc": "Global", "on": "9.22-1110" },
-                { "name": "Server-2", "domain": "bs.sewo.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.sewo.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "skiern.homes",          "desc": "Global", "on": "9.23-0145" },
+                { "name": "Server-2", "domain": "bs.skiern.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.skiern.homes",        "desc": "Global" }, 
 
                 { "name": "Server-4", "domain": "ds.zeste.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "es.zeste.homes",       "desc": "Global" },
