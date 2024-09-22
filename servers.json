@@ -56,8 +56,8 @@
                 { "name": "Server-2", "domain": "bs.sewo.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "cs.sewo.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.zeste.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.zeste.homes",       "desc": "Global" },
+                { "name": "Server-4", "domain": "ds.zeste.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.zeste.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "zeste.homes",         "desc": "Global", "on": "9.22-1110" },   
                 
 
