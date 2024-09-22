@@ -81,10 +81,10 @@
                 { "name": "Server-2", "domain": "b.warmin.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.warmin.homes",        "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.warmin.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.warmin.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "warmin.homes",         "desc": "Global", "memo": "9.21-1730" },   
-                
+                { "name": "Server-4", "domain": "d.lubom.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.lubom.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "lubom.homes",         "desc": "Global", "memo": "9.22-1030" },   
+
                 {}
             ],
             "servers": [
@@ -95,7 +95,7 @@
                 { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.200",       "desc": "High speed",   "on":"2Gb-9.4,9.8" },
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.141",       "desc": "High speed",   "on": "5.26,6.8，6.11，6.17，7.9，7.15,7.18" },
                 { "cc": "us", "city": "Miami",   "ip": "38.91.107.158",       "desc": "High speed",   "on": "6.18，...，7.20,7.28,8.22" },
-                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.102",     "desc": "High speed",   "on": "2Gb,9.6,9.16" },
+                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.61",     "desc": "High speed",   "on": "2Gb,906,916,922" },
                 { "cc": "gb", "city": "London",     "ip": "68.168.31.244",     "desc": "High speed",   "on": "6.12,9.6" },
                 { "cc": "ca", "city": "Toronto",   "ip": "23.162.200.141",    "desc": "High speed",   "on": "7.11,7.11" },   
                 { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.171",    "desc": "High speed",   "on": "2.19,4.22,6.28" }    
