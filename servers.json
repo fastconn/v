@@ -35,55 +35,55 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "zyka.homes",          "desc": "Global", "memo": "9.21-1545" },
+                { "name": "Server-1", "domain": "zyka.homes",          "desc": "Global", "on": "9.21-1545" },
                 { "name": "Server-2", "domain": "bs.zyka.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "cs.zyka.homes",        "desc": "Global" }, 
 
                 { "name": "Server-4", "domain": "ds.wich.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "es.wich.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "wich.homes",         "desc": "Global", "memo": "9.21-1545" },   
+                { "name": "Server-6", "domain": "wich.homes",         "desc": "Global", "on": "9.21-1545" },   
 
-                { "name": "Server-1", "domain": "lupst.homes",          "desc": "Global", "memo": "9.22-1045" },
+                { "name": "Server-1", "domain": "lupst.homes",          "desc": "Global", "on": "9.22-1045" },
                 { "name": "Server-2", "domain": "b.lupst.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.lupst.homes",        "desc": "Global" }, 
 
                 { "name": "Server-4", "domain": "d.kiez.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.kiez.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "kiez.homes",         "desc": "Global", "memo": "9.22-1045" },   
+                { "name": "Server-6", "domain": "kiez.homes",         "desc": "Global", "on": "9.22-1045" },   
 
 
-                { "name": "Server-1", "domain": "sewo.homes",          "desc": "Global", "memo": "9.22-1110" },
+                { "name": "Server-1", "domain": "sewo.homes",          "desc": "Global", "on": "9.22-1110" },
                 { "name": "Server-2", "domain": "b.sewo.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.sewo.homes",        "desc": "Global" }, 
 
                 { "name": "Server-4", "domain": "d.zeste.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.zeste.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "zeste.homes",         "desc": "Global", "memo": "9.22-1110" },   
+                { "name": "Server-6", "domain": "zeste.homes",         "desc": "Global", "on": "9.22-1110" },   
                 
 
-                { "name": "Server-1", "domain": "majny.homes",          "desc": "Global", "memo": "9.21-1310" },
+                { "name": "Server-1", "domain": "majny.homes",          "desc": "Global", "on": "9.21-1310" },
                 { "name": "Server-2", "domain": "b.majny.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.majny.homes",        "desc": "Global" }, 
 
                 { "name": "Server-4", "domain": "d.wielo.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.wielo.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "wielo.homes",         "desc": "Global", "memo": "9.21-1310" },   
+                { "name": "Server-6", "domain": "wielo.homes",         "desc": "Global", "on": "9.21-1310" },   
 
-                { "name": "Server-1", "domain": "swiat.homes",          "desc": "Global", "memo": "9.22-1045" },
+                { "name": "Server-1", "domain": "swiat.homes",          "desc": "Global", "on": "9.22-1045" },
                 { "name": "Server-2", "domain": "b.swiat.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.swiat.homes",        "desc": "Global" }, 
 
-                { "name": "Server-6", "domain": "worlaw.homes",         "desc": "Global", "memo": "9.22-1045" },     
+                { "name": "Server-6", "domain": "worlaw.homes",         "desc": "Global", "on": "9.22-1045" },     
                 { "name": "Server-4", "domain": "d.worlaw.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.worlaw.homes",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "gloto.homes",          "desc": "Global", "memo": "9.22-1045" },
+                { "name": "Server-1", "domain": "gloto.homes",          "desc": "Global", "on": "9.22-1045" },
                 { "name": "Server-2", "domain": "b.gloto.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.gloto.homes",        "desc": "Global" },
 
                 { "name": "Server-4", "domain": "d.lubom.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.lubom.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "lubom.homes",         "desc": "Global", "memo": "9.22-1030" },   
+                { "name": "Server-6", "domain": "lubom.homes",         "desc": "Global", "on": "9.22-1030" },   
 
                 {}
             ],

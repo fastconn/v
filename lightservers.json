@@ -14,27 +14,27 @@
             "ws2": [ ],
             "ws3": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "jonko.homes", "memo": "9.22-1045" },
+                { "name": "Server-1", "desc": "Global", "domain": "jonko.homes", "on": "9.22-1045" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.jonko.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.jonko.homes"},             
                 
-                { "name": "Server-1", "desc": "Global", "domain": "lodow.homes", "memo": "9.21-1730" },
+                { "name": "Server-1", "desc": "Global", "domain": "lodow.homes", "on": "9.21-1730" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.lodow.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.lodow.homes"},
 
                 { "name": "Server-1", "desc": "Global", "domain": "bl.barcis.homes"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.barcis.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "barcis.homes", "memo": "9.21-1240" },
+                { "name": "Server-3", "desc": "Global", "domain": "barcis.homes", "on": "9.21-1240" },
 
                 { "name": "Server-1", "desc": "Global", "domain": "bl.olsz.homes"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.olsz.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "olsz.homes", "memo": "9.22-1110" },
+                { "name": "Server-3", "desc": "Global", "domain": "olsz.homes", "on": "9.22-1110" },
 
                 { "name": "Server-1", "desc": "Global", "domain": "bl.spreco.homes"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.spreco.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "spreco.homes", "memo": "9.22-1045" },
+                { "name": "Server-3", "desc": "Global", "domain": "spreco.homes", "on": "9.22-1045" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "kampin.homes", "memo": "9.22-1105" },
+                { "name": "Server-1", "desc": "Global", "domain": "kampin.homes", "on": "9.22-1105" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.kampin.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.kampin.homes"},
 
