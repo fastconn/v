@@ -43,13 +43,13 @@
                 { "name": "Server-5", "domain": "es.wich.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "wich.homes",         "desc": "Global", "memo": "9.21-1545" },   
 
-                { "name": "Server-1", "domain": "wory.homes",          "desc": "Global", "memo": "9.21-1240" },
-                { "name": "Server-2", "domain": "b.wory.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.wory.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "lupst.homes",          "desc": "Global", "memo": "9.22-1045" },
+                { "name": "Server-2", "domain": "b.lupst.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.lupst.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.kandy.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.kandy.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "kandy.homes",         "desc": "Global", "memo": "9.21-1240" },   
+                { "name": "Server-4", "domain": "d.kiez.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.kiez.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "kiez.homes",         "desc": "Global", "memo": "9.22-1045" },   
 
 
                 { "name": "Server-1", "domain": "bialc.homes",          "desc": "Global", "memo": "9.21-1240" },
@@ -69,17 +69,17 @@
                 { "name": "Server-5", "domain": "e.wielo.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "wielo.homes",         "desc": "Global", "memo": "9.21-1310" },   
 
-                { "name": "Server-1", "domain": "lauda.homes",          "desc": "Global", "memo": "9.21-1330" },
-                { "name": "Server-2", "domain": "b.lauda.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.lauda.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "swiat.homes",          "desc": "Global", "memo": "9.22-1045" },
+                { "name": "Server-2", "domain": "b.swiat.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.swiat.homes",        "desc": "Global" }, 
 
-                { "name": "Server-6", "domain": "rosno.homes",         "desc": "Global", "memo": "9.21-1330" },     
-                { "name": "Server-4", "domain": "d.rosno.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.rosno.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "worlaw.homes",         "desc": "Global", "memo": "9.22-1045" },     
+                { "name": "Server-4", "domain": "d.worlaw.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.worlaw.homes",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "warmin.homes",          "desc": "Global", "memo": "9.21-1730" },
-                { "name": "Server-2", "domain": "b.warmin.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.warmin.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "gloto.homes",          "desc": "Global", "memo": "9.22-1045" },
+                { "name": "Server-2", "domain": "b.gloto.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.gloto.homes",        "desc": "Global" },
 
                 { "name": "Server-4", "domain": "d.lubom.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.lubom.homes",       "desc": "Global" },
@@ -106,9 +106,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "kowo.homes", "enableCf": true, "desc": "websocket", "on": "9.21-1305" },
-                { "name": "VIP-3", "domain": "v.kowo.homes", "desc": "New" },
-                { "name": "VIP-3", "domain": "p.kowo.homes", "desc": "New" },
+                { "name": "VIP-1", "domain": "dywity.homes", "enableCf": true, "desc": "websocket", "on": "9.22-1045" },
+                { "name": "VIP-3", "domain": "v.dywity.homes", "desc": "New" },
+                { "name": "VIP-3", "domain": "p.dywity.homes", "desc": "New" },
                 {}
             ], 
             "servers": [
