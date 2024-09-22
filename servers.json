@@ -60,13 +60,13 @@
                 { "name": "Server-5", "domain": "es.zeste.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "zeste.homes",         "desc": "Global", "on": "9.22-1110" },   
 
-                { "name": "Server-6", "domain": "worlaw.homes",         "desc": "Global", "on": "9.22-1045" },     
-                { "name": "Server-4", "domain": "d.worlaw.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.worlaw.homes",       "desc": "Global" },
+                { "name": "Server-1", "domain": "narod.homes",          "desc": "Global", "on": "9.23-0145" },
+                { "name": "Server-2", "domain": "b.narod.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.narod.homes",        "desc": "Global" },
 
-                { "name": "Server-1", "domain": "gloto.homes",          "desc": "Global", "on": "9.22-1045" },
-                { "name": "Server-2", "domain": "b.gloto.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.gloto.homes",        "desc": "Global" },
+                { "name": "Server-6", "domain": "piasec.homes",         "desc": "Global", "on": "9.23-0145" },     
+                { "name": "Server-4", "domain": "d.piasec.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.piasec.homes",       "desc": "Global" },
 
                 { "name": "Server-1", "domain": "rypin.homes",          "desc": "Global", "on": "9.23-0110" },
                 { "name": "Server-2", "domain": "b.rypin.homes",        "desc": "Global" },
