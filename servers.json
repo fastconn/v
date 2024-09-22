@@ -36,11 +36,11 @@
             "ws3": [
 
                 { "name": "Server-1", "domain": "wojtow.homes",          "desc": "Global", "on": "9.22-1500" },
-                { "name": "Server-2", "domain": "bs.wojtow.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.wojtow.homes",        "desc": "Global" }, 
+                { "name": "Server-2", "domain": "b.wojtow.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.wojtow.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "ds.nower.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.nower.homes",       "desc": "Global" },
+                { "name": "Server-4", "domain": "d.nower.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.nower.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "nower.homes",         "desc": "Global", "on": "9.22-1500" },   
 
                 { "name": "Server-1", "domain": "lupst.homes",          "desc": "Global", "on": "9.22-1045" },
@@ -53,8 +53,8 @@
 
 
                 { "name": "Server-1", "domain": "sewo.homes",          "desc": "Global", "on": "9.22-1110" },
-                { "name": "Server-2", "domain": "b.sewo.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.sewo.homes",        "desc": "Global" }, 
+                { "name": "Server-2", "domain": "bs.sewo.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.sewo.homes",        "desc": "Global" }, 
 
                 { "name": "Server-4", "domain": "d.zeste.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.zeste.homes",       "desc": "Global" },
