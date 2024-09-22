@@ -22,9 +22,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.lodow.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.lodow.homes"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.barcis.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.barcis.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "barcis.homes", "on": "9.21-1240" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.lidz.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.lidz.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "lidz.homes", "on": "9.22-1500" },
 
                 { "name": "Server-1", "desc": "Global", "domain": "bl.olsz.homes"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.olsz.homes"},

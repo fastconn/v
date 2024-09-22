@@ -35,13 +35,13 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "zyka.homes",          "desc": "Global", "on": "9.21-1545" },
-                { "name": "Server-2", "domain": "bs.zyka.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.zyka.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "wojtow.homes",          "desc": "Global", "on": "9.22-1500" },
+                { "name": "Server-2", "domain": "bs.wojtow.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.wojtow.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "ds.wich.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.wich.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "wich.homes",         "desc": "Global", "on": "9.21-1545" },   
+                { "name": "Server-4", "domain": "ds.nower.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.nower.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "nower.homes",         "desc": "Global", "on": "9.22-1500" },   
 
                 { "name": "Server-1", "domain": "lupst.homes",          "desc": "Global", "on": "9.22-1045" },
                 { "name": "Server-2", "domain": "b.lupst.homes",        "desc": "Global" },
