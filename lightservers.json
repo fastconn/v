@@ -18,10 +18,6 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.jonko.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.jonko.homes"},             
                 
-                { "name": "Server-1", "desc": "Global", "domain": "lodow.homes", "on": "9.21-1730" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.lodow.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.lodow.homes"},
-
                 { "name": "Server-1", "desc": "Global", "domain": "bl.lidz.homes"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.lidz.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "lidz.homes", "on": "9.22-1500" },

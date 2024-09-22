@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 6,
+            "wsGroupSize": 5,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -59,15 +59,6 @@
                 { "name": "Server-4", "domain": "ds.zeste.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "es.zeste.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "zeste.homes",         "desc": "Global", "on": "9.22-1110" },   
-                
-
-                { "name": "Server-1", "domain": "majny.homes",          "desc": "Global", "on": "9.21-1310" },
-                { "name": "Server-2", "domain": "b.majny.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.majny.homes",        "desc": "Global" }, 
-
-                { "name": "Server-4", "domain": "d.wielo.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.wielo.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "wielo.homes",         "desc": "Global", "on": "9.21-1310" },   
 
                 { "name": "Server-1", "domain": "swiat.homes",          "desc": "Global", "on": "9.22-1045" },
                 { "name": "Server-2", "domain": "b.swiat.homes",        "desc": "Global" },
