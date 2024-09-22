@@ -47,9 +47,9 @@
                 { "name": "Server-2", "domain": "b.lupst.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.lupst.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.kiez.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.kiez.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "kiez.homes",         "desc": "Global", "on": "9.22-1045" },   
+                { "name": "Server-4", "domain": "d.sochac.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.sochac.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "sochac.homes",         "desc": "Global", "on": "9.23-0138" },   
 
 
                 { "name": "Server-1", "domain": "sewo.homes",          "desc": "Global", "on": "9.22-1110" },
