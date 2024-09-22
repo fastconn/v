@@ -17,7 +17,7 @@
                 { "name": "Server-1", "desc": "Global", "domain": "jonko.homes", "on": "9.22-1045" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.jonko.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.jonko.homes"},             
-                
+
                 { "name": "Server-1", "desc": "Global", "domain": "bl.lidz.homes"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.lidz.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "lidz.homes", "on": "9.22-1500" },
@@ -30,9 +30,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "cl.spreco.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "spreco.homes", "on": "9.22-1045" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "kampin.homes", "on": "9.22-1105" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.kampin.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.kampin.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "brodni.homes", "on": "9.23-0125" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.brodni.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.brodni.homes"},
 
                 {"memo": "light"}
             ]
