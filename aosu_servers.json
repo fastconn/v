@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "prosity.homes", "memo": "9.21-1620" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.prosity.homes" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.prosity.homes" },
+                { "name": "Server-1", "desc": "Global", "domain": "miasto.homes", "memo": "9.22-1400" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.miasto.homes" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.miasto.homes" },
 
                 { "name": "Server-4", "desc": "Global", "domain": "warka.homes", "memo": "9.22-1045" },
                 { "name": "Server-5", "desc": "Global", "domain": "an.warka.homes" },
