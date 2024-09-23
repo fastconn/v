@@ -105,7 +105,7 @@
                 { "cc": "sg", "city": "Singapore",      "ip": "139.162.49.11",      "desc": "New", "on": "li-5.10" },
                 { "cc": "au", "city": "Sydney",         "ip": "194.195.248.174",     "desc": "New", "on": "li-5.10，7.7" },
                 { "cc": "in", "city": "Mumbai",         "ip": "172.105.56.166",    "desc": "New", "on": "li-4.28,5.26，7.7" },
-                { "cc": "jp", "city": "Tokyo",          "ip": "92.38.178.205",    "desc": "New", "on": "5.27" }, 
+                { "cc": "jp", "city": "Tokyo",          "ip": "92.38.178.69",    "desc": "New", "on": "9.23" }, 
                 { "cc": "hk", "city": "Hong Kong",      "ip": "5.188.33.167",      "desc": "New", "on": "5.26"}
             ]
         }
