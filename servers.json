@@ -60,21 +60,21 @@
                 { "name": "Server-5", "domain": "es.zeste.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "zeste.homes",         "desc": "Global", "on": "9.22-1110" },   
 
-                { "name": "Server-1", "domain": "narod.homes",          "desc": "Global", "on": "9.23-0145" },
-                { "name": "Server-2", "domain": "b.narod.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.narod.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "klucz.homes",          "desc": "Global", "on": "9.23-1030" },
+                { "name": "Server-2", "domain": "b.klucz.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.klucz.homes",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "piasec.homes",         "desc": "Global", "on": "9.23-0145" },     
-                { "name": "Server-4", "domain": "d.piasec.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.piasec.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "kepno.homes",         "desc": "Global", "on": "9.23-1030" },     
+                { "name": "Server-4", "domain": "d.kepno.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.kepno.homes",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "rypin.homes",          "desc": "Global", "on": "9.23-0110" },
-                { "name": "Server-2", "domain": "b.rypin.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.rypin.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "namys.homes",          "desc": "Global", "on": "9.23-1030" },
+                { "name": "Server-2", "domain": "b.namys.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.namys.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.barrk.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.barrk.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "barrk.homes",         "desc": "Global", "on": "9.23-0110" },   
+                { "name": "Server-4", "domain": "d.wielun.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.wielun.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "wielun.homes",         "desc": "Global", "on": "9.23-1030" },   
 
                 {}
             ],
@@ -97,9 +97,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "dywity.homes", "enableCf": true, "desc": "websocket", "on": "9.22-1045" },
-                { "name": "VIP-3", "domain": "v.dywity.homes", "desc": "New" },
-                { "name": "VIP-3", "domain": "p.dywity.homes", "desc": "New" },
+                { "name": "VIP-1", "domain": "belchat.homes", "enableCf": true, "desc": "websocket", "on": "9.23-1030" },
+                { "name": "VIP-3", "domain": "v.belchat.homes", "desc": "New" },
+                { "name": "VIP-3", "domain": "p.belchat.homes", "desc": "New" },
                 {}
             ], 
             "servers": [

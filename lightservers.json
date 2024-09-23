@@ -26,13 +26,13 @@
                 { "name": "Server-2", "desc": "Global", "domain": "cl.olsz.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "olsz.homes", "on": "9.22-1110" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.legio.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.legio.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "legio.homes", "on": "9.23-0125" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.opocno.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.opocno.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "opocno.homes", "on": "9.23-1030" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "brodni.homes", "on": "9.23-0125" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.brodni.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.brodni.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "radoms.homes", "on": "9.23-1030" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.radoms.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.radoms.homes"},
 
                 {"memo": "light"}
             ]

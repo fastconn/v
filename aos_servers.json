@@ -56,9 +56,9 @@
                     { "pr": 4, "name": "Global-2", "i": "an.miasto.homes" },
                     { "pr": 4, "name": "Global-3", "i": "be.miasto.homes" },
 
-                    { "pr": 4, "name": "Global-4", "i": "prusz.homes", "on": "923-0139" },
-                    { "pr": 4, "name": "Global-5", "i": "an.prusz.homes" },
-                    { "pr": 4, "name": "Global-6", "i": "be.prusz.homes" }
+                    { "pr": 4, "name": "Global-4", "i": "skazy.homes", "on": "923-1030" },
+                    { "pr": 4, "name": "Global-5", "i": "an.skazy.homes" },
+                    { "pr": 4, "name": "Global-6", "i": "be.skazy.homes" }
                 ]
             }
         ],
