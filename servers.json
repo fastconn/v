@@ -29,27 +29,19 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 5,
+            "wsGroupSize": 4,
             "wsNameAuto": true,
             "ws2": [
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "wojtow.homes",          "desc": "Global", "on": "9.22-1500" },
-                { "name": "Server-2", "domain": "b.wojtow.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.wojtow.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "starach.homes",          "desc": "Global", "on": "9.23-1030" },
+                { "name": "Server-2", "domain": "b.starach.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.starach.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.nower.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.nower.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "nower.homes",         "desc": "Global", "on": "9.22-1500" },   
-
-                { "name": "Server-1", "domain": "wolom.homes",          "desc": "Global", "on": "9.23-0145" },
-                { "name": "Server-2", "domain": "b.wolom.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.wolom.homes",        "desc": "Global" }, 
-
-                { "name": "Server-4", "domain": "d.sochac.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.sochac.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "sochac.homes",         "desc": "Global", "on": "9.23-0138" },   
+                { "name": "Server-4", "domain": "d.opole.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.opole.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "opole.homes",         "desc": "Global", "on": "9.23-1030" },   
 
 
                 { "name": "Server-1", "domain": "skiern.homes",          "desc": "Global", "on": "9.23-0145" },
