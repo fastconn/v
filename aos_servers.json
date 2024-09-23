@@ -52,9 +52,9 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "miasto.homes", "on": "922-1400" },
-                    { "pr": 4, "name": "Global-2", "i": "an.miasto.homes" },
-                    { "pr": 4, "name": "Global-3", "i": "be.miasto.homes" },
+                    { "pr": 4, "name": "Global-1", "i": "spiss.homes", "on": "923-1100" },
+                    { "pr": 4, "name": "Global-2", "i": "an.spiss.homes" },
+                    { "pr": 4, "name": "Global-3", "i": "be.spiss.homes" },
 
                     { "pr": 4, "name": "Global-4", "i": "skazy.homes", "on": "923-1030" },
                     { "pr": 4, "name": "Global-5", "i": "an.skazy.homes" },

@@ -44,13 +44,13 @@
                 { "name": "Server-6", "domain": "opole.homes",         "desc": "Global", "on": "9.23-1030" },   
 
 
-                { "name": "Server-1", "domain": "skiern.homes",          "desc": "Global", "on": "9.23-0145" },
-                { "name": "Server-2", "domain": "bs.skiern.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.skiern.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "jastry.homes",          "desc": "Global", "on": "9.23-1100" },
+                { "name": "Server-2", "domain": "bs.jastry.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.jastry.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "ds.zeste.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.zeste.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "zeste.homes",         "desc": "Global", "on": "9.22-1110" },   
+                { "name": "Server-4", "domain": "ds.frydek.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.frydek.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "frydek.homes",         "desc": "Global", "on": "9.23-1100" },   
 
                 { "name": "Server-1", "domain": "klucz.homes",          "desc": "Global", "on": "9.23-1030" },
                 { "name": "Server-2", "domain": "b.klucz.homes",        "desc": "Global" },
