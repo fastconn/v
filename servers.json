@@ -39,9 +39,9 @@
                 { "name": "Server-2", "domain": "b.zekes.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.zekes.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.tataba.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.tataba.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "tataba.homes",         "desc": "Global", "on": "9.24-1030" },   
+                { "name": "Server-4", "domain": "d.ziget.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.ziget.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "ziget.homes",         "desc": "Global", "on": "9.24-1055" },   
 
                 { "name": "Server-1", "domain": "sabinov.homes",          "desc": "Global", "on": "9.24-1030" },
                 { "name": "Server-2", "domain": "b.sabinov.homes",        "desc": "Global" },
@@ -55,9 +55,9 @@
                 { "name": "Server-2", "domain": "b.myslen.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.myslen.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.levice.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.levice.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "levice.homes",         "desc": "Global", "on": "9.24-1030" },   
+                { "name": "Server-4", "domain": "d.budaor.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.budaor.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "budaor.homes",         "desc": "Global", "on": "9.24-1055" },   
 
                 {}
             ],
