@@ -80,9 +80,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "jastry.homes", "enableCf": true, "desc": "websocket", "on": "9.24-1030" },
-                { "name": "VIP-3", "domain": "v.jastry.homes", "desc": "New" },
-                { "name": "VIP-3", "domain": "p.jastry.homes", "desc": "New" },
+                { "name": "VIP-1", "domain": "dunake.homes", "enableCf": true, "desc": "websocket", "on": "9.24-1050" },
+                { "name": "VIP-3", "domain": "v.dunake.homes", "desc": "New" },
+                { "name": "VIP-3", "domain": "p.dunake.homes", "desc": "New" },
                 {}
             ], 
             "servers": [
