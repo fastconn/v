@@ -23,7 +23,7 @@
         "maxShow": 50,
         "skipSec": 6,
         "adWait": 7,
-        "useAdWait": false,
+        "useAdWait": true,
         "resultBackAd": true,
         "firstAd": 30,
         "splashSec": 6,
