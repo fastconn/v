@@ -9,22 +9,14 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 2,
+            "wsGroupSize": 1,
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "trencin.homes", "on": "9.23-1100" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.trencin.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.trencin.homes"},             
-
-                { "name": "Server-1", "desc": "Global", "domain": "bl.prievid.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.prievid.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "prievid.homes", "on": "9.23-1100" },
-
-                { "name": "Server-1", "desc": "Global", "domain": "bl.opocno.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.opocno.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "opocno.homes", "on": "9.23-1030" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.hervar.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.hervar.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "hervar.homes", "on": "9.24-1030" },
 
                 { "name": "Server-1", "desc": "Global", "domain": "dolny.homes", "on": "9.24-0850" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.dolny.homes"},
