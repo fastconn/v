@@ -26,9 +26,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "cl.opocno.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "opocno.homes", "on": "9.23-1030" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "radoms.homes", "on": "9.23-1030" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.radoms.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.radoms.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "dolny.homes", "on": "9.24-0850" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.dolny.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.dolny.homes"},
 
                 {"memo": "light"}
             ]
