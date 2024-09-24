@@ -24,7 +24,7 @@
         "skipSec": 6,
         "adWait": 7,
         "useAdWait": true,
-        "resultBackAd": true,
+        "resultBackAd": false,
         "firstAd": 30,
         "splashSec": 6,
         "nativeOfficial": [1,7],
