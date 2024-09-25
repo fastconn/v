@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "spiss.homes", "on": "9.23-1100" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.spiss.homes" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.spiss.homes" },
+                { "name": "Server-1", "desc": "Global", "domain": "odzak.homes", "on": "9.25-1020" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.odzak.homes" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.odzak.homes" },
 
                 { "name": "Server-4", "desc": "Global", "domain": "sombor.homes", "on": "9.25-1010" },
                 { "name": "Server-5", "desc": "Global", "domain": "an.sombor.homes" },

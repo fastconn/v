@@ -52,9 +52,9 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "spiss.homes", "on": "923-1100" },
-                    { "pr": 4, "name": "Global-2", "i": "an.spiss.homes" },
-                    { "pr": 4, "name": "Global-3", "i": "be.spiss.homes" },
+                    { "pr": 4, "name": "Global-1", "i": "odzak.homes", "on": "925-1020" },
+                    { "pr": 4, "name": "Global-2", "i": "an.odzak.homes" },
+                    { "pr": 4, "name": "Global-3", "i": "be.odzak.homes" },
 
                     { "pr": 4, "name": "Global-4", "i": "sombor.homes", "on": "925-1010" },
                     { "pr": 4, "name": "Global-5", "i": "an.sombor.homes" },
