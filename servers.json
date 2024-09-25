@@ -43,13 +43,13 @@
                 { "name": "Server-5", "domain": "e.miklos.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "miklos.homes",         "desc": "Global", "on": "9.25-1010" },   
 
-                { "name": "Server-1", "domain": "kapos.homes",          "desc": "Global", "on": "9.25-1010" },
-                { "name": "Server-2", "domain": "b.kapos.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.kapos.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "cepin.homes",          "desc": "Global", "on": "9.25-2200" },
+                { "name": "Server-2", "domain": "b.cepin.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.cepin.homes",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "kalocsa.homes",         "desc": "Global", "on": "9.25-1010" },     
-                { "name": "Server-4", "domain": "d.kalocsa.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.kalocsa.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "zupanja.homes",         "desc": "Global", "on": "9.25-2200" },     
+                { "name": "Server-4", "domain": "d.zupanja.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.zupanja.homes",       "desc": "Global" },
 
                 { "name": "Server-1", "domain": "eventa.homes",          "desc": "Global", "on": "9.25-1010" },
                 { "name": "Server-2", "domain": "b.eventa.homes",        "desc": "Global" },
