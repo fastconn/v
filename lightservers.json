@@ -18,9 +18,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "cl.hervar.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "hervar.homes", "on": "9.24-1030" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "dolny.homes", "on": "9.24-0850" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.dolny.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.dolny.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "vecses.homes", "on": "9.25-0920" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.vecses.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.vecses.homes"},
 
                 {"memo": "light"}
             ]

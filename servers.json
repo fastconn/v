@@ -51,13 +51,13 @@
                 { "name": "Server-4", "domain": "d.brezno.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.brezno.homes",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "myslen.homes",          "desc": "Global", "on": "9.24-1030" },
-                { "name": "Server-2", "domain": "b.myslen.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.myslen.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "tataba.homes",          "desc": "Global", "on": "9.25-0920" },
+                { "name": "Server-2", "domain": "b.tataba.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.tataba.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.budaor.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.budaor.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "budaor.homes",         "desc": "Global", "on": "9.24-1055" },   
+                { "name": "Server-4", "domain": "d.levice.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.levice.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "levice.homes",         "desc": "Global", "on": "9.25-0920" },   
 
                 {}
             ],
