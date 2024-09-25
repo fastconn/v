@@ -56,9 +56,9 @@
                     { "pr": 4, "name": "Global-2", "i": "an.odzak.homes" },
                     { "pr": 4, "name": "Global-3", "i": "be.odzak.homes" },
 
-                    { "pr": 4, "name": "Global-4", "i": "sombor.homes", "on": "925-1010" },
-                    { "pr": 4, "name": "Global-5", "i": "an.sombor.homes" },
-                    { "pr": 4, "name": "Global-6", "i": "be.sombor.homes" }
+                    { "pr": 4, "name": "Global-4", "i": "darda.homes", "on": "926-0100" },
+                    { "pr": 4, "name": "Global-5", "i": "an.darda.homes" },
+                    { "pr": 4, "name": "Global-6", "i": "be.darda.homes" }
                 ]
             }
         ],
