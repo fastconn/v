@@ -35,13 +35,13 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "tolna.homes",          "desc": "Global", "on": "9.25-1010" },
-                { "name": "Server-2", "domain": "b.tolna.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.tolna.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "belacra.homes",          "desc": "Global", "on": "9.26-1010" },
+                { "name": "Server-2", "domain": "b.belacra.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.belacra.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.miklos.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.miklos.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "miklos.homes",         "desc": "Global", "on": "9.25-1010" },   
+                { "name": "Server-4", "domain": "d.pozare.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.pozare.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "pozare.homes",         "desc": "Global", "on": "9.26-1010" },   
 
                 { "name": "Server-1", "domain": "dakovo.homes",          "desc": "Global", "on": "9.26-1010" },
                 { "name": "Server-2", "domain": "b.dakovo.homes",        "desc": "Global" },
