@@ -51,13 +51,13 @@
                 { "name": "Server-4", "domain": "d.slavon.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.slavon.homes",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "osijek.homes",          "desc": "Global", "on": "9.26-1010" },
-                { "name": "Server-2", "domain": "b.osijek.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.osijek.homes",        "desc": "Global" }, 
-
                 { "name": "Server-4", "domain": "d.nasice.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.nasice.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "nasice.homes",         "desc": "Global", "on": "9.26-1010" },   
+
+                { "name": "Server-1", "domain": "osijek.homes",          "desc": "Global", "on": "9.26-1010" },
+                { "name": "Server-2", "domain": "b.osijek.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.osijek.homes",        "desc": "Global" }, 
 
                 {}
             ],
