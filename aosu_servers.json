@@ -6,13 +6,13 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "odzak.homes", "on": "9.25-1020" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.odzak.homes" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.odzak.homes" },
+                { "name": "Server-1", "desc": "Global", "domain": "berane.homes", "on": "9.26-1810" },
+                { "name": "Server-2", "desc": "Global", "domain": "m1.berane.homes" },
+                { "name": "Server-3", "desc": "Global", "domain": "m2.berane.homes" },
 
-                { "name": "Server-4", "desc": "Global", "domain": "bijiejina.homes", "on": "9.26-1010" },
-                { "name": "Server-5", "desc": "Global", "domain": "an.bijiejina.homes" },
-                { "name": "Server-6", "desc": "Global", "domain": "be.bijiejina.homes" }
+                { "name": "Server-4", "desc": "Global", "domain": "m3.berane.homes" },
+                { "name": "Server-5", "desc": "Global", "domain": "m4.berane.homes" },
+                { "name": "Server-6", "desc": "Global", "domain": "m5.berane.homes" }
             ],
             "ips": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.55",      "desc": "High speed", "on":"4.24,5.22" },
