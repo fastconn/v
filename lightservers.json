@@ -14,13 +14,13 @@
             "ws2": [ ],
             "ws3": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.getvar.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.getvar.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "getvar.homes", "on": "9.25-1010" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.obreno.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.obreno.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "obreno.homes", "on": "9.26-1010" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "vecses.homes", "on": "9.25-0920" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.vecses.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.vecses.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "tuzla.homes", "on": "9.26-1010" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.tuzla.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.tuzla.homes"},
 
                 {"memo": "light"}
             ]

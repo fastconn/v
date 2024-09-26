@@ -43,21 +43,21 @@
                 { "name": "Server-5", "domain": "e.miklos.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "miklos.homes",         "desc": "Global", "on": "9.25-1010" },   
 
-                { "name": "Server-1", "domain": "cepin.homes",          "desc": "Global", "on": "9.25-2200" },
-                { "name": "Server-2", "domain": "b.cepin.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.cepin.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "dakovo.homes",          "desc": "Global", "on": "9.26-1010" },
+                { "name": "Server-2", "domain": "b.dakovo.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.dakovo.homes",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "zupanja.homes",         "desc": "Global", "on": "9.25-2200" },     
-                { "name": "Server-4", "domain": "d.zupanja.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.zupanja.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "slavon.homes",         "desc": "Global", "on": "9.26-1010" },     
+                { "name": "Server-4", "domain": "d.slavon.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.slavon.homes",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "eventa.homes",          "desc": "Global", "on": "9.25-1010" },
-                { "name": "Server-2", "domain": "b.eventa.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.eventa.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "osijek.homes",          "desc": "Global", "on": "9.26-1010" },
+                { "name": "Server-2", "domain": "b.osijek.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.osijek.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.pozega.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.pozega.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "pozega.homes",         "desc": "Global", "on": "9.25-1010" },   
+                { "name": "Server-4", "domain": "d.nasice.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.nasice.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "nasice.homes",         "desc": "Global", "on": "9.26-1010" },   
 
                 {}
             ],
