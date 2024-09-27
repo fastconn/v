@@ -35,29 +35,29 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "belacra.homes",          "desc": "Global", "on": "9.26-1010" },
-                { "name": "Server-2", "domain": "b.belacra.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.belacra.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "crusev.homes",          "desc": "Global", "on": "9.27-1030" },
+                { "name": "Server-2", "domain": "b.crusev.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.crusev.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.pozare.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.pozare.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "pozare.homes",         "desc": "Global", "on": "9.26-1010" },   
+                { "name": "Server-4", "domain": "d.zlatibor.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.zlatibor.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "zlatibor.homes",         "desc": "Global", "on": "9.27-1030" },   
 
-                { "name": "Server-1", "domain": "dakovo.homes",          "desc": "Global", "on": "9.26-1010" },
-                { "name": "Server-2", "domain": "b.dakovo.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.dakovo.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "priboj.homes",          "desc": "Global", "on": "9.27-1030" },
+                { "name": "Server-2", "domain": "bs.priboj.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.priboj.homes",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "slavon.homes",         "desc": "Global", "on": "9.26-1010" },     
-                { "name": "Server-4", "domain": "d.slavon.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.slavon.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "uzice.homes",         "desc": "Global", "on": "9.27-1030" },     
+                { "name": "Server-4", "domain": "ds.uzice.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.uzice.homes",       "desc": "Global" },
 
-                { "name": "Server-4", "domain": "d.nasice.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.nasice.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "nasice.homes",         "desc": "Global", "on": "9.26-1010" },   
+                { "name": "Server-1", "domain": "cacak.homes",          "desc": "Global", "on": "9.27-1030" },
+                { "name": "Server-2", "domain": "b.cacak.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.cacak.homes",        "desc": "Global" }, 
 
-                { "name": "Server-1", "domain": "osijek.homes",          "desc": "Global", "on": "9.26-1010" },
-                { "name": "Server-2", "domain": "b.osijek.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.osijek.homes",        "desc": "Global" }, 
+                { "name": "Server-4", "domain": "d.sjenica.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.sjenica.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "sjenica.homes",         "desc": "Global", "on": "9.27-1030" },   
 
                 {}
             ],
@@ -80,9 +80,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "vukovar.homes", "enableCf": true, "desc": "websocket", "on": "9.26-0910" },
-                { "name": "VIP-3", "domain": "v.vukovar.homes", "desc": "New" },
-                { "name": "VIP-3", "domain": "p.vukovar.homes", "desc": "New" },
+                { "name": "VIP-1", "domain": "tutinea.homes", "enableCf": true, "desc": "websocket", "on": "9.27-1030" },
+                { "name": "VIP-3", "domain": "v.tutinea.homes", "desc": "New" },
+                { "name": "VIP-3", "domain": "p.tutinea.homes", "desc": "New" },
                 {}
             ], 
             "servers": [
