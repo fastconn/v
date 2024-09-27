@@ -52,13 +52,9 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "odzak.homes", "on": "925-1020" },
-                    { "pr": 4, "name": "Global-2", "i": "an.odzak.homes" },
-                    { "pr": 4, "name": "Global-3", "i": "be.odzak.homes" },
-
-                    { "pr": 4, "name": "Global-4", "i": "bijiejina.homes", "on": "926-1010" },
-                    { "pr": 4, "name": "Global-5", "i": "an.bijiejina.homes" },
-                    { "pr": 4, "name": "Global-6", "i": "be.bijiejina.homes" }
+                    { "pr": 4, "name": "Global-1", "i": "kukes.homes", "on": "927-1040" },
+                    { "pr": 4, "name": "Global-2", "i": "an.kukes.homes" },
+                    { "pr": 4, "name": "Global-3", "i": "be.kukes.homes" }
                 ]
             }
         ],
