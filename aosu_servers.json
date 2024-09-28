@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "kukes.homes", "on": "9.27-1040" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.kukes.homes" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.kukes.homes" },
+                { "name": "Server-1", "desc": "Global", "domain": "katerine.homes", "on": "9.28-1750" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.katerine.homes" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.katerine.homes" },
 
                 { "name": "Server-4", "desc": "Global", "domain": "loannina.homes", "on": "9.28-1730" },
                 { "name": "Server-5", "desc": "Global", "domain": "an.loannina.homes" },
