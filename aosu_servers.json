@@ -10,9 +10,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "an.kukes.homes" },
                 { "name": "Server-3", "desc": "Global", "domain": "be.kukes.homes" },
 
-                { "name": "Server-4", "desc": "Global", "domain": "shegly.pro", "on": "9.28-1030" },
-                { "name": "Server-5", "desc": "Global", "domain": "an.shegly.pro" },
-                { "name": "Server-6", "desc": "Global", "domain": "be.shegly.pro" }
+                { "name": "Server-4", "desc": "Global", "domain": "loannina.homes", "on": "9.28-1730" },
+                { "name": "Server-5", "desc": "Global", "domain": "an.loannina.homes" },
+                { "name": "Server-6", "desc": "Global", "domain": "be.loannina.homes" }
             ],
             "ips": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.55",      "desc": "High speed", "on":"4.24,5.22" },
