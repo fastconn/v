@@ -56,8 +56,8 @@
                 { "name": "Server-3", "domain": "c.kruje.homes",        "desc": "Global" }, 
 
                 { "name": "Server-4", "domain": "d.lezhe.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.sjenica.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "sjenica.homes",         "desc": "Global", "on": "9.28-1030" },   
+                { "name": "Server-5", "domain": "e.lezhe.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "lezhe.homes",         "desc": "Global", "on": "9.28-1030" },   
 
                 {}
             ],
