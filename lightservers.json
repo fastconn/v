@@ -14,13 +14,13 @@
             "ws2": [ ],
             "ws3": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.ferizaj.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.ferizaj.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "ferizaj.homes", "on": "9.27-1030" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.ulyano.pro"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.ulyano.pro"},
+                { "name": "Server-3", "desc": "Global", "domain": "ulyano.pro", "on": "9.28-1030" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "pobnlia.homes", "on": "9.27-1030" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.pobnlia.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.pobnlia.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "kaluzh.pro", "on": "9.28-1030" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.kaluzh.pro"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.kaluzh.pro"},
 
                 {"memo": "light"}
             ]
