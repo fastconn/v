@@ -13,13 +13,13 @@
         "isGp": true,
         "okStr": "Update Now",
         "cancelStr": "Later",
-        "verCode": 119000000
+        "verCode": 202000000
     },
     "adc": {
-        "ver": 20240917,
+        "ver": 20240928,
         "ageM": 5,
         "maxClick": 30,
-        "maxShow": 50,
+        "maxShow": 100,
         "skipSec": 6,
         "adWait": 7,
         "useAdWait": true,
