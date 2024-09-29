@@ -35,21 +35,21 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "kucove.homes",          "desc": "Global", "on": "9.28-1030" },
-                { "name": "Server-2", "domain": "b.kucove.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.kucove.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "petrich.homes",          "desc": "Global", "on": "9.29-1045" },
+                { "name": "Server-2", "domain": "b.petrich.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.petrich.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.kavaje.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.kavaje.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "kavaje.homes",         "desc": "Global", "on": "9.28-1030" },   
+                { "name": "Server-4", "domain": "d.peraia.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.peraia.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "peraia.homes",         "desc": "Global", "on": "9.29-1045" },   
 
-                { "name": "Server-1", "domain": "elbasan.homes",          "desc": "Global", "on": "9.28-1030" },
-                { "name": "Server-2", "domain": "bs.elbasan.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.elbasan.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "radovish.homes",          "desc": "Global", "on": "9.29-1045" },
+                { "name": "Server-2", "domain": "bs.radovish.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.radovish.homes",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "mavrovo.homes",         "desc": "Global", "on": "9.28-1030" },     
-                { "name": "Server-4", "domain": "ds.mavrovo.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.mavrovo.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "kilkis.homes",         "desc": "Global", "on": "9.29-1045" },     
+                { "name": "Server-4", "domain": "ds.kilkis.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.kilkis.homes",       "desc": "Global" },
 
                 { "name": "Server-1", "domain": "himare.homes",          "desc": "Global", "on": "9.29-1030" },
                 { "name": "Server-2", "domain": "b.himare.homes",        "desc": "Global" },
@@ -80,9 +80,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "lushnje.homes", "enableCf": true, "desc": "websocket", "on": "9.28-1030" },
-                { "name": "VIP-3", "domain": "v.lushnje.homes", "desc": "New" },
-                { "name": "VIP-3", "domain": "p.lushnje.homes", "desc": "New" },
+                { "name": "VIP-1", "domain": "kyustendi.homes", "enableCf": true, "desc": "websocket", "on": "9.29-1045" },
+                { "name": "VIP-3", "domain": "v.kyustendi.homes", "desc": "New" },
+                { "name": "VIP-3", "domain": "p.kyustendi.homes", "desc": "New" },
                 {}
             ], 
             "servers": [

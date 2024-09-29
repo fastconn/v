@@ -14,9 +14,9 @@
             "ws2": [ ],
             "ws3": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.ulyano.pro"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.ulyano.pro"},
-                { "name": "Server-3", "desc": "Global", "domain": "ulyano.pro", "on": "9.28-1030" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.elassona.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.elassona.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "elassona.homes", "on": "9.29-1045" },
 
                 { "name": "Server-1", "desc": "Global", "domain": "trikala.homes", "on": "9.29-1030" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.trikala.homes"},
