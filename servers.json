@@ -51,13 +51,13 @@
                 { "name": "Server-4", "domain": "ds.mavrovo.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "es.mavrovo.homes",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "kruje.homes",          "desc": "Global", "on": "9.28-1030" },
-                { "name": "Server-2", "domain": "b.kruje.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.kruje.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "himare.homes",          "desc": "Global", "on": "9.29-1030" },
+                { "name": "Server-2", "domain": "b.himare.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.himare.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.lezhe.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.lezhe.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "lezhe.homes",         "desc": "Global", "on": "9.28-1030" },   
+                { "name": "Server-4", "domain": "d.berat.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.berat.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "berat.homes",         "desc": "Global", "on": "9.29-1030" },   
 
                 {}
             ],

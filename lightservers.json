@@ -18,9 +18,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "cl.ulyano.pro"},
                 { "name": "Server-3", "desc": "Global", "domain": "ulyano.pro", "on": "9.28-1030" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "kaluzh.pro", "on": "9.28-1030" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.kaluzh.pro"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.kaluzh.pro"},
+                { "name": "Server-1", "desc": "Global", "domain": "trikala.homeso", "on": "9.29-1030" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.trikala.homeso"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.trikala.homeso"},
 
                 {"memo": "light"}
             ]
