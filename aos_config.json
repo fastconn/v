@@ -25,7 +25,7 @@
         "useAdWait": true,
         "resultBackAd": false,
         "hotSplashAd": true,
-        "firstAd": 30,
+        "firstAd": 1,
         "splashSec": 6,
         "nativeOfficial": [1,7],
         "mainAdFlag": 0
@@ -33,6 +33,7 @@
     "adid": {
         "SplashFull": [
             { "pri": 100, "id": "ca-app-pub-3510970371831048/3603214066", "memo": "h917_2300_1.5", "type": "inter", "mmv":"0,2.4.1" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/6775725209", "memo": "h928_1000_4", "type": "native", "mmv": "2.4.0,0" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/7268217241", "memo": "l821", "type": "inter", "mmv":"0,2.4.1" }
         ],
         "Splash-v1.17": [           
@@ -42,7 +43,7 @@
         
         "AnyFull-v2": [           
             { "pri": 95, "id": "ca-app-pub-3510970371831048/5362463384", "memo": "h925_1420_2", "type": "inter", "mmv":"0,2.4.1" },
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/6775725209", "memo": "h928_1000_4", "type": "native", "mmv":"0,2.4.1" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/6775725209", "memo": "h928_1000_4", "type": "native" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/8753552677", "memo": "l928_0.6", "type": "inter", "mmv":"0,2.4.1" }
         ],
         "Anyfull-v1.17": [           
