@@ -6,13 +6,13 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "katerine.homes", "on": "9.28-1750" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.katerine.homes" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.katerine.homes" },
+                { "name": "Server-1", "desc": "Global", "domain": "igoument.homes", "on": "9.30-1015" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.igoument.homes" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.igoument.homes" },
 
-                { "name": "Server-4", "desc": "Global", "domain": "kalabaka.homes", "on": "9.29-1030" },
-                { "name": "Server-5", "desc": "Global", "domain": "an.kalabaka.homes" },
-                { "name": "Server-6", "desc": "Global", "domain": "be.kalabaka.homes" }
+                { "name": "Server-4", "desc": "Global", "domain": "tolomada.homes", "on": "9.30-1015" },
+                { "name": "Server-5", "desc": "Global", "domain": "an.tolomada.homes" },
+                { "name": "Server-6", "desc": "Global", "domain": "be.tolomada.homes" }
             ],
             "ips": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.81",      "desc": "High speed", "on":"4.24,5.22,929" },

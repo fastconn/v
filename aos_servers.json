@@ -52,13 +52,13 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "katerine.homes", "on": "928-1750" },
-                    { "pr": 4, "name": "Global-2", "i": "an.katerine.homes" },
-                    { "pr": 4, "name": "Global-3", "i": "be.katerine.homes" },
+                    { "pr": 4, "name": "Global-1", "i": "igoument.homes", "on": "930-1015" },
+                    { "pr": 4, "name": "Global-2", "i": "an.igoument.homes" },
+                    { "pr": 4, "name": "Global-3", "i": "be.igoument.homes" },
 
-                    { "pr": 4, "name": "Global-4", "i": "kalabaka.homes", "on": "929-1030" },
-                    { "pr": 4, "name": "Global-5", "i": "an.kalabaka.homes" },
-                    { "pr": 4, "name": "Global-6", "i": "be.kalabaka.homes" }
+                    { "pr": 4, "name": "Global-4", "i": "tolomada.homes", "on": "930-1015" },
+                    { "pr": 4, "name": "Global-5", "i": "an.tolomada.homes" },
+                    { "pr": 4, "name": "Global-6", "i": "be.tolomada.homes" }
                 ]
             }
         ],
