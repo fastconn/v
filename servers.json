@@ -35,29 +35,29 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "tepelene.homes",          "desc": "Global", "on": "9.30-1015" },
-                { "name": "Server-2", "domain": "b.tepelene.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.tepelene.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "pyrgos.homes",          "desc": "Global", "on": "10.01-1015" },
+                { "name": "Server-2", "domain": "b.pyrgos.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.pyrgos.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.permet.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.permet.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "permet.homes",         "desc": "Global", "on": "9.30-1015" },   
+                { "name": "Server-4", "domain": "d.kyparissia.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.kyparissia.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "kyparissia.homes",         "desc": "Global", "on": "10.01-1015" },   
 
-                { "name": "Server-1", "domain": "himares.homes",          "desc": "Global", "on": "9.30-1015" },
-                { "name": "Server-2", "domain": "bs.himares.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.himares.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "zaharo.homes",          "desc": "Global", "on": "10.01-1015" },
+                { "name": "Server-2", "domain": "bs.zaharo.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.zaharo.homes",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "pernik.homes",         "desc": "Global", "on": "9.30-1015" },     
-                { "name": "Server-4", "domain": "ds.pernik.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.pernik.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "zakinthos.homes",         "desc": "Global", "on": "10.01-1015" },     
+                { "name": "Server-4", "domain": "ds.zakinthos.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.zakinthos.homes",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "surdulica.homes",          "desc": "Global", "on": "9.30-1015" },
-                { "name": "Server-2", "domain": "b.surdulica.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.surdulica.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "leganas.homes",          "desc": "Global", "on": "10.01-1015" },
+                { "name": "Server-2", "domain": "b.leganas.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.leganas.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.blagoev.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.blagoev.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "blagoev.homes",         "desc": "Global", "on": "9.30-1015" },   
+                { "name": "Server-4", "domain": "d.amaliada.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.amaliada.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "amaliada.homes",         "desc": "Global", "on": "10.01-1015" },   
 
                 {}
             ],
@@ -69,7 +69,7 @@
                 { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.139",       "desc": "High speed",   "on":"2Gb-9.4,908,926" },
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.141",       "desc": "High speed",   "on": "5.26,6.8，6.11，6.17，7.9，7.15,7.18" },
                 { "cc": "us", "city": "Miami",   "ip": "38.91.107.158",       "desc": "High speed",   "on": "6.18，...，7.20,7.28,8.22" },
-                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.146",     "desc": "High speed(New)",   "on": "2Gb,906,916,922，926,928,929" },
+                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.249",     "desc": "High speed(New)",   "on": "2Gb,906,,1001" },
                 { "cc": "gb", "city": "London",     "ip": "68.168.31.244",     "desc": "High speed",   "on": "6.12,9.6" },
                 { "cc": "ca", "city": "Toronto",   "ip": "23.162.200.141",    "desc": "High speed",   "on": "7.11,7.11" },   
                 { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.171",    "desc": "High speed",   "on": "2.19,4.22,6.28" }    
@@ -80,9 +80,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "sarande.homes", "enableCf": true, "desc": "websocket", "on": "9.30-1015" },
-                { "name": "VIP-3", "domain": "v.sarande.homes", "desc": "New" },
-                { "name": "VIP-3", "domain": "p.sarande.homes", "desc": "New" },
+                { "name": "VIP-1", "domain": "pilos.homes", "enableCf": true, "desc": "websocket", "on": "10.01-1015" },
+                { "name": "VIP-3", "domain": "v.pilos.homes", "desc": "New" },
+                { "name": "VIP-3", "domain": "p.pilos.homes", "desc": "New" },
                 {}
             ], 
             "servers": [

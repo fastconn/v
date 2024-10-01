@@ -52,13 +52,13 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "igoument.homes", "on": "930-1015" },
-                    { "pr": 4, "name": "Global-2", "i": "an.igoument.homes" },
-                    { "pr": 4, "name": "Global-3", "i": "be.igoument.homes" },
+                    { "pr": 4, "name": "Global-1", "i": "kalavryta.org", "on": "10.01-1015" },
+                    { "pr": 4, "name": "Global-2", "i": "an.kalavryta.org" },
+                    { "pr": 4, "name": "Global-3", "i": "be.kalavryta.org" },
 
-                    { "pr": 4, "name": "Global-4", "i": "tolomada.homes", "on": "930-1015" },
-                    { "pr": 4, "name": "Global-5", "i": "an.tolomada.homes" },
-                    { "pr": 4, "name": "Global-6", "i": "be.tolomada.homes" }
+                    { "pr": 4, "name": "Global-4", "i": "avlonas.cfd", "on": "10.01-1015" },
+                    { "pr": 4, "name": "Global-5", "i": "an.avlonas.cfd" },
+                    { "pr": 4, "name": "Global-6", "i": "be.avlonas.cfd" }
                 ]
             }
         ],

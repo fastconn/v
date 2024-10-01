@@ -14,13 +14,13 @@
             "ws2": [ ],
             "ws3": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.corfutt.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.corfutt.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "corfutt.homes", "on": "9.30-1015" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.filtiatra.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.filtiatra.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "filtiatra.homes", "on": "10.01-1015" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "ksamil.homes", "on": "9.30-1015" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.ksamil.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.ksamil.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "methoni.homes", "on": "10.01-1015" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.methoni.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.methoni.homes"},
 
                 {"memo": "light"}
             ]
