@@ -56,9 +56,9 @@
                     { "pr": 4, "name": "Global-2", "i": "an.kalavryta.org" },
                     { "pr": 4, "name": "Global-3", "i": "be.kalavryta.org" },
 
-                    { "pr": 4, "name": "Global-4", "i": "avlonas.cfd", "on": "10.01-1015" },
-                    { "pr": 4, "name": "Global-5", "i": "an.avlonas.cfd" },
-                    { "pr": 4, "name": "Global-6", "i": "be.avlonas.cfd" }
+                    { "pr": 4, "name": "Global-4", "i": "orekseos.cfd", "on": "10.02-1015" },
+                    { "pr": 4, "name": "Global-5", "i": "an.orekseos.cfd" },
+                    { "pr": 4, "name": "Global-6", "i": "be.orekseos.cfd" }
                 ]
             }
         ],

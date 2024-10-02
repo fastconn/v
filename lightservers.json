@@ -14,13 +14,13 @@
             "ws2": [ ],
             "ws3": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.filtiatra.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.filtiatra.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "filtiatra.homes", "on": "10.01-1015" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.amalias.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.amalias.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "amalias.homes", "on": "10.02-1015" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "methoni.homes", "on": "10.01-1015" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.methoni.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.methoni.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "silantou.homes", "on": "10.02-1015" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.silantou.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.silantou.homes"},
 
                 {"memo": "light"}
             ]

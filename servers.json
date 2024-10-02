@@ -35,29 +35,29 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "pyrgos.homes",          "desc": "Global", "on": "10.01-1015" },
-                { "name": "Server-2", "domain": "b.pyrgos.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.pyrgos.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "municipal.homes",          "desc": "Global", "on": "10.02-1015" },
+                { "name": "Server-2", "domain": "b.municipal.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.municipal.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.kyparissia.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.kyparissia.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "kyparissia.homes",         "desc": "Global", "on": "10.01-1015" },   
+                { "name": "Server-4", "domain": "d.holocaust.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.holocaust.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "holocaust.homes",         "desc": "Global", "on": "10.02-1015" },   
 
-                { "name": "Server-1", "domain": "zaharo.homes",          "desc": "Global", "on": "10.01-1015" },
-                { "name": "Server-2", "domain": "bs.zaharo.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.zaharo.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "ozymand.homes",          "desc": "Global", "on": "10.02-1015" },
+                { "name": "Server-2", "domain": "bs.ozymand.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.ozymand.homes",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "zakinthos.homes",         "desc": "Global", "on": "10.01-1015" },     
-                { "name": "Server-4", "domain": "ds.zakinthos.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.zakinthos.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "spileou.homes",         "desc": "Global", "on": "10.02-1015" },     
+                { "name": "Server-4", "domain": "ds.spileou.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.spileou.homes",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "leganas.homes",          "desc": "Global", "on": "10.01-1015" },
-                { "name": "Server-2", "domain": "b.leganas.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.leganas.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "petmez.homes",          "desc": "Global", "on": "10.02-1015" },
+                { "name": "Server-2", "domain": "b.petmez.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.petmez.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.amaliada.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.amaliada.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "amaliada.homes",         "desc": "Global", "on": "10.01-1015" },   
+                { "name": "Server-4", "domain": "d.kalavrita.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.kalavrita.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "kalavrita.homes",         "desc": "Global", "on": "10.02-1015" },   
 
                 {}
             ],
@@ -80,9 +80,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "pilos.homes", "enableCf": true, "desc": "websocket", "on": "10.01-1015" },
-                { "name": "VIP-3", "domain": "v.pilos.homes", "desc": "New" },
-                { "name": "VIP-3", "domain": "p.pilos.homes", "desc": "New" },
+                { "name": "VIP-1", "domain": "venizel.homes", "enableCf": true, "desc": "websocket", "on": "10.02-1015" },
+                { "name": "VIP-3", "domain": "v.venizel.homes", "desc": "New" },
+                { "name": "VIP-3", "domain": "p.venizel.homes", "desc": "New" },
                 {}
             ], 
             "servers": [
