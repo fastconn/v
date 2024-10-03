@@ -10,9 +10,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "an.kalavryta.org" },
                 { "name": "Server-3", "desc": "Global", "domain": "be.kalavryta.org" },
 
-                { "name": "Server-4", "desc": "Global", "domain": "orekseos.cfd", "on": "10.02-1015" },
-                { "name": "Server-5", "desc": "Global", "domain": "an.orekseos.cfd" },
-                { "name": "Server-6", "desc": "Global", "domain": "be.orekseos.cfd" }
+                { "name": "Server-4", "desc": "Global", "domain": "anaviriti.info", "on": "10.03-1015" },
+                { "name": "Server-5", "desc": "Global", "domain": "an.anaviriti.info" },
+                { "name": "Server-6", "desc": "Global", "domain": "be.anaviriti.info" }
             ],
             "ips": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.81",      "desc": "High speed", "on":"4.24,5.22,929" },
