@@ -14,13 +14,13 @@
             "ws2": [ ],
             "ws3": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.amalias.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.amalias.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "amalias.homes", "on": "10.02-1015" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.katafygio.org"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.katafygio.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "katafygio.org", "on": "10.03-1045" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "silantou.homes", "on": "10.02-1015" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.silantou.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.silantou.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "sellos.homes", "on": "10.03-1045" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.sellos.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.sellos.homes"},
 
                 {"memo": "light"}
             ]

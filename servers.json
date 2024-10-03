@@ -35,13 +35,13 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "municipal.homes",          "desc": "Global", "on": "10.02-1015" },
-                { "name": "Server-2", "domain": "b.municipal.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.municipal.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "kentriki.homes",          "desc": "Global", "on": "10.03-1045" },
+                { "name": "Server-2", "domain": "b.kentriki.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.kentriki.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.holocaust.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.holocaust.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "holocaust.homes",         "desc": "Global", "on": "10.02-1015" },   
+                { "name": "Server-4", "domain": "d.spartia.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.spartia.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "spartia.homes",         "desc": "Global", "on": "10.03-1045" },   
 
                 { "name": "Server-1", "domain": "ozymand.homes",          "desc": "Global", "on": "10.02-1015" },
                 { "name": "Server-2", "domain": "bs.ozymand.homes",        "desc": "Global" },
@@ -68,8 +68,8 @@
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.47",       "desc": "High speed",   "on":"3Gb-4.5,5.22,9.5" },
                 { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.139",       "desc": "High speed",   "on":"2Gb-9.4,908,926" },
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.141",       "desc": "High speed",   "on": "5.26,6.8，6.11，6.17，7.9，7.15,7.18" },
-                { "cc": "us", "city": "Miami",   "ip": "38.91.106.79",       "desc": "High speed(New)",   "on": "6.18，...，7.20,7.28,8.22,1002" },
-                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.5",     "desc": "High speed(New)",   "on": "2Gb,906,,1001,1002" },
+                { "cc": "us", "city": "Miami",   "ip": "38.91.106.79",       "desc": "High speed",   "on": "6.18，...，7.20,7.28,8.22,1002" },
+                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.5",     "desc": "High speed",   "on": "2Gb,906,,1001,1002" },
                 { "cc": "gb", "city": "London",     "ip": "68.168.31.244",     "desc": "High speed",   "on": "6.12,9.6" },
                 { "cc": "ca", "city": "Toronto",   "ip": "23.162.200.141",    "desc": "High speed",   "on": "7.11,7.11" },   
                 { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.171",    "desc": "High speed",   "on": "2.19,4.22,6.28" }    
@@ -80,9 +80,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "venizel.homes", "enableCf": true, "desc": "websocket", "on": "10.02-1015" },
-                { "name": "VIP-3", "domain": "v.venizel.homes", "desc": "New" },
-                { "name": "VIP-3", "domain": "p.venizel.homes", "desc": "New" },
+                { "name": "VIP-1", "domain": "grigorio.homes", "enableCf": true, "desc": "websocket", "on": "10.03-1045" },
+                { "name": "VIP-3", "domain": "v.grigorio.homes", "desc": "New" },
+                { "name": "VIP-3", "domain": "p.grigorio.homes", "desc": "New" },
                 {}
             ], 
             "servers": [
