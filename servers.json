@@ -65,11 +65,11 @@
                 { "cc": "fr", "city": "Paris",      "ip": "23.162.152.146",      "desc": "High speed",   "on": "3Gb-4.21,4.26，7.6,9.5" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.157.88.20",       "desc": "High speed",   "on":"5.8-5Gb, 35@5.22，73@7.6,9.6" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.129",       "desc": "High speed",   "on":"4.21-3Gb,7.18" },
-                { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.47",       "desc": "High speed",   "on":"3Gb-4.5,5.22,9.5" },
+                { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.27",       "desc": "High speed",   "on":"3Gb-4.5,522,905,1004" },
                 { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.139",       "desc": "High speed",   "on":"2Gb-9.4,908,926" },
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.141",       "desc": "High speed",   "on": "5.26,6.8，6.11，6.17，7.9，7.15,7.18" },
                 { "cc": "us", "city": "Miami",   "ip": "38.91.106.79",       "desc": "High speed",   "on": "6.18，...，7.20,7.28,8.22,1002" },
-                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.5",     "desc": "High speed",   "on": "2Gb,906,,1001,1002" },
+                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.211",     "desc": "High speed",   "on": "2Gb,906,,1001,1002,1004" },
                 { "cc": "gb", "city": "London",     "ip": "68.168.31.244",     "desc": "High speed",   "on": "6.12,9.6" },
                 { "cc": "ca", "city": "Toronto",   "ip": "23.162.200.141",    "desc": "High speed",   "on": "7.11,7.11" },   
                 { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.171",    "desc": "High speed",   "on": "2.19,4.22,6.28" }    
@@ -86,7 +86,7 @@
                 {}
             ], 
             "servers": [
-                { "cc": "us", "city": "New York",       "ip": "38.99.82.221",       "desc": "Performance", "on": "2.19,5.6,5.26，6.12，6.17,7.10" },
+                { "cc": "us", "city": "New York",       "ip": "38.99.82.64",       "desc": "Performance", "on": "2.19,506,526，612，617,710,1004" },
                 { "cc": "gb", "city": "London",         "ip": "57.128.184.119",       "desc": "Performance", "on": "ov9.20" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "38.75.136.20",       "desc": "Performance", "on": "'2.19,5.6,5.26，6.17,8.10" },
 		        { "cc": "de", "city": "Frankfurt",      "ip": "57.129.24.139",    "desc": "Performance", "on": "ov9.20" },
