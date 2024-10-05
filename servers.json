@@ -35,29 +35,29 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "reresi.homes",          "desc": "Global", "on": "10.03-1020" },
-                { "name": "Server-2", "domain": "b.reresi.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.reresi.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "kalveliai.homes",          "desc": "Global", "on": "10.4-1020" },
+                { "name": "Server-2", "domain": "b.kalveliai.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.kalveliai.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.sotiro.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.sotiro.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "sotiro.homes",         "desc": "Global", "on": "10.03-1020" },   
+                { "name": "Server-4", "domain": "d.sumskas.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.sumskas.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "sumskas.homes",         "desc": "Global", "on": "10.4-1020" },   
 
-                { "name": "Server-1", "domain": "makryoro.homes",          "desc": "Global", "on": "10.03-1020" },
-                { "name": "Server-2", "domain": "bs.makryoro.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.makryoro.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "pagiriai.homes",          "desc": "Global", "on": "10.4-1020" },
+                { "name": "Server-2", "domain": "bs.pagiriai.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.pagiriai.homes",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "kokkino.homes",         "desc": "Global", "on": "10.03-1020" },     
-                { "name": "Server-4", "domain": "ds.kokkino.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.kokkino.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "nermezis.homes",         "desc": "Global", "on": "10.4-1020" },     
+                { "name": "Server-4", "domain": "ds.nermezis.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.nermezis.homes",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "chrisovo.homes",          "desc": "Global", "on": "10.03-1020" },
-                { "name": "Server-2", "domain": "b.chrisovo.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.chrisovo.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "rudamina.homes",          "desc": "Global", "on": "10.4-1020" },
+                { "name": "Server-2", "domain": "b.rudamina.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.rudamina.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.limnit.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.limnit.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "limnit.homes",         "desc": "Global", "on": "10.03-1020" },   
+                { "name": "Server-4", "domain": "d.stiriako.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.stiriako.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "stiriako.homes",         "desc": "Global", "on": "10.4-1020" },   
 
                 {}
             ],
@@ -80,9 +80,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "terpsithea.homes", "enableCf": true, "desc": "websocket", "on": "10.03-1020" },
-                { "name": "VIP-3", "domain": "v.terpsithea.homes", "desc": "New" },
-                { "name": "VIP-3", "domain": "p.terpsithea.homes", "desc": "New" },
+                { "name": "VIP-1", "domain": "astravest.homes", "enableCf": true, "desc": "websocket", "on": "10.4-1020" },
+                { "name": "VIP-3", "domain": "v.astravest.homes", "desc": "New" },
+                { "name": "VIP-3", "domain": "p.astravest.homes", "desc": "New" },
                 {}
             ], 
             "servers": [

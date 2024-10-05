@@ -18,9 +18,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "cl.katafygio.org"},
                 { "name": "Server-3", "desc": "Global", "domain": "katafygio.org", "on": "10.03-1045" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "monastir.homes", "on": "10.04-1020" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.monastir.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.monastir.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "zhodishki.homes", "on": "10.05-1020" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.zhodishki.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.zhodishki.homes"},
 
                 {"memo": "light"}
             ]
