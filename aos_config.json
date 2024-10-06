@@ -9,7 +9,7 @@
         "Title": "Update notice",
         "Content": "New version is available, we recommend you update now!",
         "Content2": "The current version will be out of service soon, please update now!",
-        "force": false,
+        "force": true,
         "isGp": true,
         "okStr": "Update Now",
         "cancelStr": "Later",
