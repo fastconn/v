@@ -18,22 +18,19 @@
     "adc": {
         "ver": 20240928,
         "ageM": 5,
-        "maxClick": 30,
-        "maxShow": 100,
+        "maxClick": 100,
+        "maxShow": 200,
         "skipSec": 6,
         "adWait": 7,
-        "useAdWait": true,
-        "resultBackAd": false,
-        "hotSplashAd": true,
-        "firstAd": 1,
+        
         "splashSec": 6,
         "nativeOfficial": [1,7],
         "mainAdFlag": 0
     },
     "adid": {
         "SplashFull": [
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/6892141248", "memo": "h1001_1440_1.5", "type": "inter", "mmv":"0,2.4.1" },
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/7268217241", "memo": "l821", "type": "inter", "mmv":"0,2.4.1" }
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/6892141248", "memo": "h1001_1440_1.5", "type": "inter" },
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/7268217241", "memo": "l821", "type": "inter" }
         ],
         "Splash-v1.17": [           
             { "pri": 100, "id": "ca-app-pub-3510970371831048/6892141248", "type": "inter" },
@@ -41,9 +38,8 @@
         ],
         
         "AnyFull-v2": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/6785934690", "memo": "h1001_1440_1.5", "type": "inter", "mmv":"0,2.4.1" },
-            { "pri": 95, "id": "ca-app-pub-3510970371831048/6775725209", "memo": "h928_1000_4", "type": "native" },
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/8753552677", "memo": "l928_0.6", "type": "inter", "mmv":"0,2.4.1" }
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/2660494023", "memo": "h1001_1440_1.5", "type": "inter" },
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/8753552677", "memo": "l928_0.6", "type": "inter" }
         ],
         "Anyfull-v1.17": [           
             { "pri": 100, "id": "ca-app-pub-3510970371831048/6785934690", "type": "inter" },
