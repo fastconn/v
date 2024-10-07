@@ -35,29 +35,29 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "geraneny.homes",          "desc": "Global", "on": "10.6-1020" },
-                { "name": "Server-2", "domain": "b.geraneny.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.geraneny.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "mozheki.homes",          "desc": "Global", "on": "10.7-1050" },
+                { "name": "Server-2", "domain": "b.mozheki.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.mozheki.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.dievenis.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.dievenis.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "dievenis.homes",         "desc": "Global", "on": "10.6-1020" },   
+                { "name": "Server-4", "domain": "d.dembrovo.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.dembrovo.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "dembrovo.homes",         "desc": "Global", "on": "10.7-1050" },   
 
-                { "name": "Server-1", "domain": "drushk.homes",          "desc": "Global", "on": "10.6-1020" },
-                { "name": "Server-2", "domain": "bs.drushk.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.drushk.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "kamian.homes",          "desc": "Global", "on": "10.7-1050" },
+                { "name": "Server-2", "domain": "bs.kamian.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.kamian.homes",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "pogorod.homes",         "desc": "Global", "on": "10.6-1020" },     
-                { "name": "Server-4", "domain": "ds.pogorod.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.pogorod.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "orlya.homes",         "desc": "Global", "on": "10.7-1050" },     
+                { "name": "Server-4", "domain": "ds.orlya.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.orlya.homes",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "rudiskes.homes",          "desc": "Global", "on": "10.6-1020" },
-                { "name": "Server-2", "domain": "b.rudiskes.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.rudiskes.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "ashmyany.homes",          "desc": "Global", "on": "10.7-1050" },
+                { "name": "Server-2", "domain": "b.ashmyany.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.ashmyany.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.geryaty.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.geryaty.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "geryaty.homes",         "desc": "Global", "on": "10.6-1020" },   
+                { "name": "Server-4", "domain": "d.baruny.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.baruny.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "baruny.homes",         "desc": "Global", "on": "10.7-1050" },   
 
                 {}
             ],
