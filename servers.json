@@ -35,29 +35,29 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "mozheki.homes",          "desc": "Global", "on": "10.7-1050" },
-                { "name": "Server-2", "domain": "b.mozheki.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.mozheki.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "wilai.homes",          "desc": "Global", "on": "10.8-930" },
+                { "name": "Server-2", "domain": "b.wilai.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.wilai.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.dembrovo.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.dembrovo.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "dembrovo.homes",         "desc": "Global", "on": "10.7-1050" },   
+                { "name": "Server-4", "domain": "d.bung.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.bung.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "bung.homes",         "desc": "Global", "on": "10.8-930" },   
 
-                { "name": "Server-1", "domain": "kamian.homes",          "desc": "Global", "on": "10.7-1050" },
-                { "name": "Server-2", "domain": "bs.kamian.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.kamian.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "khok.homes",          "desc": "Global", "on": "10.8-930" },
+                { "name": "Server-2", "domain": "bs.khok.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.khok.homes",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "orlya.homes",         "desc": "Global", "on": "10.7-1050" },     
-                { "name": "Server-4", "domain": "ds.orlya.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.orlya.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "samran.homes",         "desc": "Global", "on": "10.8-930" },     
+                { "name": "Server-4", "domain": "ds.samran.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.samran.homes",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "ashmyany.homes",          "desc": "Global", "on": "10.7-1050" },
-                { "name": "Server-2", "domain": "b.ashmyany.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.ashmyany.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "ditva.homes",          "desc": "Global", "on": "10.8-930" },
+                { "name": "Server-2", "domain": "b.ditva.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.ditva.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.baruny.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.baruny.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "baruny.homes",         "desc": "Global", "on": "10.7-1050" },   
+                { "name": "Server-4", "domain": "d.belista.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.belista.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "belista.homes",         "desc": "Global", "on": "10.8-930" },   
 
                 {}
             ],
@@ -82,7 +82,7 @@
             "ws3": [
                 { "name": "VIP-1", "domain": "valkinin.org", "enableCf": true, "desc": "websocket", "on": "10.6-1020" },
                 { "name": "VIP-3", "domain": "v.valkinin.org", "desc": "New" },
-                { "name": "VIP-3", "domain": "p.valkinin.org", "desc": "New" },
+                { "name": "VIP-3", "domain": "p.sawang.homes", "desc": "New", "on": "10.8-930" },
                 {}
             ], 
             "servers": [
