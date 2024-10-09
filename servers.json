@@ -51,13 +51,13 @@
                 { "name": "Server-4", "domain": "ds.samran.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "es.samran.homes",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "ditva.homes",          "desc": "Global", "on": "10.8-930" },
-                { "name": "Server-2", "domain": "b.ditva.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.ditva.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "shekli.homes",          "desc": "Global", "on": "10.9-1006" },
+                { "name": "Server-2", "domain": "b.shekli.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.shekli.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.belista.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.belista.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "belista.homes",         "desc": "Global", "on": "10.8-930" },   
+                { "name": "Server-4", "domain": "d.kauwan.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.kauwan.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "kauwan.homes",         "desc": "Global", "on": "10.9-1006" },   
 
                 {}
             ],
