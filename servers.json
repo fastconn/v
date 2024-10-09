@@ -47,9 +47,9 @@
                 { "name": "Server-2", "domain": "bs.tailing.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "cs.tailing.homes",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "samran.homes",         "desc": "Global", "on": "10.8-930" },     
-                { "name": "Server-4", "domain": "ds.samran.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.samran.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "wahyue.homes",         "desc": "Global", "on": "10.9-1030" },     
+                { "name": "Server-4", "domain": "ds.wahyue.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.wahyue.homes",       "desc": "Global" },
 
                 { "name": "Server-1", "domain": "shekli.homes",          "desc": "Global", "on": "10.9-1006" },
                 { "name": "Server-2", "domain": "b.shekli.homes",        "desc": "Global" },
@@ -82,7 +82,7 @@
             "ws3": [
                 { "name": "VIP-1", "domain": "valkinin.org", "enableCf": true, "desc": "websocket", "on": "10.6-1020" },
                 { "name": "VIP-3", "domain": "v.valkinin.org", "desc": "New" },
-                { "name": "VIP-3", "domain": "p.sawang.homes", "desc": "New", "on": "10.8-930" },
+                { "name": "VIP-3", "domain": "p.yungshue.homes", "desc": "New", "on": "10.9-1030" },
                 {}
             ], 
             "servers": [

@@ -22,13 +22,13 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.vorana.org"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.vorana.org"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.pakxan.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.pakxan.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "pakxan.homes", "on": "10.8-930" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.shuel.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.shuel.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "shuel.homes", "on": "10.9-1030" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "muang.homes", "on": "10.8-930" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.muang.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.muang.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "taipen.homes", "on": "10.9-1030" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.taipen.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.taipen.homes"},
                 {"memo": "light"}
             ]
         }
