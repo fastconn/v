@@ -43,9 +43,9 @@
                 { "name": "Server-5", "domain": "e.bung.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "bung.homes",         "desc": "Global", "on": "10.8-930" },   
 
-                { "name": "Server-1", "domain": "khok.homes",          "desc": "Global", "on": "10.8-930" },
-                { "name": "Server-2", "domain": "bs.khok.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.khok.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "tailing.homes",          "desc": "Global", "on": "10.9-1006" },
+                { "name": "Server-2", "domain": "bs.tailing.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.tailing.homes",        "desc": "Global" },
 
                 { "name": "Server-6", "domain": "samran.homes",         "desc": "Global", "on": "10.8-930" },     
                 { "name": "Server-4", "domain": "ds.samran.homes",       "desc": "Global" },
