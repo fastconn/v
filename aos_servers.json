@@ -56,9 +56,9 @@
                     { "pr": 4, "name": "Global-2", "i": "an.kalavryta.org" },
                     { "pr": 4, "name": "Global-3", "i": "be.kalavryta.org" },
 
-                    { "pr": 4, "name": "Global-4", "i": "anaviriti.info", "on": "10.03-1015" },
-                    { "pr": 4, "name": "Global-5", "i": "an.anaviriti.info" },
-                    { "pr": 4, "name": "Global-6", "i": "be.anaviriti.info" }
+                    { "pr": 4, "name": "Global-4", "i": "hkddisney.org", "on": "10.10-2100" },
+                    { "pr": 4, "name": "Global-5", "i": "an.hkddisney.org" },
+                    { "pr": 4, "name": "Global-6", "i": "be.hkddisney.org" }
                 ]
             }
         ],
