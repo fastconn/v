@@ -43,21 +43,21 @@
                 { "name": "Server-5", "domain": "e.lammaland.org",       "desc": "Global" },
                 { "name": "Server-6", "domain": "lammaland.org",         "desc": "Global", "on": "10.9-1010" },   
 
-                { "name": "Server-1", "domain": "tailing.homes",          "desc": "Global", "on": "10.9-1006" },
-                { "name": "Server-2", "domain": "bs.tailing.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.tailing.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "taitak.homes",          "desc": "Global", "on": "10.10-930" },
+                { "name": "Server-2", "domain": "bs.taitak.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.taitak.homes",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "wahyue.homes",         "desc": "Global", "on": "10.9-1030" },     
-                { "name": "Server-4", "domain": "ds.wahyue.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.wahyue.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "kenned.homes",         "desc": "Global", "on": "10.10-930" },     
+                { "name": "Server-4", "domain": "ds.kenned.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.kenned.homes",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "shekli.homes",          "desc": "Global", "on": "10.9-1006" },
-                { "name": "Server-2", "domain": "b.shekli.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.shekli.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "mantung.homes",          "desc": "Global", "on": "10.10-930" },
+                { "name": "Server-2", "domain": "b.mantung.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.mantung.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.kauwan.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.kauwan.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "kauwan.homes",         "desc": "Global", "on": "10.9-1006" },   
+                { "name": "Server-4", "domain": "d.wanchai.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.wanchai.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "wanchai.homes",         "desc": "Global", "on": "10.10-930" },   
 
                 {}
             ],
@@ -82,7 +82,7 @@
             "ws3": [
                 { "name": "VIP-1", "domain": "valkinin.org", "enableCf": true, "desc": "websocket", "on": "10.6-1020" },
                 { "name": "VIP-3", "domain": "v.valkinin.org", "desc": "New" },
-                { "name": "VIP-3", "domain": "p.yungshue.homes", "desc": "New", "on": "10.9-1030" },
+                { "name": "VIP-3", "domain": "p.powah.homes", "desc": "New", "on": "10.10-930" },
                 {}
             ], 
             "servers": [
