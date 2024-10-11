@@ -43,21 +43,21 @@
                 { "name": "Server-5", "domain": "e.lammaland.org",       "desc": "Global" },
                 { "name": "Server-6", "domain": "lammaland.org",         "desc": "Global", "on": "10.9-1010" },   
 
-                { "name": "Server-1", "domain": "taitak.homes",          "desc": "Global", "on": "10.10-930" },
-                { "name": "Server-2", "domain": "bs.taitak.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.taitak.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "yichueng.org",          "desc": "Global", "on": "10.11-930" },
+                { "name": "Server-2", "domain": "bs.yichueng.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.yichueng.org",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "kenned.homes",         "desc": "Global", "on": "10.10-930" },     
-                { "name": "Server-4", "domain": "ds.kenned.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.kenned.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "fapeng.org",         "desc": "Global", "on": "10.11-930" },     
+                { "name": "Server-4", "domain": "ds.fapeng.org",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.fapeng.org",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "mantung.homes",          "desc": "Global", "on": "10.10-930" },
-                { "name": "Server-2", "domain": "b.mantung.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.mantung.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "meridia.homes",          "desc": "Global", "on": "10.11-930" },
+                { "name": "Server-2", "domain": "b.meridia.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.meridia.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.wanchai.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.wanchai.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "wanchai.homes",         "desc": "Global", "on": "10.10-930" },   
+                { "name": "Server-4", "domain": "d.yenwah.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.yenwah.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "yenwah.homes",         "desc": "Global", "on": "10.11-930" },   
 
                 {}
             ],
@@ -81,8 +81,8 @@
             "image": "for_VIP",
             "ws3": [
                 { "name": "VIP-1", "domain": "valkinin.org", "enableCf": true, "desc": "websocket", "on": "10.6-1020" },
-                { "name": "VIP-3", "domain": "v.valkinin.org", "desc": "New" },
-                { "name": "VIP-3", "domain": "p.powah.homes", "desc": "New", "on": "10.10-930" },
+                { "name": "VIP-3", "domain": "v.valkinin.org", "desc": "websocket" },
+                { "name": "VIP-3", "domain": "p.valkinin.org", "desc": "websocket" },
                 {}
             ], 
             "servers": [
