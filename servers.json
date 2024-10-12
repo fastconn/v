@@ -51,13 +51,13 @@
                 { "name": "Server-4", "domain": "ds.fapeng.org",       "desc": "Global" },
                 { "name": "Server-5", "domain": "es.fapeng.org",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "meridia.homes",          "desc": "Global", "on": "10.11-930" },
-                { "name": "Server-2", "domain": "b.meridia.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.meridia.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "kikibeach.homes",          "desc": "Global", "on": "10.12-1530" },
+                { "name": "Server-2", "domain": "b.kikibeach.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.kikibeach.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.yenwah.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.yenwah.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "yenwah.homes",         "desc": "Global", "on": "10.11-930" },   
+                { "name": "Server-4", "domain": "d.galang.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.galang.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "galang.homes",         "desc": "Global", "on": "10.12-1530" },   
 
                 {}
             ],
