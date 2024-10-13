@@ -22,13 +22,13 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.vorana.org"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.vorana.org"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.taiyam.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.taiyam.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "taiyam.homes", "on": "10.11-930" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.pantai.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.pantai.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "pantai.homes", "on": "10.13-1200" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "wuchung.homes", "on": "10.11-930" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.wuchung.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.wuchung.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "masjid.homes", "on": "10.13-1200" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.masjid.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.masjid.homes"},
                 {"memo": "light"}
             ]
         }
