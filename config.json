@@ -45,7 +45,7 @@
             "offAdOrder": "in"
         },
         "run3": {
-            "MainOpen": "mainOpen??",
+            "MainOpen": "mainOpen",
             "Connected2": "conn",
             "DidConFull": "anyInter",
             "WillDisFull": "anyInter",
@@ -61,8 +61,7 @@
                 "type": "inter",
                 "ids": [
 					{ "id": "ca-app-pub-3510970371831048/3906701472", "memo":"h1014_1410_4" },
-					{ "id": "ca-app-pub-3510970371831048/5559147777", "memo":"h929_1600_4" },
-					{ "id": "ca-app-pub-3510970371831048/6065789515", "memo":"h1008_1100_4" }
+					{ "id": "ca-app-pub-3510970371831048/5559147777", "memo":"h929_1600_4" }
                 ]
             },
             "anyFull": {
@@ -75,8 +74,8 @@
             "conn": {
                 "type": "native",
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/8088289950", "memo": "m1012_1530" },
-                    { "id": "ca-app-pub-3510970371831048/3998089441", "memo": "m1002_1745" }
+                    { "id": "ca-app-pub-3510970371831048/3998089441", "memo": "m1002_1745" },
+                    { "id": "ca-app-pub-3510970371831048/8088289950", "memo": "m1012_1530" }
                 ]
             },
             "mainOpen": {
