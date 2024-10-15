@@ -22,13 +22,13 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.vorana.org"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.vorana.org"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.penerok.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.penerok.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "penerok.homes", "on": "10.14-1915" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.asuhan.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.asuhan.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "asuhan.homes", "on": "10.15-1145" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "teluk.homes", "on": "10.14-1915" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.teluk.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.teluk.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "panti.homes", "on": "10.15-1145" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.panti.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.panti.homes"},
                 {"memo": "light"}
             ]
         }

@@ -51,13 +51,13 @@
                 { "name": "Server-4", "domain": "ds.fapeng.org",       "desc": "Global" },
                 { "name": "Server-5", "domain": "es.fapeng.org",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "kerang.homes",          "desc": "Global", "on": "10.14-1915" },
-                { "name": "Server-2", "domain": "b.kerang.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.kerang.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "rempang.homes",          "desc": "Global", "on": "10.15-1145" },
+                { "name": "Server-2", "domain": "b.rempang.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.rempang.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.rambah.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.rambah.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "rambah.homes",         "desc": "Global", "on": "10.14-1915" },   
+                { "name": "Server-4", "domain": "d.berelang.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.berelang.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "berelang.homes",         "desc": "Global", "on": "10.15-1145" },   
 
                 {}
             ],
