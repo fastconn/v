@@ -19,7 +19,7 @@
     "ad": {
         "0": {
             "ver": 20240321,
-            "adFullLoadwait": 6,
+            "adFullLoadwait": 8,
             "hotInterval": 2,
             "skipOffset" : 0,
 	    	"max": {
@@ -64,7 +64,7 @@
 			"anyN": {
 				"type": "native", 
 				"ids": [
-					{ "id": "ca-app-pub-3510970371831048/1600517620", "memo":"h929_1815_6" },
+					{ "id": "ca-app-pub-3510970371831048/7216526566", "memo":"h1015_1740_6" },
 					{ "id": "ca-app-pub-3510970371831048/8337414428", "memo":"h926_1945_6" }
 				]
 	 	    },
