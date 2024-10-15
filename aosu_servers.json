@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "vokatier.sbs", "on": "10.15-0050" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.vokatier.sbs" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.vokatier.sbs" },
+                { "name": "Server-1", "desc": "Global", "domain": "kalavryta.org", "on": "10.01-1015" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.kalavryta.org" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.kalavryta.org" },
 
                 { "name": "Server-4", "desc": "Global", "domain": "hkddisney.org", "on": "10.10-2100" },
                 { "name": "Server-5", "desc": "Global", "domain": "an.hkddisney.org" },
