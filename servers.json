@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "v": 20241015,
+    "v": 20241017,
     "shuffleWs": true,
     "cfgs": {
         "ikev2": {
@@ -35,13 +35,13 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "hungshing.org",          "desc": "Global", "on": "10.9-1010" },
-                { "name": "Server-2", "domain": "b.hungshing.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.hungshing.org",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "besar.homes",          "desc": "Global", "on": "10.17-1010" },
+                { "name": "Server-2", "domain": "b.besar.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.besar.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.lammaland.org",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.lammaland.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "lammaland.org",         "desc": "Global", "on": "10.9-1010" },   
+                { "name": "Server-4", "domain": "d.darat.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.darat.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "darat.homes",         "desc": "Global", "on": "10.17-1010" },   
 
                 { "name": "Server-1", "domain": "yichueng.org",          "desc": "Global", "on": "10.11-930" },
                 { "name": "Server-2", "domain": "bs.yichueng.org",        "desc": "Global" },
@@ -51,13 +51,13 @@
                 { "name": "Server-4", "domain": "ds.fapeng.org",       "desc": "Global" },
                 { "name": "Server-5", "domain": "es.fapeng.org",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "medang.homes",          "desc": "Global", "on": "10.16-1010" },
-                { "name": "Server-2", "domain": "b.medang.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.medang.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "mubut.homes",          "desc": "Global", "on": "10.17-1010" },
+                { "name": "Server-2", "domain": "b.mubut.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.mubut.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.termiang.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.termiang.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "termiang.homes",         "desc": "Global", "on": "10.16-1010" },   
+                { "name": "Server-4", "domain": "d.pulan.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.pulan.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "pulan.homes",         "desc": "Global", "on": "10.17-1010" },   
 
                 {}
             ],

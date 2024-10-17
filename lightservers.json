@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "v": 20240707,
+    "v": 20241017,
     "shuffleWs": true,
     "cfgs": {
     },
@@ -22,13 +22,13 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.vorana.org"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.vorana.org"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.benan.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.benan.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "benan.homes", "on": "10.16-1010" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.refuger.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.refuger.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "refuger.homes", "on": "10.17-1010" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "teban.homes", "on": "10.16-1010" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.teban.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.teban.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "pumpun.homes", "on": "10.17-1010" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.pumpun.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.pumpun.homes"},
                 {"memo": "light"}
             ]
         }
