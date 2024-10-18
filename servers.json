@@ -81,8 +81,8 @@
             "image": "for_VIP",
             "ws3": [
                 { "name": "VIP-1", "domain": "valkinin.org", "enableCf": true, "desc": "websocket", "on": "10.6-1020" },
-                { "name": "VIP-3", "domain": "v.valkinin.org", "desc": "websocket" },
-                { "name": "VIP-3", "domain": "p.valkinin.org", "desc": "websocket" },
+                { "name": "VIP-2", "domain": "v.valkinin.org", "desc": "websocket" },
+                { "name": "VIP-4", "domain": "p.valkinin.org", "desc": "websocket" },
                 {}
             ], 
             "servers": [
