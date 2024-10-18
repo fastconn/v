@@ -51,13 +51,13 @@
                 { "name": "Server-4", "domain": "ds.fapeng.org",       "desc": "Global" },
                 { "name": "Server-5", "domain": "es.fapeng.org",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "mubut.homes",          "desc": "Global", "on": "10.17-1010" },
-                { "name": "Server-2", "domain": "b.mubut.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.mubut.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "halon.homes",          "desc": "Global", "on": "10.18-1030" },
+                { "name": "Server-2", "domain": "b.halon.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.halon.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.pulan.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.pulan.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "pulan.homes",         "desc": "Global", "on": "10.17-1010" },   
+                { "name": "Server-4", "domain": "d.bukitk.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.bukitk.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "bukitk.homes",         "desc": "Global", "on": "10.18-1030" },   
 
                 {}
             ],
