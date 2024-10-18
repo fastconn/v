@@ -34,14 +34,14 @@
             "ws2": [
             ],
             "ws3": [
+                { "name": "Server-1", "domain": "hungshing.org",          "desc": "Global", "on": "10.9-1010" },
+                { "name": "Server-2", "domain": "b.hungshing.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.hungshing.org",        "desc": "Global" }, 
 
-                { "name": "Server-1", "domain": "besar.homes",          "desc": "Global", "on": "10.17-1010" },
-                { "name": "Server-2", "domain": "b.besar.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.besar.homes",        "desc": "Global" }, 
+                { "name": "Server-4", "domain": "d.lammaland.org",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.lammaland.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "lammaland.org",         "desc": "Global", "on": "10.9-1010" },   
 
-                { "name": "Server-4", "domain": "d.darat.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.darat.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "darat.homes",         "desc": "Global", "on": "10.17-1010" },   
 
                 { "name": "Server-1", "domain": "yichueng.org",          "desc": "Global", "on": "10.11-930" },
                 { "name": "Server-2", "domain": "bs.yichueng.org",        "desc": "Global" },
