@@ -98,7 +98,7 @@
                 { "cc": "sg", "city": "Singapore",      "ip": "139.162.49.11",      "desc": "Fast", "on": "li-5.10" },
                 { "cc": "au", "city": "Sydney",         "ip": "194.195.248.174",     "desc": "Fast", "on": "li-5.10，7.7" },
                 { "cc": "in", "city": "Mumbai",         "ip": "172.105.56.166",    "desc": "Fast", "on": "li-4.28,5.26，7.7" },
-                { "cc": "hk", "city": "Hong Kong",      "ip": "5.188.33.167",      "desc": "Fast", "on": "5.26"}
+                { "cc": "hk", "city": "Hong Kong",      "ip": "5.188.33.172",      "desc": "Fast", "on": "10.18"}
             ]
         }
     ]
