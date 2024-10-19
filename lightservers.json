@@ -13,7 +13,6 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-
                 { "name": "Server-1", "desc": "Global", "domain": "bl.katafygio.org"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.katafygio.org"},
                 { "name": "Server-3", "desc": "Global", "domain": "katafygio.org", "on": "10.03-1045" },
