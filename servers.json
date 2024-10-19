@@ -43,13 +43,13 @@
                 { "name": "Server-6", "domain": "lammaland.org",         "desc": "Global", "on": "10.9-1010" },   
 
 
-                { "name": "Server-1", "domain": "yichueng.org",          "desc": "Global", "on": "10.11-930" },
-                { "name": "Server-2", "domain": "bs.yichueng.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.yichueng.org",        "desc": "Global" },
+                { "name": "Server-1", "domain": "masjidd.homes",          "desc": "Global", "on": "10.19-1600" },
+                { "name": "Server-2", "domain": "bs.masjidd.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.masjidd.homes",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "fapeng.org",         "desc": "Global", "on": "10.11-930" },     
-                { "name": "Server-4", "domain": "ds.fapeng.org",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.fapeng.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "nurul.homes",         "desc": "Global", "on": "10.19-1600" },     
+                { "name": "Server-4", "domain": "ds.nurul.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.nurul.homes",       "desc": "Global" },
 
                 { "name": "Server-1", "domain": "kandap.homes",          "desc": "Global", "on": "10.19-1030" },
                 { "name": "Server-2", "domain": "b.kandap.homes",        "desc": "Global" },
@@ -90,7 +90,7 @@
                 { "cc": "gb", "city": "London",         "ip": "57.128.184.119",       "desc": "Performance", "on": "ov-9.20" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "38.75.136.20",       "desc": "Performance", "on": "'2.19,5.6,5.26，6.17,8.10" },
 		        { "cc": "de", "city": "Frankfurt",      "ip": "57.129.24.139",    "desc": "Performance", "on": "ov-9.20" },
-                { "cc": "ca", "city": "Toronto",        "ip": "23.162.200.103",      "desc": "Performance", "on": "8.27" },
+                { "cc": "ca", "city": "Toronto",        "ip": "23.162.200.103",      "desc": "Performance", "on": "G4-8.27" },
 		       
                 { "cc": "tr", "city": "Istanbul",      "ip": "103.215.218.222",      "desc": "New", "on": "gcore-9.23" },
                 { "cc": "br", "city": "São Paulo",      "ip": "172.233.19.143",      "desc": "New", "on": "li-9.23" },
