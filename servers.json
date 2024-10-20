@@ -63,7 +63,7 @@
                 {}
             ],
             "servers": [
-                { "cc": "fr", "city": "Paris",      "ip": "23.162.152.146",      "desc": "High speed",   "on": "3Gb-4.21,4.26，7.6,9.5" },
+                { "cc": "fr", "city": "Paris",      "ip": "23.162.152.177",      "desc": "High speed",   "on": "3Gb-4.21,4.26，7.6,9.5,1020" },
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.211",     "desc": "High speed",   "on": "1018" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.157.88.6",       "desc": "High speed",   "on":"5.8-5Gb, 35@5.22，73@7.6,9.6,1018" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.39",       "desc": "High speed",   "on":"4.21-3Gb,7.18,1018" },
