@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 3,
+            "wsGroupSize": 4,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -51,6 +51,14 @@
                 { "name": "Server-4", "domain": "ds.fapeng.org",       "desc": "Global" },
                 { "name": "Server-5", "domain": "es.fapeng.org",       "desc": "Global" },
 
+
+                { "name": "Server-1", "domain": "pelang.org",          "desc": "Global", "on": "10.22-0040" },
+                { "name": "Server-2", "domain": "b.pelang.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.pelang.org",        "desc": "Global" }, 
+
+                { "name": "Server-4", "domain": "d.seribus.org",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.seribus.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "seribus.org",         "desc": "Global", "on": "10.22-0040" },   
 
                 { "name": "Server-1", "domain": "jannah.homes",          "desc": "Global", "on": "10.20-1010" },
                 { "name": "Server-2", "domain": "b.jannah.homes",        "desc": "Global" },
