@@ -43,13 +43,14 @@
                 { "name": "Server-6", "domain": "lammaland.org",         "desc": "Global", "on": "10.9-1010" },   
 
 
-                { "name": "Server-1", "domain": "masjidd.homes",          "desc": "Global", "on": "10.19-1600" },
-                { "name": "Server-2", "domain": "bs.masjidd.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.masjidd.homes",        "desc": "Global" },
+                { "name": "Server-1", "domain": "yichueng.org",          "desc": "Global", "on": "10.11-930" },
+                { "name": "Server-2", "domain": "bs.yichueng.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.yichueng.org",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "nurul.homes",         "desc": "Global", "on": "10.19-1600" },     
-                { "name": "Server-4", "domain": "ds.nurul.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.nurul.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "fapeng.org",         "desc": "Global", "on": "10.11-930" },     
+                { "name": "Server-4", "domain": "ds.fapeng.org",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.fapeng.org",       "desc": "Global" },
+
 
                 { "name": "Server-1", "domain": "jannah.homes",          "desc": "Global", "on": "10.20-1010" },
                 { "name": "Server-2", "domain": "b.jannah.homes",        "desc": "Global" },
