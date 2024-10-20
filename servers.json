@@ -51,13 +51,13 @@
                 { "name": "Server-4", "domain": "ds.nurul.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "es.nurul.homes",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "kandap.homes",          "desc": "Global", "on": "10.19-1030" },
-                { "name": "Server-2", "domain": "b.kandap.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.kandap.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "jannah.homes",          "desc": "Global", "on": "10.20-1010" },
+                { "name": "Server-2", "domain": "b.jannah.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.jannah.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.jembat.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.jembat.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "jembat.homes",         "desc": "Global", "on": "10.19-1030" },   
+                { "name": "Server-4", "domain": "d.sanglar.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.sanglar.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "sanglar.homes",         "desc": "Global", "on": "10.20-1010" },   
 
                 {}
             ],
