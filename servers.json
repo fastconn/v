@@ -103,7 +103,7 @@
 		       
                 { "cc": "tr", "city": "Istanbul",      "ip": "103.215.218.222",      "desc": "New", "on": "gcore-9.23" },
                 { "cc": "br", "city": "São Paulo",      "ip": "172.233.19.143",      "desc": "New", "on": "li-9.23" },
-                { "cc": "jp", "city": "Tokyo",          "ip": "92.38.178.69",    "desc": "New", "on": "gcore-9.23" }, 
+                { "cc": "jp", "city": "Tokyo",          "ip": "92.38.178.93",    "desc": "New", "on": "gcore-10.21" }, 
                 { "cc": "sg", "city": "Singapore",      "ip": "139.162.40.74",      "desc": "New", "on": "li-10.18" },
                 { "cc": "au", "city": "Sydney",         "ip": "172.105.172.209",     "desc": "New", "on": "li-10.18" },
                 { "cc": "in", "city": "Mumbai",         "ip": "172.105.56.166",    "desc": "Fast", "on": "li-4.28,5.26，7.7" },
