@@ -60,13 +60,13 @@
                 { "name": "Server-5", "domain": "e.seribus.org",       "desc": "Global" },
                 { "name": "Server-6", "domain": "seribus.org",         "desc": "Global", "on": "10.21-0040" },   
 
-                { "name": "Server-1", "domain": "jannah.homes",          "desc": "Global", "on": "10.20-1010" },
-                { "name": "Server-2", "domain": "b.jannah.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.jannah.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "dermaga.homes",          "desc": "Global", "on": "10.21-0930" },
+                { "name": "Server-2", "domain": "b.dermaga.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.dermaga.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.sanglar.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.sanglar.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "sanglar.homes",         "desc": "Global", "on": "10.20-1010" },   
+                { "name": "Server-4", "domain": "d.usaha.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.usaha.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "usaha.homes",         "desc": "Global", "on": "10.21-0930" },   
 
                 {}
             ],
