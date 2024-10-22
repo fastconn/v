@@ -96,8 +96,8 @@
                 {}
             ], 
             "servers": [
-                { "cc": "us", "city": "New York",       "ip": "38.99.82.160",       "desc": "Performance", "on": "2-13@0.3G, 2.19,..,710,1004,1022" },
-                { "cc": "us", "city": "Los Angeles",    "ip": "38.75.137.121",       "desc": "Performance", "on": "'3-8@0.3G, 2.19,..，6.17,8.10,1022" },
+                { "cc": "us", "city": "New York",       "ip": "38.99.82.64",       "desc": "Performance", "on": "2-13@0.3G, 2.19,..,710,1004,1022" },
+                { "cc": "us", "city": "Los Angeles",    "ip": "38.75.136.20",       "desc": "Performance", "on": "'3-8@0.3G, 2.19,..，6.17,8.10,1022" },
                 { "cc": "gb", "city": "London",         "ip": "57.128.184.119",   "desc": "Performance", "on": "ov-9.20" },
 		        { "cc": "de", "city": "Frankfurt",      "ip": "57.129.24.139",    "desc": "Performance", "on": "ov-9.20" },
                 { "cc": "ca", "city": "Toronto",        "ip": "23.162.200.103",      "desc": "Performance", "on": "G4-8.27" },
