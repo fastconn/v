@@ -51,6 +51,14 @@
                 { "name": "Server-4", "domain": "ds.fapeng.org",       "desc": "Global" },
                 { "name": "Server-5", "domain": "es.fapeng.org",       "desc": "Global" },
 
+                { "name": "Server-1", "domain": "tampay.info",          "desc": "Global", "on": "10.22-0930" },
+                { "name": "Server-2", "domain": "b.tampay.info",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.tampay.info",        "desc": "Global" }, 
+
+                { "name": "Server-4", "domain": "d.ritchier.info",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.ritchier.info",       "desc": "Global" },
+                { "name": "Server-6", "domain": "ritchier.info",         "desc": "Global", "on": "10.22-0930" },   
+
 
                 { "name": "Server-1", "domain": "serkat.org",          "desc": "Global", "on": "10.25-2000" },
                 { "name": "Server-2", "domain": "b.serkat.org",        "desc": "Global" },
@@ -59,14 +67,6 @@
                 { "name": "Server-4", "domain": "d.masjide.org",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.masjide.org",       "desc": "Global" },
                 { "name": "Server-6", "domain": "masjide.org",         "desc": "Global", "on": "10.25-2000" },   
-
-                { "name": "Server-1", "domain": "tampay.info",          "desc": "Global", "on": "10.22-0930" },
-                { "name": "Server-2", "domain": "b.tampay.info",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.tampay.info",        "desc": "Global" }, 
-
-                { "name": "Server-4", "domain": "d.ritchier.info",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.ritchier.info",       "desc": "Global" },
-                { "name": "Server-6", "domain": "ritchier.info",         "desc": "Global", "on": "10.22-0930" },   
 
                 {}
             ],
