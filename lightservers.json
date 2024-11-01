@@ -13,13 +13,13 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "bl.katafygio.org"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.katafygio.org"},
-                { "name": "Server-3", "desc": "Global", "domain": "katafygio.org", "on": "10.03-1045" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.tasiks.org"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.tasiks.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "tasiks.org", "on": "11.01-0930" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "vorana.org", "on": "10.07-1050" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.vorana.org"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.vorana.org"},
+                { "name": "Server-1", "desc": "Global", "domain": "rangsang.org", "on": "10.01-0930" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.rangsang.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.rangsang.org"},
                 
                 {"memo": "light"}
             ]
