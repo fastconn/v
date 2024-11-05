@@ -52,13 +52,11 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "be.kalavryta.org" },
-                    { "pr": 4, "name": "Global-2", "i": "kalavryta.org", "on": "10.01-1015" },
-                    { "pr": 4, "name": "Global-3", "i": "an.kalavryta.org" },
+                    { "pr": 4, "name": "Global-1", "i": "feldal.org", "on": "11.05-1700" },
 
-                    { "pr": 4, "name": "Global-4", "i": "hkddisney.org", "on": "10.10-2100" },
-                    { "pr": 4, "name": "Global-5", "i": "an.hkddisney.org" },
-                    { "pr": 4, "name": "Global-6", "i": "be.hkddisney.org" }
+                    { "pr": 4, "name": "Global-2", "i": "taward.org", "on": "11.05-1700" },
+                    { "pr": 4, "name": "Global-3", "i": "an.taward.org" },
+                    { "pr": 4, "name": "Global-4", "i": "be.taward.org" }
                 ]
             }
         ],
