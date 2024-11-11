@@ -50,14 +50,15 @@
                 { "name": "Server-6", "domain": "pulau.org",         "desc": "Global", "on": "11.01-930" },     
                 { "name": "Server-4", "domain": "ds.pulau.org",       "desc": "Global" },
                 { "name": "Server-5", "domain": "es.pulau.org",       "desc": "Global" },
+                
 
-                { "name": "Server-1", "domain": "tampay.info",          "desc": "Global", "on": "10.22-0930" },
-                { "name": "Server-2", "domain": "b.tampay.info",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.tampay.info",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "wisatar.info",          "desc": "Global", "on": "11.12-0035" },
+                { "name": "Server-2", "domain": "b.wisatar.info",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.wisatar.info",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.ritchier.info",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.ritchier.info",       "desc": "Global" },
-                { "name": "Server-6", "domain": "ritchier.info",         "desc": "Global", "on": "10.22-0930" },   
+                { "name": "Server-4", "domain": "d.telunas.info",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.telunas.info",       "desc": "Global" },
+                { "name": "Server-6", "domain": "telunas.info",         "desc": "Global", "on": "11.12-0035" },   
 
 
                 { "name": "Server-1", "domain": "serkat.org",          "desc": "Global", "on": "10.25-2000" },
