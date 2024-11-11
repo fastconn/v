@@ -100,7 +100,7 @@
                 { "cc": "us", "city": "Los Angeles",    "ip": "38.75.137.125",       "desc": "Performance", "on": "'3-8@0.3G, 2.19,..，6.17,8.10,1023,1101" },
                 { "cc": "gb", "city": "London",         "ip": "57.128.184.121",   "desc": "Performance", "on": "ov-1101" },
 		        { "cc": "de", "city": "Frankfurt",      "ip": "57.129.25.20",    "desc": "Performance", "on": "ov-1101" },
-                { "cc": "ca", "city": "Toronto",        "ip": "23.162.200.103",      "desc": "Performance", "on": "G4-8.27" },
+                { "cc": "ca", "city": "Toronto",        "ip": "23.162.200.94",      "desc": "Performance", "on": "G3-11.11" },
 		       
                 { "cc": "tr", "city": "Istanbul",      "ip": "103.215.218.222",     "desc": "New",  "on": "gcore-9.23" },
                 { "cc": "jp", "city": "Tokyo",          "ip": "92.38.178.93",       "desc": "New",  "on": "gcore-10.21" }, 
@@ -109,7 +109,7 @@
                 { "cc": "br", "city": "São Paulo",      "ip": "172.233.19.143",     "desc": "New",  "on": "li-9.23" },
                 { "cc": "sg", "city": "Singapore",      "ip": "139.162.40.74",      "desc": "New",  "on": "li-10.18" },
                 { "cc": "au", "city": "Sydney",         "ip": "172.105.172.209",    "desc": "New",  "on": "li-10.18" },
-                { "cc": "in", "city": "Mumbai",         "ip": "172.105.56.166",     "desc": "Fast", "on": "li-4.28,5.26，7.7" }
+                { "cc": "in", "city": "Mumbai",         "ip": "172.105.56.166",     "desc": "Fast", "on": "li@2TB,11.11" }
             ]
         }
     ]
