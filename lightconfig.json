@@ -49,8 +49,8 @@
 			"HotFull": "anyI",
 			"AnyInter": "anyI",
 			"AnyFull": "anyN",
-            "OffNative": "offN",
-            "OffInter": "offI",
+            "OffNative": "offN_d",
+            "OffInter": "offI_d",
 			"Connected2": "native2"
 		},
         "sets": {
@@ -65,7 +65,7 @@
 				"type": "native", 
 				"ids": [
 					{ "id": "ca-app-pub-3510970371831048/8034071170", "memo":"m1113_2100" },
-					{ "id": "ca-app-pub-3510970371831048/5967899785", "memo":"h1107_1230_6" }
+					{ "id": "ca-app-pub-3510970371831048/7047787980", "memo":"h1115-1600-4" }
 				]
 	 	    },
 			"native2": {
