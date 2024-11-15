@@ -38,9 +38,9 @@
                 { "name": "Server-2", "domain": "b.tinombo.shop",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.tinombo.shop",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.sidoan.shop",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.sidoan.shop",       "desc": "Global" },
-                { "name": "Server-6", "domain": "sidoan.shop",         "desc": "Global", "on": "11.15-1740" },   
+                { "name": "Server-4", "domain": "d.lamboen.shop",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.lamboen.shop",       "desc": "Global" },
+                { "name": "Server-6", "domain": "lamboen.shop",         "desc": "Global", "on": "11.15-1740" },   
 
 
                 { "name": "Server-1", "domain": "putihb.org",          "desc": "Global", "on": "11.01-930" },
