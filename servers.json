@@ -38,9 +38,9 @@
                 { "name": "Server-2", "domain": "b.parigir.shop",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.parigir.shop",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.pasaku.org",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.pasaku.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "pasaku.org",         "desc": "Global", "on": "11.15-1040" },   
+                { "name": "Server-4", "domain": "d.pasaku.shop",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.pasaku.shop",       "desc": "Global" },
+                { "name": "Server-6", "domain": "pasaku.shop",         "desc": "Global", "on": "11.15-1040" },   
 
 
                 { "name": "Server-1", "domain": "tinombo.shop",          "desc": "Global", "on": "11.15-1040" },
