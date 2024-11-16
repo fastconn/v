@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 3,
+            "wsGroupSize": 4,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -42,14 +42,21 @@
                 { "name": "Server-5", "domain": "e.lwenlock.org",       "desc": "Global" },
                 { "name": "Server-6", "domain": "lwenlock.org",         "desc": "Global", "on": "11.16-1800" },   
                 
+                { "name": "Server-1", "domain": "putihb.org",          "desc": "Global", "on": "11.01-930" },
+                { "name": "Server-2", "domain": "bs.putihb.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.putihb.org",        "desc": "Global" },
 
-                { "name": "Server-1", "domain": "wisatar.info",          "desc": "Global", "on": "11.12-0035" },
-                { "name": "Server-2", "domain": "b.wisatar.info",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.wisatar.info",        "desc": "Global" }, 
+                { "name": "Server-6", "domain": "pulau.org",         "desc": "Global", "on": "11.01-930" },     
+                { "name": "Server-4", "domain": "ds.pulau.org",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.pulau.org",       "desc": "Global" },
+                
+                { "name": "Server-1", "domain": "archeriver.info",          "desc": "Global", "on": "11.16-1800" },
+                { "name": "Server-2", "domain": "b.archeriver.info",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.archeriver.info",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.telunas.info",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.telunas.info",       "desc": "Global" },
-                { "name": "Server-6", "domain": "telunas.info",         "desc": "Global", "on": "11.12-0035" },   
+                { "name": "Server-4", "domain": "d.lockhat.info",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.lockhat.info",       "desc": "Global" },
+                { "name": "Server-6", "domain": "lockhat.info",         "desc": "Global", "on": "11.16-1800" },   
 
 
                 { "name": "Server-1", "domain": "missionriver.org",          "desc": "Global", "on": "11.16-1800" },
