@@ -29,27 +29,18 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 4,
+            "wsGroupSize": 3,
             "wsNameAuto": true,
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "tinombo.shop",          "desc": "Global", "on": "11.15-1740" },
-                { "name": "Server-2", "domain": "b.tinombo.shop",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.tinombo.shop",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "bamaga.org",          "desc": "Global", "on": "11.16-1800" },
+                { "name": "Server-2", "domain": "b.bamaga.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.bamaga.org",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.lamboen.shop",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.lamboen.shop",       "desc": "Global" },
-                { "name": "Server-6", "domain": "lamboen.shop",         "desc": "Global", "on": "11.15-1740" },   
-
-
-                { "name": "Server-1", "domain": "putihb.org",          "desc": "Global", "on": "11.01-930" },
-                { "name": "Server-2", "domain": "bs.putihb.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.putihb.org",        "desc": "Global" },
-
-                { "name": "Server-6", "domain": "pulau.org",         "desc": "Global", "on": "11.01-930" },     
-                { "name": "Server-4", "domain": "ds.pulau.org",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.pulau.org",       "desc": "Global" },
+                { "name": "Server-4", "domain": "d.lwenlock.org",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.lwenlock.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "lwenlock.org",         "desc": "Global", "on": "11.16-1800" },   
                 
 
                 { "name": "Server-1", "domain": "wisatar.info",          "desc": "Global", "on": "11.12-0035" },
@@ -61,13 +52,13 @@
                 { "name": "Server-6", "domain": "telunas.info",         "desc": "Global", "on": "11.12-0035" },   
 
 
-                { "name": "Server-1", "domain": "serkat.org",          "desc": "Global", "on": "10.25-2000" },
-                { "name": "Server-2", "domain": "b.serkat.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.serkat.org",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "missionriver.org",          "desc": "Global", "on": "11.16-1800" },
+                { "name": "Server-2", "domain": "b.missionriver.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.missionriver.org",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.gununge.org",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.gununge.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "gununge.org",         "desc": "Global", "on": "11.11" },   
+                { "name": "Server-4", "domain": "d.mapoon.org",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.mapoon.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "mapoon.org",         "desc": "Global", "on": "11.16-1800" },   
 
                 {}
             ],
