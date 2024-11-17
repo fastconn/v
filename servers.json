@@ -42,13 +42,13 @@
                 { "name": "Server-5", "domain": "e.wenlock.org",       "desc": "Global" },
                 { "name": "Server-6", "domain": "wenlock.org",         "desc": "Global", "on": "11.17-1700" },   
                 
-                { "name": "Server-1", "domain": "putihb.org",          "desc": "Global", "on": "11.01-930" },
-                { "name": "Server-2", "domain": "bs.putihb.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.putihb.org",        "desc": "Global" },
+                { "name": "Server-1", "domain": "jayakoka.org",          "desc": "Global", "on": "11.17-1800" },
+                { "name": "Server-2", "domain": "bs.jayakoka.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.jayakoka.org",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "pulau.org",         "desc": "Global", "on": "11.01-930" },     
-                { "name": "Server-4", "domain": "ds.pulau.org",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.pulau.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "northcurup.org",         "desc": "Global", "on": "11.17-1800" },     
+                { "name": "Server-4", "domain": "ds.northcurup.org",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.northcurup.org",       "desc": "Global" },
                 
                 { "name": "Server-1", "domain": "archeriver.info",          "desc": "Global", "on": "11.16-1800" },
                 { "name": "Server-2", "domain": "b.archeriver.info",        "desc": "Global" },
