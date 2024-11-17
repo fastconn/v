@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "bubur.org", "on": "11.07-0000" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.bubur.org"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.bubur.org"},
+                { "name": "Server-1", "desc": "Global", "domain": "tolitoli.shop", "on": "11.17-1750" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.tolitoli.shop"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.tolitoli.shop"},
 
                 { "name": "Server-1", "desc": "Global", "domain": "bl.negerie.org"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.negerie.org"},
