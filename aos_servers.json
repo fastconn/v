@@ -52,11 +52,11 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "feldal.org", "on": "11.05-1700" },
+                    { "pr": 4, "name": "Global-1", "i": "xaafun.info", "on": "11.23-1000" },
 
-                    { "pr": 4, "name": "Global-2", "i": "taward.org", "on": "11.05-1700" },
-                    { "pr": 4, "name": "Global-3", "i": "an.taward.org" },
-                    { "pr": 4, "name": "Global-4", "i": "be.taward.org" }
+                    { "pr": 4, "name": "Global-2", "i": "ashiras.org", "on": "11.23-1030" },
+                    { "pr": 4, "name": "Global-3", "i": "an.ashiras.org" },
+                    { "pr": 4, "name": "Global-4", "i": "be.ashiras.org" }
                 ]
             }
         ],

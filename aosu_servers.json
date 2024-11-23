@@ -10,9 +10,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "xaafun.info", "on": "11.23-1000" },
                 { "name": "Server-3", "desc": "Global", "domain": "an.xaafun.info" },
 
-                { "name": "Server-4", "desc": "Global", "domain": "taward.org", "on": "11.05-1700" },
-                { "name": "Server-5", "desc": "Global", "domain": "an.taward.org" },
-                { "name": "Server-6", "desc": "Global", "domain": "be.taward.org" }
+                { "name": "Server-4", "desc": "Global", "domain": "ashiras.org", "on": "11.23-1030" },
+                { "name": "Server-5", "desc": "Global", "domain": "an.ashiras.org" },
+                { "name": "Server-6", "desc": "Global", "domain": "be.ashiras.org" }
             ],
             "ips": [
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.66",     "desc": "High speed(New)", "on": "4-14@5.25,1021,1031" },
