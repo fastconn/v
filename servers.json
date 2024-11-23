@@ -50,13 +50,13 @@
                 { "name": "Server-4", "domain": "ds.ceelayo.org",       "desc": "Global" },
                 { "name": "Server-5", "domain": "es.ceelayo.org",       "desc": "Global" },
                 
-                { "name": "Server-1", "domain": "archeriver.info",          "desc": "Global", "on": "11.16-1800", "memo":"nc-2" },
-                { "name": "Server-2", "domain": "b.archeriver.info",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.archeriver.info",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "hordio.info",          "desc": "Global", "on": "11.23-1000", "memo":"nc-2" },
+                { "name": "Server-2", "domain": "b.hordio.info",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.hordio.info",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.lockhat.info",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.lockhat.info",       "desc": "Global" },
-                { "name": "Server-6", "domain": "lockhat.info",         "desc": "Global", "on": "11.16-1800", "memo":"nc-2" },   
+                { "name": "Server-4", "domain": "d.qorrax.info",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.qorrax.info",       "desc": "Global" },
+                { "name": "Server-6", "domain": "qorrax.info",         "desc": "Global", "on": "11.23-1000", "memo":"nc-2" },   
 
 
                 { "name": "Server-1", "domain": "majiyoh.org",          "desc": "Global", "on": "11.23-0930" },
