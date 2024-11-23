@@ -13,13 +13,13 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "muarabelti.org", "on": "11.18-0930" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.muarabelti.org"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.muarabelti.org"},
+                { "name": "Server-1", "desc": "Global", "domain": "jingada.org", "on": "11.23-0930" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.jingada.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.jingada.org"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.merantau.org"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.merantau.org"},
-                { "name": "Server-3", "desc": "Global", "domain": "merantau.org", "on": "11.18-0930" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.bacaad.org"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.bacaad.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "bacaad.org", "on": "11.23-0930" },
                 
                 {"memo": "light"}
             ]

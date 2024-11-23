@@ -34,38 +34,38 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "bamaga.org",          "desc": "Global", "on": "11.16-1800" },
-                { "name": "Server-2", "domain": "b.bamaga.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.bamaga.org",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "yalho.org",          "desc": "Global", "on": "11.23-0930" },
+                { "name": "Server-2", "domain": "b.yalho.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.yalho.org",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.wenlock.org",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.wenlock.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "wenlock.org",         "desc": "Global", "on": "11.17-1700" },   
+                { "name": "Server-4", "domain": "d.kalabeyr.org",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.kalabeyr.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "kalabeyr.org",         "desc": "Global", "on": "11.23-0930" },   
                 
-                { "name": "Server-1", "domain": "jayakoka.org",          "desc": "Global", "on": "11.17-1800" },
-                { "name": "Server-2", "domain": "bs.jayakoka.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.jayakoka.org",        "desc": "Global" },
+                { "name": "Server-1", "domain": "galgala.org",          "desc": "Global", "on": "11.23-0930" },
+                { "name": "Server-2", "domain": "bs.galgala.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "cs.galgala.org",        "desc": "Global" },
 
-                { "name": "Server-6", "domain": "northcurup.org",         "desc": "Global", "on": "11.17-1800" },     
-                { "name": "Server-4", "domain": "ds.northcurup.org",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.northcurup.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "ceelayo.org",         "desc": "Global", "on": "11.23-0930" },     
+                { "name": "Server-4", "domain": "ds.ceelayo.org",       "desc": "Global" },
+                { "name": "Server-5", "domain": "es.ceelayo.org",       "desc": "Global" },
                 
-                { "name": "Server-1", "domain": "archeriver.info",          "desc": "Global", "on": "11.16-1800" },
+                { "name": "Server-1", "domain": "archeriver.info",          "desc": "Global", "on": "11.16-1800", "memo":"nc-2" },
                 { "name": "Server-2", "domain": "b.archeriver.info",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.archeriver.info",        "desc": "Global" }, 
 
                 { "name": "Server-4", "domain": "d.lockhat.info",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.lockhat.info",       "desc": "Global" },
-                { "name": "Server-6", "domain": "lockhat.info",         "desc": "Global", "on": "11.16-1800" },   
+                { "name": "Server-6", "domain": "lockhat.info",         "desc": "Global", "on": "11.16-1800", "memo":"nc-2" },   
 
 
-                { "name": "Server-1", "domain": "missionriver.org",          "desc": "Global", "on": "11.16-1800" },
-                { "name": "Server-2", "domain": "b.missionriver.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.missionriver.org",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "majiyoh.org",          "desc": "Global", "on": "11.23-0930" },
+                { "name": "Server-2", "domain": "b.majiyoh.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.majiyoh.org",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.mapoon.org",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.mapoon.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "mapoon.org",         "desc": "Global", "on": "11.16-1800" },   
+                { "name": "Server-4", "domain": "d.bosasot.org",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.bosasot.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "bosasot.org",         "desc": "Global", "on": "11.23-0930" },   
 
                 {}
             ],
@@ -90,9 +90,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "pelabu.org", "enableCf": true, "desc": "websocket", "on": "11.11" },
-                { "name": "VIP-2", "domain": "v.pelabu.org", "desc": "websocket" },
-                { "name": "VIP-3", "domain": "p.pelabu.org", "desc": "websocket" },
+                { "name": "VIP-1", "domain": "tisjiic.org", "enableCf": true, "desc": "websocket", "on": "11.23-0930" },
+                { "name": "VIP-2", "domain": "v.tisjiic.org", "desc": "websocket" },
+                { "name": "VIP-3", "domain": "p.tisjiic.org", "desc": "websocket" },
                 {}
             ], 
             "servers": [
