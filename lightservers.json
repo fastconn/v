@@ -13,13 +13,13 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "jingada.org", "on": "11.23-0930" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.jingada.org"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.jingada.org"},
+                { "name": "Server-1", "desc": "Global", "domain": "bradashe.com", "on": "11.24-0930" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.bradashe.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.bradashe.com"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.bacaad.org"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.bacaad.org"},
-                { "name": "Server-3", "desc": "Global", "domain": "bacaad.org", "on": "11.23-0930" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.doberdol.com"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.doberdol.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "doberdol.com", "on": "11.24-0930" },
                 
                 {"memo": "light"}
             ]

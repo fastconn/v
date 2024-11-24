@@ -29,43 +29,19 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 4,
+            "wsGroupSize": 1,
             "wsNameAuto": true,
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "yalho.org",          "desc": "Global", "on": "11.23-0930" },
-                { "name": "Server-2", "domain": "b.yalho.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.yalho.org",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "pakashtice.com",          "desc": "Global", "on": "11.24-0930" },
+                { "name": "Server-2", "domain": "b.pakashtice.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.pakashtice.com",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.kalabeyr.org",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.kalabeyr.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "kalabeyr.org",         "desc": "Global", "on": "11.23-0930" },   
+                { "name": "Server-4", "domain": "d.pebyhe.com",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.pebyhe.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "pebyhe.com",         "desc": "Global", "on": "11.24-0930" },   
                 
-                { "name": "Server-1", "domain": "galgala.org",          "desc": "Global", "on": "11.23-0930" },
-                { "name": "Server-2", "domain": "bs.galgala.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "cs.galgala.org",        "desc": "Global" },
-
-                { "name": "Server-6", "domain": "ceelayo.org",         "desc": "Global", "on": "11.23-0930" },     
-                { "name": "Server-4", "domain": "ds.ceelayo.org",       "desc": "Global" },
-                { "name": "Server-5", "domain": "es.ceelayo.org",       "desc": "Global" },
-                
-                { "name": "Server-1", "domain": "hordio.info",          "desc": "Global", "on": "11.23-1000", "memo":"nc-2" },
-                { "name": "Server-2", "domain": "b.hordio.info",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.hordio.info",        "desc": "Global" }, 
-
-                { "name": "Server-4", "domain": "d.qorrax.info",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.qorrax.info",       "desc": "Global" },
-                { "name": "Server-6", "domain": "qorrax.info",         "desc": "Global", "on": "11.23-1000", "memo":"nc-2" },   
-
-
-                { "name": "Server-1", "domain": "majiyoh.org",          "desc": "Global", "on": "11.23-0930" },
-                { "name": "Server-2", "domain": "b.majiyoh.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.majiyoh.org",        "desc": "Global" }, 
-
-                { "name": "Server-4", "domain": "d.bosasot.org",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.bosasot.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "bosasot.org",         "desc": "Global", "on": "11.23-0930" },   
 
                 {}
             ],
@@ -90,9 +66,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "tisjiic.org", "enableCf": true, "desc": "websocket", "on": "11.23-0930" },
-                { "name": "VIP-2", "domain": "v.tisjiic.org", "desc": "websocket" },
-                { "name": "VIP-3", "domain": "p.tisjiic.org", "desc": "websocket" },
+                { "name": "VIP-1", "domain": "metehi.com", "enableCf": true, "desc": "websocket", "on": "11.24-0930" },
+                { "name": "VIP-2", "domain": "v.metehi.com", "desc": "websocket" },
+                { "name": "VIP-3", "domain": "p.metehi.com", "desc": "websocket" },
                 {}
             ], 
             "servers": [
