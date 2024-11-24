@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 1,
+            "wsGroupSize": 2,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -40,8 +40,15 @@
 
                 { "name": "Server-4", "domain": "d.pebyhe.com",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.pebyhe.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "pebyhe.com",         "desc": "Global", "on": "11.24-0930" },   
+                { "name": "Server-6", "domain": "pebyhe.com",         "desc": "Global", "on": "11.24-0930" }, 
                 
+                { "name": "Server-1", "domain": "surkish.homes",          "desc": "Global", "on": "11.24-1020" },
+                { "name": "Server-2", "domain": "b.surkish.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.surkish.homes",        "desc": "Global" },   
+
+                { "name": "Server-4", "domain": "d.lapash.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.lapash.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "lapash.homes",         "desc": "Global", "on": "11.24-1020" },   
 
                 {}
             ],
