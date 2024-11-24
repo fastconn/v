@@ -6,13 +6,13 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "be.xaafun.info" },
-                { "name": "Server-2", "desc": "Global", "domain": "xaafun.info", "on": "11.23-1000" },
-                { "name": "Server-3", "desc": "Global", "domain": "an.xaafun.info" },
+                { "name": "Server-1", "desc": "Global", "domain": "be.surkishi.com" },
+                { "name": "Server-2", "desc": "Global", "domain": "surkishi.com", "on": "11.24-1000" },
+                { "name": "Server-3", "desc": "Global", "domain": "an.surkishi.com" },
 
-                { "name": "Server-4", "desc": "Global", "domain": "ashiras.org", "on": "11.23-1030" },
-                { "name": "Server-5", "desc": "Global", "domain": "an.ashiras.org" },
-                { "name": "Server-6", "desc": "Global", "domain": "be.ashiras.org" }
+                { "name": "Server-4", "desc": "Global", "domain": "balofcia.com", "on": "11.24-1000" },
+                { "name": "Server-5", "desc": "Global", "domain": "an.balofcia.com" },
+                { "name": "Server-6", "desc": "Global", "domain": "be.balofcia.com" }
             ],
             "ips": [
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.66",     "desc": "High speed(New)", "on": "4-14@5.25,1021,1031" },

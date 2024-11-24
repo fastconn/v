@@ -52,11 +52,11 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "xaafun.info", "on": "11.23-1000" },
+                    { "pr": 4, "name": "Global-1", "i": "surkishi.com", "on": "11.24-1000" },
 
-                    { "pr": 4, "name": "Global-2", "i": "ashiras.org", "on": "11.23-1030" },
-                    { "pr": 4, "name": "Global-3", "i": "an.ashiras.org" },
-                    { "pr": 4, "name": "Global-4", "i": "be.ashiras.org" }
+                    { "pr": 4, "name": "Global-2", "i": "balofcia.com", "on": "11.24-1000" },
+                    { "pr": 4, "name": "Global-3", "i": "an.balofcia.com" },
+                    { "pr": 4, "name": "Global-4", "i": "be.balofcia.com" }
                 ]
             }
         ],
