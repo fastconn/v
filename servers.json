@@ -34,9 +34,9 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "maychew.homes",          "desc": "Global", "on": "11.25-0810" },
-                { "name": "Server-2", "domain": "b.maychew.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.maychew.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "lalibela.homes",          "desc": "Global", "on": "11.25-1920" },
+                { "name": "Server-2", "domain": "b.lalibela.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.lalibela.homes",        "desc": "Global" }, 
 
                 { "name": "Server-4", "domain": "d.alamanta.homes",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.alamanta.homes",       "desc": "Global" },
