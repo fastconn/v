@@ -34,6 +34,9 @@
             "ws2": [
             ],
             "ws3": [
+                { "name": "Server-1", "domain": "sponsender.com",          "desc": "Global", "on": "11.26-0130" },
+                { "name": "Server-2", "domain": "b.sponsender.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.sponsender.com",        "desc": "Global" }, 
 
                 { "name": "Server-4", "domain": "d.ourenses.com",       "desc": "Global" },
                 { "name": "Server-5", "domain": "e.ourenses.com",       "desc": "Global" },
