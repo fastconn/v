@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "be.canaveses.com" },
-                { "name": "Server-2", "desc": "Global", "domain": "canaveses.com", "on": "11.26-0710" },
-                { "name": "Server-3", "desc": "Global", "domain": "an.canaveses.com" }
+                { "name": "Server-1", "desc": "Global", "domain": "be.celorico.homes" },
+                { "name": "Server-2", "desc": "Global", "domain": "celorico.homes", "on": "11.26-0735" },
+                { "name": "Server-3", "desc": "Global", "domain": "an.celorico.homes" }
             ],
             "ips": [
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.66",     "desc": "High speed(New)", "on": "4-14@5.25,1021,1031" },

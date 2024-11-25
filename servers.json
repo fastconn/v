@@ -34,9 +34,13 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-4", "domain": "d.cabecerias.com",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.cabecerias.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "cabecerias.com",         "desc": "Global", "on": "11.26-0710" }, 
+                { "name": "Server-1", "domain": "penalva.homes",          "desc": "Global", "on": "11.26-0735" },
+                { "name": "Server-2", "domain": "b.penalva.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.penalva.homes",        "desc": "Global" }, 
+
+                { "name": "Server-4", "domain": "d.vilanova.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.vilanova.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "vilanova.homes",         "desc": "Global", "on": "11.26-0735" }, 
 
                 {}
             ],
@@ -61,7 +65,7 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "v.cabecerias.com", "enableCf": false, "desc": "websocket", "on": "11.26-0710" },
+                { "name": "VIP-1", "domain": "v.penalva.homes", "enableCf": false, "desc": "websocket", "on": "11.26-0130" },
                 {}
             ], 
             "servers": [
