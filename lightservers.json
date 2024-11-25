@@ -19,7 +19,7 @@
 
                 { "name": "Server-4", "desc": "Global", "domain": "bl.vimisso.org"},
                 { "name": "Server-5", "desc": "Global", "domain": "cl.vimisso.org"},
-                { "name": "Server-6", "desc": "Global", "domain": "vimisso.org", "on": "11.25-0740" },
+                { "name": "Server-6", "desc": "Global", "domain": "vimisso.org", "on": "11.26-0740" },
                    
                 {"memo": "light"}
             ]
