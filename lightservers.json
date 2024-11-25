@@ -13,13 +13,13 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "orchclub.com", "on": "11.25-1930" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.orchclub.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.orchclub.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "obarcol.com", "on": "11.25-2345" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.obarcol.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.obarcol.com"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.yangudi.homes"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.yangudi.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "yangudi.homes", "on": "11.25-0810" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.ponferada.com"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.ponferada.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "ponferada.com", "on": "11.25-2345" },
                 
                 {"memo": "light"}
             ]
