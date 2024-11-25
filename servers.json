@@ -42,13 +42,13 @@
                 { "name": "Server-5", "domain": "e.alamanta.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "alamanta.homes",         "desc": "Global", "on": "11.25-0810" }, 
                 
-                { "name": "Server-1", "domain": "barilev.homes",          "desc": "Global", "on": "11.25-0810" },
-                { "name": "Server-2", "domain": "b.barilev.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.barilev.homes",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "fisterera.com",          "desc": "Global", "on": "11.25-1950" },
+                { "name": "Server-2", "domain": "b.fisterera.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.fisterera.com",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "d.llamnik.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.llamnik.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "llamnik.homes",         "desc": "Global", "on": "11.25-0810" },   
+                { "name": "Server-4", "domain": "d.allades.com",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.allades.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "allades.com",         "desc": "Global", "on": "11.25-1950" },   
 
                 {}
             ],
