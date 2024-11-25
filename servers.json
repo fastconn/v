@@ -34,13 +34,10 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "pontevedrar.com",          "desc": "Global", "on": "11.25-2355" },
-                { "name": "Server-2", "domain": "b.pontevedrar.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.pontevedrar.com",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.vilagarci.com",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.vilagarci.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "vilagarci.com",         "desc": "Global", "on": "11.25-2355" }, 
+                { "name": "Server-4", "domain": "d.ourenses.com",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.ourenses.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "ourenses.com",         "desc": "Global", "on": "11.26-0045" }, 
 
                 {}
             ],
