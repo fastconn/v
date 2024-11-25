@@ -13,13 +13,10 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "obarcol.com", "on": "11.25-2345" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.obarcol.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.obarcol.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "villarealonline.com", "on": "11.26-0100" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.villarealonline.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.villarealonline.com"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.ponferada.com"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.ponferada.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "ponferada.com", "on": "11.25-2345" },
                 
                 {"memo": "light"}
             ]
