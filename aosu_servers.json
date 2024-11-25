@@ -6,13 +6,13 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "be.surkishi.com" },
-                { "name": "Server-2", "desc": "Global", "domain": "surkishi.com", "on": "11.24-1000" },
-                { "name": "Server-3", "desc": "Global", "domain": "an.surkishi.com" },
+                { "name": "Server-1", "desc": "Global", "domain": "be.basjane.com" },
+                { "name": "Server-2", "desc": "Global", "domain": "basjane.com", "on": "11.25-0820" },
+                { "name": "Server-3", "desc": "Global", "domain": "an.basjane.com" },
 
-                { "name": "Server-4", "desc": "Global", "domain": "balofcia.com", "on": "11.24-1000" },
-                { "name": "Server-5", "desc": "Global", "domain": "an.balofcia.com" },
-                { "name": "Server-6", "desc": "Global", "domain": "be.balofcia.com" }
+                { "name": "Server-4", "desc": "Global", "domain": "heritica.com", "on": "11.25-0820" },
+                { "name": "Server-5", "desc": "Global", "domain": "an.heritica.com" },
+                { "name": "Server-6", "desc": "Global", "domain": "be.heritica.com" }
             ],
             "ips": [
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.66",     "desc": "High speed(New)", "on": "4-14@5.25,1021,1031" },
