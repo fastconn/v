@@ -34,21 +34,21 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "pakashtice.com",          "desc": "Global", "on": "11.24-0930" },
-                { "name": "Server-2", "domain": "b.pakashtice.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.pakashtice.com",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "maychew.homes",          "desc": "Global", "on": "11.25-0810" },
+                { "name": "Server-2", "domain": "b.maychew.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.maychew.homes",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "d.pebyhe.com",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.pebyhe.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "pebyhe.com",         "desc": "Global", "on": "11.24-0930" }, 
+                { "name": "Server-4", "domain": "d.alamanta.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.alamanta.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "alamanta.homes",         "desc": "Global", "on": "11.25-0810" }, 
                 
-                { "name": "Server-1", "domain": "surkish.homes",          "desc": "Global", "on": "11.24-1020" },
-                { "name": "Server-2", "domain": "b.surkish.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.surkish.homes",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "barilev.homes",          "desc": "Global", "on": "11.25-0810" },
+                { "name": "Server-2", "domain": "b.barilev.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.barilev.homes",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "d.lapash.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.lapash.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "lapash.homes",         "desc": "Global", "on": "11.24-1020" },   
+                { "name": "Server-4", "domain": "d.llamnik.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.llamnik.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "llamnik.homes",         "desc": "Global", "on": "11.25-0810" },   
 
                 {}
             ],
@@ -73,9 +73,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "metehi.com", "enableCf": true, "desc": "websocket", "on": "11.24-0930" },
-                { "name": "VIP-2", "domain": "v.metehi.com", "desc": "websocket" },
-                { "name": "VIP-3", "domain": "p.metehi.com", "desc": "websocket" },
+                { "name": "VIP-1", "domain": "weldiya.homes", "enableCf": true, "desc": "websocket", "on": "11.25-0810" },
+                { "name": "VIP-2", "domain": "v.weldiya.homes", "desc": "websocket" },
+                { "name": "VIP-3", "domain": "p.weldiya.homes", "desc": "websocket" },
                 {}
             ], 
             "servers": [

@@ -13,13 +13,13 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "bradashe.com", "on": "11.24-0930" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.bradashe.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.bradashe.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "mileserdo.homes", "on": "11.25-0810" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.mileserdo.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.mileserdo.homes"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "bl.doberdol.com"},
-                { "name": "Server-2", "desc": "Global", "domain": "cl.doberdol.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "doberdol.com", "on": "11.24-0930" },
+                { "name": "Server-1", "desc": "Global", "domain": "bl.yangudi.homes"},
+                { "name": "Server-2", "desc": "Global", "domain": "cl.yangudi.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "yangudi.homes", "on": "11.25-0810" },
                 
                 {"memo": "light"}
             ]
