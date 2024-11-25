@@ -52,11 +52,9 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "monforter.com", "on": "11.25-2000" },
-
-                    { "pr": 4, "name": "Global-2", "i": "villagacia.com", "on": "11.25-2000" },
-                    { "pr": 4, "name": "Global-3", "i": "an.villagacia.com" },
-                    { "pr": 4, "name": "Global-4", "i": "be.villagacia.com" }
+                    { "pr": 4, "name": "Global-1", "i": "delnarcia.com", "on": "11.26-0000" },
+                    { "pr": 4, "name": "Global-2", "i": "an.delnarcia.com" },
+                    { "pr": 4, "name": "Global-3", "i": "be.delnarcia.com" }
                 ]
             }
         ],
