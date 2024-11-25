@@ -34,13 +34,9 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "sponsender.com",          "desc": "Global", "on": "11.26-0130" },
-                { "name": "Server-2", "domain": "b.sponsender.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.sponsender.com",        "desc": "Global" }, 
-
-                { "name": "Server-4", "domain": "d.ourenses.com",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.ourenses.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "ourenses.com",         "desc": "Global", "on": "11.26-0045" }, 
+                { "name": "Server-4", "domain": "d.cabecerias.com",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.cabecerias.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "cabecerias.com",         "desc": "Global", "on": "11.26-0710" }, 
 
                 {}
             ],
@@ -65,7 +61,7 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "v.sponsender.com", "enableCf": false, "desc": "websocket", "on": "11.26-0130" },
+                { "name": "VIP-1", "domain": "v.cabecerias.com", "enableCf": false, "desc": "websocket", "on": "11.26-0710" },
                 {}
             ], 
             "servers": [

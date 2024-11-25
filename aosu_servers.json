@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "be.delnarcia.com" },
-                { "name": "Server-2", "desc": "Global", "domain": "delnarcia.com", "on": "11.26-0000" },
-                { "name": "Server-3", "desc": "Global", "domain": "an.delnarcia.com" }
+                { "name": "Server-1", "desc": "Global", "domain": "be.canaveses.com" },
+                { "name": "Server-2", "desc": "Global", "domain": "canaveses.com", "on": "11.26-0710" },
+                { "name": "Server-3", "desc": "Global", "domain": "an.canaveses.com" }
             ],
             "ips": [
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.66",     "desc": "High speed(New)", "on": "4-14@5.25,1021,1031" },

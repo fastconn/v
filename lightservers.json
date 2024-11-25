@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "villarealonline.com", "on": "11.26-0100" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.villarealonline.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.villarealonline.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "tabuacco.com", "on": "11.26-0710" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.tabuacco.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.tabuacco.com"},
 
                 
                 {"memo": "light"}
