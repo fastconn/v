@@ -65,9 +65,7 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "weldiya.homes", "enableCf": true, "desc": "websocket", "on": "11.25-0810" },
-                { "name": "VIP-2", "domain": "v.weldiya.homes", "desc": "websocket" },
-                { "name": "VIP-3", "domain": "p.weldiya.homes", "desc": "websocket" },
+                { "name": "VIP-1", "domain": "v.sponsender.com", "enableCf": false, "desc": "websocket", "on": "11.26-0130" },
                 {}
             ], 
             "servers": [
