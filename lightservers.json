@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "mileserdo.homes", "on": "11.25-0810" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.mileserdo.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.mileserdo.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "orchclub.com", "on": "11.25-1930" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.orchclub.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.orchclub.com"},
 
                 { "name": "Server-1", "desc": "Global", "domain": "bl.yangudi.homes"},
                 { "name": "Server-2", "desc": "Global", "domain": "cl.yangudi.homes"},
