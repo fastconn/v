@@ -52,11 +52,11 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "basjane.com", "on": "11.25-0820" },
+                    { "pr": 4, "name": "Global-1", "i": "monforter.com", "on": "11.25-2000" },
 
-                    { "pr": 4, "name": "Global-2", "i": "heritica.com", "on": "11.25-0820" },
-                    { "pr": 4, "name": "Global-3", "i": "an.heritica.com" },
-                    { "pr": 4, "name": "Global-4", "i": "be.heritica.com" }
+                    { "pr": 4, "name": "Global-2", "i": "villagacia.com", "on": "11.25-2000" },
+                    { "pr": 4, "name": "Global-3", "i": "an.villagacia.com" },
+                    { "pr": 4, "name": "Global-4", "i": "be.villagacia.com" }
                 ]
             }
         ],
