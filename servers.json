@@ -55,9 +55,9 @@
                 { "name": "Server-2", "domain": "b.leiria.homes",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.leiria.homes",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "d.lllhavo.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.lllhavo.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "lllhavo.homes",         "desc": "Global", "on": "11.26-1440" },   
+                { "name": "Server-4", "domain": "d.llhavo.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.llhavo.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "llhavo.homes",         "desc": "Global", "on": "11.26-1440" },   
                 {}
             ],
             "servers": [
