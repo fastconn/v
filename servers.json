@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 2,
+            "wsGroupSize": 3,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -50,6 +50,14 @@
                 { "name": "Server-5", "domain": "e.biosfera.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "biosfera.homes",         "desc": "Global", "on": "11.26-1020" }, 
 
+                
+                { "name": "Server-1", "domain": "leiria.homes",          "desc": "Global", "on": "11.26-1440" },
+                { "name": "Server-2", "domain": "b.leiria.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.leiria.homes",        "desc": "Global" },   
+
+                { "name": "Server-4", "domain": "d.lllhavo.homes",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.lllhavo.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "lllhavo.homes",         "desc": "Global", "on": "11.26-1440" },   
                 {}
             ],
             "servers": [
@@ -73,7 +81,7 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "v.penalva.homes", "enableCf": false, "desc": "websocket", "on": "11.26-0130" },
+                { "name": "VIP-1", "domain": "v.penalva.homes", "enableCf": false, "desc": "websocket", "on": "11.26-1030" },
                 {}
             ], 
             "servers": [
