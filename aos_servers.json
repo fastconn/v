@@ -52,13 +52,9 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "parque.info", "on": "11.26-1125" },
-                    { "pr": 4, "name": "Global-2", "i": "an.parque.info" },
-                    { "pr": 4, "name": "Global-3", "i": "be.parque.info" },
-
-                    { "pr": 4, "name": "Global-4", "i": "celorico.homes", "on": "11.26-0735" },
-                    { "pr": 4, "name": "Global-5", "i": "an.celorico.homes" },
-                    { "pr": 4, "name": "Global-6", "i": "be.celorico.homes" }
+                    { "pr": 4, "name": "Global-1", "i": "alcaceer.org", "on": "11.27-0835" },
+                    { "pr": 4, "name": "Global-2", "i": "an.alcaceer.org" },
+                    { "pr": 4, "name": "Global-3", "i": "be.alcaceer.org" }
                ]
             }
         ],
