@@ -66,7 +66,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "v.sintrah.org", "enableCf": false, "desc": "websocket", "on": "11.27-0830" },
+                { "name": "VIP-1", "domain": "p.parqued.org", "enableCf": false, "desc": "websocket", "on": "11.28-0745" },
+                { "name": "VIP-2", "domain": "v.parqued.org", "enableCf": false, "desc": "websocket", "on": "11.28-0745" },
                 {}
             ], 
             "servers": [
