@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "alcaceer.org", "on": "11.27-0835" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.alcaceer.org" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.alcaceer.org" }
+                { "name": "Server-1", "desc": "Global", "domain": "moncheq.org", "on": "11.28-0750" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.moncheq.org" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.moncheq.org" }
  
             ],
             "ips": [
