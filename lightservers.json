@@ -17,9 +17,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.louress.org"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.louress.org"},
 
-                { "name": "Server-4", "desc": "Global", "domain": "montarg.org"},
-                { "name": "Server-5", "desc": "Global", "domain": "cl.vimisso.org"},
-                { "name": "Server-6", "desc": "Global", "domain": "vimisso.org", "on": "11.28-0745" },
+                { "name": "Server-4", "desc": "Global", "domain": "bl.montarg.org"},
+                { "name": "Server-5", "desc": "Global", "domain": "cl.montarg.org"},
+                { "name": "Server-6", "desc": "Global", "domain": "montarg.org", "on": "11.28-0745" },
                    
                 {"memo": "light"}
             ]
