@@ -29,27 +29,19 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 2,
+            "wsGroupSize": 1,
             "wsNameAuto": true,
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "alcacer.org",          "desc": "Global", "on": "11.27-0900" },
-                { "name": "Server-2", "domain": "b.alcacer.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.alcacer.org",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "redondol.org",          "desc": "Global", "on": "11.28-0740" },
+                { "name": "Server-2", "domain": "b.redondol.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.redondol.org",        "desc": "Global" }, 
 
-                { "name": "Server-4", "domain": "palmela.org",         "desc": "Global", "on": "11.27-0900" }, 
-                { "name": "Server-5", "domain": "d.palmela.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.palmela.org",       "desc": "Global" },
-                
-               
-                { "name": "Server-1", "domain": "sintrah.org",          "desc": "Global", "on": "11.27-0830" },
-                { "name": "Server-2", "domain": "b.sintrah.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.sintrah.org",        "desc": "Global" },   
+                { "name": "Server-4", "domain": "sousel.org",         "desc": "Global", "on": "11.28-0740" }, 
+                { "name": "Server-5", "domain": "d.sousel.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.sousel.org",       "desc": "Global" },
 
-                { "name": "Server-4", "domain": "almadarh.org",         "desc": "Global", "on": "11.27-0830" },   
-                { "name": "Server-5", "domain": "d.almadarh.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.almadarh.org",       "desc": "Global" },
                 {}
             ],
             "servers": [
