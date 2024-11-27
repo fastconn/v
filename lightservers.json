@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "mangualde.homes", "on": "11.26-0735" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.mangualde.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.mangualde.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "setubale.org", "on": "11.27-0830" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.setubale.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.setubale.org"},
 
                 { "name": "Server-4", "desc": "Global", "domain": "bl.vimisso.org"},
                 { "name": "Server-5", "desc": "Global", "domain": "cl.vimisso.org"},

@@ -29,35 +29,18 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 3,
+            "wsGroupSize": 1,
             "wsNameAuto": true,
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "penalva.homes",          "desc": "Global", "on": "11.26-0735" },
-                { "name": "Server-2", "domain": "b.penalva.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.penalva.homes",        "desc": "Global" }, 
+                { "name": "Server-1", "domain": "sintrah.org",          "desc": "Global", "on": "11.27-0830" },
+                { "name": "Server-2", "domain": "b.sintrah.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.sintrah.org",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "d.vilanova.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.vilanova.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "vilanova.homes",         "desc": "Global", "on": "11.26-0735" }, 
-                
-                { "name": "Server-1", "domain": "geres.homes",          "desc": "Global", "on": "11.26-1020" },
-                { "name": "Server-2", "domain": "b.geres.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.geres.homes",        "desc": "Global" }, 
-
-                { "name": "Server-4", "domain": "d.biosfera.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.biosfera.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "biosfera.homes",         "desc": "Global", "on": "11.26-1020" }, 
-
-                
-                { "name": "Server-1", "domain": "leiria.homes",          "desc": "Global", "on": "11.26-1440" },
-                { "name": "Server-2", "domain": "b.leiria.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.leiria.homes",        "desc": "Global" },   
-
-                { "name": "Server-4", "domain": "d.llhavo.homes",       "desc": "Global" },
-                { "name": "Server-5", "domain": "e.llhavo.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "llhavo.homes",         "desc": "Global", "on": "11.26-1440" },   
+                { "name": "Server-4", "domain": "d.almadarh.org",       "desc": "Global" },
+                { "name": "Server-5", "domain": "e.almadarh.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "almadarh.org",         "desc": "Global", "on": "11.27-0830" },   
                 {}
             ],
             "servers": [
@@ -82,7 +65,7 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "v.penalva.homes", "enableCf": false, "desc": "websocket", "on": "11.26-1030" },
+                { "name": "VIP-1", "domain": "v.sintrah.org", "enableCf": false, "desc": "websocket", "on": "11.27-0830" },
                 {}
             ], 
             "servers": [
