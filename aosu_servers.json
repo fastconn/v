@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "gha1128ma.pro", "on": "11.28-1015" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.gha1128ma.pro" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.gha1128ma.pro" }
+                { "name": "Server-1", "desc": "Global", "domain": "transfertous.pro", "on": "11.28-1117" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.transfertous.pro" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.transfertous.pro" }
  
             ],
             "ips": [
