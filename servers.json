@@ -34,13 +34,6 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "redondol.org",          "desc": "Global", "on": "11.28-0740" },
-                { "name": "Server-2", "domain": "b.redondol.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.redondol.org",        "desc": "Global" }, 
-
-                { "name": "Server-4", "domain": "sousel.org",         "desc": "Global", "on": "11.28-0740" }, 
-                { "name": "Server-5", "domain": "d.sousel.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.sousel.org",       "desc": "Global" },
 
                 { "name": "Server-1", "domain": "parqued.org",          "desc": "Global", "on": "11.28-0815" },
                 { "name": "Server-2", "domain": "b.parqued.org",        "desc": "Global" },
