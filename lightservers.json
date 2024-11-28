@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "gha1128l.pro", "on": "11.28-1052" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.gha1128l.pro"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.gha1128l.pro"},
+                { "name": "Server-1", "desc": "Global", "domain": "priceofu.org", "on": "11.28-1108" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.priceofu.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.priceofu.org"},
                    
                 {"memo": "light"}
             ]
