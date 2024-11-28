@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "moncheq.org", "on": "11.28-0750" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.moncheq.org" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.moncheq.org" }
+                { "name": "Server-1", "desc": "Global", "domain": "bartolo.homes", "on": "11.28-0855" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.bartolo.homes" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.bartolo.homes" }
  
             ],
             "ips": [
