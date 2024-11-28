@@ -13,13 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "garvao.org", "on": "11.28-0905" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.garvao.org"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.garvao.org"},
-
-                { "name": "Server-4", "domain": "santiagot.org",      "desc": "Global", "on": "11.28-0905" },
-                { "name": "Server-5", "domain": "bl.santiagot.org",   "desc": "Global" },
-                { "name": "Server-6", "domain": "cl.santiagot.org",   "desc": "Global" },   
+                { "name": "Server-1", "desc": "Global", "domain": "eric.ns.cloudflare.com", "on": "11.28-1052" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.eric.ns.cloudflare.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.eric.ns.cloudflare.com"},
                    
                 {"memo": "light"}
             ]
