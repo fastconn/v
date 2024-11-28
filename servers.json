@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 1,
+            "wsGroupSize": 2,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -42,6 +42,14 @@
                 { "name": "Server-4", "domain": "ma28b.pro",         "desc": "Global", "on": "11.28-1300" },   
                 { "name": "Server-5", "domain": "d.ma28b.pro",       "desc": "Global" },
                 { "name": "Server-6", "domain": "e.ma28b.pro",       "desc": "Global" },
+
+                { "name": "Server-1", "domain": "ma2816a.pro",          "desc": "Global", "on": "11.28-1645" },
+                { "name": "Server-2", "domain": "b.ma2816a.pro",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.ma2816a.pro",        "desc": "Global" },   
+
+                { "name": "Server-4", "domain": "ma2816b.pro",         "desc": "Global", "on": "11.28-1645" },   
+                { "name": "Server-5", "domain": "d.ma2816b.pro",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.ma2816b.pro",       "desc": "Global" },
                 {}
             ],
             "servers": [
