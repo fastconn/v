@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "eric.ns.cloudflare.com", "on": "11.28-1052" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.eric.ns.cloudflare.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.eric.ns.cloudflare.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "gha1128l.pro", "on": "11.28-1052" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.gha1128l.pro"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.gha1128l.pro"},
                    
                 {"memo": "light"}
             ]
