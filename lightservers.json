@@ -13,13 +13,13 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "louress.org", "on": "11.28-0745" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.louress.org"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.louress.org"},
+                { "name": "Server-1", "desc": "Global", "domain": "garvao.org", "on": "11.28-0905" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.garvao.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.garvao.org"},
 
-                { "name": "Server-1", "domain": "parqued.org",          "desc": "Global", "on": "11.28-0855" },
-                { "name": "Server-2", "domain": "b.parqued.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.parqued.org",        "desc": "Global" },   
+                { "name": "Server-4", "domain": "santiagot.org",      "desc": "Global", "on": "11.28-0905" },
+                { "name": "Server-5", "domain": "bl.santiagot.org",   "desc": "Global" },
+                { "name": "Server-6", "domain": "cl.santiagot.org",   "desc": "Global" },   
                    
                 {"memo": "light"}
             ]
