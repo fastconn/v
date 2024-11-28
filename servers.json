@@ -38,6 +38,10 @@
                 { "name": "Server-1", "domain": "ma28a.pro",          "desc": "Global", "on": "11.28-1115" },
                 { "name": "Server-2", "domain": "b.ma28a.pro",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.ma28a.pro",        "desc": "Global" },   
+
+                { "name": "Server-4", "domain": "ma28b.pro",         "desc": "Global", "on": "11.28-1300" },   
+                { "name": "Server-5", "domain": "d.ma28b.pro",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.ma28b.pro",       "desc": "Global" },
                 {}
             ],
             "servers": [
