@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "bartolo.homes", "on": "11.28-0855" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.bartolo.homes" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.bartolo.homes" }
+                { "name": "Server-1", "desc": "Global", "domain": "transfertous.pro", "on": "11.28-0930" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.transfertous.pro" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.transfertous.pro" }
  
             ],
             "ips": [
