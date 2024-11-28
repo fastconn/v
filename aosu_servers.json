@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "islantia.pro", "on": "11.28-1345" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.islantia.pro" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.islantia.pro" }
+                { "name": "Server-1", "desc": "Global", "domain": "desanto.pro", "on": "11.28-1445" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.desanto.pro" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.desanto.pro" }
  
             ],
             "ips": [
