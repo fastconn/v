@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "l28mor1.pro", "on": "11.28-1645" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.l28mor1.pro" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.l28mor1.pro" }
+                { "name": "Server-1", "desc": "Global", "domain": "albin9a.pro", "on": "11.29-1130" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.albin9a.pro" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.albin9a.pro" }
  
             ],
             "ips": [

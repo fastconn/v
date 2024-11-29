@@ -43,6 +43,13 @@
                 { "name": "Server-5", "domain": "d.jcnineb2.pro",       "desc": "Global" },
                 { "name": "Server-6", "domain": "e.jcnineb2.pro",       "desc": "Global" },
 
+                { "name": "Server-1", "domain": "jcnine3.pro",          "desc": "Global", "on": "11.29-1130" },
+                { "name": "Server-2", "domain": "b.jcnine3.pro",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.jcnine3.pro",        "desc": "Global" },   
+
+                { "name": "Server-4", "domain": "jcnine4.pro",         "desc": "Global", "on": "11.29-1130" },   
+                { "name": "Server-5", "domain": "d.jcnine4.pro",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.jcnine4.pro",       "desc": "Global" },
                 {}
             ],
             "servers": [
