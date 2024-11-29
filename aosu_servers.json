@@ -6,13 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "albin9a.pro", "on": "11.29-1130" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.albin9a.pro" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.albin9a.pro" },
- 
-                { "name": "Server-4", "desc": "Global", "domain": "albin9b.pro", "on": "11.29-1525" },
-                { "name": "Server-5", "desc": "Global", "domain": "an.albin9b.pro" },
-                { "name": "Server-6", "desc": "Global", "domain": "be.albin9b.pro" }
+                { "name": "Server-1", "desc": "Global", "domain": "anchor21.pro", "on": "11.29-2125" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.anchor21.pro" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.anchor21.pro" }
             ],
             "ips": [
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.251",     "desc": "High speed(New)", "on": "4-14@5.25,1021,1031,1126" },

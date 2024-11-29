@@ -52,9 +52,9 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "islantia.pro", "on": "11.28-1345" },
-                    { "pr": 4, "name": "Global-2", "i": "an.islantia.pro" },
-                    { "pr": 4, "name": "Global-3", "i": "be.islantia.pro" }
+                    { "pr": 4, "name": "Global-1", "i": "anchor21.pro", "on": "11.29-2125" },
+                    { "pr": 4, "name": "Global-2", "i": "an.anchor21.pro" },
+                    { "pr": 4, "name": "Global-3", "i": "be.anchor21.pro" }
                ]
             }
         ],
