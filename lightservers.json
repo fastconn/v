@@ -13,9 +13,13 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "priceofu.org", "on": "11.28-1108" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.priceofu.org"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.priceofu.org"},
+                { "name": "Server-1", "desc": "Global", "domain": "lter29a.pro", "on": "11.29-0800" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.lter29a.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.lter29a.org"},
+
+                { "name": "Server-1", "desc": "Global", "domain": "lter29b.pro", "on": "11.29-0800" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.lter29b.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.lter29b.org"},
                    
                 {"memo": "light"}
             ]
