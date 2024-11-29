@@ -42,19 +42,19 @@
                 { "name": "Server-4", "domain": "jcnineb2.pro",         "desc": "Global", "on": "11.29-1000" },   
                 { "name": "Server-5", "domain": "d.jcnineb2.pro",       "desc": "Global" },
                 { "name": "Server-6", "domain": "e.jcnineb2.pro",       "desc": "Global" },
-                
+
                 {}
             ],
             "servers": [
                 { "cc": "ch", "city": "Zurich",     "ip": "204.136.10.90",       "desc": "High speed(New)",   "on":"3-2@2Gb-11.27" },
                 { "cc": "ca", "city": "Toronto",   "ip": "67.220.94.154",       "desc": "High speed(New)",   "on": "13-1,2Gb@11.26" },
+                { "cc": "gb", "city": "London",     "ip": "68.168.31.176",     "desc": "High speed",   "on": "2-15@11.29" },
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.70",       "desc": "High speed",   "on": "5-15@5.26..,1019,1026,1030,1106，1111" },
                 { "cc": "us", "city": "Dallas",    "ip": "167.88.62.117",       "desc": "High speed",   "on": "15-1@2Gb,11.11,1116" },
                 { "cc": "us", "city": "Miami",    "ip": "38.91.107.192",       "desc": "High speed",   "on": "2-16@6.18，...,8.22,1002,1017,1021,1120" },
                 { "cc": "es", "city": "Madrid",   "ip": "67.220.66.10",    "desc": "High speed",   "on": "3-3@2Gb,1021,1024,1120" },   
                 { "cc": "fr", "city": "Paris",      "ip": "23.162.152.252",      "desc": "High speed",   "on": "10-3@3Gb-4.21,4.26，7.6,9.5,1020,1120" },
                 { "cc": "nl", "city": "Amsterdam","ip": "185.221.219.224",     "desc": "High speed",  "on": "8-2@2Gb,..,1013,1017,1021,1030,1120" },
-                { "cc": "gb", "city": "London",     "ip": "38.114.120.200",     "desc": "High speed",   "on": "7-19@1018,1120,1123" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.157.88.62",       "desc": "High speed",   "on":"7-7@508-4Gb, 522，706,906,1018,1023,1106,1124" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.39",       "desc": "High speed",   "on":"5-1@421-3Gb,718,1018,1118,1125" },
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.231",       "desc": "High speed",   "on":"2-1@3Gb-4.5,522,905,1004,1104,1124" },
