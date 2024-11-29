@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "anchor21.pro", "on": "11.29-2125" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.anchor21.pro" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.anchor21.pro" }
+                { "name": "Server-1", "desc": "Global", "domain": "anchor30a.pro", "on": "11.30-0022" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.anchor30a.pro" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.anchor30a.pro" }
             ],
             "ips": [
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.251",     "desc": "High speed(New)", "on": "4-14@5.25,1021,1031,1126" },
