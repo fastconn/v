@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "alexenderr.me", "on": "11.30-0908" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.alexenderr.me" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.alexenderr.me" }
+                { "name": "Server-1", "desc": "Global", "domain": "alpha30.pro", "on": "11.30-0952" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.alpha30.pro" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.alpha30.pro" }
             ],
             "ips": [
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.251",     "desc": "High speed(New)", "on": "4-14@5.25,1021,1031,1126" },
