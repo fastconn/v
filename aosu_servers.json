@@ -8,7 +8,11 @@
             "ws": [
                 { "name": "Server-1", "desc": "Global", "domain": "alcholshop.com", "on": "11.30-2100" },
                 { "name": "Server-2", "desc": "Global", "domain": "an.alcholshop.com" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.alcholshop.com" }
+                { "name": "Server-3", "desc": "Global", "domain": "be.alcholshop.com" },
+
+                { "name": "Server-4", "desc": "Global", "domain": "anchor30abc.lol", "on": "11.30-2330" },
+                { "name": "Server-5", "desc": "Global", "domain": "an.anchor30abc.lol" },
+                { "name": "Server-6", "desc": "Global", "domain": "be.anchor30abc.lol" }
             ],
             "ips": [
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.251",     "desc": "High speed(New)", "on": "4-14@5.25,1021,1031,1126" },
