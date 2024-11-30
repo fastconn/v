@@ -35,21 +35,21 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "jcnine1.pro",          "desc": "Global", "on": "11.29-1000" },
-                { "name": "Server-2", "domain": "b.jcnine1.pro",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.jcnine1.pro",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "space30a.pro",          "desc": "Global", "on": "11.30-1015" },
+                { "name": "Server-2", "domain": "b.space30a.pro",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.space30a.pro",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "jcnineb2.pro",         "desc": "Global", "on": "11.29-1000" },   
-                { "name": "Server-5", "domain": "d.jcnineb2.pro",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.jcnineb2.pro",       "desc": "Global" },
+                { "name": "Server-4", "domain": "space30b.pro",         "desc": "Global", "on": "11.30-1015" },   
+                { "name": "Server-5", "domain": "d.space30b.pro",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.space30b.pro",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "jcnine3.pro",          "desc": "Global", "on": "11.29-1130" },
-                { "name": "Server-2", "domain": "b.jcnine3.pro",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.jcnine3.pro",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "space30c.pro",          "desc": "Global", "on": "11.30-1015" },
+                { "name": "Server-2", "domain": "b.space30c.pro",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.space30c.pro",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "jcnine4.pro",         "desc": "Global", "on": "11.29-1130" },   
-                { "name": "Server-5", "domain": "d.jcnine4.pro",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.jcnine4.pro",       "desc": "Global" },
+                { "name": "Server-4", "domain": "space30d.pro",         "desc": "Global", "on": "11.30-1015" },   
+                { "name": "Server-5", "domain": "d.space30d.pro",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.space30d.pro",       "desc": "Global" },
                 {}
             ],
             "servers": [
@@ -74,8 +74,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "p.jcnine1.pro", "enableCf": false, "desc": "websocket" },
-                { "name": "VIP-2", "domain": "v.jcnine1.pro", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-1", "domain": "p.space30a.pro", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-2", "domain": "v.space30a.pro", "enableCf": false, "desc": "websocket" },
                 {}
             ], 
             "servers": [

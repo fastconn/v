@@ -13,13 +13,13 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "lter29a.pro", "on": "11.29-0800" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.lter29a.pro"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.lter29a.pro"},
+                { "name": "Server-1", "desc": "Global", "domain": "link30a.pro", "on": "11.30-1015" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.link30a.pro"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.link30a.pro"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "lter29b.pro", "on": "11.29-0800" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.lter29b.pro"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.lter29b.pro"},
+                { "name": "Server-1", "desc": "Global", "domain": "link30b.pro", "on": "11.30-1015" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.link30b.pro"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.link30b.pro"},
                    
                 {"memo": "light"}
             ]
