@@ -13,13 +13,13 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "link30a.pro", "on": "11.30-1015" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.link30a.pro"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.link30a.pro"},
+                { "name": "Server-1", "desc": "Global", "domain": "licard1.pro", "on": "12.1-1000" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.licard1.pro"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.licard1.pro"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "link30b.pro", "on": "11.30-1015" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.link30b.pro"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.link30b.pro"},
+                { "name": "Server-1", "desc": "Global", "domain": "licard2.pro", "on": "12.1-1000" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.licard2.pro"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.licard2.pro"},
                    
                 {"memo": "light"}
             ]
