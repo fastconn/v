@@ -86,7 +86,7 @@
 		        { "cc": "de", "city": "Frankfurt",      "ip": "57.129.25.22",       "desc": "Performance", "on": "ov-1116" },
                 { "cc": "ca", "city": "Toronto",        "ip": "23.162.200.116",     "desc": "Performance", "on": "1-23@G3-11.11,1116" },
 		       
-                { "cc": "tr", "city": "Istanbul",      "ip": "103.215.218.222",     "desc": "Fast",  "on": "gcore-9.23" },
+                { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.23",     "desc": "Fast(New)",  "on": "gcore,4TB-12.02" },
                 { "cc": "jp", "city": "Tokyo",          "ip": "92.38.178.93",       "desc": "Fast",  "on": "gcore,2TB-10.21" }, 
                 { "cc": "hk", "city": "Hong Kong",      "ip": "5.188.33.88",        "desc": "New",   "on": "gcore,2TB-11.18"},
 
