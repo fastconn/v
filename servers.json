@@ -35,21 +35,21 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "malilan11.pro",          "desc": "Global", "on": "12.1-1000" },
-                { "name": "Server-2", "domain": "b.malilan11.pro",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.malilan11.pro",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "mainsec2e.pro",          "desc": "Global", "on": "12.2-1000" },
+                { "name": "Server-2", "domain": "b.mainsec2e.pro",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.mainsec2e.pro",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "malilan12.pro",         "desc": "Global", "on": "12.1-1000" },   
-                { "name": "Server-5", "domain": "d.malilan12.pro",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.malilan12.pro",       "desc": "Global" },
+                { "name": "Server-4", "domain": "maintain2b.pro",         "desc": "Global", "on": "12.2-1000" },   
+                { "name": "Server-5", "domain": "d.maintain2b.pro",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.maintain2b.pro",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "marathon13.pro",          "desc": "Global", "on": "12.1-1000" },
-                { "name": "Server-2", "domain": "b.marathon13.pro",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.marathon13.pro",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "mainsec2.pro",          "desc": "Global", "on": "12.2-1000" },
+                { "name": "Server-2", "domain": "b.mainsec2.pro",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.mainsec2.pro",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "marathon14.pro",         "desc": "Global", "on": "12.1-1000" },   
-                { "name": "Server-5", "domain": "d.marathon14.pro",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.marathon14.pro",       "desc": "Global" },
+                { "name": "Server-4", "domain": "maintain2a.pro",         "desc": "Global", "on": "12.2-1000" },   
+                { "name": "Server-5", "domain": "d.maintain2a.pro",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.maintain2a.pro",       "desc": "Global" },
                 {}
             ],
             "servers": [
@@ -75,8 +75,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "p.malilan11.pro", "enableCf": false, "desc": "websocket" },
-                { "name": "VIP-2", "domain": "v.malilan11.pro", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-1", "domain": "p.mainsec2e.pro", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-2", "domain": "v.mainsec2e.pro", "enableCf": false, "desc": "websocket" },
                 {}
             ], 
             "servers": [
