@@ -35,21 +35,21 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "memory301.pro",          "desc": "Global", "on": "12.2-1000" },
-                { "name": "Server-2", "domain": "b.memory301.pro",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.memory301.pro",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "meaning1.pro",          "desc": "Global", "on": "12.2-1210" },
+                { "name": "Server-2", "domain": "b.meaning1.pro",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.meaning1.pro",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "memory302.pro",         "desc": "Global", "on": "12.2-1000" },   
-                { "name": "Server-5", "domain": "d.memory302.pro",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.memory302.pro",       "desc": "Global" },
+                { "name": "Server-4", "domain": "meaning2.pro",         "desc": "Global", "on": "12.2-1210" },   
+                { "name": "Server-5", "domain": "d.meaning2.pro",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.meaning2.pro",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "memory303.pro",          "desc": "Global", "on": "12.2-1000" },
-                { "name": "Server-2", "domain": "b.memory303.pro",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.memory303.pro",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "market1.pro",          "desc": "Global", "on": "12.2-1210" },
+                { "name": "Server-2", "domain": "b.market1.pro",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.market1.pro",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "memory304.pro",         "desc": "Global", "on": "12.2-1000" },   
-                { "name": "Server-5", "domain": "d.memory304.pro",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.memory304.pro",       "desc": "Global" },
+                { "name": "Server-4", "domain": "market2.pro",         "desc": "Global", "on": "12.2-1210" },   
+                { "name": "Server-5", "domain": "d.market2.pro",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.market2.pro",       "desc": "Global" },
                 {}
             ],
             "servers": [
@@ -75,8 +75,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "p.memory301.pro", "enableCf": false, "desc": "websocket" },
-                { "name": "VIP-2", "domain": "v.memory301.pro", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-1", "domain": "p.meaning1.pro", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-2", "domain": "v.meaning1.pro", "enableCf": false, "desc": "websocket" },
                 {}
             ], 
             "servers": [

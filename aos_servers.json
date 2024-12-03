@@ -52,9 +52,9 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "alphago1.pro", "on": "12.3-0815" },
-                    { "pr": 4, "name": "Global-2", "i": "an.alphago1.pro" },
-                    { "pr": 4, "name": "Global-3", "i": "be.alphago1.pro" }
+                    { "pr": 4, "name": "Global-1", "i": "astroni.pro", "on": "12.3-1210" },
+                    { "pr": 4, "name": "Global-2", "i": "an.astroni.pro" },
+                    { "pr": 4, "name": "Global-3", "i": "be.astroni.pro" }
                ]
             }
         ],

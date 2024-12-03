@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "alphago1.pro", "on": "12.3-0815" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.alphago1.pro" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.alphago1.pro" }
+                { "name": "Server-1", "desc": "Global", "domain": "astroni.pro", "on": "12.3-1010" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.astroni.pro" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.astroni.pro" }
             ],
             "ips": [
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.251",     "desc": "High speed", "on": "4-14@5.25,1021,1031,1126" },
