@@ -13,13 +13,13 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "lake1.pro", "on": "12.3-1205" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.lake1.pro"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.lake1.pro"},
+                { "name": "Server-1", "desc": "Global", "domain": "lollita2.org", "on": "12.3-1430" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.lollita2.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.lollita2.org"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "lake2.pro", "on": "12.3-1210" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.lake2.pro"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.lake2.pro"},
+                { "name": "Server-1", "desc": "Global", "domain": "lollita.org", "on": "12.3-1430" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.lollita.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.lollita.org"},
                    
                 {"memo": "light"}
             ]

@@ -8,7 +8,12 @@
             "ws": [
                 { "name": "Server-1", "desc": "Global", "domain": "astroni.pro", "on": "12.3-1010" },
                 { "name": "Server-2", "desc": "Global", "domain": "an.astroni.pro" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.astroni.pro" }
+                { "name": "Server-3", "desc": "Global", "domain": "be.astroni.pro" },
+
+                { "name": "Server-4", "desc": "Global", "domain": "alexa13.org", "on": "12.3-1430" },
+                { "name": "Server-5", "desc": "Global", "domain": "an.alexa13.org" },
+                { "name": "Server-6", "desc": "Global", "domain": "be.alexa13.org" }       
+            
             ],
             "ips": [
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.251",     "desc": "High speed", "on": "4-14@5.25,1021,1031,1126" },
