@@ -6,13 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "alcholshop.com", "on": "11.30-2100" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.alcholshop.com" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.alcholshop.com" },
-
-                { "name": "Server-4", "desc": "Global", "domain": "adver01.pro", "on": "12.2-1000" },
-                { "name": "Server-5", "desc": "Global", "domain": "an.adver01.pro" },
-                { "name": "Server-6", "desc": "Global", "domain": "be.adver01.pro" }
+                { "name": "Server-1", "desc": "Global", "domain": "alphago1.pro", "on": "12.3-0815" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.alphago1.pro" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.alphago1.pro" }
             ],
             "ips": [
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.251",     "desc": "High speed", "on": "4-14@5.25,1021,1031,1126" },
