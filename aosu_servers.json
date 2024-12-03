@@ -6,13 +6,10 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "astroni.pro", "on": "12.3-1010" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.astroni.pro" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.astroni.pro" },
 
-                { "name": "Server-4", "desc": "Global", "domain": "alexa13.org", "on": "12.3-1430" },
-                { "name": "Server-5", "desc": "Global", "domain": "an.alexa13.org" },
-                { "name": "Server-6", "desc": "Global", "domain": "be.alexa13.org" }       
+                { "name": "Server-1", "desc": "Global", "domain": "active1.org", "on": "12.4-0055" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.active1.org" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.active1.org" }       
             
             ],
             "ips": [

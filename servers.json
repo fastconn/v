@@ -35,21 +35,13 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "misc1301.org",          "desc": "Global", "on": "12.2-1440" },
-                { "name": "Server-2", "domain": "b.misc1301.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.misc1301.org",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "miami1.org",          "desc": "Global", "on": "12.4-0055" },
+                { "name": "Server-2", "domain": "b.miami1.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.miami1.org",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "misc1302.org",         "desc": "Global", "on": "12.2-1440" },   
-                { "name": "Server-5", "domain": "d.misc1302.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.misc1302.org",       "desc": "Global" },
-
-                { "name": "Server-1", "domain": "mallisha1.org",         "desc": "Global", "on": "12.2-1410" },   
-                { "name": "Server-2", "domain": "b.mallisha1.org",       "desc": "Global" },
-                { "name": "Server-3", "domain": "c.mallisha1.org",       "desc": "Global" },
-
-                { "name": "Server-1", "domain": "mallisha2.org",         "desc": "Global", "on": "12.2-1410" },   
-                { "name": "Server-2", "domain": "d.mallisha2.org",       "desc": "Global" },
-                { "name": "Server-3", "domain": "e.mallisha2.org",       "desc": "Global" },
+                { "name": "Server-4", "domain": "miami2.org",         "desc": "Global", "on": "12.4-0055" },   
+                { "name": "Server-5", "domain": "d.miami2.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.miami2.org",       "desc": "Global" },
 
                 { "name": "Server-1", "domain": "mtian1.org",          "desc": "Global", "on": "12.4-0015" },
                 { "name": "Server-2", "domain": "b.mtian1.org",        "desc": "Global" },
@@ -84,8 +76,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "p.mallisha1.org", "enableCf": false, "desc": "websocket" },
-                { "name": "VIP-2", "domain": "v.mallisha1.org", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-1", "domain": "p.miami1.org", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-2", "domain": "v.miami1.org", "enableCf": false, "desc": "websocket" },
                 { "name": "VIP-3", "domain": "v.mtian1.org", "enableCf": false, "desc": "websocket" },
                 {}
             ], 
