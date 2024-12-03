@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 2,
+            "wsGroupSize": 3,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -50,6 +50,11 @@
                 { "name": "Server-4", "domain": "market2.pro",         "desc": "Global", "on": "12.2-1210" },   
                 { "name": "Server-5", "domain": "d.market2.pro",       "desc": "Global" },
                 { "name": "Server-6", "domain": "e.market2.pro",       "desc": "Global" },
+
+                { "name": "Server-1", "domain": "mallisha1.org",         "desc": "Global", "on": "12.2-1410" },   
+                { "name": "Server-2", "domain": "d.mallisha1.org",       "desc": "Global" },
+                { "name": "Server-3", "domain": "e.mallisha1.org",       "desc": "Global" },
+                
                 {}
             ],
             "servers": [
