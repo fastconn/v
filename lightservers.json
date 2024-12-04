@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "linusb.homes", "on": "12.4-0800" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.linusb.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.linusb.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "albasha.homes", "on": "12.4-2100" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.albasha.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.albasha.homes"},
 
                 { "name": "Server-1", "desc": "Global", "domain": "linusa.org", "on": "12.4-0800" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.linusa.org"},

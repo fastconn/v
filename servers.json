@@ -43,13 +43,13 @@
                 { "name": "Server-5", "domain": "d.manuf2.org",       "desc": "Global" },
                 { "name": "Server-6", "domain": "e.manuf2.org",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "manufact1.homes",          "desc": "Global", "on": "12.4-0015" },
-                { "name": "Server-2", "domain": "b.manufact1.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.manufact1.homes",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "istamo.homes",          "desc": "Global", "on": "12.4-2100" },
+                { "name": "Server-2", "domain": "b.istamo.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.istamo.homes",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "manufact2.homes",         "desc": "Global", "on": "12.4-0015" },   
-                { "name": "Server-5", "domain": "d.manufact2.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.manufact2.homes",       "desc": "Global" },
+                { "name": "Server-4", "domain": "alruyem.homes",         "desc": "Global", "on": "12.4-2100" },   
+                { "name": "Server-5", "domain": "d.alruyem.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.alruyem.homes",       "desc": "Global" },
 
                 {}
             ],
