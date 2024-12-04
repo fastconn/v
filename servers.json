@@ -35,21 +35,21 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "miami1.org",          "desc": "Global", "on": "12.4-0055" },
-                { "name": "Server-2", "domain": "b.miami1.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.miami1.org",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "manuf1.org",          "desc": "Global", "on": "12.4-0800" },
+                { "name": "Server-2", "domain": "b.manuf1.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.manuf1.org",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "miami2.org",         "desc": "Global", "on": "12.4-0055" },   
-                { "name": "Server-5", "domain": "d.miami2.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.miami2.org",       "desc": "Global" },
+                { "name": "Server-4", "domain": "manuf2.org",         "desc": "Global", "on": "12.4-0800" },   
+                { "name": "Server-5", "domain": "d.manuf2.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.manuf2.org",       "desc": "Global" },
 
-                { "name": "Server-1", "domain": "mtian1.org",          "desc": "Global", "on": "12.4-0015" },
-                { "name": "Server-2", "domain": "b.mtian1.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.mtian1.org",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "manufact1.homes",          "desc": "Global", "on": "12.4-0015" },
+                { "name": "Server-2", "domain": "b.manufact1.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.manufact1.homes",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "mtian2.org",         "desc": "Global", "on": "12.4-0015" },   
-                { "name": "Server-5", "domain": "d.mtian2.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.mtian2.org",       "desc": "Global" },
+                { "name": "Server-4", "domain": "manufact2.homes",         "desc": "Global", "on": "12.4-0015" },   
+                { "name": "Server-5", "domain": "d.manufact2.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.manufact2.homes",       "desc": "Global" },
 
                 {}
             ],
@@ -76,9 +76,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "p.miami1.org", "enableCf": false, "desc": "websocket" },
-                { "name": "VIP-2", "domain": "v.miami1.org", "enableCf": false, "desc": "websocket" },
-                { "name": "VIP-3", "domain": "v.mtian1.org", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-1", "domain": "p.manuf1.org", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-2", "domain": "v.manuf1.org", "enableCf": false, "desc": "websocket" },
                 {}
             ], 
             "servers": [

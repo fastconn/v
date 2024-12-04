@@ -13,13 +13,13 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "lattie1.org", "on": "12.4-0055" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.lattie1.org"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.lattie1.org"},
+                { "name": "Server-1", "desc": "Global", "domain": "linusb.homes", "on": "12.4-0800" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.linusb.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.linusb.homes"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "lattie2.org", "on": "12.4-0055" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.lattie2.org"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.lattie2.org"},
+                { "name": "Server-1", "desc": "Global", "domain": "linusa.org", "on": "12.4-0800" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.linusa.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.linusa.org"},
                    
                 {"memo": "light"}
             ]
