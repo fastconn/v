@@ -29,27 +29,19 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 2,
+            "wsGroupSize": 1,
             "wsNameAuto": true,
             "ws2": [
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "manuf1.org",          "desc": "Global", "on": "12.4-0800" },
-                { "name": "Server-2", "domain": "b.manuf1.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.manuf1.org",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "shrines.homes",          "desc": "Global", "on": "12.5-0200" },
+                { "name": "Server-2", "domain": "b.shrines.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.shrines.homes",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "manuf2.org",         "desc": "Global", "on": "12.4-0800" },   
-                { "name": "Server-5", "domain": "d.manuf2.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.manuf2.org",       "desc": "Global" },
-
-                { "name": "Server-1", "domain": "istamo.homes",          "desc": "Global", "on": "12.4-2100" },
-                { "name": "Server-2", "domain": "b.istamo.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.istamo.homes",        "desc": "Global" },   
-
-                { "name": "Server-4", "domain": "alruyem.homes",         "desc": "Global", "on": "12.4-2100" },   
-                { "name": "Server-5", "domain": "d.alruyem.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.alruyem.homes",       "desc": "Global" },
+                { "name": "Server-4", "domain": "kilmak.homes",         "desc": "Global", "on": "12.5-0200" },   
+                { "name": "Server-5", "domain": "d.kilmak.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.kilmak.homes",       "desc": "Global" },
 
                 {}
             ],
@@ -76,8 +68,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "p.manuf1.org", "enableCf": false, "desc": "websocket" },
-                { "name": "VIP-2", "domain": "v.manuf1.org", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-1", "domain": "p.shrines.homes", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-2", "domain": "v.shrines.homes", "enableCf": false, "desc": "websocket" },
                 {}
             ], 
             "servers": [

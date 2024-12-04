@@ -13,13 +13,10 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "albasha.homes", "on": "12.4-2100" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.albasha.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.albasha.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "bayiri.homes", "on": "12.5-0200" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.bayiri.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.bayiri.homes"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "linusa.org", "on": "12.4-0800" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.linusa.org"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.linusa.org"},
                    
                 {"memo": "light"}
             ]
