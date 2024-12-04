@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "bayiri.homes", "on": "12.5-0200" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.bayiri.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.bayiri.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "ciralir.org", "on": "12.5-0225" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.ciralir.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.ciralir.org"},
 
                    
                 {"memo": "light"}

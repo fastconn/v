@@ -7,9 +7,9 @@
             "isVip": false,
             "ws": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "doyran.homes", "on": "12.5-0200" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.doyran.homes" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.doyran.homes" }       
+                { "name": "Server-1", "desc": "Global", "domain": "antalya1.org", "on": "12.5-0225" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.antalya1.org" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.antalya1.org" }       
             
             ],
             "ips": [
