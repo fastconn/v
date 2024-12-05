@@ -29,45 +29,19 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 3,
+            "wsGroupSize": 1,
             "wsNameAuto": true,
             "ws2": [
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "tekirova.org",          "desc": "Global", "on": "12.5-0225" },
-                { "name": "Server-2", "domain": "b.tekirova.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.tekirova.org",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "koseler1.homes",          "desc": "Global", "on": "12.6-0030" },
+                { "name": "Server-2", "domain": "b.koseler1.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.koseler1.homes",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "tekirova2.org",         "desc": "Global", "on": "12.5-0225" },   
-                { "name": "Server-5", "domain": "d.tekirova2.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.tekirova2.org",       "desc": "Global" },
-
-
-                { "name": "Server-1", "domain": "mahalle1.homes",          "desc": "Global", "on": "12.5-0955" },
-                { "name": "Server-2", "domain": "b.mahalle1.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.mahalle1.homes",        "desc": "Global" },   
-
-                { "name": "Server-4", "domain": "mahalle2.homes",         "desc": "Global", "on": "12.5-0955" },   
-                { "name": "Server-5", "domain": "d.mahalle2.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.mahalle2.homes",       "desc": "Global" },
-
-
-                { "name": "Server-1", "domain": "kuzca1.homes",          "desc": "Global", "on": "12.5-2115" },
-                { "name": "Server-2", "domain": "b.kuzca1.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.kuzca1.homes",        "desc": "Global" },   
-
-                { "name": "Server-4", "domain": "kuzca2.homes",         "desc": "Global", "on": "12.5-2115" },   
-                { "name": "Server-5", "domain": "d.kuzca2.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.kuzca2.homes",       "desc": "Global" },
-
-                { "name": "Server-1", "domain": "maviken1.homes",          "desc": "Global", "on": "12.5-2115" },
-                { "name": "Server-2", "domain": "b.maviken1.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.maviken1.homes",        "desc": "Global" },   
-
-                { "name": "Server-4", "domain": "maviken2.homes",         "desc": "Global", "on": "12.5-2115" },   
-                { "name": "Server-5", "domain": "d.maviken2.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.maviken2.homes",       "desc": "Global" },
+                { "name": "Server-4", "domain": "koseler2.homes",         "desc": "Global", "on": "12.6-0030" },   
+                { "name": "Server-5", "domain": "d.koseler2.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.koseler2.homes",       "desc": "Global" },
 
 
                 {}
@@ -95,8 +69,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "p.tekirova.org", "enableCf": false, "desc": "websocket" },
-                { "name": "VIP-2", "domain": "v.tekirova.org", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-1", "domain": "p.koseler1.homes", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-2", "domain": "v.koseler1.homes", "enableCf": false, "desc": "websocket" },
                 {}
             ], 
             "servers": [
