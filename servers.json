@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 1,
+            "wsGroupSize": 2,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -43,6 +43,14 @@
                 { "name": "Server-5", "domain": "d.tekirova2.org",       "desc": "Global" },
                 { "name": "Server-6", "domain": "e.tekirova2.org",       "desc": "Global" },
 
+
+                { "name": "Server-1", "domain": "mahalle1.homes",          "desc": "Global", "on": "12.5-0955" },
+                { "name": "Server-2", "domain": "b.mahalle1.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.mahalle1.homes",        "desc": "Global" },   
+
+                { "name": "Server-4", "domain": "mahalle2.homes",         "desc": "Global", "on": "12.5-0955" },   
+                { "name": "Server-5", "domain": "d.mahalle2.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.mahalle2.homes",       "desc": "Global" },
                 {}
             ],
             "servers": [

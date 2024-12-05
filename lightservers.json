@@ -17,6 +17,10 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.ciralir.org"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.ciralir.org"},
 
+                { "name": "Server-1", "desc": "Global", "domain": "hasyurt.homes", "on": "12.5-0955" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.hasyurt.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.hasyurt.homes"},
+
                    
                 {"memo": "light"}
             ]

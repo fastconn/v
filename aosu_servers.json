@@ -9,7 +9,11 @@
 
                 { "name": "Server-1", "desc": "Global", "domain": "antalya1.org", "on": "12.5-0225" },
                 { "name": "Server-2", "desc": "Global", "domain": "an.antalya1.org" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.antalya1.org" }       
+                { "name": "Server-3", "desc": "Global", "domain": "be.antalya1.org" },    
+
+                { "name": "Server-4", "desc": "Global", "domain": "adrasan.homes", "on": "12.5-0955" },
+                { "name": "Server-5", "desc": "Global", "domain": "an.adrasan.homes" },
+                { "name": "Server-6", "desc": "Global", "domain": "be.adrasan.homes" }       
             
             ],
             "ips": [
