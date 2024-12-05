@@ -43,6 +43,13 @@
                 { "name": "Server-5", "domain": "d.koseler2.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "e.koseler2.homes",       "desc": "Global" },
 
+                { "name": "Server-1", "domain": "karata1.homes",          "desc": "Global", "on": "12.6-0035" },
+                { "name": "Server-2", "domain": "b.karata1.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.karata1.homes",        "desc": "Global" },   
+
+                { "name": "Server-4", "domain": "karata2.homes",         "desc": "Global", "on": "12.6-0035" },   
+                { "name": "Server-5", "domain": "d.karata2.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.karata2.homes",       "desc": "Global" },
 
                 {}
             ],
