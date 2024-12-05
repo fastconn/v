@@ -43,14 +43,14 @@
         },
 		"run": {},
 		"run3": {
-			"MainOpen": "open??",
+			"MainOpen": "open",
 			"WillDisFull": "anyI",
 			"DidConFull": "anyI",
 			"HotFull": "anyI",
 			"AnyInter": "anyI",
 			"AnyFull": "anyN",
-            "OffNative": "offN_d",
-            "OffInter": "offI_d",
+            "OffNative": "offN",
+            "OffInter": "offI",
 			"Connected2": "native2"
 		},
         "sets": {
@@ -58,14 +58,13 @@
                 "type": "inter",
                 "ids": [
 					{ "id": "ca-app-pub-3510970371831048/4162128985", "memo":"h1204-2208-4" },
-					{ "id": "ca-app-pub-3510970371831048/5902738020", "memo":"h1123-1905-4" },
 					{ "id": "ca-app-pub-3510970371831048/7950941586", "memo":"m1116-1635" }
 				]
             },
 			"anyN": {
 				"type": "native", 
 				"ids": [
-					{ "id": "ca-app-pub-3510970371831048/9414455664", "memo":"h12034-2208-5" },
+					{ "id": "ca-app-pub-3510970371831048/9414455664", "memo":"h1204-2208-5" },
 					{ "id": "ca-app-pub-3510970371831048/4369841102", "memo":"m1202-0905" }
 				]
 	 	    },
