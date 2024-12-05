@@ -35,21 +35,13 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "koseler1.homes",          "desc": "Global", "on": "12.6-0030" },
-                { "name": "Server-2", "domain": "b.koseler1.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.koseler1.homes",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "maximian1.org",          "desc": "Global", "on": "12.6-0630" },
+                { "name": "Server-2", "domain": "b.maximian1.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.maximian1.org",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "koseler2.homes",         "desc": "Global", "on": "12.6-0030" },   
-                { "name": "Server-5", "domain": "d.koseler2.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.koseler2.homes",       "desc": "Global" },
-
-                { "name": "Server-1", "domain": "karata1.homes",          "desc": "Global", "on": "12.6-0035" },
-                { "name": "Server-2", "domain": "b.karata1.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.karata1.homes",        "desc": "Global" },   
-
-                { "name": "Server-4", "domain": "karata2.homes",         "desc": "Global", "on": "12.6-0035" },   
-                { "name": "Server-5", "domain": "d.karata2.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.karata2.homes",       "desc": "Global" },
+                { "name": "Server-4", "domain": "maximian2.org",         "desc": "Global", "on": "12.6-0630" },   
+                { "name": "Server-5", "domain": "d.maximian2.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.maximian2.org",       "desc": "Global" },
 
                 {}
             ],
@@ -76,8 +68,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "p.koseler1.homes", "enableCf": false, "desc": "websocket" },
-                { "name": "VIP-2", "domain": "v.koseler1.homes", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-1", "domain": "p.maximian1.org", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-2", "domain": "v.maximian1.org", "enableCf": false, "desc": "websocket" },
                 {}
             ], 
             "servers": [

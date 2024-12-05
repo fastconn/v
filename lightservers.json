@@ -13,13 +13,10 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "badema1.homes", "on": "12.6-0030" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.badema1.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.badema1.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "llicakoy1.org", "on": "12.6-0630" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.llicakoy1.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.llicakoy1.org"},
 
-                { "name": "Server-1", "desc": "Global", "domain": "badema2.homes", "on": "12.6-0030" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.badema2.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.badema2.homes"},
 
                    
                 {"memo": "light"}
