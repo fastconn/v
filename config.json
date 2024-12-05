@@ -21,7 +21,7 @@
     },
     "ad": {
         "0": {
-            "ver": 20241115,
+            "ver": 20241205,
             "adFullLoadwait": 6,
             "hotInterval": 2,
             "skipOffset" : 0,
@@ -45,7 +45,7 @@
             "offAdOrder": "in"
         },
         "run3": {
-            "MainOpen": "mainOpen？？",
+            "MainOpen": "mainOpen",
             "Connected2": "conn",
             "DidConFull": "anyInter",
             "WillDisFull": "anyInter",
@@ -67,7 +67,7 @@
             "anyFull": {
                 "type": "native", "layouts_d625": [0,1],
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/8244844220", "memo": "h1204-20356" },
+                    { "id": "ca-app-pub-3510970371831048/9003030731", "memo": "h1205-2030" },
                     { "id": "ca-app-pub-3510970371831048/9435341231", "memo": "m1204-1440" }
               ]
             },
