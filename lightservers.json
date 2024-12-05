@@ -9,7 +9,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 1,
+            "wsGroupSize": 2,
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
@@ -21,6 +21,13 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.hasyurt.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.hasyurt.homes"},
 
+                { "name": "Server-1", "desc": "Global", "domain": "lulupin2.homes", "on": "12.5-2115" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.lulupin2.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.lulupin2.homes"},
+
+                { "name": "Server-1", "desc": "Global", "domain": "lulupin1.homes", "on": "12.5-2115" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.lulupin1.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.lulupin1.homes"},
                    
                 {"memo": "light"}
             ]

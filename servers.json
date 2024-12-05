@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 2,
+            "wsGroupSize": 3,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -51,6 +51,25 @@
                 { "name": "Server-4", "domain": "mahalle2.homes",         "desc": "Global", "on": "12.5-0955" },   
                 { "name": "Server-5", "domain": "d.mahalle2.homes",       "desc": "Global" },
                 { "name": "Server-6", "domain": "e.mahalle2.homes",       "desc": "Global" },
+
+
+                { "name": "Server-1", "domain": "kuzca1.homes",          "desc": "Global", "on": "12.5-2115" },
+                { "name": "Server-2", "domain": "b.kuzca1.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.kuzca1.homes",        "desc": "Global" },   
+
+                { "name": "Server-4", "domain": "kuzca2.homes",         "desc": "Global", "on": "12.5-2115" },   
+                { "name": "Server-5", "domain": "d.kuzca2.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.kuzca2.homes",       "desc": "Global" },
+
+                { "name": "Server-1", "domain": "maviken1.homes",          "desc": "Global", "on": "12.5-2115" },
+                { "name": "Server-2", "domain": "b.maviken1.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.maviken1.homes",        "desc": "Global" },   
+
+                { "name": "Server-4", "domain": "maviken2.homes",         "desc": "Global", "on": "12.5-2115" },   
+                { "name": "Server-5", "domain": "d.maviken2.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.maviken2.homes",       "desc": "Global" },
+
+
                 {}
             ],
             "servers": [
