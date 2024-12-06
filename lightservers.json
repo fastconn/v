@@ -17,7 +17,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.esenyurt.homes"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.esenyurt.homes"},
 
-
+                { "name": "Server-4", "desc": "Global", "domain": "esenyurt2.org", "on": "12.6-1650" },
+                { "name": "Server-5", "desc": "Global", "domain": "bl.esenyurt2.org"},
+                { "name": "Server-6", "desc": "Global", "domain": "cl.esenyurt2.org"},
                    
                 {"memo": "light"}
             ]
