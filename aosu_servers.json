@@ -7,9 +7,9 @@
             "isVip": false,
             "ws": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "koseler.homes", "on": "12.6-0715" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.koseler.homes" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.koseler.homes" } 
+                { "name": "Server-1", "desc": "Global", "domain": "koseler.org", "on": "12.6-1735" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.koseler.org" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.koseler.org" } 
             
             ],
             "ips": [

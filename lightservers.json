@@ -13,9 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "esenyurt.homes", "on": "12.6-0715" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.esenyurt.homes"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.esenyurt.homes"},
+                { "name": "Server-1", "desc": "Global", "domain": "esenyurt1.org", "on": "12.6-1735" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.esenyurt1.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.esenyurt1.org"},
 
                 { "name": "Server-4", "desc": "Global", "domain": "esenyurt2.org", "on": "12.6-1650" },
                 { "name": "Server-5", "desc": "Global", "domain": "bl.esenyurt2.org"},

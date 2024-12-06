@@ -39,9 +39,9 @@
                 { "name": "Server-2", "domain": "b.bilely3.org",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.bilely3.org",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "bilely2.homes",         "desc": "Global", "on": "12.6-0715" },   
-                { "name": "Server-5", "domain": "d.bilely2.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.bilely2.homes",       "desc": "Global" },
+                { "name": "Server-4", "domain": "bilely4.org",         "desc": "Global", "on": "12.6-1735" },   
+                { "name": "Server-5", "domain": "d.bilely4.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.bilely4.org",       "desc": "Global" },
 
                 {}
             ],
