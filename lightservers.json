@@ -13,6 +13,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
+                { "name": "Server-1", "desc": "Global", "domain": "phaseli1.homes", "on": "12.7-0840" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.phaseli1.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.phaseli1.homes"},
 
                 { "name": "Server-4", "desc": "Global", "domain": "phaseli2.homes", "on": "12.6-0815" },
                 { "name": "Server-5", "desc": "Global", "domain": "bl.phaseli2.homes"},
