@@ -13,13 +13,13 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "laseli1.org", "on": "12.7-0905" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.laseli1.org"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.laseli1.org"},
+                { "name": "Server-1", "desc": "Global", "domain": "linnda1.site", "on": "12.7-1025" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.linnda1.site"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.linnda1.site"},
 
-                { "name": "Server-4", "desc": "Global", "domain": "laseli2.org", "on": "12.7-0905" },
-                { "name": "Server-5", "desc": "Global", "domain": "bl.laseli2.org"},
-                { "name": "Server-6", "desc": "Global", "domain": "cl.laseli2.org"},
+                { "name": "Server-4", "desc": "Global", "domain": "linnda2.site", "on": "12.7-0905" },
+                { "name": "Server-5", "desc": "Global", "domain": "bl.linnda2.site"},
+                { "name": "Server-6", "desc": "Global", "domain": "cl.linnda2.site"},
                    
                 {"memo": "light"}
             ]
