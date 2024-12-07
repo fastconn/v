@@ -35,13 +35,13 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "bilely3.org",          "desc": "Global", "on": "12.6-1650" },
-                { "name": "Server-2", "domain": "b.bilely3.org",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.bilely3.org",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "mnara1.homes",          "desc": "Global", "on": "12.7-0815" },
+                { "name": "Server-2", "domain": "b.mnara1.homes",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.mnara1.homes",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "bilely4.org",         "desc": "Global", "on": "12.6-1735" },   
-                { "name": "Server-5", "domain": "d.bilely4.org",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.bilely4.org",       "desc": "Global" },
+                { "name": "Server-4", "domain": "mnara2.homes",         "desc": "Global", "on": "12.6-0815" },   
+                { "name": "Server-5", "domain": "d.mnara2.homes",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.mnara2.homes",       "desc": "Global" },
 
                 {}
             ],
@@ -68,8 +68,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "p.bilely3.org", "enableCf": false, "desc": "websocket" },
-                { "name": "VIP-2", "domain": "v.bilely3.org", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-1", "domain": "p.mnara1.homes", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-2", "domain": "v.mnara1.homes", "enableCf": false, "desc": "websocket" },
                 {}
             ], 
             "servers": [
