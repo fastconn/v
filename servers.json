@@ -35,13 +35,13 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "michelle1.site",          "desc": "Global", "on": "12.7-1025" },
-                { "name": "Server-2", "domain": "b.michelle1.site",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.michelle1.site",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "marina1.org",          "desc": "Global", "on": "12.7-1610" },
+                { "name": "Server-2", "domain": "b.marina1.org",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.marina1.org",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "michelle2.site",         "desc": "Global", "on": "12.7-1025" },   
-                { "name": "Server-5", "domain": "d.michelle2.site",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.michelle2.site",       "desc": "Global" },
+                { "name": "Server-4", "domain": "marina2.org",         "desc": "Global", "on": "12.7-1610" },   
+                { "name": "Server-5", "domain": "d.marina2.org",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.marina2.org",       "desc": "Global" },
 
                 {}
             ],
@@ -68,8 +68,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "p.michelle1.site", "enableCf": false, "desc": "websocket" },
-                { "name": "VIP-2", "domain": "v.michelle1.site", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-1", "domain": "p.marina1.org", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-2", "domain": "v.marina1.org", "enableCf": false, "desc": "websocket" },
                 {}
             ], 
             "servers": [

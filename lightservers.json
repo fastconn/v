@@ -13,13 +13,13 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "linnda1.site", "on": "12.7-1025" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.linnda1.site"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.linnda1.site"},
+                { "name": "Server-1", "desc": "Global", "domain": "lisport1.org", "on": "12.7-1610" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.lisport1.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.lisport1.org"},
 
-                { "name": "Server-4", "desc": "Global", "domain": "linnda2.site", "on": "12.7-0905" },
-                { "name": "Server-5", "desc": "Global", "domain": "bl.linnda2.site"},
-                { "name": "Server-6", "desc": "Global", "domain": "cl.linnda2.site"},
+                { "name": "Server-4", "desc": "Global", "domain": "lisport2.org", "on": "12.7-1610" },
+                { "name": "Server-5", "desc": "Global", "domain": "bl.lisport2.org"},
+                { "name": "Server-6", "desc": "Global", "domain": "cl.lisport2.org"},
                    
                 {"memo": "light"}
             ]
