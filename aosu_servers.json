@@ -7,9 +7,9 @@
             "isVip": false,
             "ws": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "airport1.org", "on": "12.7-1610" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.airport1.org" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.airport1.org" } 
+                { "name": "Server-1", "desc": "Global", "domain": "rammagar.com", "on": "12.8-0020" },
+                { "name": "Server-2", "desc": "Global", "domain": "jakhalon.com" },
+                { "name": "Server-3", "desc": "Global", "domain": "nunawali.com" } 
             
             ],
             "ips": [
