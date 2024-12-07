@@ -9,7 +9,11 @@
 
                 { "name": "Server-1", "desc": "Global", "domain": "rammagar.com", "on": "12.8-0020" },
                 { "name": "Server-2", "desc": "Global", "domain": "jakhalon.com" },
-                { "name": "Server-3", "desc": "Global", "domain": "nunawali.com" } 
+                { "name": "Server-3", "desc": "Global", "domain": "nunawali.com" },
+
+                { "name": "Server-4", "desc": "Global", "domain": "mohansa.com", "on": "12.8-0045" },
+                { "name": "Server-5", "desc": "Global", "domain": "bamuriya.com" },
+                { "name": "Server-6", "desc": "Global", "domain": "karaiyak.com" } 
             
             ],
             "ips": [

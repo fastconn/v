@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 1,
+            "wsGroupSize": 2,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -42,6 +42,16 @@
                 { "name": "Server-4", "domain": "rantaudoe.com",         "desc": "Global", "on": "12.8-0020" },   
                 { "name": "Server-5", "domain": "masjidale.com",       "desc": "Global" },
                 { "name": "Server-6", "domain": "serdangmer.com",       "desc": "Global" },
+
+
+                { "name": "Server-1", "domain": "madwasa.com",          "desc": "Global", "on": "12.8-0045" },
+                { "name": "Server-2", "domain": "matawali.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "khutiya.com",        "desc": "Global" },   
+
+                { "name": "Server-4", "domain": "sirchopi.com",         "desc": "Global", "on": "12.8-0045" },   
+                { "name": "Server-5", "domain": "badholi.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "gundheru.com",       "desc": "Global" },
+
 
                 {}
             ],
@@ -69,7 +79,7 @@
             "image": "for_VIP",
             "ws3": [
                 { "name": "VIP-1", "domain": "marina1.org", "enableCf": false, "desc": "websocket", "on": "12.7-1610"},
-                { "name": "VIP-2", "domain": "v.marina1.org", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-2", "domain": "parooda.com", "enableCf": false, "desc": "websocket" },
                 {}
             ], 
             "servers": [
