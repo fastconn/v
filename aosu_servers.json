@@ -7,9 +7,9 @@
             "isVip": false,
             "ws": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "antik.homes", "on": "12.7-0815" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.antik.homes" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.antik.homes" } 
+                { "name": "Server-1", "desc": "Global", "domain": "antikk.org", "on": "12.7-0905" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.antikk.org" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.antikk.org" } 
             
             ],
             "ips": [
