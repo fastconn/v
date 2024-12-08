@@ -21,6 +21,10 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bhangarht.com"},
                 { "name": "Server-3", "desc": "Global", "domain": "karondae.com"},
                    
+                { "name": "Server-1", "desc": "Global", "domain": "sindwaha.com", "on": "12.9-0015" },
+                { "name": "Server-2", "desc": "Global", "domain": "khitwans.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "tallbehat.com"},
+
                 {"memo": "light"}
             ]
         }
