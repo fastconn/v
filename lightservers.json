@@ -13,21 +13,21 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "kelantand.com", "on": "12.8-0020" },
-                { "name": "Server-2", "desc": "Global", "domain": "chandery.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "nagawarr.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "lovilenbvba.com", "on": "12.9-1630" },
+                { "name": "Server-2", "desc": "Global", "domain": "chandery.com", "on": "12.8-0020"},
+                { "name": "Server-3", "desc": "Global", "domain": "nagawarr.com", "on": "12.8-0020"},
 
                 { "name": "Server-1", "desc": "Global", "domain": "jugpura.com", "on": "12.8-0045" },
-                { "name": "Server-2", "desc": "Global", "domain": "bhangarht.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "karondae.com"},
+                { "name": "Server-2", "desc": "Global", "domain": "bhangarht.com", "on": "12.8-0045" },
+                { "name": "Server-3", "desc": "Global", "domain": "karondae.com", "on": "12.8-0045" },
                    
                 { "name": "Server-1", "desc": "Global", "domain": "sindwaha.com", "on": "12.9-0015" },
-                { "name": "Server-2", "desc": "Global", "domain": "khitwans.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "tallbehat.com"},
+                { "name": "Server-2", "desc": "Global", "domain": "khitwans.com", "on": "12.9-0015" },
+                { "name": "Server-3", "desc": "Global", "domain": "tallbehat.com", "on": "12.9-0015" },
                    
                 { "name": "Server-1", "desc": "Global", "domain": "abdijvan.com", "on": "12.9-1500" },
-                { "name": "Server-2", "desc": "Global", "domain": "dizzydancer.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "flapuit.com"},
+                { "name": "Server-2", "desc": "Global", "domain": "dizzydancer.com", "on": "12.9-1500" },
+                { "name": "Server-3", "desc": "Global", "domain": "flapuit.com", "on": "12.9-1500" },
 
                 {"memo": "light"}
             ]
