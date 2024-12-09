@@ -29,7 +29,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 2,
+            "wsGroupSize": 3,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -52,8 +52,13 @@
                 { "name": "Server-5", "domain": "badholi.com",       "desc": "Global" },
                 { "name": "Server-6", "domain": "gundheru.com",       "desc": "Global" },
 
+                { "name": "Server-1", "domain": "meieriji.com",          "desc": "Global", "on": "12.9-1430" },
+                { "name": "Server-2", "domain": "hoogvarst.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "broeckh.com",        "desc": "Global" },   
+
                 { "name": "Server-4", "domain": "jatarae.com",         "desc": "Global", "on": "12.9-1430" },   
                 { "name": "Server-5", "domain": "bamorek.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "prithvipu.com",       "desc": "Global" },
 
                 {}
             ],
