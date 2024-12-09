@@ -11,9 +11,9 @@
                 { "name": "Server-2", "desc": "Global", "domain": "jakhalon.com" },
                 { "name": "Server-3", "desc": "Global", "domain": "nunawali.com" },
 
-                { "name": "Server-4", "desc": "Global", "domain": "mohansa.com", "on": "12.8-0045" },
-                { "name": "Server-5", "desc": "Global", "domain": "bamuriya.com" },
-                { "name": "Server-6", "desc": "Global", "domain": "karaiyak.com" },
+                { "name": "Server-4", "desc": "Global", "domain": "nrgysolu.com", "on": "12.9-1545" },
+                { "name": "Server-5", "desc": "Global", "domain": "gevelreno.com" },
+                { "name": "Server-6", "desc": "Global", "domain": "smeerebbe.com" },
                 
                 { "name": "Server-7", "desc": "Global", "domain": "kakawaha.com", "on": "12.9-0015" }
             
