@@ -9,7 +9,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 1,
+            "wsGroupSize": 2,
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
@@ -24,6 +24,10 @@
                 { "name": "Server-1", "desc": "Global", "domain": "sindwaha.com", "on": "12.9-0015" },
                 { "name": "Server-2", "desc": "Global", "domain": "khitwans.com"},
                 { "name": "Server-3", "desc": "Global", "domain": "tallbehat.com"},
+                   
+                { "name": "Server-1", "desc": "Global", "domain": "abdijvan.com", "on": "12.9-1500" },
+                { "name": "Server-2", "desc": "Global", "domain": "dizzydancer.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "flapuit.com"},
 
                 {"memo": "light"}
             ]
