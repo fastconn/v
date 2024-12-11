@@ -46,7 +46,7 @@
                 {"memo": "light"}
             ],
             "servers": [
-                { "cc": "us", "city": "Santa Clara",   "ip": "169.197.142.222",  "desc": "High speed",   "on": "5-5,2Gb@12.11", "mmver": ["1.11"] }
+                { "cc": "us", "city": "Santa Clara",   "ip": "169.197.142.82",  "desc": "High speed",   "on": "5-5,2Gb@12.11", "mmver": ["1.11"] }
             ]
         }
     ]
