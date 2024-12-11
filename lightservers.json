@@ -3,6 +3,20 @@
     "v": 20241017,
     "shuffleWs": true,
     "cfgs": {
+        "vmess": {
+            "a": {
+                "u": "04621bae-ab36-11ec-b909-0242ac120002",
+                "pt": 22324
+            }
+        },
+        "ws": {
+	        "a": {
+                "domain": "edeen.makeup",
+                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
+                "pt": 443,
+                "path": "/linkvws"
+            }
+        }
     },
     "l": [
         {
