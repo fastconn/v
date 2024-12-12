@@ -27,8 +27,11 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "kelantand.com", "on": "12.8-0020" },
-                { "name": "Server-2", "desc": "Global", "domain": "chandery.com", "on": "12.8-0020"},
+                { "name": "Server-1", "desc": "Global", "domain": "muylemhoe.com", "on": "12.12-1000" },
+                { "name": "Server-2", "desc": "Global", "domain": "wilgendries.com", "on": "12.12-1000"},
+                {}
+            ],
+            "ws1212": [
                 { "name": "Server-3", "desc": "Global", "domain": "nagawarr.com", "on": "12.8-0020"},
 
                 { "name": "Server-1", "desc": "Global", "domain": "jugpura.com", "on": "12.8-0045" },

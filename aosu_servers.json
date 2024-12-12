@@ -7,7 +7,9 @@
             "isVip": false,
             "ws": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "rammagar.com", "on": "12.8-0020" },
+                { "name": "Server-1", "desc": "Global", "domain": "aspelare.com", "on": "12.12-1000" }
+            ],
+            "1212": [
                 { "name": "Server-2", "desc": "Global", "domain": "jakhalon.com" },
                 { "name": "Server-3", "desc": "Global", "domain": "nunawali.com" },
 
