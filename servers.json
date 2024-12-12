@@ -1,6 +1,7 @@
 {
     "ageM": 5,
-    "v": 20241017,
+    "v": 20241213,
+    "autoTunnel": 2,
     "shuffleWs": true,
     "cfgs": {
         "ikev2": {
@@ -41,12 +42,10 @@
                 { "name": "Server-5", "domain": "wanzelers.com",         "desc": "Global", "on": "12.12-1450" },
                 { "name": "Server-6", "domain": "schoubroex.com",        "desc": "Global", "on": "12.12-1350" },   
 
-                { "name": "Server-6", "domain": "bambrugge.com",        "desc": "Global", "on": "12.12-2215" },   
-
                 {}
             ],
             "ws1212": [
-
+                { "name": "Server-6", "domain": "bambrugge.com",        "desc": "Global", "on": "12.12-2215" },   
                 { "name": "Server-4", "domain": "rantaudoe.com",         "desc": "Global", "on": "12.8-0020" },   
                 { "name": "Server-5", "domain": "masjidale.com",       "desc": "Global" },
                 { "name": "Server-6", "domain": "serdangmer.com",       "desc": "Global" },

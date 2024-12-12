@@ -45,6 +45,10 @@
                 {"memo": "light"}
             ],
             "servers": [
+                { "cc": "de", "city": "Frankfurt",   "ip": "57.129.24.130",  "desc": "High speed", "on": "ov65087@12.13" },
+                { "cc": "de", "city": "Frankfurt",   "ip": "57.129.24.131",  "desc": "High speed", "on": "ov64885@12.13" },
+                { "cc": "fr", "city": "Roubaix",   "ip": "51.77.20.70",  "desc": "High speed", "on": "ov67629@12.13" },
+                
                 { "cc": "gb", "city": "London",   "ip": "142.202.51.65",  "desc": "High speed", "on": "6-1@12.12" },
                 { "cc": "gb", "city": "London",   "ip": "142.202.51.52", "desc": "High speed", "on": "7-9@12.12" },
                 { "cc": "us", "city": "Dallas",   "ip": "38.68.134.216",  "desc": "High speed", "on": "7-23@12.12" },
