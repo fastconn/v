@@ -35,8 +35,8 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "frituurt.com",          "desc": "Global", "on": "12.12-1240" },
-                { "name": "Server-2", "domain": "paddenhoek.com",        "desc": "Global", "on": "12.12-1310" },
-                { "name": "Server-3", "domain": "aalstkerr.com",        "desc": "Global", "on": "12.12-1350" },   
+                { "name": "Server-4", "domain": "paddenhoek.com",        "desc": "Global", "on": "12.12-1310" },
+                { "name": "Server-6", "domain": "schoubroex.com",        "desc": "Global", "on": "12.12-1350" },   
 
                 {}
             ],
