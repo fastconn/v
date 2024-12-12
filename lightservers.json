@@ -27,20 +27,16 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "opsmeer.com", "on": "12.12-1440" },
-                { "name": "Server-2", "desc": "Global", "domain": "rebroek.com", "on": "12.12-1310" },
-                { "name": "Server-3", "desc": "Global", "domain": "terlindent.com", "on": "12.12-1240" },
+                { "name": "Server-1", "desc": "Global", "domain": "ophasselt.com", "on": "1213-0100" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.ophasselt.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.ophasselt.com"},
 
-                { "name": "Server-3", "desc": "Global", "domain": "osbroe.com", "on": "12.12-2215" },
                {}
             ],
             "ws1212": [
-                { "name": "Server-2", "desc": "Global", "domain": "bhangarht.com", "on": "12.8-0045" },
-                { "name": "Server-3", "desc": "Global", "domain": "karondae.com", "on": "12.8-0045" },
-
-                { "name": "Server-1", "desc": "Global", "domain": "lter29b.pro", "on": "11.29-0800" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.lter29b.org"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.lter29b.org"},
+                { "name": "Server-1", "desc": "Global", "domain": "opsmeer.com", "on": "12.12-1440" },
+                { "name": "Server-2", "desc": "Global", "domain": "rebroek.com", "on": "12.12-1310" },
+                { "name": "Server-3", "desc": "Global", "domain": "terlindent.com", "on": "12.12-1240" },
 
                 {"memo": "light"}
             ],
