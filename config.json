@@ -11,7 +11,7 @@
         ],
         "forceVer": "1.5.3",
         "recVer": "1.5.6",
-        "autoTunnel": 4,
+        "autoTunnel": 2,
         "wsDefault": true,
         "iapColor": 0,
         "umpEnabled": true,
