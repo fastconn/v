@@ -88,8 +88,7 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "marina1.org", "enableCf": false, "desc": "websocket", "on": "12.7-1610"},
-                { "name": "VIP-2", "domain": "parooda.com", "enableCf": false, "desc": "websocket" },
+                { "name": "VIP-1", "domain": "v.nederhass.com", "desc": "websocket", "on": "12.12-1006"},
                 {}
             ], 
             "servers": [
