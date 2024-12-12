@@ -36,10 +36,10 @@
             "ws3": [
 
                 { "name": "Server-1", "domain": "lebekest.com",          "desc": "Global", "on": "12.12-1040" },
+                { "name": "Server-2", "domain": "gevelreno.com",        "desc": "Global", "on": "12.12-1040" },
                 {}
             ],
             "ws1212": [
-                { "name": "Server-2", "domain": "paellepe.com",        "desc": "Global" },
                 { "name": "Server-3", "domain": "groenstry.com",        "desc": "Global" },   
 
                 { "name": "Server-4", "domain": "rantaudoe.com",         "desc": "Global", "on": "12.8-0020" },   
@@ -88,7 +88,7 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "v.nederhass.com", "desc": "websocket", "on": "12.12-1006"},
+                { "name": "VIP-1", "domain": "zuurstraat.com", "desc": "websocket", "on": "12.12-1040"},
                 {}
             ], 
             "servers": [
