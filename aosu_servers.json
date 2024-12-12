@@ -7,7 +7,7 @@
             "isVip": false,
             "ws": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "tolstraat.com", "on": "12.12-1140" }
+                { "name": "Server-1", "desc": "Global", "domain": "siesegem.com", "on": "12.12-1240" }
             ],
             "1212": [
                 { "name": "Server-2", "desc": "Global", "domain": "jakhalon.com" },
@@ -17,7 +17,9 @@
                 { "name": "Server-5", "desc": "Global", "domain": "bamuriya.com" },
                 { "name": "Server-6", "desc": "Global", "domain": "karaiyak.com" },
                 
-                { "name": "Server-7", "desc": "Global", "domain": "kakawaha.com", "on": "12.9-0015" }
+                { "name": "Server-1", "desc": "Global", "domain": "islantia.pro", "on": "11.28-1345" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.islantia.pro" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.islantia.pro" }
             
             ],
             "ips": [

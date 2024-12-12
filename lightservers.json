@@ -27,24 +27,17 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "ankeistraat.com", "on": "12.12-1140" },
-                { "name": "Server-2", "desc": "Global", "domain": "kerkveldweg.com", "on": "12.12-1140"},
+                { "name": "Server-1", "desc": "Global", "domain": "terlindent.com", "on": "12.12-1240" },
                 {}
             ],
             "ws1212": [
-                { "name": "Server-3", "desc": "Global", "domain": "nagawarr.com", "on": "12.8-0020"},
-
                 { "name": "Server-1", "desc": "Global", "domain": "jugpura.com", "on": "12.8-0045" },
                 { "name": "Server-2", "desc": "Global", "domain": "bhangarht.com", "on": "12.8-0045" },
                 { "name": "Server-3", "desc": "Global", "domain": "karondae.com", "on": "12.8-0045" },
-                   
-                { "name": "Server-1", "desc": "Global", "domain": "sindwaha.com", "on": "12.9-0015" },
-                { "name": "Server-2", "desc": "Global", "domain": "khitwans.com", "on": "12.9-0015" },
-                { "name": "Server-3", "desc": "Global", "domain": "tallbehat.com", "on": "12.9-0015" },
-                   
-                { "name": "Server-1", "desc": "Global", "domain": "abdijvan.com", "on": "12.9-1500" },
-                { "name": "Server-2", "desc": "Global", "domain": "dizzydancer.com", "on": "12.9-1500" },
-                { "name": "Server-3", "desc": "Global", "domain": "flapuit.com", "on": "12.9-1500" },
+
+                { "name": "Server-1", "desc": "Global", "domain": "lter29b.pro", "on": "11.29-0800" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.lter29b.org"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.lter29b.org"},
 
                 {"memo": "light"}
             ],

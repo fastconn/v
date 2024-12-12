@@ -35,33 +35,24 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "hetvest.com",          "desc": "Global", "on": "12.12-1140" },
-                { "name": "Server-2", "domain": "nieuwerk.com",        "desc": "Global", "on": "12.12-1140" },
+                { "name": "Server-1", "domain": "frituurt.com",          "desc": "Global", "on": "12.12-1240" },
                 {}
             ],
             "ws1212": [
+                { "name": "Server-2", "domain": "nieuwerk.com",        "desc": "Global", "on": "12.12-1140" },
                 { "name": "Server-3", "domain": "smeerebbe.com",        "desc": "Global", "on": "12.12-1050" },   
 
                 { "name": "Server-4", "domain": "rantaudoe.com",         "desc": "Global", "on": "12.8-0020" },   
                 { "name": "Server-5", "domain": "masjidale.com",       "desc": "Global" },
                 { "name": "Server-6", "domain": "serdangmer.com",       "desc": "Global" },
 
+                { "name": "Server-1", "domain": "memory301.pro",          "desc": "Global", "on": "12.2-1000" },
+                { "name": "Server-2", "domain": "b.memory301.pro",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.memory301.pro",        "desc": "Global" },   
 
-                { "name": "Server-1", "domain": "madwasa.com",          "desc": "Global", "on": "12.8-0045" },
-                { "name": "Server-2", "domain": "matawali.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "khutiya.com",        "desc": "Global" },   
-
-                { "name": "Server-4", "domain": "sirchopi.com",         "desc": "Global", "on": "12.8-0045" },   
-                { "name": "Server-5", "domain": "badholi.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "gundheru.com",       "desc": "Global" },
-
-                { "name": "Server-1", "domain": "meieriji.com",          "desc": "Global", "on": "12.9-1430" },
-                { "name": "Server-2", "domain": "hoogvarst.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "broeckh.com",        "desc": "Global" },   
-
-                { "name": "Server-4", "domain": "jatarae.com",         "desc": "Global", "on": "12.9-1430" },   
-                { "name": "Server-5", "domain": "bamorek.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "prithvipu.com",       "desc": "Global" },
+                { "name": "Server-4", "domain": "memory302.pro",         "desc": "Global", "on": "12.2-1000" },   
+                { "name": "Server-5", "domain": "d.memory302.pro",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.memory302.pro",       "desc": "Global" },
 
                 {}
             ],
@@ -88,7 +79,7 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "vandesij.com", "desc": "websocket", "on": "12.12-1140"},
+                { "name": "VIP-1", "domain": "v.frituurt.com", "desc": "websocket", "on": "12.12-1240"},
                 {}
             ], 
             "servers": [
