@@ -29,18 +29,18 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 3,
+            "wsGroupSize": 1,
             "wsNameAuto": true,
             "ws2": [
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "nederhass.com",          "desc": "Global", "on": "12.12-1000" },
-                { "name": "Server-2", "domain": "paellepe.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "groenstry.com",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "lebekest.com",          "desc": "Global", "on": "12.12-1040" },
                 {}
             ],
             "ws1212": [
+                { "name": "Server-2", "domain": "paellepe.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "groenstry.com",        "desc": "Global" },   
 
                 { "name": "Server-4", "domain": "rantaudoe.com",         "desc": "Global", "on": "12.8-0020" },   
                 { "name": "Server-5", "domain": "masjidale.com",       "desc": "Global" },
