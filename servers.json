@@ -61,6 +61,10 @@
                 {}
             ],
             "servers": [
+                { "cc": "de", "city": "Frankfurt",  "ip": "57.129.54.163",       "desc": "High speed",   "on":"ov40430@12.13" },
+                { "cc": "de", "city": "Frankfurt",  "ip": "57.129.64.157",       "desc": "High speed",   "on":"ov44361@12.13" },
+                { "cc": "de", "city": "Frankfurt",  "ip": "57.129.64.199",       "desc": "High speed",   "on":"ov44368@12.13" },
+              
                 { "cc": "ch", "city": "Zurich",     "ip": "204.136.10.90",       "desc": "High speed(New)",   "on":"3-2@2Gb-11.27" },
                 { "cc": "ca", "city": "Toronto",   "ip": "67.220.94.154",       "desc": "High speed(New)",   "on": "13-1,2Gb@11.26" },
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.57",       "desc": "High speed",   "on": "5-15@5.26..,1019,1026,1030,1106，1111,1203" },
@@ -75,7 +79,12 @@
                 { "cc": "gb", "city": "London",     "ip": "68.168.31.176",     "desc": "High speed",   "on": "2-15@11.29" },
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.231",       "desc": "High speed",   "on":"2-1@3Gb-4.5,522,905,1004,1104,1124" },
                 { "cc": "ca", "city": "Toronto",   "ip": "23.162.200.175",    "desc": "High speed",   "on": "11-2@2Gb,7.11,7.11,1018,1107,1125" },   
-                { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.200",    "desc": "High speed",   "on": "1-23@2.19,4.22,6.28,1018,1107,1208" }    
+                { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.200",    "desc": "High speed",   "on": "1-23@2.19,4.22,6.28,1018,1107,1208" },
+
+
+                { "cc": "de", "city": "Frankfurt",  "ip": "57.129.64.163",       "desc": "High speed",   "on":"ov44370@12.13" },
+                { "cc": "de", "city": "Frankfurt",  "ip": "57.129.64.227",       "desc": "High speed",   "on":"ov44480@12.13" },
+                { "cc": "de", "city": "Frankfurt",  "ip": "57.129.64.228",       "desc": "High speed",   "on":"ov44482@12.13" }
             ]
         },
         {
