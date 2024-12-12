@@ -7,10 +7,10 @@
             "isVip": false,
             "ws": [
 
-                { "name": "Server-1", "desc": "Global", "domain": "siesegem.com", "on": "12.12-1240" }
+                { "name": "Server-1", "desc": "Global", "domain": "siesegem.com", "on": "12.12-1240" },
+                { "name": "Server-2", "desc": "Global", "domain": "aalstkerr.com", "on": "12.12-1350" }
             ],
             "1212": [
-                { "name": "Server-2", "desc": "Global", "domain": "jakhalon.com" },
                 { "name": "Server-3", "desc": "Global", "domain": "nunawali.com" },
 
                 { "name": "Server-4", "desc": "Global", "domain": "mohansa.com", "on": "12.8-0045" },

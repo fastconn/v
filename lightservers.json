@@ -27,12 +27,12 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "terlindent.com", "on": "12.12-1240" },
+                { "name": "Server-1", "desc": "Global", "domain": "opsmeert.cfd", "on": "12.12-1350" },
                 { "name": "Server-2", "desc": "Global", "domain": "rebroek.com", "on": "12.12-1310" },
+                { "name": "Server-3", "desc": "Global", "domain": "terlindent.com", "on": "12.12-1240" },
                 {}
             ],
             "ws1212": [
-                { "name": "Server-1", "desc": "Global", "domain": "jugpura.com", "on": "12.8-0045" },
                 { "name": "Server-2", "desc": "Global", "domain": "bhangarht.com", "on": "12.8-0045" },
                 { "name": "Server-3", "desc": "Global", "domain": "karondae.com", "on": "12.8-0045" },
 
