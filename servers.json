@@ -35,12 +35,12 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "lebekest.com",          "desc": "Global", "on": "12.12-1040" },
-                { "name": "Server-2", "domain": "gevelreno.com",        "desc": "Global", "on": "12.12-1040" },
-                { "name": "Server-3", "domain": "smeerebbe.com",        "desc": "Global", "on": "12.12-1050" },   
+                { "name": "Server-1", "domain": "hetvest.com",          "desc": "Global", "on": "12.12-1140" },
+                { "name": "Server-2", "domain": "nieuwerk.com",        "desc": "Global", "on": "12.12-1140" },
                 {}
             ],
             "ws1212": [
+                { "name": "Server-3", "domain": "smeerebbe.com",        "desc": "Global", "on": "12.12-1050" },   
 
                 { "name": "Server-4", "domain": "rantaudoe.com",         "desc": "Global", "on": "12.8-0020" },   
                 { "name": "Server-5", "domain": "masjidale.com",       "desc": "Global" },
@@ -88,7 +88,7 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "zuurstraat.com", "desc": "websocket", "on": "12.12-1040"},
+                { "name": "VIP-1", "domain": "vandesij.com", "desc": "websocket", "on": "12.12-1140"},
                 {}
             ], 
             "servers": [

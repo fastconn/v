@@ -27,8 +27,8 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "parochiaal.com", "on": "12.12-1040" },
-                { "name": "Server-2", "desc": "Global", "domain": "callebauts.com", "on": "12.12-1040"},
+                { "name": "Server-1", "desc": "Global", "domain": "ankeistraat.com", "on": "12.12-1140" },
+                { "name": "Server-2", "desc": "Global", "domain": "kerkveldweg.com", "on": "12.12-1140"},
                 {}
             ],
             "ws1212": [
