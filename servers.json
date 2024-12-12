@@ -41,6 +41,8 @@
                 { "name": "Server-5", "domain": "wanzelers.com",         "desc": "Global", "on": "12.12-1450" },
                 { "name": "Server-6", "domain": "schoubroex.com",        "desc": "Global", "on": "12.12-1350" },   
 
+                { "name": "Server-6", "domain": "bambrugge.com",        "desc": "Global", "on": "12.12-2215" },   
+
                 {}
             ],
             "ws1212": [
