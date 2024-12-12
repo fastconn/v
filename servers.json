@@ -34,12 +34,12 @@
             "ws2": [
             ],
             "ws3": [
-
                 { "name": "Server-1", "domain": "frituurt.com",          "desc": "Global", "on": "12.12-1240" },
+                { "name": "Server-2", "domain": "paddenhoek.com",        "desc": "Global", "on": "12.12-1310" },
+                
                 {}
             ],
             "ws1212": [
-                { "name": "Server-2", "domain": "nieuwerk.com",        "desc": "Global", "on": "12.12-1140" },
                 { "name": "Server-3", "domain": "smeerebbe.com",        "desc": "Global", "on": "12.12-1050" },   
 
                 { "name": "Server-4", "domain": "rantaudoe.com",         "desc": "Global", "on": "12.8-0020" },   

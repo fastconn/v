@@ -28,6 +28,7 @@
             "ws2": [ ],
             "ws3": [
                 { "name": "Server-1", "desc": "Global", "domain": "terlindent.com", "on": "12.12-1240" },
+                { "name": "Server-2", "desc": "Global", "domain": "rebroek.com", "on": "12.12-1310" },
                 {}
             ],
             "ws1212": [
