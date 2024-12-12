@@ -37,10 +37,10 @@
 
                 { "name": "Server-1", "domain": "lebekest.com",          "desc": "Global", "on": "12.12-1040" },
                 { "name": "Server-2", "domain": "gevelreno.com",        "desc": "Global", "on": "12.12-1040" },
+                { "name": "Server-3", "domain": "smeerebbe.com",        "desc": "Global", "on": "12.12-1050" },   
                 {}
             ],
             "ws1212": [
-                { "name": "Server-3", "domain": "groenstry.com",        "desc": "Global" },   
 
                 { "name": "Server-4", "domain": "rantaudoe.com",         "desc": "Global", "on": "12.8-0020" },   
                 { "name": "Server-5", "domain": "masjidale.com",       "desc": "Global" },
