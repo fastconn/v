@@ -30,7 +30,7 @@
             "name": "Free",
             "isVip": false,
             "image": "global",
-            "wsGroupSize": 1,
+            "wsGroupSize": 2,
             "wsNameAuto": true,
             "ws2": [
             ],
@@ -43,6 +43,14 @@
                 { "name": "Server-4", "domain": "areendonk.com",         "desc": "Global", "on": "12.13-1315" },   
                 { "name": "Server-5", "domain": "d.areendonk.com",       "desc": "Global" },
                 { "name": "Server-6", "domain": "e.areendonk.com",       "desc": "Global" },
+
+                { "name": "Server-1", "domain": "schotend.com",          "desc": "Global", "on": "12.14-0025" },
+                { "name": "Server-2", "domain": "b.schotend.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.schotend.com",        "desc": "Global" },   
+
+                { "name": "Server-4", "domain": "lochristy.com",         "desc": "Global", "on": "12.14-0025" },   
+                { "name": "Server-5", "domain": "d.lochristy.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.lochristy.com",       "desc": "Global" },
                 {}
             ],
             "ws1212": [
