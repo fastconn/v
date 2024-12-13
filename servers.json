@@ -100,7 +100,7 @@
 		       
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.23",     "desc": "Fast(New)",  "on": "gcore,4TB-12.02" },
                 { "cc": "jp", "city": "Tokyo",          "ip": "92.38.178.93",       "desc": "Fast",  "on": "gcore,2TB-10.21" }, 
-                { "cc": "hk", "city": "Hong Kong",      "ip": "5.188.33.88",        "desc": "New",   "on": "gcore,2TB-11.18"},
+                { "cc": "hk", "city": "Hong Kong",      "ip": "5.188.33.32",        "desc": "Fast",   "on": "gcore,3TB-12.13"},
 
                 { "cc": "br", "city": "São Paulo",      "ip": "172.233.19.143",     "desc": "Fast",  "on": "li-9.23" },
                 { "cc": "sg", "city": "Singapore",      "ip": "139.162.40.74",      "desc": "Fast",  "on": "li-10.18" },
