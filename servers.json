@@ -35,16 +35,19 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "zandhove.com",          "desc": "Global", "on": "12.13-1115" },
-                { "name": "Server-2", "domain": "b.zandhove.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.zandhove.com",        "desc": "Global" },   
-
-                { "name": "Server-4", "domain": "braascha.com",         "desc": "Global", "on": "12.13-1115" },   
-                { "name": "Server-5", "domain": "d.braascha.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.braascha.com",       "desc": "Global" },
+                { "name": "Server-1", "domain": "emmadorp.com",          "desc": "Global", "on": "12.13-1315" },
+                { "name": "Server-4", "domain": "areendonk.com",         "desc": "Global", "on": "12.13-1315" },  
                 {}
             ],
             "ws1212": [
+                { "name": "Server-1", "domain": "emmadorp.com",          "desc": "Global", "on": "12.13-1315" },
+                { "name": "Server-2", "domain": "b.emmadorp.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.emmadorp.com",        "desc": "Global" },   
+
+                { "name": "Server-4", "domain": "areendonk.com",         "desc": "Global", "on": "12.13-1315" },   
+                { "name": "Server-5", "domain": "d.areendonk.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.areendonk.com",       "desc": "Global" },
+
                 { "name": "Server-1", "domain": "frituurt.com",          "desc": "Global", "on": "12.12-1240" },
                 { "name": "Server-2", "domain": "colruytt.com",          "desc": "Global", "on": "12.12-1450" },
                 { "name": "Server-3", "domain": "sanitase.com",          "desc": "Global", "on": "12.12-1450" },
@@ -85,8 +88,7 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "p.zandhove.com", "desc": "websocket", "on": "12.13-1115"},
-                { "name": "VIP-2", "domain": "v.zandhove.com", "desc": "websocket"},
+                { "name": "VIP-1", "domain": "p.emmadorp.com", "desc": "websocket", "on": "12.13-1315"}
                 {}
             ], 
             "servers": [

@@ -6,12 +6,14 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "poederlee.com", "on": "12.13-1115" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.poederlee.com" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.poederlee.com" }
+                { "name": "Server-1", "desc": "Global", "domain": "kapelleng.com", "on": "12.13-1315" }
 
             ],
             "1212": [
+                { "name": "Server-1", "desc": "Global", "domain": "kapelleng.com", "on": "12.13-1315" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.kapelleng.com" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.kapelleng.com" },
+
                 { "name": "Server-1", "desc": "Global", "domain": "siesegem.com", "on": "12.12-1240" },
                 { "name": "Server-2", "desc": "Global", "domain": "ressege.com", "on": "12.12-2215" },
                 { "name": "Server-3", "desc": "Global", "domain": "aalstkerr.com", "on": "12.12-1350" },
