@@ -88,7 +88,7 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "p.emmadorp.com", "desc": "websocket", "on": "12.13-1315"}
+                { "name": "VIP-1", "domain": "p.emmadorp.com", "desc": "websocket", "on": "12.13-1315"},
                 {}
             ], 
             "servers": [
