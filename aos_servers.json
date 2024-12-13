@@ -37,9 +37,9 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "erpemera.com", "on": "12.13-0800" },
-                    { "pr": 4, "name": "Global-2", "i": "an.erpemera.com" },
-                    { "pr": 4, "name": "Global-3", "i": "be.erpemera.com" }
+                    { "pr": 4, "name": "Global-1", "i": "power13a.homes", "on": "12.13-1100" },
+                    { "pr": 4, "name": "Global-2", "i": "an.power13a.homes" },
+                    { "pr": 4, "name": "Global-3", "i": "be.power13a.homes" }
                ]
             }
         ],

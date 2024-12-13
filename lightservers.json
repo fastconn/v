@@ -27,9 +27,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "moorsell.com", "on": "1213-0800" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.moorsell.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.moorsell.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "power13l.homes", "on": "1213-1100" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.power13l.homes"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.power13l.homes"},
 
                {}
             ],

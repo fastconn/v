@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "erpemera.com", "on": "12.13-0800" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.erpemera.com" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.erpemera.com" }
+                { "name": "Server-1", "desc": "Global", "domain": "power13a.homes", "on": "12.13-1100" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.power13a.homes" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.power13a.homes" }
 
             ],
             "1212": [
