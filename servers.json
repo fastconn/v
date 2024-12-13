@@ -35,13 +35,13 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "power13m1.homes",          "desc": "Global", "on": "12.13-1100" },
-                { "name": "Server-2", "domain": "b.power13m1.homes",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.power13m1.homes",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "zandhove.com",          "desc": "Global", "on": "12.13-1115" },
+                { "name": "Server-2", "domain": "b.zandhove.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.zandhove.com",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "power13m2.homes",         "desc": "Global", "on": "12.13-1100" },   
-                { "name": "Server-5", "domain": "d.power13m2.homes",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.power13m2.homes",       "desc": "Global" },
+                { "name": "Server-4", "domain": "braascha.com",         "desc": "Global", "on": "12.13-1115" },   
+                { "name": "Server-5", "domain": "d.braascha.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.braascha.com",       "desc": "Global" },
                 {}
             ],
             "ws1212": [
@@ -85,8 +85,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "p.power13m1.homes", "desc": "websocket", "on": "12.13-0100"},
-                { "name": "VIP-2", "domain": "v.power13m1.homes", "desc": "websocket", "on": "12.13-0100"},
+                { "name": "VIP-1", "domain": "p.zandhove.com", "desc": "websocket", "on": "12.13-1115"},
+                { "name": "VIP-2", "domain": "v.zandhove.com", "desc": "websocket"},
                 {}
             ], 
             "servers": [
