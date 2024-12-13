@@ -6,9 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "laarnee.com", "on": "12.13-0100" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.laarnee.com" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.laarnee.com" }
+                { "name": "Server-1", "desc": "Global", "domain": "erpemera.com", "on": "12.13-0800" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.erpemera.com" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.erpemera.com" }
 
             ],
             "1212": [
@@ -24,7 +24,7 @@
                 { "cc": "de", "city": "Frankfurt",  "ip": "57.129.24.124",      "desc": "High speed", "on":"ov65086@12.12," },
                 { "cc": "de", "city": "Frankfurt",  "ip": "57.129.28.209",      "desc": "High speed", "on":"ov52561@12.13," },
                 { "cc": "fr", "city": "Roubaix",  "ip": "51.77.20.131",      "desc": "High speed", "on":"ov69783@12.13," },
-                
+
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.251",     "desc": "High speed", "on": "4-14@5.25,1021,1031,1126" },
                 { "cc": "gb", "city": "London",     "ip": "172.99.190.135",      "desc": "High speed", "on": "2-1@9.6,1031,1107，1111,1202" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.179",      "desc": "High speed", "on":"6-2@4.24,5.22,929,1021,1126" },

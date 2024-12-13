@@ -35,13 +35,13 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "dendermond.com",          "desc": "Global", "on": "12.13-0100" },
-                { "name": "Server-2", "domain": "b.dendermond.com",        "desc": "Global" },
-                { "name": "Server-3", "domain": "c.dendermond.com",        "desc": "Global" },   
+                { "name": "Server-1", "domain": "herzelet.com",          "desc": "Global", "on": "12.13-0800" },
+                { "name": "Server-2", "domain": "b.herzelet.com",        "desc": "Global" },
+                { "name": "Server-3", "domain": "c.herzelet.com",        "desc": "Global" },   
 
-                { "name": "Server-4", "domain": "lochrist.com",         "desc": "Global", "on": "12.13-0100" },   
-                { "name": "Server-5", "domain": "d.lochrist.com",       "desc": "Global" },
-                { "name": "Server-6", "domain": "e.lochrist.com",       "desc": "Global" },
+                { "name": "Server-4", "domain": "gijzegem.com",         "desc": "Global", "on": "12.13-0800" },   
+                { "name": "Server-5", "domain": "d.gijzegem.com",       "desc": "Global" },
+                { "name": "Server-6", "domain": "e.gijzegem.com",       "desc": "Global" },
                 {}
             ],
             "ws1212": [
@@ -85,8 +85,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "p.dendermond.com", "desc": "websocket", "on": "12.13-0100"},
-                { "name": "VIP-2", "domain": "v.dendermond.com", "desc": "websocket", "on": "12.13-0100"},
+                { "name": "VIP-1", "domain": "p.herzelet.com", "desc": "websocket", "on": "12.13-0100"},
+                { "name": "VIP-2", "domain": "v.herzelet.com", "desc": "websocket", "on": "12.13-0100"},
                 {}
             ], 
             "servers": [
