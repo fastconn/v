@@ -28,6 +28,8 @@
             "ws2": [ ],
             "ws3": [
                 { "name": "Server-1", "desc": "Global", "domain": "womellgen.com", "on": "1213-1315" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.womellgen.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.womellgen.com"},
                {}
             ],
             "ws1212": [

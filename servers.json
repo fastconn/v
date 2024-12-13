@@ -35,12 +35,7 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "emmadorp.com",          "desc": "Global", "on": "12.13-1315" },
-                { "name": "Server-2", "domain": "prinsenbee.com",          "desc": "Global", "on": "12.13-1530" },
-                { "name": "Server-4", "domain": "areendonk.com",         "desc": "Global", "on": "12.13-1315" },  
-                {}
-            ],
-            "ws1212": [
+
                 { "name": "Server-1", "domain": "emmadorp.com",          "desc": "Global", "on": "12.13-1315" },
                 { "name": "Server-2", "domain": "b.emmadorp.com",        "desc": "Global" },
                 { "name": "Server-3", "domain": "c.emmadorp.com",        "desc": "Global" },   
@@ -48,7 +43,14 @@
                 { "name": "Server-4", "domain": "areendonk.com",         "desc": "Global", "on": "12.13-1315" },   
                 { "name": "Server-5", "domain": "d.areendonk.com",       "desc": "Global" },
                 { "name": "Server-6", "domain": "e.areendonk.com",       "desc": "Global" },
+                {}
+            ],
+            "ws1212": [
 
+                { "name": "Server-1", "domain": "emmadorp.com",          "desc": "Global", "on": "12.13-1315" },
+                { "name": "Server-2", "domain": "prinsenbee.com",          "desc": "Global", "on": "12.13-1530" },
+                { "name": "Server-4", "domain": "areendonk.com",         "desc": "Global", "on": "12.13-1315" },  
+                
                 { "name": "Server-1", "domain": "frituurt.com",          "desc": "Global", "on": "12.12-1240" },
                 { "name": "Server-2", "domain": "colruytt.com",          "desc": "Global", "on": "12.12-1450" },
                 { "name": "Server-3", "domain": "sanitase.com",          "desc": "Global", "on": "12.12-1450" },
@@ -90,6 +92,7 @@
             "image": "for_VIP",
             "ws3": [
                 { "name": "VIP-1", "domain": "p.emmadorp.com", "desc": "websocket", "on": "12.13-1315"},
+                { "name": "VIP-2", "domain": "v.emmadorp.com", "desc": "websocket", "on": "12.13-1315"},
                 {}
             ], 
             "servers": [

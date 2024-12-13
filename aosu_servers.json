@@ -6,7 +6,9 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "kapelleng.com", "on": "12.13-1315" }
+                { "name": "Server-1", "desc": "Global", "domain": "kapelleng.com", "on": "12.13-1315" },
+                { "name": "Server-2", "desc": "Global", "domain": "an.kapelleng.com" },
+                { "name": "Server-3", "desc": "Global", "domain": "be.kapelleng.com" }
 
             ],
             "1212": [
