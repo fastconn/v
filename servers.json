@@ -36,6 +36,7 @@
             ],
             "ws3": [
                 { "name": "Server-1", "domain": "emmadorp.com",          "desc": "Global", "on": "12.13-1315" },
+                { "name": "Server-2", "domain": "prinsenbee.com",          "desc": "Global", "on": "12.13-1530" },
                 { "name": "Server-4", "domain": "areendonk.com",         "desc": "Global", "on": "12.13-1315" },  
                 {}
             ],
