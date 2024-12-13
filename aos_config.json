@@ -1,7 +1,7 @@
 {
     "policy": {
         "cnDeny": [0,0],
-        "autoProtocol": 4,
+        "autoProtocol": 2,
         "proxySelf": true,
         "postHog": false
     },
