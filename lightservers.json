@@ -27,17 +27,16 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "wolphaart.com", "on": "1214-0930" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.wolphaart.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.wolphaart.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "popul.site", "on": "12.14-1015" },
+                { "name": "Server-1", "desc": "Global", "domain": "merkspla.com", "on": "1214-1250" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.merkspla.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.merkspla.com"},
 
                {}
             ],
             "ws1212": [
-                { "name": "Server-1", "desc": "Global", "domain": "wolphaart.com", "on": "1213-1315" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.wolphaart.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.wolphaart.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "merkspla.com", "on": "1213-1315" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.merkspla.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.merkspla.com"},
 
                 { "name": "Server-1", "desc": "Global", "domain": "opsmeer.com", "on": "12.12-1440" },
                 { "name": "Server-2", "desc": "Global", "domain": "rebroek.com", "on": "12.12-1310" },
