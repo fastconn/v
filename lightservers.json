@@ -30,6 +30,7 @@
                 { "name": "Server-1", "desc": "Global", "domain": "wolphaart.com", "on": "1214-0930" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.wolphaart.com"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.wolphaart.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "popul.site", "on": "12.14-1015" },
 
                {}
             ],
