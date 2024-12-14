@@ -27,19 +27,16 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "womellgen.com", "on": "1213-1315" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.womellgen.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.womellgen.com"},
-                
-                { "name": "Server-1", "desc": "Global", "domain": "boekelt.com", "on": "1214-0025" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.boekelt.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.boekelt.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "wolphaart.com", "on": "1214-0930" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.wolphaart.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.wolphaart.com"},
+
                {}
             ],
             "ws1212": [
-                { "name": "Server-1", "desc": "Global", "domain": "womellgen.com", "on": "1213-1315" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.womellgen.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.womellgen.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "wolphaart.com", "on": "1213-1315" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.wolphaart.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.wolphaart.com"},
 
                 { "name": "Server-1", "desc": "Global", "domain": "opsmeer.com", "on": "12.12-1440" },
                 { "name": "Server-2", "desc": "Global", "domain": "rebroek.com", "on": "12.12-1310" },
