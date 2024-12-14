@@ -27,7 +27,7 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "lommelle.com", "on": "1214-1515" },
+                { "name": "Server-1", "desc": "Global", "domain": "tessenderl.com", "on": "1214-2325" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.lommelle.com"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.lommelle.com"},
 
