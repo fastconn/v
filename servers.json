@@ -104,17 +104,21 @@
                 {}
             ], 
             "servers": [
-                { "cc": "us", "city": "Los Angeles",    "ip": "38.75.136.36",   "desc": "Performance(New)", "on": "'3-8@0.3G, 2.19,..,1023,1101,1126,1205" },
                 { "cc": "nl", "city": "Amsterdam",   "ip": "172.99.188.206",   "desc": "Performance(New)",  "on": "6-8,1G@12.5" },
-                { "cc": "gb", "city": "London",         "ip": "149.7.16.73",        "desc": "Performance", "on": "3-2@G5,11.16" },
 		        { "cc": "de", "city": "Frankfurt",      "ip": "57.129.25.22",       "desc": "Performance", "on": "ov-1116" },
                 { "cc": "ca", "city": "Toronto",        "ip": "23.162.200.116",     "desc": "Performance", "on": "1-23@G3-11.11,1116" },
                 { "cc": "us", "city": "New York",       "ip": "38.99.82.154",       "desc": "Performance", "on": "2-13@0.5G, 2.19,..,1004,1023,1101,1111,1205" },
+
+                { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.237",      "desc": "Fast", "on": "vps415,8T@12.16" },
+                { "cc": "us", "city": "Chicago",        "ip": "38.114.121.60",      "desc": "Fast", "on": "vps414,8T@12.16" },
+                { "cc": "fr", "city": "Paris",          "ip": "38.109.228.81",      "desc": "Fast", "on": "vps418,8T@12.16" },
+                { "cc": "gb", "city": "London",         "ip": "68.168.31.220",      "desc": "Fast", "on": "vps417,8T@12.16" },
+                { "cc": "es", "city": "Madrid",         "ip": "67.220.66.49",       "desc": "Fast", "on": "vps420,8T@12.16" },
 		       
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.23",     "desc": "Fast(New)",  "on": "gcore,4TB-12.02" },
                 { "cc": "jp", "city": "Tokyo",          "ip": "92.38.178.93",       "desc": "Fast",  "on": "gcore,2TB-10.21" }, 
                 { "cc": "hk", "city": "Hong Kong",      "ip": "5.188.33.32",        "desc": "Fast",   "on": "gcore,3TB-12.13"},
-
+              
                 { "cc": "br", "city": "São Paulo",      "ip": "172.233.19.143",     "desc": "Fast",  "on": "li-9.23" },
                 { "cc": "sg", "city": "Singapore",      "ip": "139.162.40.74",      "desc": "Fast",  "on": "li-10.18" },
                 { "cc": "au", "city": "Sydney",         "ip": "172.105.172.209",    "desc": "Fast",  "on": "li-10.18" },
