@@ -84,8 +84,8 @@
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.231",       "desc": "High speed",   "on":"2-1@3Gb-4.5,522,905,1004,1104,1124" },
                 { "cc": "ch", "city": "Zurich",     "ip": "204.136.10.90",       "desc": "High speed(New)",   "on":"3-2@2Gb-11.27" },
 
-                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.224",    "desc": "High speed",  "on": "8-2@2Gb,..,1013,1017,1021,1030,1120" },
-                { "cc": "es", "city": "Madrid",     "ip": "67.220.66.10",       "desc": "High speed",   "on": "3-3@2Gb,1021,1024,1120" },   
+                { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.102",    "desc": "High speed",  "on": "8-2@2Gb,..,1013,1017,1021,1030,1120,1219" },
+                { "cc": "es", "city": "Madrid",     "ip": "67.220.66.245",       "desc": "High speed",   "on": "3-3@2Gb,1021,1024,1120,1219" },   
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.85.226",       "desc": "High speed",   "on":"ov21457@12.13" },
  
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.157.88.93",       "desc": "High speed",   "on":"7-7@508-4Gb,..,1018,1023,1106,1124,1216" },
