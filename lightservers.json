@@ -38,9 +38,6 @@
                 { "name": "Server-2", "desc": "Global", "domain": "bl.lommelle.com"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.lommelle.com"},
 
-                { "name": "Server-2", "desc": "Global", "domain": "rebroek.com", "on": "12.12-1310" },
-                { "name": "Server-3", "desc": "Global", "domain": "terlindent.com", "on": "12.12-1240" },
-
                 {"memo": "light"}
             ],
             "servers": [
