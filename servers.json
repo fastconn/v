@@ -55,13 +55,14 @@
                 { "cc": "us", "city": "Miami",    "ip": "38.91.107.27",       "desc": "High speed",   "on": "2-16@6.18，...,1017,1021,1120,1208,1221" },
           
                 { "cc": "ca", "city": "Toronto",   "ip": "23.162.200.4",    "desc": "High speed",   "on": "11-2@2Gb,7.11,7.11,1018,1107,1125,1220" },   
-                { "cc": "ca", "city": "Toronto",   "ip": "67.220.94.131",       "desc": "High speed(New)",   "on": "13-1,2Gb@11.26,1220" },
+                { "cc": "ca", "city": "Toronto",   "ip": "67.220.94.131",       "desc": "High speed",   "on": "13-1,2Gb@11.26,1220" },
                 { "cc": "ca", "city": "Montreal",   "ip": "134.195.198.200",    "desc": "High speed",   "on": "1-23@2.19,4.22,6.28,1018,1107,1208" },
 
                 { "cc": "de", "city": "Frankfurt",  "ip": "57.129.28.66",       "desc": "High speed",   "on":"ov40914@12.13" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "57.129.28.65",       "desc": "High speed",   "on":"ov40916@12.13" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "57.129.24.133",       "desc": "High speed",   "on":"ov65082@12.13" },
  
+                { "cc": "gb", "city": "London",     "ip": "68.168.31.170",     "desc": "High speed(New)",   "on": "7-3,3Gb@12.23" },
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.200",     "desc": "High speed",   "on": "7-19@1018,1120,1123" },
                 { "cc": "gb", "city": "London",     "ip": "68.168.31.176",     "desc": "High speed",   "on": "2-15@11.29" },
                 { "cc": "gb", "city": "Erith",      "ip": "57.128.184.127",       "desc": "High speed",   "on":"ov70404@12.13" },
@@ -71,7 +72,7 @@
                 { "cc": "fr", "city": "Gravelines",  "ip": "54.38.12.159",       "desc": "High speed",   "on":"ov70893@12.13" },
               
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.231",       "desc": "High speed",   "on":"2-1@3Gb-4.5,522,905,1004,1104,1124" },
-                { "cc": "ch", "city": "Zurich",     "ip": "204.136.10.90",       "desc": "High speed(New)",   "on":"3-2@2Gb-11.27" },
+                { "cc": "ch", "city": "Zurich",     "ip": "204.136.10.90",       "desc": "High speed",   "on":"3-2@2Gb-11.27" },
 
                 { "cc": "nl", "city": "Amsterdam",  "ip": "185.221.219.102",    "desc": "High speed",  "on": "8-2@2Gb,..,1013,1017,1021,1030,1120,1219" },
                 { "cc": "es", "city": "Madrid",     "ip": "67.220.66.245",       "desc": "High speed",   "on": "3-3@2Gb,1021,1024,1120,1219" },   
