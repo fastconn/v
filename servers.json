@@ -36,7 +36,7 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "astenweet.com",          "desc": "Global", "on": "12.14-??" },
+                { "name": "Server-1", "domain": "ancientie.homes",          "desc": "Global", "on": "12.23-1138" },
                 { "name": "Server-2", "domain": "b.astenweet.com",        "desc": "Global" },
                 { "name": "Server-3", "domain": "bubatok.com",        "desc": "Global", "on": "12.15-1500" },   
 
