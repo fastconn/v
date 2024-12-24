@@ -43,15 +43,15 @@
             "servers": [
                 { "cc": "nl", "city": "Amsterdam",  "ip": "172.99.188.222",    "desc": "High speed(New)",  "on": "9-6,2Gb@12.23,1224" },
 
-                { "cc": "us", "city": "Seattle",   "ip": "38.143.66.6",  "desc": "High speed", "on": "3-19@12.13" },
+                { "cc": "us", "city": "Seattle",   "ip": "38.89.70.127",  "desc": "High speed", "on": "1-14@12.24" },
                 { "cc": "us", "city": "Dallas",   "ip": "38.68.134.216",  "desc": "High speed", "on": "7-23@12.12" },
                 { "cc": "us", "city": "Santa Clara",   "ip": "169.197.142.113",  "desc": "High speed",   "on": "5-5,2Gb@12.11,1218" },
                 
                 { "cc": "ca", "city": "Montreal",   "ip": "148.113.153.112",  "desc": "High speed", "on": "ov20961@12.13" },
                 { "cc": "ca", "city": "Montreal",   "ip": "15.235.85.156",  "desc": "High speed", "on": "ov16783@12.13" },
               
-                { "cc": "gb", "city": "London",   "ip": "142.202.51.65",  "desc": "High speed", "on": "6-1@12.12" },
-                { "cc": "gb", "city": "London",   "ip": "142.202.51.52", "desc": "High speed", "on": "7-9@12.12" },
+                { "cc": "gb", "city": "London",   "ip": "142.202.51.58",  "desc": "High speed", "on": "6-1@12.12,1224" },
+                { "cc": "gb", "city": "London",   "ip": "142.202.51.26", "desc": "High speed", "on": "7-9@12.12,1224" },
 
                 { "cc": "de", "city": "Frankfurt",   "ip": "57.129.24.130",  "desc": "High speed", "on": "ov65087@12.13" },
                 { "cc": "de", "city": "Frankfurt",   "ip": "57.129.24.131",  "desc": "High speed", "on": "ov64885@12.13" },
