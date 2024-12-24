@@ -41,7 +41,7 @@
                 {"memo": "light"}
             ],
             "servers": [
-                { "cc": "nl", "city": "Amsterdam",  "ip": "172.99.188.22",    "desc": "High speed(New)",  "on": "9-6,2Gb@12.23" },
+                { "cc": "nl", "city": "Amsterdam",  "ip": "172.99.188.222",    "desc": "High speed(New)",  "on": "9-6,2Gb@12.23,1224" },
 
                 { "cc": "us", "city": "Seattle",   "ip": "38.143.66.6",  "desc": "High speed", "on": "3-19@12.13" },
                 { "cc": "us", "city": "Dallas",   "ip": "38.68.134.216",  "desc": "High speed", "on": "7-23@12.12" },
