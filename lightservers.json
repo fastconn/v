@@ -57,11 +57,11 @@
                 { "cc": "de", "city": "Frankfurt",   "ip": "57.129.59.201",  "desc": "High speed", "on": "ov41942@12.27" },
                 { "cc": "de", "city": "Frankfurt",   "ip": "57.129.28.215",  "desc": "High speed", "on": "ov53156@12.13" },
                 
-                { "cc": "fr", "city": "Roubaix",   "ip": "51.77.20.70",  "desc": "High speed", "on": "ov67629@12.13" },
+                { "cc": "fr", "city": "Roubaix",   "ip": "141.94.155.229",  "desc": "High speed", "on": "ov42116@12.27" },
                 { "cc": "fr", "city": "Roubaix",   "ip": "51.77.20.139",  "desc": "High speed", "on": "ov69266@12.13" },
 
                 { "cc": "pl", "city": "Warsaw",      "ip": "146.59.111.122",       "desc": "High speed",   "on":"ov28218@12.13" },
-                { "cc": "pl", "city": "Warsaw",      "ip": "146.59.70.114",       "desc": "High speed",   "on":"ov10131@12.13" }
+                { "cc": "pl", "city": "Warsaw",      "ip": "57.128.216.125",       "desc": "High speed",   "on":"ov41790@12.27" }
             ]
         }
     ],
