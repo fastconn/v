@@ -47,11 +47,11 @@
                 { "cc": "us", "city": "Dallas",   "ip": "38.68.134.216",  "desc": "High speed", "on": "7-23@12.12" },
                 { "cc": "us", "city": "Santa Clara",   "ip": "169.197.142.113",  "desc": "High speed",   "on": "5-5,2Gb@12.11,1218" },
                 
-                { "cc": "ca", "city": "Montreal",   "ip": "148.113.153.112",  "desc": "High speed", "on": "ov20961@12.13" },
-                { "cc": "ca", "city": "Montreal",   "ip": "15.235.85.156",  "desc": "High speed", "on": "ov16783@12.13" },
+                { "cc": "ca", "city": "Montreal",   "ip": "148.113.153.113",  "desc": "High speed", "on": "ov20907@12.27" },
+                { "cc": "ca", "city": "Montreal",   "ip": "15.235.85.147",  "desc": "High speed", "on": "ov16776@12.27" },
               
                 { "cc": "gb", "city": "London",   "ip": "142.202.51.58",  "desc": "High speed", "on": "6-1@12.12,1224" },
-                { "cc": "gb", "city": "London",   "ip": "142.202.51.26", "desc": "High speed", "on": "7-9@12.12,1224" },
+                { "cc": "gb", "city": "London",   "ip": "142.202.51.92", "desc": "High speed", "on": "7-9@12.12,1224,1227" },
 
                 { "cc": "de", "city": "Frankfurt",   "ip": "57.129.28.217",  "desc": "High speed", "on": "ov53100@12.27" },
                 { "cc": "de", "city": "Frankfurt",   "ip": "57.129.59.201",  "desc": "High speed", "on": "ov41942@12.27" },
