@@ -46,7 +46,7 @@
         },
         "run3": {
             "MainOpen": "mainOpen",
-            "Connected2": "conn",
+            "Connected2": "connected",
             "DidConFull": "anyInter",
             "WillDisFull": "anyInter",
             "HotFull": "anyInter",
@@ -71,7 +71,7 @@
                     { "id": "ca-app-pub-3510970371831048/1231555769", "memo": "m1213-1730" }
               ]
             },
-            "conn": {
+            "connected": {
                 "type": "native",
                 "ids": [
                     { "id": "ca-app-pub-3510970371831048/4990761398", "memo": "h1226-2150" },
