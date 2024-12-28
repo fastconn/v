@@ -66,10 +66,10 @@
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.200",     "desc": "High speed",   "on": "7-19@1018,1120,1123" },
                 { "cc": "gb", "city": "London",     "ip": "68.168.31.176",     "desc": "High speed",   "on": "2-15@11.29" },
                 { "cc": "gb", "city": "Erith",      "ip": "57.128.184.127",       "desc": "High speed",   "on":"ov70404@12.13" },
-                { "cc": "gb", "city": "Erith",      "ip": "57.128.189.240",       "desc": "High speed",   "on":"ov44144@12.14" },
+                { "cc": "gb", "city": "Erith",      "ip": "57.128.189.253",       "desc": "High speed",   "on":"ov44152@12.28" },
  
                 { "cc": "fr", "city": "Paris",      "ip": "23.162.152.250",      "desc": "High speed",   "on": "10-3@3Gb-4.21,..,9.5,1020,1120,1216" },
-                { "cc": "fr", "city": "Gravelines",  "ip": "54.38.12.159",       "desc": "High speed",   "on":"ov70893@12.13" },
+                { "cc": "fr", "city": "Gravelines",  "ip": "91.134.8.89",       "desc": "High speed",   "on":"ov42634@12.28" },
               
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.73",       "desc": "High speed",   "on":"2-1@3Gb-4.5,522,905,1004,1104,1124,1224" },
                 { "cc": "ch", "city": "Zurich",     "ip": "204.136.10.123",       "desc": "High speed",   "on":"3-2@2Gb-11.27,1224" },
