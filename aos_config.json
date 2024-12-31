@@ -39,11 +39,11 @@
         
         "AnyFull-v2": [           
             { "pri": 100, "id": "ca-app-pub-3510970371831048/6322194362", "memo": "h1231-1450-2", "type": "inter" },
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/5706710176", "memo": "l1103_1300", "type": "inter" }
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/6609166645", "memo": "m1231", "type": "inter" }
         ],
         "Anyfull-v1.17": [           
             { "pri": 100, "id": "ca-app-pub-3510970371831048/6322194362", "type": "inter" },
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/5706710176", "type": "inter" }
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/6609166645", "type": "inter" }
         ],
         
         "Didcon-v2": [
