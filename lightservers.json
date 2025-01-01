@@ -41,7 +41,7 @@
                 {"memo": "light"}
             ],
             "servers": [
-                { "cc": "us", "city": "Santa Clara",   "ip": "169.197.142.88",  "desc": "High speed",   "on": "5-5,2Gb@12.11,1218,1230" },
+                { "cc": "us", "city": "Santa Clara",   "ip": "169.197.142.180",  "desc": "High speed",   "on": "5-5,2Gb@12.11,1218,1230,1.1" },
                 { "cc": "us", "city": "Seattle",   "ip": "38.89.70.127",  "desc": "High speed", "on": "1-14@12.24" },
                 { "cc": "us", "city": "Dallas",   "ip": "38.68.134.242",  "desc": "High speed", "on": "7-23@12.12,12.30" },
                 { "cc": "us", "city": "New York",   "ip": "216.39.249.162",       "desc": "High speed",   "on": "1-19@12.30" },
