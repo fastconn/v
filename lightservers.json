@@ -48,10 +48,10 @@
                 
 
                 { "cc": "es", "city": "Madrid",     "ip": "23.142.26.183",       "desc": "High speed(New)",   "on": "4-1,2Gb@12.30" },   
-                { "cc": "nl", "city": "Amsterdam",  "ip": "172.99.188.124",    "desc": "High speed",  "on": "9-6,2Gb@12.23,1224,1227" },
+                { "cc": "nl", "city": "Amsterdam",  "ip": "172.99.188.13",    "desc": "High speed",  "on": "9-6,2Gb@12.23,1224,1227,1.1" },
              
                 { "cc": "gb", "city": "London",   "ip": "142.202.51.58",  "desc": "High speed", "on": "6-1@12.12,1224" },
-                { "cc": "gb", "city": "London",   "ip": "142.202.51.92", "desc": "High speed", "on": "7-9@12.12,1224,1227" },
+                { "cc": "gb", "city": "London",   "ip": "142.202.51.93", "desc": "High speed", "on": "7-9@12.12,1224,1227,1.1" },
                 { "cc": "gb", "city": "London",   "ip": "68.168.31.176", "desc": "High speed", "on": "2-15@12.30" },
 
                 { "cc": "de", "city": "Frankfurt",   "ip": "57.129.28.217",  "desc": "High speed", "on": "ov53100@12.27" },
