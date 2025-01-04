@@ -96,7 +96,7 @@
                 {}
             ], 
             "servers": [
-                { "cc": "us", "city": "New York",       "ip": "38.99.82.130",       "desc": "Performance", "on": "2-13@0.5G, 2.19,..,1023,1101,1111,1205,1220" },
+                { "cc": "us", "city": "New York",       "ip": "216.39.249.133",       "desc": "Performance", "on": "2-10@25.1.4" },
 
                 { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.237",      "desc": "Fast", "on": "vps415,8T@12.16" },
                 { "cc": "us", "city": "Chicago",        "ip": "38.114.121.60",      "desc": "Fast", "on": "vps414,8T@12.16" },
