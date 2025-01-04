@@ -41,15 +41,14 @@
                 {"memo": "light"}
             ],
             "servers": [
+                { "cc": "es", "city": "Madrid",     "ip": "23.142.26.183",       "desc": "High speed(New)",   "on": "4-1,2Gb@12.30" },   
+                { "cc": "nl", "city": "Amsterdam",  "ip": "172.99.188.13",    "desc": "High speed(New)",  "on": "9-6,2Gb@12.23,1224,1227,1.1" },
+
                 { "cc": "us", "city": "Santa Clara",   "ip": "169.197.142.180",  "desc": "High speed",   "on": "5-5,2Gb@12.11,1218,1230,1.1" },
                 { "cc": "us", "city": "Seattle",   "ip": "38.89.70.127",  "desc": "High speed", "on": "1-14@12.24" },
                 { "cc": "us", "city": "Dallas",   "ip": "38.68.134.242",  "desc": "High speed", "on": "7-23@12.12,12.30" },
                 { "cc": "us", "city": "New York",   "ip": "216.39.249.162",       "desc": "High speed",   "on": "1-19@12.30" },
                 
-
-                { "cc": "es", "city": "Madrid",     "ip": "23.142.26.183",       "desc": "High speed(New)",   "on": "4-1,2Gb@12.30" },   
-                { "cc": "nl", "city": "Amsterdam",  "ip": "172.99.188.13",    "desc": "High speed",  "on": "9-6,2Gb@12.23,1224,1227,1.1" },
-             
                 { "cc": "gb", "city": "London",   "ip": "142.202.51.58",  "desc": "High speed", "on": "6-1@12.12,1224" },
                 { "cc": "gb", "city": "London",   "ip": "142.202.51.93", "desc": "High speed", "on": "7-9@12.12,1224,1227,1.1" },
                 { "cc": "gb", "city": "London",   "ip": "68.168.31.176", "desc": "High speed", "on": "2-15@12.30" },
