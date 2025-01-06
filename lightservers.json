@@ -50,7 +50,6 @@
                 { "cc": "us", "city": "New York",   "ip": "216.39.249.162",       "desc": "High speed",   "on": "1-19@12.30" },
                 
                 { "cc": "gb", "city": "London",   "ip": "142.202.51.58",  "desc": "High speed", "on": "6-1@12.12,1224" },
-                { "cc": "gb", "city": "London",   "ip": "142.202.51.93", "desc": "High speed", "on": "7-9@12.12,1224,1227,1.1" },
                 { "cc": "gb", "city": "London",   "ip": "68.168.31.176", "desc": "High speed", "on": "2-15@12.30" },
 
                 { "cc": "de", "city": "Frankfurt",   "ip": "57.129.28.217",  "desc": "High speed", "on": "ov53100@12.27" },
