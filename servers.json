@@ -34,7 +34,7 @@
             "wsNameAuto": true,
             "ws2": [
             ],
-            "ws3": [
+            "ws3??": [
 
                 { "name": "Server-1", "domain": "ancientie.homes",          "desc": "Global", "on": "12.23-1138" },
                 { "name": "Server-2", "domain": "b.astenweet.com",        "desc": "Global" },
