@@ -41,18 +41,16 @@
                 {"memo": "light"}
             ],
             "servers": [
+                { "cc": "de", "city": "Frankfurt",   "ip": "185.177.229.40",  "desc": "High speed(New)", "on": "4-4,36c2G@1.7" },   
+                { "cc": "nl", "city": "Amsterdam",  "ip": "172.99.188.27",    "desc": "High speed(New)",  "on": "9-6,2Gb@12.23,1224,1227,1.1,1.7" },
 
                 { "cc": "us", "city": "Santa Clara",   "ip": "169.197.142.63",  "desc": "High speed(New)",   "on": "5-5,2Gb@12.11,1218,1230,1.1,1.7" },
                 { "cc": "us", "city": "Seattle",   "ip": "38.89.70.127",  "desc": "High speed", "on": "1-14@12.24" },
                 { "cc": "us", "city": "Dallas",   "ip": "38.68.134.177",  "desc": "High speed", "on": "7-23@12.12,12.30,1.4" },
-                { "cc": "us", "city": "New York",   "ip": "216.39.249.162",       "desc": "High speed",   "on": "1-19@12.30" },
+                { "cc": "us", "city": "New York",   "ip": "216.39.249.209",       "desc": "High speed",   "on": "1-19@12.30,1.7" },
                 
                 { "cc": "gb", "city": "London",   "ip": "142.202.51.58",  "desc": "High speed", "on": "6-1@12.12,1224" },
                 { "cc": "gb", "city": "London",   "ip": "68.168.31.176", "desc": "High speed", "on": "2-15@12.30" },
-
-                { "cc": "de", "city": "Frankfurt",   "ip": "57.129.28.217",  "desc": "High speed", "on": "ov53100@12.27" },
-                { "cc": "de", "city": "Frankfurt",   "ip": "57.129.59.201",  "desc": "High speed", "on": "ov41942@12.27" },
-                { "cc": "de", "city": "Frankfurt",   "ip": "57.129.28.216",  "desc": "High speed", "on": "ov53102@1.4" },
                 
                 { "cc": "fr", "city": "Roubaix",   "ip": "141.94.155.229",  "desc": "High speed", "on": "ov42116@12.27" },
                 { "cc": "fr", "city": "Roubaix",   "ip": "51.77.20.139",  "desc": "High speed", "on": "ov69266@12.13" },
@@ -64,8 +62,7 @@
                 { "cc": "pl", "city": "Warsaw",      "ip": "146.59.111.190",       "desc": "High speed",   "on":"ov97344@12.13" },
                 { "cc": "pl", "city": "Warsaw",      "ip": "57.128.216.125",       "desc": "High speed",   "on":"ov41790@12.27" },
 
-                { "cc": "es", "city": "Madrid",     "ip": "23.142.26.183",       "desc": "High speed",   "on": "4-1,2Gb@12.30" },   
-                { "cc": "nl", "city": "Amsterdam",  "ip": "172.99.188.27",    "desc": "High speed(New)",  "on": "9-6,2Gb@12.23,1224,1227,1.1,1.7" }
+                { "cc": "es", "city": "Madrid",     "ip": "23.142.26.183",       "desc": "High speed",   "on": "4-1,2Gb@12.30" }
             ]
         }
     ],
@@ -76,7 +73,7 @@
             { "c3":"WAW", "v": ["Warsaw", "PL"] }
         ]
     },
-"raw":"MzguNzUuMTM3LjEzMwlMQVgJNmMJbGlnaHQtNkMxCjM4LjExNC4xMjAuOTIJTE9OCTZjCWxpZ2h0LTZDMQoxNTguNTEuMTIzLjM3CVZBTgk2YwlsaWdodC02QzEKMTQyLjIwMi41MS4xMDIJTE9OCTZjCWxpZ2h0LTZDMwoxNDIuMjAyLjQ4LjEzCU5ZQwk2YwlsaWdodC02QzMKMTY3Ljg4LjYxLjc4CVNDTAk2YwlsaWdodC02QzMKMzguMTQzLjY2LjYJU0VBCTZjLTAuNUcJbGlnaHQtNkMzCjE0OC4xMTMuMTc2LjE5MglCSFMJN2MJbGlnaHQtN0MxCjE0OC4xMTMuMTUzLjEwOQlCSFMJN2MJbGlnaHQtN0MxCjU3LjEyOS41OS4xOTgJRlJBCTdjCWxpZ2h0LTdDMQo1Ny4xMjkuNTkuMTk0CUZSQQk3YwlsaWdodC03QzEKNTcuMTI5LjU5LjIwMglGUkEJN2MJbGlnaHQtN0MxCjU3LjEyOS4yOC42MwlGUkEJN2MJbGlnaHQtN0MxCjU3LjEyOS4yOC4yMTMJRlJBCTdjCWxpZ2h0LTdDMQo1Ny4xMjkuMjguMjEyCUZSQQk3YwlsaWdodC03QzEKOTEuMTM0LjguMTAxCUdSQQk3YwlsaWdodC03QzEKNDAuMTYwLjE2LjIxNglISUwJN2MJbGlnaHQtN0MxCjU3LjEyOC4xODQuMTI4CUxPTgk3YwlsaWdodC03QzEKNTEuNzcuMjAuMTMzCVJCWAk3YwlsaWdodC03QzEKMTQxLjk0LjE1NS4yMjQJUkJYCTdjCWxpZ2h0LTdDMQoxNDYuNTkuMTE4LjI0OQlXQVcJN2MJbGlnaHQtN0MxCjE1LjIzNS44NS4xNTYJQkhTCTdjCWxpZ2h0LTdDMgoxNDguMTEzLjE1My4xMTQJQkhTCTdjCWxpZ2h0LTdDMgo1Ny4xMjkuNTkuMTk1CUZSQQk3YwlsaWdodC03QzIKNTcuMTI5LjU5LjE5OQlGUkEJN2MJbGlnaHQtN0MyCjU3LjEyOS4yNC4xMzEJRlJBCTdjCWxpZ2h0LTdDMgo1Ny4xMjkuMjguMjE0CUZSQQk3YwlsaWdodC03QzIKOTEuMTM0LjguMTAwCUdSQQk3YwlsaWdodC03QzIKNDAuMTYwLjE2LjIxOAlISUwJN2MJbGlnaHQtN0MyCjE1LjIwNC42NC4yMTEJSElMCTdjCWxpZ2h0LTdDMgo1Ny4xMjguMTg0LjEyOQlMT04JN2MJbGlnaHQtN0MyCjUxLjc3LjIwLjEzNQlSQlgJN2MJbGlnaHQtN0MyCjE0MS45NC4xNTUuMjI4CVJCWAk3YwlsaWdodC03QzIKMTQ2LjU5LjExOC4yNTAJV0FXCTdjCWxpZ2h0LTdDMgoxNDYuNTkuMTExLjEyMglXQVcJN2MJbGlnaHQtN0MyCjE0OC4xMTMuMTUzLjExMglCSFMJN2MJbGlnaHQtN0MzCjE1LjIzNS44NS4xNDcJQkhTCTdjCWxpZ2h0LTdDMwo1Ny4xMjkuNTkuMTk3CUZSQQk3YwlsaWdodC03QzMKNTcuMTI5LjU5LjIwMAlGUkEJN2MJbGlnaHQtN0MzCjU3LjEyOS41OS4xOTMJRlJBCTdjCWxpZ2h0LTdDMwo1Ny4xMjkuMjQuMTMyCUZSQQk3YwlsaWdodC03QzMKNTcuMTI5LjI0LjEzMAlGUkEJN2MJbGlnaHQtN0MzCjU3LjEyOS4yOC42NAlGUkEJN2MJbGlnaHQtN0MzCjU3LjEyOS4yOC4yMTUJRlJBCTdjCWxpZ2h0LTdDMwo5MS4xMzQuOC4xMDIJR1JBCTdjCWxpZ2h0LTdDMwo0MC4xNjAuMTYuMjE5CUhJTAk3YwlsaWdodC03QzMKNTcuMTI4LjE4NC4xMzAJTE9OCTdjCWxpZ2h0LTdDMwo1MS43Ny4yMC43MQlSQlgJN2MJbGlnaHQtN0MzCjUxLjc3LjIwLjcwCVJCWAk3YwlsaWdodC03QzMKMTQ2LjU5LjcwLjExNAlXQVcJN2MJbGlnaHQtN0MzCg=="
+"raw":""
 
 }
 
