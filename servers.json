@@ -50,6 +50,7 @@
                 {}
             ],
             "servers": [
+                { "cc": "fr", "city": "Paris",      "ip": "38.109.228.122",  "desc": "High speed(New)",   "on": "1-3,44c2G@1.7" },
 
                 { "cc": "us", "city": "Dallas",    "ip": "167.88.62.79",       "desc": "High speed",   "on": "15-1@2Gb,11.11,..,1221,1.1,1.7" },
                 { "cc": "us", "city": "New York",   "ip": "169.197.141.32",       "desc": "High speed",   "on": "2-5@1.1,1.7" },
@@ -68,7 +69,6 @@
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.142",     "desc": "High speed",   "on": "9-5,2Gb@12.29" },
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.200",     "desc": "High speed",   "on": "7-19@1018,1120,1123" },
  
-                { "cc": "fr", "city": "Paris",      "ip": "38.109.228.122 ",  "desc": "High speed(New)",   "on": "1-3,44c2G@1.7" },
                 { "cc": "fr", "city": "Paris",      "ip": "23.162.152.250",      "desc": "High speed",   "on": "10-3@3Gb-4.21,..,9.5,1020,1120,1216" },
               
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.73",       "desc": "High speed",   "on":"2-1@3Gb-4.5,522,905,1004,1104,1124,1224" },
