@@ -41,8 +41,6 @@
                 {"memo": "light"}
             ],
             "servers": [
-                { "cc": "es", "city": "Madrid",     "ip": "23.142.26.183",       "desc": "High speed(New)",   "on": "4-1,2Gb@12.30" },   
-                { "cc": "nl", "city": "Amsterdam",  "ip": "172.99.188.13",    "desc": "High speed(New)",  "on": "9-6,2Gb@12.23,1224,1227,1.1" },
 
                 { "cc": "us", "city": "Santa Clara",   "ip": "169.197.142.180",  "desc": "High speed",   "on": "5-5,2Gb@12.11,1218,1230,1.1" },
                 { "cc": "us", "city": "Seattle",   "ip": "38.89.70.127",  "desc": "High speed", "on": "1-14@12.24" },
@@ -58,13 +56,16 @@
                 
                 { "cc": "fr", "city": "Roubaix",   "ip": "141.94.155.229",  "desc": "High speed", "on": "ov42116@12.27" },
                 { "cc": "fr", "city": "Roubaix",   "ip": "51.77.20.139",  "desc": "High speed", "on": "ov69266@12.13" },
-
-                { "cc": "pl", "city": "Warsaw",      "ip": "146.59.111.190",       "desc": "High speed",   "on":"ov97344@12.13" },
-                { "cc": "pl", "city": "Warsaw",      "ip": "57.128.216.125",       "desc": "High speed",   "on":"ov41790@12.27" },
                 
                 { "cc": "ca", "city": "Montreal",   "ip": "23.162.56.66",  "desc": "High speed", "on": "1-13@1.4" },
                 { "cc": "ca", "city": "Montreal",   "ip": "15.235.85.147",  "desc": "High speed", "on": "ov16776@12.27" },
-                { "cc": "ca", "city": "Vancouver",   "ip": "38.96.254.95",    "desc": "High speed",   "on": "2-22@12.31" }
+                { "cc": "ca", "city": "Vancouver",   "ip": "38.96.254.95",    "desc": "High speed",   "on": "2-22@12.31" },
+
+                { "cc": "pl", "city": "Warsaw",      "ip": "146.59.111.190",       "desc": "High speed",   "on":"ov97344@12.13" },
+                { "cc": "pl", "city": "Warsaw",      "ip": "57.128.216.125",       "desc": "High speed",   "on":"ov41790@12.27" },
+
+                { "cc": "es", "city": "Madrid",     "ip": "23.142.26.183",       "desc": "High speed(New)",   "on": "4-1,2Gb@12.30" },   
+                { "cc": "nl", "city": "Amsterdam",  "ip": "172.99.188.13",    "desc": "High speed(New)",  "on": "9-6,2Gb@12.23,1224,1227,1.1" }
             ]
         }
     ],
