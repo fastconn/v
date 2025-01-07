@@ -52,7 +52,7 @@
             "HotFull": "anyInter",
             "AnyFull": "anyFull",
             "AnyInter": "anyInter",
-            "OffNative": "offN",
+            "OffNative": "offN??",
             "OffInter": "offI"
         },
 
@@ -61,7 +61,6 @@
                 "type": "inter",
                 "ids": [
 					{ "id": "ca-app-pub-3510970371831048/9989345748", "memo":"h107-1200" },
-					{ "id": "ca-app-pub-3510970371831048/9847711686", "memo":"h105-1445" },
 					{ "id": "ca-app-pub-3510970371831048/7156865511", "memo":"m103-1535" }
                 ]
             },
@@ -69,7 +68,6 @@
                 "type": "native", "layouts_d625": [0,1],
                 "ids": [
                     { "id": "ca-app-pub-3510970371831048/3423937395", "memo": "h107-1200" },
-                    { "id": "ca-app-pub-3510970371831048/7383864719", "memo": "h105-1445" },
                     { "id": "ca-app-pub-3510970371831048/3109809291", "memo": "m103-1535" }
               ]
             },
@@ -77,7 +75,7 @@
                 "type": "native",
                 "ids": [
                     { "id": "ca-app-pub-3510970371831048/5270236061", "memo": "h106-1018" },
-                    { "id": "ca-app-pub-3510970371831048/3703001978", "memo": "m1210-1315" }
+                    { "id": "ca-app-pub-3510970371831048/1217410601", "memo": "m107-1450" }
                 ]
             },
             "mainOpen": {

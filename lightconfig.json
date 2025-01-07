@@ -50,7 +50,7 @@
 			"HotFull": "anyI",
 			"AnyInter": "anyI",
 			"AnyFull": "anyN",
-            "OffNative": "offN",
+            "OffNative": "offN??",
             "OffInter": "offI",
 			"Connected2": "conn2"
 		},
@@ -66,14 +66,13 @@
 				"type": "native", 
 				"ids": [
 					{ "id": "ca-app-pub-3510970371831048/6677589029", "memo":"h106-1552" },
-					{ "id": "ca-app-pub-3510970371831048/3805826487", "memo":"h402-106-1050" },
 					{ "id": "ca-app-pub-3510970371831048/3687290143", "memo":"m103-1535" }
 				]
 	 	    },
 			"conn2": {
 				 "type": "native",
 				 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/3955506896", "memo": "h406-106-1050" },
+                    { "id": "ca-app-pub-3510970371831048/3596161936", "memo": "h107-1450" },
                     { "id": "ca-app-pub-3510970371831048/5046170517", "memo": "m1230-2240" }
 				 ]
 			 },
