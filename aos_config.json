@@ -29,20 +29,20 @@
     },
     "adid": {
         "SplashFull": [
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/9527081828", "memo": "m106-1200", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/1802173468", "memo": "m108-1115", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/1856290618", "memo": "l1101", "type": "inter" }
         ],
         "Splash-v1.17": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/9527081828", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/1802173468", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/1856290618", "type": "inter" }
         ],
         
         "AnyFull-v2": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/5224072403", "memo": "h106-1200", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/3810487186", "memo": "h108-1115", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/6609166645", "memo": "m1231", "type": "inter" }
         ],
         "Anyfull-v1.17": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/5224072403", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/3810487186", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/6609166645", "type": "inter" }
         ],
         
