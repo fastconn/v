@@ -59,7 +59,7 @@
                 
                 { "cc": "ca", "city": "Montreal",   "ip": "23.162.56.66",  "desc": "High speed", "on": "1-13@1.4" },
                 { "cc": "ca", "city": "Montreal",   "ip": "15.235.85.147",  "desc": "High speed", "on": "ov16776@12.27" },
-                { "cc": "ca", "city": "Vancouver",   "ip": "38.96.254.95",    "desc": "High speed",   "on": "2-22@12.31" },
+                { "cc": "ca", "city": "Vancouver",   "ip": "158.51.123.37",    "desc": "High speed",   "on": "2-7@1.8" },
 
                 { "cc": "pl", "city": "Warsaw",      "ip": "146.59.118.250",       "desc": "High speed",   "on":"ov36910@1.8" }
             ]
