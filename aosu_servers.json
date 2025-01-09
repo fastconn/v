@@ -5,7 +5,7 @@
         {
             "name": "Free",
             "isVip": false,
-            "ws": [
+            "ws??": [
                 { "name": "Server-1", "desc": "Global", "domain": "appaulsel.site", "on": "12.14-1015" },
                 { "name": "Server-2", "desc": "Global", "domain": "kapelleng.com", "on": "12.13-1315" }
 
