@@ -44,7 +44,7 @@
         },
 		"run": {},
 		"run3": {
-			"MainOpen": "open??",
+			"MainOpen": "open",
 			"WillDisFull": "anyI",
 			"DidConFull": "anyI",
 			"HotFull": "anyI",
@@ -58,18 +58,21 @@
             "anyI": {
                 "type": "inter",
                 "ids": [
+					{ "id": "ca-app-pub-3510970371831048/1209516218", "memo":"h110-1400-4" },
 					{ "id": "ca-app-pub-3510970371831048/6243480342", "memo":"m110-1720" }
 				]
             },
 			"anyN": {
 				"type": "native", 
 				"ids": [
+					{ "id": "ca-app-pub-3510970371831048/5304969047", "memo":"h110-1400-4" },
 					{ "id": "ca-app-pub-3510970371831048/3841217285", "memo":"m110-2200" }
 				]
 	 	    },
 			"conn2": {
 				 "type": "native",
 				 "ids": [
+                    { "id": "ca-app-pub-3510970371831048/2153828570", "memo": "h109-0015" },
                     { "id": "ca-app-pub-3510970371831048/6398558861", "memo": "m110-1455" }
 				 ]
 			 },
