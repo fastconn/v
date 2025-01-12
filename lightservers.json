@@ -26,7 +26,7 @@
             "wsGroupSize": 1,
             "wsNameAuto": true,
             "ws2": [ ],
-            "ws3??": [
+            "ws3": [
                 { "name": "Server-1", "desc": "Global", "domain": "parisgame.org", "on": "112-2330" },
                 {"memo": "light"}
             ],
