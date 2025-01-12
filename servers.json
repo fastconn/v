@@ -89,7 +89,7 @@
             "name": "VPN Premium",
             "isVip": true,
             "image": "for_VIP",
-            "ws3??": [
+            "ws3": [
                 { "name": "VIP-1", "domain": "taosangle.com", "desc": "websocket", "on": "12.31-2308"},
                 { "name": "VIP-2", "domain": "sengkann.com", "desc": "websocket", "on": "12.28-1618"},
                 {}
