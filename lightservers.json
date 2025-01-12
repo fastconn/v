@@ -27,11 +27,8 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3??": [
-                { "name": "Server-1", "desc": "Global", "domain": "zanglong.homes", "on": "1223-1139" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.lommelle.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "popul.site", "on": "1214-1015"},
-
-               {}
+                { "name": "Server-1", "desc": "Global", "domain": "parisgame.org", "on": "112-2330" },
+                {"memo": "light"}
             ],
             "ws1212": [
                 { "name": "Server-1", "desc": "Global", "domain": "lommelle.com", "on": "1213-1315" },
