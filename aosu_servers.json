@@ -17,7 +17,7 @@
             
             ],
             "ips": [
-                { "cc": "us", "city": "Dallas",    "ip": "38.68.135.80",     "desc": "High speed(New)", "on": "6-7@6.18,...,1202,1221,1.7,1.10" },
+                { "cc": "us", "city": "Dallas",    "ip": "38.68.135.203",     "desc": "High speed(New)", "on": "6-7@6.18,..,1221,1.7,1.10,1.13" },
                 { "cc": "us", "city": "New York",   "ip": "38.91.101.67",     "desc": "High speed", "on": "5-18@1.10,1.11" },
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.194",     "desc": "High speed", "on": "26-5,2Gb@12.29" },
                 { "cc": "ca", "city": "Toronto",    "ip": "23.162.200.33",      "desc": "High speed", "on": "2-11@6.14,1031,1126,1213,1.10" },
