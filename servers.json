@@ -56,9 +56,9 @@
                 { "cc": "us", "city": "Ashburn",        "ip": "23.154.136.215",     "desc": "High speed",   "on": "1-4@1.9" },
                 { "cc": "us", "city": "New York",       "ip": "169.197.141.213",    "desc": "High speed",   "on": "2-5@1.1,1.7, 1.11,1.13" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "23.150.152.93",      "desc": "High speed",   "on": "4-15@12.30,1.9,1.13" },
-                { "cc": "us", "city": "Miami",          "ip": "38.91.106.92",      "desc": "High speed",    "on": "2-16@6.18，...,1.4,1.9,1.10" },
+                { "cc": "us", "city": "Miami",          "ip": "38.91.107.193",      "desc": "High speed",    "on": "2-16@6.18，...,1.4,1.9,1.10,1.13" },
                 { "cc": "us", "city": "Santa Clara",    "ip": "169.197.142.151",    "desc": "High speed",   "on": "3-12@12.31,1.1" },
-                { "cc": "us", "city": "Atlanta",        "ip": "172.111.36.108",     "desc": "High speed",   "on": "5-13@1.8" },
+                { "cc": "us", "city": "Atlanta",        "ip": "172.111.36.152",     "desc": "High speed",   "on": "5-13@1.8,1.13" },
                 { "cc": "us", "city": "Seattle",        "ip": "38.89.70.127",       "desc": "High speed",   "on": "1-14@1.9" },
 
                 { "cc": "ca", "city": "Toronto",        "ip": "23.162.200.4",       "desc": "High speed",   "on": "11-2@2Gb,7.11,7.11,1018,1107,1125,1220" },   
@@ -93,7 +93,7 @@
             ], 
             "servers": [
                 { "cc": "us", "city": "New York",   "ip": "216.39.249.133", "desc": "Performance", "on": "2-10@1.4" },
-                { "cc": "us", "city": "Seattle",    "ip": "38.143.66.6",    "desc": "Performance", "on": "3-19@1.9" },
+                { "cc": "us", "city": "Seattle",    "ip": "38.143.66.173",    "desc": "Performance", "on": "3-19@1.9,1.13" },
                 { "cc": "ca", "city": "Vancouver",  "ip": "38.96.254.95",    "desc": "High speed",   "on": "2-22@1.9" },
                 { "cc": "ca", "city": "Montreal",   "ip": "23.162.56.57",    "desc": "High speed",   "on": "1-18@1.9" },
 
