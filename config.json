@@ -52,7 +52,7 @@
             "HotFull": "anyInter",
             "AnyFull": "anyFull",
             "AnyInter": "anyInter",
-            "OffNative": "offN??",
+            "OffNative": "offN",
             "OffInter": "offI"
         },
 
@@ -88,14 +88,14 @@
 			"offI": {
 				"type": "inter",
 				"ids": [
-					{ "id": "ca-app-pub-3510970371831048/5647588122", "memo": "h114-1650" },
+					{ "id": "ca-app-pub-3510970371831048/8134984810", "memo": "h114-2018" },
 					{ "id": "ca-app-pub-3510970371831048/8290350060", "memo": "m323_1030" }
 				]
 			},
             "offN": {
                 "type": "native",
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/1644674647", "memo": "h1223" },
+                    { "id": "ca-app-pub-3510970371831048/5647588122", "memo": "h114-2018" },
                     { "id": "ca-app-pub-3510970371831048/4600687653", "memo": "m1213" }
                 ]
             }
