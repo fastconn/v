@@ -27,7 +27,7 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "parisgame.org", "on": "112-2330" },
+                { "name": "Server-1", "desc": "Global", "domain": "rebroek.com", "on": "115-1017" },
                 {"memo": "light"}
             ],
             "ws1212": [
