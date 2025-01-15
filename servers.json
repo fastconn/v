@@ -115,9 +115,9 @@
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.144",      "desc": "Fast(New)",  "on": "gcore,6TB-1.15" },
                 { "cc": "hk", "city": "Hong Kong",      "ip": "5.188.33.32",        "desc": "Fast",   "on": "gcore,3TB-12.13"},
               
-                { "cc": "jp", "city": "Tokyo",          "ip": "172.104.124.151",       "desc": "Fast",  "on": "li@4TB,12.19" }, 
-                { "cc": "br", "city": "São Paulo",      "ip": "172.233.14.12",     "desc": "Fast",  "on": "li@2TB,12.19" },
-                { "cc": "sg", "city": "Singapore",      "ip": "139.162.40.74",      "desc": "Fast",  "on": "li-10.18" },
+                { "cc": "jp", "city": "Tokyo",          "ip": "172.237.27.176",     "desc": "Fast",  "on": "li@4TB,1.15" }, 
+                { "cc": "br", "city": "São Paulo",      "ip": "172.233.17.76",      "desc": "Fast",  "on": "li@2TB,1.15" },
+                { "cc": "sg", "city": "Singapore",      "ip": "172.236.144.121",    "desc": "Fast",  "on": "li@2TB,1.15" },
                 { "cc": "au", "city": "Sydney",         "ip": "172.105.172.209",    "desc": "Fast",  "on": "li-10.18" },
                 { "cc": "in", "city": "Mumbai",         "ip": "172.232.109.204",    "desc": "Fast",  "on": "li@2TB,11.11" }
             ]
