@@ -27,15 +27,10 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "rebroek.com", "on": "115-1017" },
-                {"memo": "light"}
-            ],
-            "ws1212": [
-                { "name": "Server-1", "desc": "Global", "domain": "lommelle.com", "on": "1213-1315" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.lommelle.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.lommelle.com"},
-
-                {"memo": "light"}
+                { "name": "Server-1", "desc": "Global", "domain": "rebroek.com", "on": "0115-1017" },
+                { "name": "Server-2", "desc": "Global", "domain": "paddenhoek.com", "on": "0116-1510"},
+                { "name": "Server-3", "desc": "Global", "domain": "schoubroex.com", "on": "0116-1510"},
+                { "memo": "light" }
             ],
             "servers": [
                 { "cc": "fr", "city": "Paris",      "ip": "38.109.228.171",     "desc": "High speed", "on": "1-3,44c2G@1.7,1.8,1.9,1.10,1.15" },

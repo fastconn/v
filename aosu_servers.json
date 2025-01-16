@@ -6,15 +6,8 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "appaulsel.site", "on": "12.14-1015" },
-                { "name": "Server-2", "desc": "Global", "domain": "kapelleng.com", "on": "12.13-1315" }
+                { "name": "Server-1", "desc": "Global", "domain": "ressege.com", "on": "1.16-1515" }
 
-            ],
-            "1212": [
-                { "name": "Server-1", "desc": "Global", "domain": "kapelleng.com", "on": "12.13-1315" },
-                { "name": "Server-2", "desc": "Global", "domain": "an.kapelleng.com" },
-                { "name": "Server-3", "desc": "Global", "domain": "be.kapelleng.com" }
-            
             ],
             "ips": [
                 { "cc": "us", "city": "Dallas",    "ip": "38.68.135.238",     "desc": "High speed(New)", "on": "6-7@6.18,..,1.7,1.10,1.13,1.16" },
