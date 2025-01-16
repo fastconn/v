@@ -78,8 +78,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "wanzelers.com", "desc": "websocket", "on": "1.16-1515"},
-                {}
+                { "name": "VIP-1", "domain": "wanzelers.com",   "desc": "websocket", "on": "1.16-1515"},
+                { "name": "VIP-2", "domain": "v.wanzelers.com", "desc": "websocket", "on": "1.16-1515"},
+               {}
             ], 
             "servers": [
                 { "cc": "us", "city": "New York",   "ip": "216.39.249.133", "desc": "Performance", "on": "2-10@1.4" },
