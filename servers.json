@@ -34,7 +34,7 @@
             "wsNameAuto": true,
             "ws2": [
             ],
-            "ws": [
+            "ws3": [
                 { "name": "Server-1", "domain": "opsmeer.com",      "desc": "Global", "on": "1.16-1515" },
                 { "name": "Server-2", "domain": "colruytt.com",     "desc": "Global", "on": "1.16-1515" },
                 { "name": "Server-3", "domain": "sanitase.com",     "desc": "Global", "on": "1.16-1515" },   
