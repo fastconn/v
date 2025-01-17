@@ -38,6 +38,7 @@
                 { "name": "Server-1", "domain": "opsmeer.com",      "desc": "Global", "on": "1.16-1515" },
                 { "name": "Server-2", "domain": "colruytt.com",     "desc": "Global", "on": "1.16-1515" },
                 { "name": "Server-3", "domain": "sanitase.com",     "desc": "Global", "on": "1.16-1515" },   
+                { "name": "Server-4", "domain": "rangrover12.homes",     "desc": "Global", "on": "1.17-1545" },   
                 {}
             ],
             "servers": [
