@@ -27,9 +27,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "rebroek.com", "on": "0115-1017" },
-                { "name": "Server-2", "desc": "Global", "domain": "paddenhoek.com", "on": "0116-1510"},
-                { "name": "Server-3", "desc": "Global", "domain": "schoubroex.com", "on": "0116-1510"},
+                { "name": "Server-1", "desc": "Global", "domain": "bambrugge.com",      "on": "117-1650" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.bambrugge.com",   "on": "117-1650"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.bambrugge.com",   "on": "117-1650"},
                 { "memo": "light" }
             ],
             "servers": [
