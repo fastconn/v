@@ -6,7 +6,7 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "a1.bambrugge.com", "on": "1.17-1712" }
+                { "name": "Server-1", "desc": "Global", "domain": "a1.bambrugge.com", "on": "1.17-1726" }
 
             ],
             "ips": [
