@@ -45,7 +45,7 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "osbroe.com", "on": "1.16-1515" }
+                    { "pr": 4, "name": "Global-1", "i": "a3.bambrugge.com", "on": "1.18-1730" }
                ]
             }
         ],
