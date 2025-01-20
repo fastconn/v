@@ -40,12 +40,6 @@
                 { "name": "Server-3", "domain": "c.dendermond.com",     "desc": "Global", "on": "1.21-0008" },   
                 {}
             ],
-            "ws3-bak": [
-                { "name": "Server-1", "domain": "opsmeer.com",      "desc": "Global", "on": "1.16-1515" },
-                { "name": "Server-2", "domain": "colruytt.com",     "desc": "Global", "on": "1.16-1515" },
-                { "name": "Server-3", "domain": "sanitase.com",     "desc": "Global", "on": "1.16-1515" },   
-                {}
-            ],
             "servers": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "193.108.117.47",         "desc": "High speed",   "on":"3-4,14c2Gb@1.11" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "193.108.116.113",        "desc": "High speed",   "on":"2-2,24c4Gb@1.7" },
@@ -86,8 +80,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "p.dendermond.com",   "desc": "websocket", "on": "1.21-0008"},
-                { "name": "VIP-2", "domain": "v.dendermond.com", "desc": "websocket", "on": "1.21-0008"},
+                { "name": "VIP-1", "domain": "p.dendermond.com",    "desc": "websocket", "on": "1.21-0008"},
+                { "name": "VIP-2", "domain": "v.dendermond.com",    "desc": "websocket", "on": "1.21-0008"},
                {}
             ], 
             "servers": [
