@@ -35,9 +35,9 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "bambrugge.com",      "on": "117-1650" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.bambrugge.com",   "on": "117-1650"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.bambrugge.com",   "on": "117-1650"},
+                { "name": "Server-1", "domain": "dendermond.com",     "desc": "Global", "on": "1.21-0008" },   
+                { "name": "Server-2", "domain": "b.dendermond.com",     "desc": "Global", "on": "1.21-0008" },   
+                { "name": "Server-3", "domain": "c.dendermond.com",     "desc": "Global", "on": "1.21-0008" },   
                 {}
             ],
             "ws3-bak": [
@@ -86,8 +86,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "desc": "Global", "domain": "bambrugge.com",      "on": "117-1650" },
-                { "name": "VIP-2", "desc": "Global", "domain": "bl.bambrugge.com",   "on": "117-1650"},
+                { "name": "VIP-1", "domain": "p.dendermond.com",   "desc": "websocket", "on": "1.21-0008"},
+                { "name": "VIP-2", "domain": "v.dendermond.com", "desc": "websocket", "on": "1.21-0008"},
                {}
             ], 
             "servers": [
