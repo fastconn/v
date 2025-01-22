@@ -35,9 +35,13 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "dendermond.com",     "desc": "Global", "on": "1.21-0008" },   
-                { "name": "Server-2", "domain": "b.dendermond.com",     "desc": "Global", "on": "1.21-0008" },   
-                { "name": "Server-3", "domain": "c.dendermond.com",     "desc": "Global", "on": "1.21-0008" },   
+                { "name": "Server-1", "domain": "dendermond.com",       "desc": "Global", "on": "1.21-0008" },   
+                { "name": "Server-2", "domain": "b.dendermond.com",     "desc": "Global" },   
+                { "name": "Server-3", "domain": "c.dendermond.com",     "desc": "Global" },   
+
+                { "name": "Server-4", "domain": "sponsender.com",       "desc": "Global", "on": "1.22-1200" },   
+                { "name": "Server-5", "domain": "d.sponsender.com",     "desc": "Global" },   
+                { "name": "Server-6", "domain": "e.sponsender.com",     "desc": "Global" },   
                 {}
             ],
             "servers": [
@@ -81,7 +85,7 @@
             "image": "for_VIP",
             "ws3": [
                 { "name": "VIP-1", "domain": "p.dendermond.com",    "desc": "websocket", "on": "1.21-0008"},
-                { "name": "VIP-2", "domain": "v.dendermond.com",    "desc": "websocket", "on": "1.21-0008"},
+                { "name": "VIP-2", "domain": "v.sponsender.com",    "desc": "websocket", "on": "1.22-1200"},
                {}
             ], 
             "servers": [
@@ -102,8 +106,8 @@
                 { "cc": "de", "city": "Frankfurt",      "ip": "193.108.118.197",    "desc": "Fast", "on": "vps416,8T@12.16" },
                 { "cc": "es", "city": "Madrid",         "ip": "67.220.66.49",       "desc": "Fast", "on": "vps420,8T@12.16" },
  
-                { "cc": "gb", "city": "London",         "ip": "142.202.51.102",   "desc": "Performance", "on": "6-12@1.9" },
-                { "cc": "nl", "city": "Amsterdam",      "ip": "172.99.188.206",   "desc": "Performance(New)",  "on": "6-8,1G@12.5~2.27" },
+                { "cc": "gb", "city": "London",         "ip": "142.202.51.53",      "desc": "Performance",  "on": "6-12@1.9" },
+                { "cc": "nl", "city": "Amsterdam",      "ip": "172.99.188.206",     "desc": "Performance",  "on": "6-8,1G@12.5~2.27" },
 		       
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.144",      "desc": "Fast(New)",    "on": "gcore,6TB-1.15" },
                 { "cc": "il", "city": "Tel Aviv",       "ip": "146.185.219.129",    "desc": "Fast",         "on": "gcore,2TB-1.20" },
