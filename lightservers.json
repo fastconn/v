@@ -27,9 +27,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "bambrugge.com",      "on": "117-1650" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.bambrugge.com",   "on": "117-1650"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.bambrugge.com",   "on": "117-1650"},
+                { "name": "Server-1", "desc": "Global", "domain": "cabecerias.com",     "on": "122-1238" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.cabecerias.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.cabecerias.com"},
                 { "memo": "light" }
             ],
             "servers": [
