@@ -11,14 +11,14 @@
 
             ],
             "ips": [
-                { "cc": "us", "city": "Dallas",     "ip": "38.68.135.42",       "desc": "High speed", "on": "6-7@6.18,..,1.7,1.10,1.13,1.16,1.19" },
-                { "cc": "us", "city": "New York",   "ip": "38.99.82.199",       "desc": "High speed", "on": "9-10@1.9,1.13,1.16,1.19" },
+                { "cc": "us", "city": "Dallas",     "ip": "38.68.135.199",       "desc": "High speed", "on": "6-7@6.18,..,1.13,1.16,1.19,1.23" },
+                { "cc": "us", "city": "New York",   "ip": "38.99.82.154",       "desc": "High speed", "on": "9-10@1.9,1.13,1.16,1.19,1.23" },
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.194",     "desc": "High speed", "on": "26-5,2Gb@12.29" },
                 { "cc": "ca", "city": "Toronto",    "ip": "23.162.200.227",     "desc": "High speed", "on": "2-14@1.13" },
                 { "cc": "ca", "city": "Montreal",   "ip": "23.162.56.104",      "desc": "High speed", "on": "1-21@1.10" },
                 { "cc": "ca", "city": "Vancouver",  "ip": "134.195.197.204",    "desc": "High speed", "on": "2-20@1.18~5.15" },
 
-                { "cc": "gb", "city": "London",     "ip": "149.7.16.28",        "desc": "High speed", "on": "5-2@12.14,1.7,1.10,1.13,1.19" },
+                { "cc": "gb", "city": "London",     "ip": "149.7.16.28",        "desc": "High speed", "on": "5-2@12.14,..,1.13,1.19" },
                 { "cc": "gb", "city": "London",     "ip": "142.202.51.9",       "desc": "High speed", "on": "6-1@1.22" },
 
                 { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.164",   "desc": "High speed", "on":"3-1@3Gb,6.1，6.28,1021,1126,1214" },
