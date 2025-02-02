@@ -9,7 +9,7 @@
                 { "name": "Server-1", "desc": "Global", "domain": "an.cabecerias.com", "on": "1.22-1240" }
             ],
             "ips": [
-                { "cc": "us", "city": "Dallas",     "ip": "38.68.135.199",       "desc": "High speed", "on": "6-7@6.18,..,1.13,1.16,1.19,1.23" },
+                { "cc": "us", "city": "Dallas",     "ip": "23.134.94.231",      "desc": "High speed", "on": "5-20@2.2" },
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.154",       "desc": "High speed", "on": "9-10@1.9,1.13,1.16,1.19,1.23" },
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.194",     "desc": "High speed", "on": "26-5,2Gb@12.29" },
                 { "cc": "ca", "city": "Toronto",    "ip": "23.162.200.227",     "desc": "High speed", "on": "2-14@1.13" },
