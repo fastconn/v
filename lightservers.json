@@ -46,9 +46,9 @@
                 { "cc": "us", "city": "Los Angeles",    "ip": "38.75.137.133",      "desc": "High speed", "on": "4-23@1.8~11.13" },
                 { "cc": "us", "city": "Miami",          "ip": "38.91.106.46",       "desc": "High speed", "on": "2-23@1.9,1.11,1.15~3.4" },   
 
-                { "cc": "ca", "city": "Montreal",       "ip": "23.162.56.66",       "desc": "High speed", "on": "1-13@1.4" },
+                { "cc": "ca", "city": "Montreal",       "ip": "23.162.56.37",       "desc": "High speed", "on": "1-13@1.4,2.4" },
                 { "cc": "ca", "city": "Vancouver",      "ip": "158.51.123.37",      "desc": "High speed", "on": "2-7@1.8~6.9" },
-                { "cc": "ca", "city": "Toronto",        "ip": "23.162.200.36",     "desc": "High speed", "on": "1-11@1.9,1.11,1.13" },
+                { "cc": "ca", "city": "Toronto",        "ip": "23.162.200.82",      "desc": "High speed", "on": "1-11@1.9,1.11,1.13,2.4" },
                
                 { "cc": "gb", "city": "London",   "ip": "68.168.31.176",    "desc": "High speed", "on": "2-15@12.30" },
                 { "cc": "gb", "city": "London",   "ip": "38.114.120.92",    "desc": "High speed", "on": "6-10@1.8~5.14" },
