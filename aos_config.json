@@ -38,16 +38,15 @@
         ],
         
         "AnyFull-v2": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/4661200705", "memo": "h202-2250-2", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/4750638532", "memo": "h205-1435-2", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/6609166645", "memo": "m1231", "type": "inter" }
         ],
         "Anyfull-v1.17": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/4661200705", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/4750638532", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/6609166645", "type": "inter" }
         ],
         
         "Didcon-v2": [
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/5305920738", "memo": "h124-2205", "type": "native" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/6234051107", "memo": "h119-1255", "type": "native" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/5741499659", "memo": "L1015", "type": "native" }
         ],
