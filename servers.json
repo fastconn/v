@@ -107,7 +107,7 @@
                 { "cc": "es", "city": "Madrid",         "ip": "67.220.66.49",       "desc": "Fast", "on": "vps420,8T@12.16" },
  
                 { "cc": "gb", "city": "London",         "ip": "142.202.51.2",       "desc": "Performance",  "on": "6-12@1.9,2.3" },
-                { "cc": "nl", "city": "Amsterdam",      "ip": "172.99.188.206",     "desc": "Performance",  "on": "6-8,1G@12.5~2.27" },
+                { "cc": "nl", "city": "Amsterdam",      "ip": "172.99.188.113",     "desc": "Performance",  "on": "6-8,1G@12.5,2.6" },
 		       
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.144",      "desc": "Fast(New)",    "on": "gcore,6TB-1.15" },
                 { "cc": "il", "city": "Tel Aviv",       "ip": "146.185.219.129",    "desc": "Fast",         "on": "gcore,2TB-1.20" },
