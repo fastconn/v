@@ -29,11 +29,11 @@
     },
     "adid": {
         "SplashFull": [
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/5119331860", "memo": "m204-1505", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/3574154206", "memo": "m206-1230", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/1856290618", "memo": "l1101", "type": "inter" }
         ],
         "Splash-v1.17": [           
-            { "pri": 100, "id": "ca-app-pub-3510970371831048/5119331860", "type": "inter" },
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/3574154206", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/1856290618", "type": "inter" }
         ],
         
