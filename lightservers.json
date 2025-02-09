@@ -27,9 +27,9 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "canaveses.com",     "on": "2.09-1115" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.canaveses.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.canaveses.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "cabecerias.com",     "on": "1.22-1238" },
+                { "name": "Server-2", "desc": "Global", "domain": "bl.cabecerias.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "cl.cabecerias.com"},
                 { "memo": "light" }
             ],
             "servers": [
