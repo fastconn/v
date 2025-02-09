@@ -6,7 +6,7 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "an.cabecerias.com", "on": "1.22-1240" }
+                { "name": "Server-1", "desc": "Global", "domain": "an.canaveses.com", "on": "2.09-1115" }
             ],
             "ips": [
                 { "cc": "us", "city": "Dallas",     "ip": "23.134.94.231",      "desc": "High speed", "on": "5-20@2.2" },

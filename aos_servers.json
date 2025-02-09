@@ -45,7 +45,7 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "be.cabecerias.com", "on": "2.5-1300" }
+                    { "pr": 4, "name": "Global-1", "i": "be.canaveses.com", "on": "2.09-1115" }
                ]
             }
         ],
