@@ -49,8 +49,9 @@
                
                 { "cc": "gb", "city": "London",     "ip": "68.168.31.176",      "desc": "High speed", "on": "2-15@12.30" },
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.92",      "desc": "High speed", "on": "6-10@1.8~5.14" },
-                { "cc": "es", "city": "Madrid",     "ip": "23.142.26.49",       "desc": "High speed", "on": "4-1,2Gb@12.30,2.8" },   
                 { "cc": "fr", "city": "Paris",      "ip": "23.162.152.161",     "desc": "High speed", "on": "2-3@2.4" },
+                { "cc": "es", "city": "Madrid",     "ip": "23.142.26.49",       "desc": "High speed", "on": "4-1,2Gb@12.30,2.8" },   
+                { "cc": "es", "city": "Madrid",     "ip": "23.142.26.174",      "desc": "High speed", "on": "4-1,2Gb@2.25" },   
                 { "cc": "nl", "city": "Amsterdam",  "ip": "91.239.53.113",      "desc": "High speed", "on": "6-1,0.3Gb@2.21,2.22" }
             ],
             "servers_ov": [
