@@ -30,7 +30,6 @@
     "adid": {
         "SplashFull": [
             { "pri": 99, "id": "ca-app-pub-3510970371831048/4754619338", "type": "inter", "memo": "m303-0900" },
-            { "pri": 95, "id": "ca-app-pub-3510970371831048/5268752516", "type": "inter", "memo": "m301-1610" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/1856290618", "type": "inter", "memo": "l1101" }
         ],
         "Splash-v1.17": [           
@@ -39,11 +38,11 @@
         ],
         
         "AnyFull-v2": [           
-            { "pri": 99, "id": "ca-app-pub-3510970371831048/8652629603", "type": "inter", "memo": "h301-0925-2" },
+            { "pri": 99, "id": "ca-app-pub-3510970371831048/3773607944", "type": "inter", "memo": "h303-1545-2" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/6609166645", "type": "inter", "memo": "m1231" }
         ],
         "Anyfull-v1.17": [           
-            { "pri": 99, "id": "ca-app-pub-3510970371831048/8652629603", "type": "inter" },
+            { "pri": 99, "id": "ca-app-pub-3510970371831048/3773607944", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/6609166645", "type": "inter" }
         ],
         
