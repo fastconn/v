@@ -22,6 +22,7 @@
         "maxShow": 200,
         "skipSec": 6,
         "adWait": 10,
+        "fullAdElapse": 60,
         
         "splashSec": 8,
         "nativeOfficial": [1,7],
