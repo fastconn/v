@@ -20,7 +20,7 @@
         "ageM": 5,
         "maxClick": 30,
         "maxShow": 200,
-        "skipSec": 6,
+        "skipSec": 7,
         "adWait": 10,
         "fullAdElapse": 60,
         
