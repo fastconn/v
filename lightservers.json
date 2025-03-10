@@ -36,7 +36,7 @@
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.13",       "desc": "High speed", "on": "7-1,14c3G@1.11" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "185.177.229.155",    "desc": "High speed", "on": "4-4,36c2G@1.7,2.3,3.3" },
 
-                { "cc": "us", "city": "Santa Clara",    "ip": "167.88.61.63",        "desc": "High speed", "on": "2-17@1.10,..,2.7,2.10,2.23,3.5" },
+                { "cc": "us", "city": "Santa Clara",    "ip": "167.88.61.20",        "desc": "High speed", "on": "2-17@1.10,..,2.7,2.10,2.23,3.5,3.10" },
                 { "cc": "us", "city": "Seattle",        "ip": "169.197.143.116",    "desc": "High speed", "on": "3-5@1.7,1.11,1.13,1.19,1.24,2.4,2.17" },
                 { "cc": "us", "city": "Dallas",         "ip": "23.150.248.208",     "desc": "High speed", "on": "4-5@2.2" },
                 { "cc": "us", "city": "New York",       "ip": "216.39.249.205",     "desc": "High speed", "on": "1-19@12.30,1.7,2.6" },
