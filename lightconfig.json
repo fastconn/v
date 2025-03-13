@@ -50,7 +50,7 @@
 			"HotFull": "anyI",
 			"AnyInter": "anyI",
 			"AnyFull": "anyN",
-            "OffNative": "offN??",
+            "OffNative": "offN",
             "OffInter": "offI",
 			"Connected2": "conn2"
 		},
