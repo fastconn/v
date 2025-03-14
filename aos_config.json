@@ -30,27 +30,26 @@
     },
     "adid": {
         "SplashFull": [
+            { "pri": 97, "id": "ca-app-pub-3510970371831048/1422228031", "type": "inter", "memo": "m314-1515" },
             { "pri": 96, "id": "ca-app-pub-3510970371831048/2924071455", "type": "inter", "memo": "m312-1325" },
-            { "pri": 95, "id": "ca-app-pub-3510970371831048/4274077491", "type": "inter", "memo": "m309-2315" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/1856290618", "type": "inter", "memo": "l1101" }
         ],
         "Splash-v1.17": [           
-            { "pri": 99, "id": "ca-app-pub-3510970371831048/4274077491", "type": "inter" },
+            { "pri": 99, "id": "ca-app-pub-3510970371831048/1422228031", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/1856290618", "type": "inter" }
         ],
         
         "AnyFull-v2": [           
-            { "pri": 96, "id": "ca-app-pub-3510970371831048/5325404900", "type": "inter", "memo": "h310-2300-2" },
-            { "pri": 95, "id": "ca-app-pub-3510970371831048/5038394638", "type": "inter", "memo": "h308-1415-2" },
+            { "pri": 97, "id": "ca-app-pub-3510970371831048/7695421523", "type": "inter", "memo": "h314-1515-2" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/6609166645", "type": "inter", "memo": "m1231" }
         ],
         "Anyfull-v1.17": [           
-            { "pri": 99, "id": "ca-app-pub-3510970371831048/5325404900", "type": "inter" },
+            { "pri": 99, "id": "ca-app-pub-3510970371831048/7695421523", "type": "inter" },
             { "pri": 90, "id": "ca-app-pub-3510970371831048/6609166645", "type": "inter" }
         ],
         
         "Didcon-v2": [
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/4412070061", "type": "native", "memo": "m301-0925" },
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/2063820897", "type": "native", "memo": "m314-1515" },
             { "pri": 80, "id": "ca-app-pub-3510970371831048/4217015988", "type": "native", "memo": "l222"}
         ],
         "Mainpage-v2??": [
