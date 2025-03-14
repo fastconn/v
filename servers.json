@@ -103,10 +103,8 @@
                 { "cc": "us", "city": "Chicago",        "ip": "38.114.121.60",      "desc": "Fast", "on": "vps414,8T@12.16" },
                 { "cc": "us", "city": "Phoenix",        "ip": "67.220.70.64",       "desc": "Fast", "on": "vps440,8T@12.16" },
                 { "cc": "us", "city": "Detroit",        "ip": "67.220.67.125",      "desc": "Fast", "on": "vps439,8T@12.16" },
-                { "cc": "ca", "city": "Toronto",        "ip": "67.220.94.171",      "desc": "Fast", "on": "vps441,8T@12.16" },
                 
                 { "cc": "fr", "city": "Paris",          "ip": "38.109.228.81",      "desc": "Fast", "on": "vps418,8T@12.16" },
-                { "cc": "gb", "city": "London",         "ip": "68.168.31.220",      "desc": "Fast", "on": "vps417,8T@12.16" },
                 { "cc": "ch", "city": "Zurich",         "ip": "23.166.88.67",       "desc": "Fast", "on": "vps419,8T@12.16" },
                 { "cc": "de", "city": "Frankfurt",      "ip": "193.108.118.197",    "desc": "Fast", "on": "vps416,8T@12.16" },
                 { "cc": "es", "city": "Madrid",         "ip": "67.220.66.49",       "desc": "Fast", "on": "vps420,8T@12.16" },
@@ -126,6 +124,9 @@
             ],
             "servers-bak": [
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.76",       "desc": "Fast(New)",    "on": "gcore,4TB-2.16" },
+          
+                { "cc": "ca", "city": "Toronto",        "ip": "67.220.94.171",      "desc": "Fast", "on": "vps441,8T@12.16" },
+                { "cc": "gb", "city": "London",         "ip": "68.168.31.220",      "desc": "Fast", "on": "vps417,8T@12.16" },
                 {}
             ]
         }
