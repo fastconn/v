@@ -41,6 +41,11 @@
 				"HotFull": ["AnyInter", "AnyFull"],
 				"memo": "323_1030"
 			},
+			"onlyConnected": {
+				"AnyFull": false,
+				"AnyInter": false,
+                "AnyOpen": false
+			},
             "fullAdOrder": "ni",
             "offAdOrder": "in"
         },
@@ -69,7 +74,7 @@
                 "type": "native", "layouts": [0,1],
                 "ids": [
                     { "id": "ca-app-pub-3510970371831048/3024241862", "memo": "h307-1230-4" },
-                    { "id": "ca-app-pub-3510970371831048/2643717500", "memo": "m110-1400" }
+                    { "id": "ca-app-pub-3510970371831048/5854999893", "memo": "m316-1630" }
                 ]
            },
             "connected": {
