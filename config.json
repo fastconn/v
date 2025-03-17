@@ -41,11 +41,6 @@
 				"HotFull": ["AnyInter", "AnyFull"],
 				"memo": "323_1030"
 			},
-			"onlyConnected": {
-				"AnyFull": false,
-				"AnyInter": false,
-                "AnyOpen": false
-			},
             "fullAdOrder": "ni",
             "offAdOrder": "in"
         },
