@@ -40,7 +40,6 @@
         
         "AnyFull-v2": [           
             { "pri": 25, "id": "ca-app-pub-3510970371831048/6920485770", "type": "inter", "memo": "h324-1511-2" },
-            { "pri": 23, "id": "ca-app-pub-3510970371831048/4296006640", "type": "inter", "memo": "h319-1125-2" },
             { "pri": 20, "id": "ca-app-pub-3510970371831048/6609166645", "type": "inter", "memo": "m1231" }
         ],
         "Anyfull-v1.17": [           
