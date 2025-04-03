@@ -16,14 +16,16 @@
         "verCode": 202000000
     },
     "adc": {
-        "ver": 20250307,
+        "ver": 20250403,
         "ageM": 5,
         "maxClick": 30,
         "maxShow": 180,
         "skipSec": 7,
         "adWait": 10,
-        "fullAdElapse": 60,
-        
+        "fullAdElapse": 30,
+        "resultBackAd": true,
+        "hotSplashAd": true,
+
         "splashSec": 8,
         "nativeOfficial": [1,7],
         "mainAdFlag": 0
