@@ -54,8 +54,8 @@
             { "pri": 90, "id": "ca-app-pub-3510970371831048/7548259475", "type": "native", "memo": "m318-1530" }
         ],
         "Mainpage-v2": [
-            { "pri": 99, "id": "ca-app-pub-3510970371831048/5376031556", "type": "native", "memo": "h917_2300"},
-            { "pri": 80, "id": "ca-app-pub-3510970371831048/9366641902", "type": "native", "memo": "l401" }
+            { "pri": 81, "id": "ca-app-pub-3510970371831048/9017951919", "type": "native", "memo": "m403" },
+            { "pri": 80, "id": "ca-app-pub-3510970371831048/9967408797", "type": "native", "memo": "l403" }
         ],
         "Location-v2??": [
             { "pri": 90, "id": "ca-app-pub-3510970371831048/5670974203", "type": "native", "memo": "m917" },
