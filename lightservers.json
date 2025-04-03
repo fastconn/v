@@ -26,7 +26,7 @@
             "wsGroupSize": 1,
             "wsNameAuto": true,
             "ws2": [ ],
-            "ws3": [
+            "ws3？？": [
                 { "name": "Server-1", "desc": "Global", "domain": "cabecerias.com",     "on": "1.22-1238" },
                 { "name": "Server-2", "desc": "Global", "domain": "bl.cabecerias.com"},
                 { "name": "Server-3", "desc": "Global", "domain": "cl.cabecerias.com"},

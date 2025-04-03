@@ -34,7 +34,7 @@
             "wsNameAuto": true,
             "ws2": [
             ],
-            "ws3": [
+            "ws3？？": [
                 { "name": "Server-1", "domain": "a.ourenses.com",     "desc": "Global", "on": "1.22-1245" },   
                 { "name": "Server-2", "domain": "b.ourenses.com",     "desc": "Global" },   
                 { "name": "Server-3", "domain": "c.ourenses.com",     "desc": "Global" },   
