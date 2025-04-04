@@ -43,8 +43,7 @@
         "AnyFull-v2": [           
             { "pri": 31, "id": "ca-app-pub-3510970371831048/8566294260", "type": "inter", "memo": "h404-1535-2" },
             { "pri": 30, "id": "ca-app-pub-3510970371831048/2803003130", "type": "native","memo": "m404-1535" },
-            { "pri": 25, "id": "ca-app-pub-3510970371831048/8781012721", "type": "inter", "memo": "h401-2010-2" },
-            { "pri": 20, "id": "ca-app-pub-3510970371831048/6609166645", "type": "inter", "memo": "m1231" }
+            { "pri": 25, "id": "ca-app-pub-3510970371831048/8781012721", "type": "inter", "memo": "h401-2010-2" }
         ],
         "Anyfull-v1.17": [           
             { "pri": 31, "id": "ca-app-pub-3510970371831048/8566294260", "type": "inter" },
