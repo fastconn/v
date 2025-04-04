@@ -55,6 +55,7 @@
             { "pri": 80, "id": "ca-app-pub-3510970371831048/7548259475", "type": "native", "memo": "m318-1530" }
         ],
         "Mainpage-v2": [
+            { "pri": 85, "id": "ca-app-pub-3510970371831048/6407034784", "type": "native", "memo": "h404-1615-1" },
             { "pri": 81, "id": "ca-app-pub-3510970371831048/9017951919", "type": "native", "memo": "m403" },
             { "pri": 80, "id": "ca-app-pub-3510970371831048/9967408797", "type": "native", "memo": "l403" }
         ],
