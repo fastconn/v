@@ -10,7 +10,10 @@ fi
 DOMAIN="$1"
 IP_LIST_FILE="$2"
 SSH_USER="root"
-SOURCE_DIR="/root/.acme.sh/$DOMAIN"
+
+# 提取主域名（如果提供的是子域名）
+MAIN_DOMAIN=$(echo "$DOMAIN" | awk -F. '{if (NF>2) print $(NF-1)"."$NF; else print $0}')
+SOURCE_DIR="/root/.acme.sh/$MAIN_DOMAIN"
 TARGET_DIR="/etc/v2ray-agent/tls"
 NGINX_CONF="/etc/nginx/conf.d/alone.conf"
 
@@ -27,7 +30,7 @@ if [ ! -d "$SOURCE_DIR" ]; then
     exit 1
 fi
 
-if [ ! -f "$SOURCE_DIR/fullchain.cer" ] || [ ! -f "$SOURCE_DIR/$DOMAIN.key" ]; then
+if [ ! -f "$SOURCE_DIR/fullchain.cer" ] || [ ! -f "$SOURCE_DIR/$MAIN_DOMAIN.key" ]; then
     echo "Error: Certificate files not found in $SOURCE_DIR"
     echo "Please make sure the certificates were generated first"
     exit 1
@@ -58,7 +61,7 @@ for target_ip in "${ips[@]}"; do
     # 复制证书文件
     echo "Copying certificates to server: $target_ip..."
     scp "$SOURCE_DIR/fullchain.cer" "$SSH_USER@$target_ip:$TARGET_DIR/$DOMAIN.crt"
-    scp "$SOURCE_DIR/$DOMAIN.key" "$SSH_USER@$target_ip:$TARGET_DIR/"
+    scp "$SOURCE_DIR/$MAIN_DOMAIN.key" "$SSH_USER@$target_ip:$TARGET_DIR/$DOMAIN.key"
     
     # 检查SSH连接是否可用
     if ! ssh -o BatchMode=yes -o ConnectTimeout=5 "$SSH_USER@$target_ip" "echo 'SSH connection successful'" 2>/dev/null; then
