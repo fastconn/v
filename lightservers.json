@@ -26,10 +26,9 @@
             "wsGroupSize": 1,
             "wsNameAuto": true,
             "ws2": [ ],
-            "ws3？？": [
-                { "name": "Server-1", "desc": "Global", "domain": "cabecerias.com",     "on": "1.22-1238" },
-                { "name": "Server-2", "desc": "Global", "domain": "bl.cabecerias.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "cl.cabecerias.com"},
+            "ws3": [
+                { "name": "Server-1", "desc": "Global", "domain": "erpemera.com",     "on": "4.5-2312" },
+                { "name": "Server-2", "desc": "Global", "domain": "zandhove.com"},
                 { "memo": "light" }
             ],
             "servers": [
@@ -49,7 +48,7 @@
                 { "cc": "de", "city": "Frankfurt",  "ip": "185.177.229.155",    "desc": "High speed", "on": "ov2757@4.3" },
                 { "cc": "gb", "city": "London",     "ip": "57.128.184.128",      "desc": "High speed", "on": "ov0410@4.3" },
                 { "cc": "gb", "city": "London",     "ip": "57.128.184.129",      "desc": "High speed", "on": "ov0407@4.3" },
-                
+
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.92",      "desc": "High speed", "on": "6-10@1.8~5.14" },
                 { "cc": "fr", "city": "Paris",      "ip": "23.162.152.72",      "desc": "High speed", "on": "10-4@3.3" },
                 { "cc": "es", "city": "Madrid",     "ip": "67.220.66.220",      "desc": "High speed", "on": "4-10,0.5Gb@3.2" },   
