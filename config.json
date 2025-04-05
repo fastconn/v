@@ -52,8 +52,8 @@
             "HotFull": "anyInter",
             "AnyFull": "anyFull",
             "AnyInter": "anyInter",
-            "OffNative": "offN",
-            "OffInter": "offI"
+            "OffNative": "anyFull",
+            "OffInter": "anyInter"
         },
 
         "sets": {
@@ -64,13 +64,29 @@
                     { "id": "ca-app-pub-3510970371831048/6815465999", "memo": "m403-1620" }
                 ]
             },
+			"offI": {
+				"type": "inter",
+				"ids": [
+					{ "id": "ca-app-pub-3510970371831048/3922204184", "memo": "m405-2040" },
+					{ "id": "ca-app-pub-3510970371831048/8618366780", "memo": "m402-1705" }
+				]
+			},
+
             "anyFull": {
                 "type": "native", "layouts": [0,1],
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/2359778875", "memo": "m401-2010" },
-                    { "id": "ca-app-pub-3510970371831048/1159303886", "memo": "m330-1610" }
+                    { "id": "ca-app-pub-3510970371831048/8020634825", "memo": "m405-2040" },
+                    { "id": "ca-app-pub-3510970371831048/2359778875", "memo": "m401-2010" }
                 ]
            },
+           "offN": {
+               "type": "native",
+               "ids": [
+                   { "id": "ca-app-pub-3510970371831048/2359778875", "memo": "m401-2010" },
+                   { "id": "ca-app-pub-3510970371831048/4413053573", "memo": "m315-2122" }
+               ]
+           },
+
             "connected": {
                 "type": "native",
                 "ids": [
@@ -78,26 +94,13 @@
                     { "id": "ca-app-pub-3510970371831048/6606636919", "memo": "m315-0833" }
                 ]
             },
+
             "mainOpen": {
                 "type": "open",
                 "ids": [
+                    { "id": "ca-app-pub-3510970371831048/7172852356", "memo":"m405-2045" },
                     { "id": "ca-app-pub-3510970371831048/7897447528", "memo":"m403_1620" },
-                    { "id": "ca-app-pub-3510970371831048/4293697718", "memo":"m328" },
                     { "id": "ca-app-pub-3510970371831048/7380516747", "memo":"m322" }
-                ]
-            },
-			"offI": {
-				"type": "inter",
-				"ids": [
-					{ "id": "ca-app-pub-3510970371831048/6962165029", "memo": "m404-1530" },
-					{ "id": "ca-app-pub-3510970371831048/8618366780", "memo": "m402-1705" }
-				]
-			},
-            "offN": {
-                "type": "native",
-                "ids": [
-                    { "id": "ca-app-pub-3510970371831048/2359778875", "memo": "m401-2010" },
-                    { "id": "ca-app-pub-3510970371831048/4413053573", "memo": "m315-2122" }
                 ]
             }
         }
