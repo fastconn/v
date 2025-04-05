@@ -130,16 +130,34 @@ for target_ip in "${ips[@]}"; do
                 # 使用 perl 替换v2ray配置文件中的所有旧域名
                 perl -pi -e "s/\"add\": \"\$v2ray_old_domain\"/\"add\": \"$DOMAIN\"/g" "\$V2RAY_CONF"
                 echo "Replaced all occurrences of \$v2ray_old_domain with $DOMAIN in v2ray config"
-                
-                # 重启v2ray服务
-                systemctl restart v2ray
-                echo "V2ray service restarted successfully"
             else
                 echo "No domain change needed in v2ray config"
             fi
         else
             echo "Warning: V2ray configuration file not found: \$V2RAY_CONF"
         fi
+
+        # 检查并更新VLESS TCP配置文件
+        VLESS_CONF="/etc/v2ray-agent/v2ray/conf/02_VLESS_TCP_inbounds.json"
+        if [ -f "\$VLESS_CONF" ]; then
+            echo "Checking VLESS TCP configuration..."
+            # 查找"add"对应的域名
+            vless_old_domain=\$(grep -o '"add": *"[^"]*"' "\$VLESS_CONF" | sed 's/"add": *"//;s/"//')
+            if [ -n "\$vless_old_domain" ] && [ "\$vless_old_domain" != "$DOMAIN" ]; then
+                echo "Found domain in VLESS TCP config: \$vless_old_domain"
+                # 替换配置文件中的所有旧域名
+                perl -pi -e "s/\$vless_old_domain/$DOMAIN/g" "\$VLESS_CONF"
+                echo "Replaced all occurrences of \$vless_old_domain with $DOMAIN in VLESS TCP config"
+            else
+                echo "No domain change needed in VLESS TCP config"
+            fi
+        else
+            echo "Warning: VLESS TCP configuration file not found: \$VLESS_CONF"
+        fi
+
+        # 重启v2ray服务
+        systemctl restart v2ray
+        echo "V2ray service restarted successfully"
 EOF
     
     if [ $? -eq 0 ]; then
