@@ -34,14 +34,10 @@
             "wsNameAuto": true,
             "ws2": [
             ],
-            "ws3？？": [
-                { "name": "Server-1", "domain": "a.ourenses.com",     "desc": "Global", "on": "1.22-1245" },   
-                { "name": "Server-2", "domain": "b.ourenses.com",     "desc": "Global" },   
-                { "name": "Server-3", "domain": "c.ourenses.com",     "desc": "Global" },   
-
-                { "name": "Server-4", "domain": "sponsender.com",       "desc": "Global", "on": "1.22-1200" },   
-                { "name": "Server-5", "domain": "d.sponsender.com",     "desc": "Global" },   
-                { "name": "Server-6", "domain": "e.sponsender.com",     "desc": "Global" },   
+            "ws3": [
+                { "name": "Server-1", "domain": "lichtaart.com",    "desc": "Global", "on": "4.6-0030" },   
+                { "name": "Server-2", "domain": "poederlee.com",    "desc": "Global" },   
+                { "name": "Server-3", "domain": "emmadorp.com",     "desc": "Global" },   
                 {}
             ],
             "servers": [
