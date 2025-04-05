@@ -121,9 +121,11 @@ for ip in "${ips[@]}"; do
     
     # 添加记录参数
     # 对于根域名的A记录，使用@作为主机名
-    if [ -z "$SUBDOMAIN" ]; then
+    if [ "$SUBDOMAIN" = "$DOMAIN" ]; then
+        # 如果子域名等于完整域名，说明是根域名
         params="$params&HostName$record_count=@&RecordType$record_count=A&Address$record_count=$ip&TTL$record_count=1800"
     else
+        # 否则使用子域名作为主机名
         params="$params&HostName$record_count=$SUBDOMAIN&RecordType$record_count=A&Address$record_count=$ip&TTL$record_count=1800"
     fi
 done
