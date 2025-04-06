@@ -5,8 +5,8 @@
         {
             "name": "Free",
             "isVip": false,
-            "ws??": [
-                { "name": "Server-1", "desc": "Global", "domain": "an.cabecerias.com", "on": "1.22-1240" }
+            "ws": [
+                { "name": "Server-1", "desc": "Global", "domain": "lochristy.com", "on": "4.6-1808" }
             ],
             "ips": [
                 { "cc": "us", "city": "Dallas",     "ip": "23.134.94.231",      "desc": "High speed", "on": "5-20@2.2" },
