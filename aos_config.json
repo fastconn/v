@@ -33,20 +33,20 @@
     "adid": {
         "SplashFull": [
             { "pri": 30, "id": "ca-app-pub-3510970371831048/7779287208", "type": "inter", "memo": "m403-1510" },
-            { "pri": 20, "id": "ca-app-pub-3510970371831048/5181044026", "type": "native", "memo": "m403-1510" }
+            { "pri": 20, "id": "ca-app-pub-3510970371831048/9818600525", "type": "native", "memo": "m406-1300" }
         ],
         "Splash-v1.17": [           
             { "pri": 30, "id": "ca-app-pub-3510970371831048/7779287208", "type": "inter" },
-            { "pri": 20, "id": "ca-app-pub-3510970371831048/5181044026", "type": "native" }
+            { "pri": 20, "id": "ca-app-pub-3510970371831048/9818600525", "type": "native" }
         ],
         
         "AnyFull-v2": [           
-            { "pri": 31, "id": "ca-app-pub-3510970371831048/8566294260", "type": "inter", "memo": "h404-1535-2" },
+            { "pri": 31, "id": "ca-app-pub-3510970371831048/3485126465", "type": "inter", "memo": "h406-1300-2" },
             { "pri": 30, "id": "ca-app-pub-3510970371831048/2803003130", "type": "native","memo": "m404-1535" },
             { "pri": 25, "id": "ca-app-pub-3510970371831048/8781012721", "type": "inter", "memo": "h401-2010-2" }
         ],
         "Anyfull-v1.17": [           
-            { "pri": 31, "id": "ca-app-pub-3510970371831048/8566294260", "type": "inter" },
+            { "pri": 31, "id": "ca-app-pub-3510970371831048/3485126465", "type": "inter" },
             { "pri": 30, "id": "ca-app-pub-3510970371831048/2803003130", "type": "native" }
          ],
         
@@ -55,7 +55,7 @@
             { "pri": 80, "id": "ca-app-pub-3510970371831048/7548259475", "type": "native", "memo": "m318-1530" }
         ],
         "Mainpage-v2": [
-            { "pri": 85, "id": "ca-app-pub-3510970371831048/6407034784", "type": "native", "memo": "h404-1615-1" },
+            { "pri": 85, "id": "ca-app-pub-3510970371831048/7994855720", "type": "native", "memo": "h406-1300-1" },
             { "pri": 81, "id": "ca-app-pub-3510970371831048/9017951919", "type": "native", "memo": "m403" },
             { "pri": 80, "id": "ca-app-pub-3510970371831048/9967408797", "type": "native", "memo": "l403" }
         ],
