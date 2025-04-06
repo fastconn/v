@@ -37,7 +37,7 @@ sleep 60
 
 # 步骤3: 添加A记录到Namecheap
 echo "Step 3: Adding A records to Namecheap..."
-if ! "$SCRIPT_DIR/62-add_dns_a_records.sh" "$DOMAIN" "$IP_LIST_FILE"; then
+if ! "$SCRIPT_DIR/63-add_dns_a_records.sh" "$DOMAIN" "$IP_LIST_FILE"; then
     echo "Error: Failed to add A records to Namecheap"
     exit 1
 fi
@@ -48,7 +48,7 @@ sleep 60
 
 # 步骤4: 部署证书到远程服务器
 echo "Step 4: Deploying certificates to remote servers..."
-if ! "$SCRIPT_DIR/63-deploy_cert_remote.sh" "$DOMAIN" "$IP_LIST_FILE"; then
+if ! "$SCRIPT_DIR/62-deploy_cert_remote.sh" "$DOMAIN" "$IP_LIST_FILE"; then
     echo "Error: Failed to deploy certificates to remote servers"
     exit 1
 fi
