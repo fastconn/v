@@ -69,4 +69,3 @@ rm -f "$TEMP_OUTPUT"
 
 echo "TXT records have been saved to $TXT_RECORDS_FILE"
 echo "Please run the following command to add DNS records and renew the certificate:"
-echo "./tools/add_dns_renew.sh $DOMAIN" 

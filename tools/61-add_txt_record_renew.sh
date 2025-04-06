@@ -44,7 +44,7 @@ set_basic_dns() {
     local sld=$(echo "$domain" | cut -d. -f1)
     local tld=$(echo "$domain" | cut -d. -f2)
     
-    echo "Setting namespace basicDNS for $domain..."
+    echo "Setting namespace BasicDNS for $domain..."
     
     # 调用Namecheap API设置默认DNS
     response=$(curl -s "https://api.namecheap.com/xml.response" \
@@ -130,7 +130,8 @@ add_dns_txt_records() {
         address=$(echo "$host" | grep -o 'Address="[^"]*"' | sed 's/Address="//;s/"//')
         ttl=$(echo "$host" | grep -o 'TTL="[^"]*"' | sed 's/TTL="//;s/"//')
         
-        if [ -n "$name" ] && [ -n "$type" ] && [ -n "$address" ] && [ -n "$ttl" ]; then
+        # 只保留TXT和A记录
+        if [ -n "$name" ] && [ -n "$type" ] && [ -n "$address" ] && [ -n "$ttl" ] && { [ "$type" = "TXT" ] || [ "$type" = "A" ]; }; then
             record_count=$((record_count + 1))
             params="$params&HostName$record_count=$name&RecordType$record_count=$type&Address$record_count=$address&TTL$record_count=$ttl"
             
@@ -196,7 +197,7 @@ if ! set_basic_dns "$DOMAIN"; then
 fi
 
 # 等待DNS设置生效
-echo "Waiting for set basicDNS to propagate (10 seconds)..."
+echo "Waiting for set BasicDNS to propagate (10 seconds)..."
 sleep 10
 
 # 添加所有TXT记录
@@ -206,8 +207,8 @@ if ! add_dns_txt_records "$DOMAIN"; then
 fi
 
 # 等待DNS记录传播
-echo -e "\nWaiting for DNS records to propagate (10 seconds)..."
-sleep 10
+echo -e "\nWaiting for DNS txt records to propagate (20 seconds)..."
+sleep 20
 
 # 验证DNS记录是否正确添加并续期证书
 echo -e "\nVerifying DNS records and renewing certificate..."

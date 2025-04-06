@@ -70,7 +70,8 @@ while IFS= read -r host; do
     address=$(echo "$host" | grep -o 'Address="[^"]*"' | sed 's/Address="//;s/"//')
     ttl=$(echo "$host" | grep -o 'TTL="[^"]*"' | sed 's/TTL="//;s/"//')
     
-    if [ -n "$name" ] && [ -n "$type" ] && [ -n "$address" ] && [ -n "$ttl" ]; then
+    # 只保留TXT和A记录
+    if [ -n "$name" ] && [ -n "$type" ] && [ -n "$address" ] && [ -n "$ttl" ] && { [ "$type" = "TXT" ] || [ "$type" = "A" ]; }; then
         record_count=$((record_count + 1))
         params="$params&HostName$record_count=$name&RecordType$record_count=$type&Address$record_count=$address&TTL$record_count=$ttl"
         
@@ -155,8 +156,5 @@ else
     echo "$response"
     exit 1
 fi
-
-echo "Waiting for DNS records to propagate (30 seconds)..."
-sleep 30
 
 echo "Processing complete!" 
