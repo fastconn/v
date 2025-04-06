@@ -38,6 +38,10 @@
                 { "name": "Server-1", "domain": "lichtaart.com",    "desc": "Global", "on": "4.6-0030" },   
                 { "name": "Server-2", "domain": "poederlee.com",    "desc": "Global" },   
                 { "name": "Server-3", "domain": "emmadorp.com",     "desc": "Global" },   
+
+                { "name": "Server-4", "domain": "lichtaart.com",    "desc": "Global", "on": "4.6-0030" },   
+                { "name": "Server-5", "domain": "poederlee.com",    "desc": "Global" },   
+                { "name": "Server-6", "domain": "emmadorp.com",     "desc": "Global" },   
                 {}
             ],
             "servers": [
