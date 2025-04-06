@@ -6,7 +6,8 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "lochristy.com", "on": "4.6-2035" }
+                { "name": "Server-1", "desc": "Global", "domain": "lochristy.com", "on": "4.6-2035" },
+                { "name": "Server-2", "desc": "Global", "domain": "boekelt.com", "on": "4.6-2100" }
             ],
             "ips": [
                 { "cc": "us", "city": "Dallas",     "ip": "23.134.94.231",      "desc": "High speed", "on": "5-20@2.2" },
