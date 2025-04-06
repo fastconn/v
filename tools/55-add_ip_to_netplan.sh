@@ -91,21 +91,28 @@ ssh "$SSH_USER@$TARGET_IP" "bash -s" << EOF
     # 计算IP地址数量
     ip_count=\$(echo "\$ip_addresses" | wc -l)
     
+    # 在routes之前添加新IP，保持YAML缩进
+    perl -i -pe 'if (/addresses:/ .. /routes:/) { s|routes:|  - $NEW_IP\n      routes:| if /routes:/; }' /etc/netplan/01-netcfg.yaml
+
     # 如果IP数量超过3个，删除第二个IP
     if [ "\$ip_count" -ge 3 ]; then
         echo "More than 3 IPs detected, removing the second IP"
         # 获取第二个IP地址
         second_ip=\$(echo "\$ip_addresses" | sed -n '2p')
-        # 删除第二个IP地址（使用@作为分隔符，只在addresses和routes之间操作）
-        sed -i "/addresses:/,/routes:/ s@$second_ip@@g" /etc/netplan/01-netcfg.yaml
+        # 使用awk删除包含第二个IP的整行
+        awk -v ip="\$second_ip" '
+            /addresses:/ {p=1}
+            /routes:/ {p=0}
+            p && \$0 ~ ip {next}
+            {print}
+        ' /etc/netplan/01-netcfg.yaml > /etc/netplan/01-netcfg.yaml.tmp
+        mv /etc/netplan/01-netcfg.yaml.tmp /etc/netplan/01-netcfg.yaml
         echo "Removed IP: \$second_ip"
     fi
 
-    # 获取最后一行IP的格式
-    last_ip_line=\$(sed -n '/addresses:/,/routes:/p' /etc/netplan/01-netcfg.yaml | grep -E "[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/[0-9]+" | tail -n 1)
-    
-    # 在routes之前添加新IP（使用@作为分隔符，只在addresses和routes之间操作）
-    sed -i "/addresses:/,/routes:/ s@routes:@  - $NEW_IP\\n      routes:@g" /etc/netplan/01-netcfg.yaml
+    # 设置正确的文件权限
+    chmod 600 /etc/netplan/01-netcfg.yaml
+    chown root:root /etc/netplan/01-netcfg.yaml
 
     # 应用新的网络配置
     netplan apply
@@ -117,6 +124,8 @@ ssh "$SSH_USER@$TARGET_IP" "bash -s" << EOF
         echo "Error: Failed to add IP $NEW_IP"
         # 恢复备份
         cp /etc/netplan/01-netcfg.yaml.bak /etc/netplan/01-netcfg.yaml
+        chmod 600 /etc/netplan/01-netcfg.yaml
+        chown root:root /etc/netplan/01-netcfg.yaml
         netplan apply
         exit 1
     fi
