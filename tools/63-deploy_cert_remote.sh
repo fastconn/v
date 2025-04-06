@@ -60,8 +60,8 @@ for target_ip in "${ips[@]}"; do
     
     # 复制证书文件
     echo "Copying certificates to server: $target_ip..."
-    scp "$SOURCE_DIR/fullchain.cer" "$SSH_USER@$target_ip:$TARGET_DIR/$DOMAIN.crt"
-    scp "$SOURCE_DIR/$MAIN_DOMAIN.key" "$SSH_USER@$target_ip:$TARGET_DIR/$DOMAIN.key"
+    scp "$SOURCE_DIR/fullchain.cer" "$SSH_USER@$target_ip:$TARGET_DIR/$MAIN_DOMAIN.crt"
+    scp "$SOURCE_DIR/$MAIN_DOMAIN.key" "$SSH_USER@$target_ip:$TARGET_DIR/$MAIN_DOMAIN.key"
     
     # 检查SSH连接是否可用
     if ! ssh -o BatchMode=yes -o ConnectTimeout=5 "$SSH_USER@$target_ip" "echo 'SSH connection successful'" 2>/dev/null; then
@@ -86,8 +86,17 @@ for target_ip in "${ips[@]}"; do
         chmod 755 $TARGET_DIR
         
         # 设置证书文件权限
-        chmod 644 $TARGET_DIR/$DOMAIN.crt
-        chmod 600 $TARGET_DIR/$DOMAIN.key
+        chmod 644 $TARGET_DIR/$MAIN_DOMAIN.crt
+        chmod 600 $TARGET_DIR/$MAIN_DOMAIN.key
+        
+        # 如果主域名和当前域名不同，需要复制主域名的证书文件
+        if [ "$MAIN_DOMAIN" != "$DOMAIN" ]; then
+            echo "Copying main domain certificates for subdomain..."
+            cp $TARGET_DIR/$MAIN_DOMAIN.crt $TARGET_DIR/$DOMAIN.crt
+            cp $TARGET_DIR/$MAIN_DOMAIN.key $TARGET_DIR/$DOMAIN.key
+            chmod 644 $TARGET_DIR/$DOMAIN.crt
+            chmod 600 $TARGET_DIR/$DOMAIN.key
+        fi
         
         # 检查nginx配置文件是否存在
         if [ ! -f "$NGINX_CONF" ]; then
