@@ -108,14 +108,9 @@ for target_ip in "${ips[@]}"; do
         old_domain=\$(grep -oP 'server_name\s+(?!_)\K[^;]+' "$NGINX_CONF" | head -n 1 | tr -d ' ' | tr -d '\n')
         if [ -n "\$old_domain" ]; then
             echo "Found old domain: \$old_domain"
-            # 使用 awk 处理配置文件，只替换 server_name 行中的域名
-            awk -v old="\$old_domain" -v new="$DOMAIN" '
-                /server_name/ && !/_/ {
-                    gsub(old, new)
-                }
-                { print }
-            ' "$NGINX_CONF" > "$NGINX_CONF.tmp" && mv "$NGINX_CONF.tmp" "$NGINX_CONF"
-            echo "Replaced domain in nginx configuration"
+            # 使用 perl 替换配置文件中的所有旧域名
+            perl -pi -e "s/\$old_domain/$DOMAIN/g" "$NGINX_CONF"
+            echo "Replaced all occurrences of \$old_domain with $DOMAIN in nginx configuration"
         else
             echo "No domain found in $NGINX_CONF"
             exit 1
