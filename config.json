@@ -9,8 +9,8 @@
         "testers": [
             "??39E62C06-8E5E-435C-93BC-CB35AE622977 14pro"
         ],
-        "forceVer": "1.5.3",
-        "recVer": "1.5.6",
+        "forceVer": "1.9.0",
+        "recVer": "1.12.0",
         "autoTunnel": 4,
         "wsDefault": true,
         "iapColor": 0,
