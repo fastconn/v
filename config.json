@@ -17,7 +17,7 @@
         "umpEnabled": true,
         "noFlurry": true,
         "mixPanel": false,
-        "rateHrs": 48 
+        "rateHrs": 72 
     },
     "ad": {
         "0": {
