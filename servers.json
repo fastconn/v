@@ -45,7 +45,6 @@
                 {}
             ],
             "servers": [
-                { "cc": "de", "city": "Frankfurt",  "ip": "193.108.116.113",        "desc": "High speed",   "on":"2-2,24c4Gb@1.7" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "193.108.117.47",         "desc": "High speed",   "on":"3-4,14c3Gb@1.11" },
 
                 { "cc": "us", "city": "New York",       "ip": "169.197.141.88",     "desc": "High speed",   "on": "2-5@1.1,..,1.28,2.6,2.22,4.4" },
@@ -78,6 +77,7 @@
            ],
            "watch": [
             { "cc": "de", "city": "Frankfurt",  "ip": "23.157.88.93",       "desc": "High speed",   "on": "7-7@508-4Gb,..,1018,1023,1106,1124,1216" },
+            { "cc": "de", "city": "Frankfurt",  "ip": "193.108.116.113",        "desc": "High speed",   "on":"2-2,24c4Gb@1.7 ~4.7" },
             {}
            ]
         },
