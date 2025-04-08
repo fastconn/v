@@ -2,13 +2,14 @@
 
 # 检查是否提供了正确的参数
 if [ $# -ne 2 ]; then
-    echo "Usage: $0 <domain> <ip_list_file>"
+    echo "Usage: $0 <domain> <ip_list_file|ip_address>"
     echo "Example: $0 example.com ip_list.txt"
+    echo "Example: $0 example.com 192.168.1.1"
     exit 1
 fi
 
 DOMAIN="$1"
-IP_LIST_FILE="$2"
+TARGET="$2"
 SSH_USER="root"
 
 # 提取主域名（如果提供的是子域名）
@@ -16,12 +17,6 @@ MAIN_DOMAIN=$(echo "$DOMAIN" | awk -F. '{if (NF>2) print $(NF-1)"."$NF; else pri
 SOURCE_DIR="/root/.acme.sh/$MAIN_DOMAIN"
 TARGET_DIR="/etc/v2ray-agent/tls"
 NGINX_CONF="/etc/nginx/conf.d/alone.conf"
-
-# 检查IP列表文件是否存在
-if [ ! -f "$IP_LIST_FILE" ]; then
-    echo "Error: IP list file '$IP_LIST_FILE' not found"
-    exit 1
-fi
 
 # 检查证书文件是否存在
 if [ ! -d "$SOURCE_DIR" ]; then
@@ -36,26 +31,38 @@ if [ ! -f "$SOURCE_DIR/fullchain.cer" ] || [ ! -f "$SOURCE_DIR/$MAIN_DOMAIN.key"
     exit 1
 fi
 
-# 处理每个IP地址
-echo "Starting to process IP list..."
-mapfile -t ips < "$IP_LIST_FILE"
+# 检查第二个参数是文件还是IP地址
+if [ -f "$TARGET" ]; then
+    # 如果是文件，读取IP列表
+    echo "Reading IP list from $TARGET..."
+    ips=()
+    while IFS= read -r line; do
+        # 从行中提取第一个IP地址
+        ip=$(echo "$line" | grep -o '[0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+' | head -n 1)
+        if [ -n "$ip" ]; then
+            ips+=("$ip")
+        fi
+    done < "$TARGET"
+else
+    # 如果是IP地址，直接使用
+    if echo "$TARGET" | grep -q '^[0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+$'; then
+        ips=("$TARGET")
+    else
+        echo "Error: Second parameter must be either a valid IP address or an existing file"
+        exit 1
+    fi
+fi
 
+# 统计总IP数
+total_ips=${#ips[@]}
+if [ $total_ips -eq 0 ]; then
+    echo "Error: No valid IP addresses found"
+    exit 1
+fi
+echo "Found $total_ips IP addresses to process"
+
+# 处理每个IP地址
 for target_ip in "${ips[@]}"; do
-    # 跳过空行和注释行
-    if [[ -z "$target_ip" || "$target_ip" =~ ^[[:space:]]*# ]]; then
-        echo "Debug: Skipping empty or comment line"
-        continue
-    fi
-    
-    # 去除行首行尾的空白字符
-    target_ip=$(echo "$target_ip" | xargs)
-    
-    # 验证IP地址格式
-    if ! [[ "$target_ip" =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
-        echo "Warning: Invalid IP address format: $target_ip, skipping..."
-        continue
-    fi
-    
     echo "Processing server: $target_ip"
     
     # 复制证书文件

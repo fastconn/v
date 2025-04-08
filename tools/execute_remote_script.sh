@@ -2,36 +2,42 @@
 
 # 检查是否提供了正确的参数
 if [ $# -ne 2 ]; then
-    echo "Usage: $0 <ip_list_file> <command>"
-    echo "Example: $0 ip_list.txt 'systemctl restart v2ray'"
+    echo "Usage: $0 <command> <ip_list_file|ip_address>"
+    echo "Example: $0 'systemctl restart v2ray' ip_list.txt"
+    echo "Example: $0 'systemctl restart v2ray' 192.168.1.1"
     exit 1
 fi
 
-IP_LIST_FILE="$1"
-COMMAND="$2"
+COMMAND="$1"
+TARGET="$2"
 SSH_USER="root"
 
-# 检查IP列表文件是否存在
-if [ ! -f "$IP_LIST_FILE" ]; then
-    echo "Error: IP list file '$IP_LIST_FILE' not found"
-    exit 1
-fi
-
-# 读取IP列表并提取IP地址
-echo "Reading IP list from $IP_LIST_FILE..."
-ips=()
-while IFS= read -r line; do
-    # 从行中提取IP地址
-    ip=$(echo "$line" | grep -o '[0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+')
-    if [ -n "$ip" ]; then
-        ips+=("$ip")
+# 检查第二个参数是文件还是IP地址
+if [ -f "$TARGET" ]; then
+    # 如果是文件，读取IP列表
+    echo "Reading IP list from $TARGET..."
+    ips=()
+    while IFS= read -r line; do
+        # 从行中提取第一个IP地址
+        ip=$(echo "$line" | grep -o '[0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+' | head -n 1)
+        if [ -n "$ip" ]; then
+            ips+=("$ip")
+        fi
+    done < "$TARGET"
+else
+    # 如果是IP地址，直接使用
+    if echo "$TARGET" | grep -q '^[0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+$'; then
+        ips=("$TARGET")
+    else
+        echo "Error: Second parameter must be either a valid IP address or an existing file"
+        exit 1
     fi
-done < "$IP_LIST_FILE"
+fi
 
 # 统计总IP数
 total_ips=${#ips[@]}
 if [ $total_ips -eq 0 ]; then
-    echo "Error: No valid IP addresses found in $IP_LIST_FILE"
+    echo "Error: No valid IP addresses found"
     exit 1
 fi
 echo "Found $total_ips IP addresses to process"

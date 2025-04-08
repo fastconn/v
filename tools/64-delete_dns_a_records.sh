@@ -2,20 +2,15 @@
 
 # 检查是否提供了正确的参数
 if [ $# -ne 2 ]; then
-    echo "Usage: $0 <domain> <ip_list_file>"
+    echo "Usage: $0 <domain> <ip_list_file|ip_address>"
     echo "Example: $0 example.com ip_list.txt"
+    echo "Example: $0 example.com 192.168.1.1"
     exit 1
 fi
 
 DOMAIN="$1"
-IP_LIST_FILE="$2"
+TARGET="$2"
 CONFIG_FILE="$(dirname "$0")/namecheap_api.conf"
-
-# 检查IP列表文件是否存在
-if [ ! -f "$IP_LIST_FILE" ]; then
-    echo "Error: IP list file '$IP_LIST_FILE' not found"
-    exit 1
-fi
 
 # 从配置文件读取API凭据
 source "$CONFIG_FILE"
@@ -31,9 +26,35 @@ fi
 MAIN_DOMAIN=$(echo "$DOMAIN" | awk -F. '{print $(NF-1)"."$NF}')
 SUBDOMAIN=$(echo "$DOMAIN" | sed "s/\.$MAIN_DOMAIN\$//")
 
-# 读取IP列表
-echo "Reading IP list from $IP_LIST_FILE..."
-mapfile -t ips < "$IP_LIST_FILE"
+# 检查第二个参数是文件还是IP地址
+if [ -f "$TARGET" ]; then
+    # 如果是文件，读取IP列表
+    echo "Reading IP list from $TARGET..."
+    ips=()
+    while IFS= read -r line; do
+        # 从行中提取第一个IP地址
+        ip=$(echo "$line" | grep -o '[0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+' | head -n 1)
+        if [ -n "$ip" ]; then
+            ips+=("$ip")
+        fi
+    done < "$TARGET"
+else
+    # 如果是IP地址，直接使用
+    if echo "$TARGET" | grep -q '^[0-9]\+\.[0-9]\+\.[0-9]\+\.[0-9]\+$'; then
+        ips=("$TARGET")
+    else
+        echo "Error: Second parameter must be either a valid IP address or an existing file"
+        exit 1
+    fi
+fi
+
+# 统计总IP数
+total_ips=${#ips[@]}
+if [ $total_ips -eq 0 ]; then
+    echo "Error: No valid IP addresses found"
+    exit 1
+fi
+echo "Found $total_ips IP addresses to process"
 
 # 准备API请求参数
 params="ApiUser=$NAMECHEAP_API_USER&ApiKey=$NAMECHEAP_API_KEY&UserName=$NAMECHEAP_API_USER&Command=namecheap.domains.dns.getHosts&ClientIp=$NAMECHEAP_CLIENT_IP&SLD=${MAIN_DOMAIN%.*}&TLD=${MAIN_DOMAIN#*.}"
@@ -113,23 +134,9 @@ response=$(curl -s "https://api.namecheap.com/xml.response?$params")
 # 检查响应
 if echo "$response" | grep -q "Status=\"OK\""; then
     echo "Successfully updated DNS records for $DOMAIN"
-    echo "Deleted IPs:"
+    echo "Removed IPs:"
     for ip in "${ips[@]}"; do
-        if [[ "$ip" =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
-            echo "- $ip"
-        fi
-    done
-    
-    # 显示汇总信息
-    echo -e "\nRemaining records summary:"
-    echo "Total records: $record_count"
-    echo -e "\nBy record type:"
-    for type in "${!type_counts[@]}"; do
-        echo "- $type: ${type_counts[$type]}"
-    done
-    echo -e "\nBy subdomain:"
-    for subdomain in "${!subdomain_counts[@]}"; do
-        echo "- $subdomain: ${subdomain_counts[$subdomain]}"
+        echo "- $ip"
     done
 else
     echo "Error: Failed to update DNS records"
