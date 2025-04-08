@@ -11,6 +11,7 @@ IP="$1"
 ACTION="$2"
 V2RAY_CONFIG="/etc/v2ray-agent/v2ray/conf/07_VMESS_inbounds.json"
 SSH_USER="root"
+VMESS_PORT=22324
 
 # 验证IP地址格式
 if ! [[ "$IP" =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
@@ -31,56 +32,50 @@ if ! ssh -o ConnectTimeout=5 -o StrictHostKeyChecking=no "$SSH_USER@$IP" "echo '
     exit 1
 fi
 
-# 检查配置文件是否存在
-echo "Checking if v2ray configuration file exists..."
-if ! ssh "$SSH_USER@$IP" "[ -f $V2RAY_CONFIG ]"; then
-    echo "Error: v2ray configuration file not found at $V2RAY_CONFIG"
+# 检查ufw是否安装
+echo "Checking if ufw is installed..."
+if ! ssh "$SSH_USER@$IP" "command -v ufw >/dev/null 2>&1"; then
+    echo "Error: ufw is not installed on $IP"
     exit 1
 fi
 
-# 备份配置文件
-echo "Backing up configuration file..."
-ssh "$SSH_USER@$IP" "cp $V2RAY_CONFIG ${V2RAY_CONFIG}.bak"
+# 检查ufw是否启用，如果没有则启用它
+echo "Checking ufw status..."
+if ! ssh "$SSH_USER@$IP" "ufw status | grep -q 'Status: active'"; then
+    echo "ufw is not active, enabling it..."
+    ssh "$SSH_USER@$IP" "ufw --force enable"
+    
+    # 确保SSH端口保持开放
+    ssh "$SSH_USER@$IP" "ufw allow 22/tcp"
+    
+    # 检查是否成功启用
+    if ! ssh "$SSH_USER@$IP" "ufw status | grep -q 'Status: active'"; then
+        echo "Error: Failed to enable ufw"
+        exit 1
+    fi
+    echo "ufw has been enabled successfully"
+fi
 
-# 获取当前端口
-echo "Getting current port..."
-CURRENT_PORT=$(ssh "$SSH_USER@$IP" "grep -o '\"port\": [0-9]*,' $V2RAY_CONFIG | grep -o '[0-9]*'")
-echo "Current port: $CURRENT_PORT"
-
-# 修改配置文件
-echo "Modifying configuration file..."
+# 控制端口
+echo "Modifying ufw rules for port $VMESS_PORT..."
 if [ "$ACTION" = "enable" ]; then
-    # 启用VMESS TCP - 恢复原始端口
-    NEW_PORT=22324
-    echo "Changing port from $CURRENT_PORT to $NEW_PORT (enabling VMESS TCP)"
-    ssh "$SSH_USER@$IP" "sed -i 's/\"port\": $CURRENT_PORT,/\"port\": $NEW_PORT,/' $V2RAY_CONFIG"
+    # 允许端口
+    echo "Allowing port $VMESS_PORT..."
+    ssh "$SSH_USER@$IP" "ufw allow $VMESS_PORT/tcp"
 else
-    # 禁用VMESS TCP - 设置端口为1
-    NEW_PORT=1
-    echo "Changing port from $CURRENT_PORT to $NEW_PORT (disabling VMESS TCP)"
-    ssh "$SSH_USER@$IP" "sed -i 's/\"port\": $CURRENT_PORT,/\"port\": $NEW_PORT,/' $V2RAY_CONFIG"
+    # 拒绝端口
+    echo "Denying port $VMESS_PORT..."
+    ssh "$SSH_USER@$IP" "ufw deny $VMESS_PORT/tcp"
 fi
 
-# 检查修改是否成功
+# 检查操作是否成功
 if [ $? -ne 0 ]; then
-    echo "Error: Failed to modify configuration file"
-    echo "Restoring from backup..."
-    ssh "$SSH_USER@$IP" "mv ${V2RAY_CONFIG}.bak $V2RAY_CONFIG"
+    echo "Error: Failed to modify ufw rules"
     exit 1
 fi
 
-# 重启v2ray服务
-echo "Restarting v2ray service..."
-ssh "$SSH_USER@$IP" "systemctl restart v2ray"
+# 显示当前端口状态
+echo "Current ufw status for port $VMESS_PORT:"
+ssh "$SSH_USER@$IP" "ufw status | grep $VMESS_PORT"
 
-# 检查服务状态
-echo "Checking v2ray service status..."
-if ! ssh "$SSH_USER@$IP" "systemctl is-active v2ray"; then
-    echo "Error: Failed to restart v2ray service"
-    echo "Restoring from backup..."
-    ssh "$SSH_USER@$IP" "mv ${V2RAY_CONFIG}.bak $V2RAY_CONFIG"
-    ssh "$SSH_USER@$IP" "systemctl restart v2ray"
-    exit 1
-fi
-
-echo "Successfully $ACTION VMESS TCP connection on $IP (port changed from $CURRENT_PORT to $NEW_PORT)" 
+echo "Successfully $ACTION VMESS TCP port $VMESS_PORT on $IP" 
