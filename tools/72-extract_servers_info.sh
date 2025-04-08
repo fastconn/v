@@ -123,7 +123,7 @@ if $OUTPUT_TO_FILE; then
                 next
             }
         }
-        NF == 3 {  # 只处理包含3个字段的行
+        NF > 2 { 
             ip = $1
             city = $2
             status = $3
