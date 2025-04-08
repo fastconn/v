@@ -1,7 +1,7 @@
 {
     "policy": {
         "cnDeny": [0,0],
-        "autoProtocol": 2,
+        "autoProtocol": 4,
         "proxySelf": true,
         "postHog": false
     },
@@ -20,8 +20,8 @@
         "ageM": 5,
         "maxClick": 30,
         "maxShow": 180,
-        "skipSec": 7,
-        "adWait": 10,
+        "adWait": 5,
+        "skipSec": 10,
         "fullAdElapse": 30,
         "resultBackAd": true,
         "hotSplashAd": true,
