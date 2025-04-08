@@ -21,7 +21,8 @@
     "ad": {
         "0": {
             "ver": 20250407,
-            "adFullLoadwait": 6,
+            "adFullLoadwait": 5,
+            "adFullCountdown": 10,
             "hotInterval": 2,
             "skipOffset" : 0,
             "max": {
