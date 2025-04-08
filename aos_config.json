@@ -50,13 +50,12 @@
          ],
         
         "Didcon-v2": [
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/1316304295", "type": "native", "memo": "m323-1025" },
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/8138094445", "type": "native", "memo": "m408-1215" },
             { "pri": 80, "id": "ca-app-pub-3510970371831048/7548259475", "type": "native", "memo": "m318-1530" }
         ],
         "Mainpage-v2": [
-            { "pri": 85, "id": "ca-app-pub-3510970371831048/7994855720", "type": "native", "memo": "h406-1300-1" },
-            { "pri": 81, "id": "ca-app-pub-3510970371831048/9017951919", "type": "native", "memo": "m403" },
-            { "pri": 80, "id": "ca-app-pub-3510970371831048/9967408797", "type": "native", "memo": "l403" }
+            { "pri": 85, "id": "ca-app-pub-3510970371831048/7994855720", "type": "native", "memo": "h406-1300-1-m408-1215" },
+            { "pri": 81, "id": "ca-app-pub-3510970371831048/9017951919", "type": "native", "memo": "m403" }
         ],
         "Location-v2??": [
             { "pri": 90, "id": "ca-app-pub-3510970371831048/5670974203", "type": "native", "memo": "m917" },
