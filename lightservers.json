@@ -32,8 +32,6 @@
                 { "memo": "light" }
             ],
             "servers": [
-                { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.13",       "desc": "High speed", "on": "7-1,14c3G@1.11" },
-
                 { "cc": "us", "city": "Santa Clara",    "ip": "167.88.61.20",        "desc": "High speed", "on": "2-17@1.10,..,2.7,2.10,2.23,3.5,3.10" },
                 { "cc": "us", "city": "Seattle",        "ip": "169.197.143.48",    "desc": "High speed", "on": "3-5@1.7,..,1.24,2.4,2.17,4.2" },
                 { "cc": "us", "city": "Dallas",         "ip": "23.150.248.208",     "desc": "High speed", "on": "4-5@2.2" },
@@ -44,6 +42,7 @@
                 { "cc": "ca", "city": "Vancouver",      "ip": "158.51.123.37",      "desc": "High speed", "on": "2-7@1.8~6.9" },
                 { "cc": "ca", "city": "Toronto",        "ip": "23.162.200.82",      "desc": "High speed", "on": "1-11@1.9,1.11,1.13,2.4" },
 
+                { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.13",       "desc": "High speed", "on": "7-1,14c3G@1.11" },
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.92",      "desc": "High speed", "on": "6-10@1.8~5.14" },
                 { "cc": "fr", "city": "Paris",      "ip": "23.162.152.72",      "desc": "High speed", "on": "10-4@3.3" },
                 { "cc": "es", "city": "Madrid",     "ip": "67.220.66.220",      "desc": "High speed", "on": "4-10,0.5Gb@3.2" },   
