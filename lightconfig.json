@@ -35,9 +35,9 @@
                 }
             },			
 			"orders": {
-				"DidConFull": ["AnyFull", "AnyInter"],
-				"WillDisFull": ["AnyFull", "AnyInter"],
-				"HotFull": ["AnyInter", "AnyFull"],
+				"DidConFull": ["AnyInter", "AnyFull"],
+				"WillDisFull": ["AnyInter", "AnyFull"],
+				"HotFull": ["AnyInter", "open", "AnyFull"],
 				"memo": "321_1000"
 			},
             "fullAdOrder": "in",
@@ -89,8 +89,8 @@
 			 "open": {
 				 "type": "open",
 				 "ids": [
-					 { "id": "ca-app-pub-3510970371831048/7557965353", "memo":"m407-1408" },
-					 { "id": "ca-app-pub-3510970371831048/6685697385", "memo":"m403-1510" }
+					 { "id": "ca-app-pub-3510970371831048/2076809476", "memo":"m409-2235" },
+					 { "id": "ca-app-pub-3510970371831048/7557965353", "memo":"m407-1408" }
 				 ]
 			 },
 			"conn2": {
