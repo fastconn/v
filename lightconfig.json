@@ -40,7 +40,7 @@
 				"HotFull": ["AnyInter", "open", "AnyFull"],
 				"memo": "321_1000"
 			},
-            "fullAdOrder": "in",
+            "fullAdOrder": "ni",
             "offAdOrder": "in"
         },
 		"run": {},
