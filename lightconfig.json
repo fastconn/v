@@ -20,7 +20,7 @@
     "ad": {
         "0": {
             "ver": 20250408,
-            "adFullLoadwait": 5,
+            "adFullLoadwait": 7,
 			"adFullCountdown": 10,
             "hotInterval": 2,
             "skipOffset" : 0,
@@ -40,7 +40,7 @@
 				"HotFull": ["AnyInter", "open", "AnyFull"],
 				"memo": "321_1000"
 			},
-            "fullAdOrder": "ni",
+            "fullAdOrder": "in",
             "offAdOrder": "in"
         },
 		"run": {},
