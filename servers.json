@@ -97,12 +97,9 @@
 
                 { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.237",      "desc": "Fast", "on": "vps415,8T@12.16" },
                 { "cc": "us", "city": "Chicago",        "ip": "38.114.121.60",      "desc": "Fast", "on": "vps414,8T@12.16" },
-                { "cc": "us", "city": "Detroit",        "ip": "67.220.67.125",      "desc": "Fast", "on": "vps439,8T@12.16" },
                 
-                { "cc": "fr", "city": "Paris",          "ip": "38.109.228.81",      "desc": "Fast", "on": "vps418,8T@12.16" },
                 { "cc": "ch", "city": "Zurich",         "ip": "23.166.88.67",       "desc": "Fast", "on": "vps419,8T@12.16" },
                 { "cc": "de", "city": "Frankfurt",      "ip": "193.108.118.197",    "desc": "Fast", "on": "vps416,8T@12.16" },
-                { "cc": "es", "city": "Madrid",         "ip": "67.220.66.49",       "desc": "Fast", "on": "vps420,8T@12.16" },
  
                 { "cc": "gb", "city": "London",         "ip": "142.202.51.2",       "desc": "Performance",  "on": "6-12@1.9,2.3" },
                 { "cc": "nl", "city": "Amsterdam",      "ip": "172.99.188.113",     "desc": "Performance",  "on": "6-8,1G@12.5,2.6" },
@@ -114,10 +111,17 @@
                 { "cc": "jp", "city": "Tokyo",          "ip": "172.237.27.176",     "desc": "Fast",  "on": "li@4TB,1.15" }, 
                 { "cc": "br", "city": "São Paulo",      "ip": "172.233.17.76",      "desc": "Fast",  "on": "li@2TB,1.15" },
                 { "cc": "sg", "city": "Singapore",      "ip": "172.236.144.121",    "desc": "Fast",  "on": "li@2TB,1.15" },
-                { "cc": "au", "city": "Sydney",         "ip": "172.105.190.88",     "desc": "Fast",  "on": "li@2TB,1.20" },
                 { "cc": "in", "city": "Mumbai",         "ip": "172.236.169.140",    "desc": "Fast",  "on": "li@2TB,1.15" }
             ],
             "servers-bak": [
+                { "cc": "us", "city": "Detroit",        "ip": "67.220.67.125",      "desc": "Fast", "on": "vps439,8T@12.16" },
+
+                { "cc": "fr", "city": "Paris",          "ip": "38.109.228.81",      "desc": "Fast", "on": "vps418,8T@12.16" },
+                { "cc": "es", "city": "Madrid",         "ip": "67.220.66.49",       "desc": "Fast", "on": "vps420,8T@12.16" },
+  
+                { "cc": "au", "city": "Sydney",         "ip": "172.105.190.88",     "desc": "Fast",  "on": "li@2TB,1.20" },
+
+
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.144",      "desc": "Fast",         "on": "gcore,6TB-1.15" },
                 {}
             ]
