@@ -32,13 +32,13 @@
     },
     "adid": {
         "SplashFull": [
-            { "pri": 30, "id": "ca-app-pub-3510970371831048/6763542831", "type": "inter", "memo": "m415-1505" },
-            { "pri": 20, "id": "ca-app-pub-3510970371831048/4556333856", "type": "inter", "memo": "m406-2300" }
+            { "pri": 30, "id": "ca-app-pub-3510970371831048/2397525054", "type": "inter", "memo": "m417-0200" },
+            { "pri": 30, "id": "ca-app-pub-3510970371831048/6763542831", "type": "inter", "memo": "m415-1505" }
         ],
         
         "AnyFull-v2": [           
-            { "pri": 32, "id": "ca-app-pub-3510970371831048/5633519910", "type": "inter", "memo": "h414-1550-2" },
-            { "pri": 20, "id": "ca-app-pub-3510970371831048/4001099381", "type": "inter", "memo": "h410-1250-2" }
+            { "pri": 32, "id": "ca-app-pub-3510970371831048/2906583525", "type": "inter", "memo": "h417——0200-2" },
+            { "pri": 32, "id": "ca-app-pub-3510970371831048/5633519910", "type": "inter", "memo": "h414-1550-2" }
         ],
         
         "Didcon-v2": [
