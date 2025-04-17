@@ -87,6 +87,8 @@
             "ws3": [
                 { "name": "VIP-1", "domain": "schotend.com",    "desc": "Global", "on": "4.6-1620"},
                 { "name": "VIP-2", "domain": "prinsenbee.com",  "desc": "Global", "on": "4.6-1600"},
+                { "name": "VIP-3", "domain": "p.ourenses.com",  "desc": "Global", "on": "4.17-1000"},
+                { "name": "VIP-4", "domain": "v.ourenses.com",  "desc": "Global", "on": "4.17-1000"},
                 {}
             ], 
             "servers": [
