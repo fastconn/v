@@ -72,8 +72,6 @@
                 { "cc": "es", "city": "Madrid",     "ip": "67.220.66.245",      "desc": "High speed",   "on": "3-3@2Gb,1021,1024,1120,1219" } 
            ],
            "watch": [
-            { "cc": "ca", "city": "Toronto",        "ip": "67.220.94.234",      "desc": "High speed",   "on": "13-1,2Gb@11.26,1220,2.10" },
-            { "cc": "us", "city": "Miami",          "ip": "169.197.140.228",    "desc": "High speed",   "on": "1-6@1.26,2.3,2.11,2.16,4.3" },
             {}
            ]
         },
