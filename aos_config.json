@@ -32,22 +32,22 @@
     },
     "adid": {
         "SplashFull": [
-            { "pri": 30, "id": "ca-app-pub-3510970371831048/1319708106", "type": "inter", "memo": "m501-1640" },
-            { "pri": 20, "id": "ca-app-pub-3510970371831048/5048189803", "type": "inter", "memo": "m429-1045" }
+            { "pri": 30, "id": "ca-app-pub-3510970371831048/1260826334", "type": "inter", "memo": "m503-0950" },
+            { "pri": 20, "id": "ca-app-pub-3510970371831048/1319708106", "type": "inter", "memo": "m501-1640" }
         ],
         
         "AnyFull-v2": [           
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/2632789775", "type": "inter", "memo": "m501-1640" },
-            { "pri": 35, "id": "ca-app-pub-3510970371831048/8740856950", "type": "inter", "memo": "m429-1050" }
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/2755254293", "type": "inter", "memo": "m503-0950" },
+            { "pri": 80, "id": "ca-app-pub-3510970371831048/2632789775", "type": "inter", "memo": "m501-1640" }
         ],
         
         "Didcon-v2": [
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/2500927836", "type": "native", "memo": "m501-1640" },
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/4624915332", "type": "native", "memo": "m427-1630" }
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/3649533561", "type": "native", "memo": "m503-0950" },
+            { "pri": 30, "id": "ca-app-pub-3510970371831048/2500927836", "type": "native", "memo": "m501-1640" }
         ],
         "Mainpage-v2": [
-            { "pri": 87, "id": "ca-app-pub-3510970371831048/8160372641", "type": "native", "memo": "m430-1525" },
-            { "pri": 86, "id": "ca-app-pub-3510970371831048/2501251233", "type": "native", "memo": "m423-1455" }
+            { "pri": 30, "id": "ca-app-pub-3510970371831048/7676167238", "type": "native", "memo": "m503-0950" },
+            { "pri": 20, "id": "ca-app-pub-3510970371831048/8160372641", "type": "native", "memo": "m430-1525" }
         ],
         "Location-v2??": [
             { "pri": 90, "id": "ca-app-pub-3510970371831048/5670974203", "type": "native", "memo": "m917" },
