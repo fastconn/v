@@ -26,8 +26,7 @@
                 { "cc": "de", "city": "Frankfurt",  "ip": "57.129.28.207",      "desc": "High speed", "on":"ov52560@4.3," },
                 { "cc": "de", "city": "Frankfurt",  "ip": "57.129.28.208",       "desc": "High speed", "on":"ov53093@4.3," },
 
-                { "cc": "pl", "city": "Warsaw",     "ip": "57.128.202.46",      "desc": "High speed", "on":"ov55443@12.24," },
-                { "cc": "pl", "city": "Warsaw",     "ip": "57.128.202.47",      "desc": "High speed", "on":"ov55422@12.24," }
+                { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6" }
             ]
         }
     ]
