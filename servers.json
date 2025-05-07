@@ -40,8 +40,7 @@
                 { "name": "Server-3", "domain": "emmadorp.com",     "desc": "Global" },   
 
                 { "name": "Server-4", "domain": "areendonk.com",    "desc": "Global", "on": "4.6-1600" },   
-                { "name": "Server-5", "domain": "womellgen.com",    "desc": "Global" },   
-                { "name": "Server-6", "domain": "kapelleng.com",     "desc": "Global" },   
+                { "name": "Server-5", "domain": "womellgen.com",    "desc": "Global" },    
                 {}
             ],
             "servers": [
@@ -70,6 +69,7 @@
                 { "cc": "es", "city": "Madrid",     "ip": "67.220.66.245",      "desc": "High speed",   "on": "3-3@2Gb,1021,1024,1120,1219" } 
            ],
            "watch": [
+            { "name": "Server-6", "domain": "kapelleng.com",     "desc": "Global" },      
             { "cc": "us", "city": "Dallas",         "ip": "23.150.248.82",      "desc": "High speed",   "on": "2-15@1.18,2.4,2.22" },
             { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.249",      "desc": "High speed",   "on": "1-15@1.18" },
             {}
