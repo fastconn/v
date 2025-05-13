@@ -1,5 +1,6 @@
 win-tasks/
 tasks/
 test/
+tools/
 aos_config_t.json
 namecheap_api.conf
