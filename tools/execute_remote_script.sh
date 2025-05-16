@@ -30,7 +30,7 @@ else
         ips=("$TARGET")
     else
         echo "Error: Second parameter must be either a valid IP address or an existing file"
-        exit 1
+    exit 1
     fi
 fi
 

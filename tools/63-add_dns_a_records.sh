@@ -152,7 +152,7 @@ if echo "$response" | grep -q "Status=\"OK\""; then
     echo "Successfully updated DNS records for $DOMAIN"
     echo "Added IPs:"
     for ip in "${ips[@]}"; do
-        echo "- $ip"
+            echo "- $ip"
     done
 else
     echo "Error: Failed to update DNS records"
