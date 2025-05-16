@@ -22,14 +22,11 @@
                 { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.99",     "desc": "High speed", "on": "3-1@3Gb,6.1，6.28,1021,1126,1214,1.23,4.26" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.188",      "desc": "High speed", "on": "6-2,3Gb@4.24,..,1213,1.23，4.3" },
 
-                { "cc": "de", "city": "Frankfurt",  "ip": "162.19.234.213",      "desc": "High speed", "on":"ov33807@4.3," },
+                { "cc": "de", "city": "Frankfurt",  "ip": "57.129.59.197",      "desc": "High speed", "on":"ov1947@5.16" },
+                { "cc": "de", "city": "Frankfurt",  "ip": "57.129.25.27",       "desc": "High speed", "on":"ov9070@5.16" },
+                { "cc": "de", "city": "Frankfurt",  "ip": "162.19.234.213",     "desc": "High speed", "on":"ov33807@4.3," },
 
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6" }
-            ],
-            "bak": [
-                { "cc": "de", "city": "Frankfurt",  "ip": "57.129.28.207",      "desc": "High speed", "on":"ov52560@4.3," },
-                { "cc": "de", "city": "Frankfurt",  "ip": "57.129.28.208",       "desc": "High speed", "on":"ov53093@4.3," },
-                {}
             ]
         }
     ]
