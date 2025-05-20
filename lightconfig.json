@@ -40,7 +40,7 @@
 				"HotFull": ["AnyInter", "open", "AnyFull"],
 				"memo": "321_1000"
 			},
-            "fullAdOrder": "in",
+            "fullAdOrder": "",
             "offAdOrder": "in"
         },
 		"run": {},
@@ -74,8 +74,8 @@
 			"anyN": {
 				"type": "native", 
 				"ids": [
-					{ "id": "ca-app-pub-3510970371831048/3439857994", "memo":"m518-2250" },
-					{ "id": "ca-app-pub-3510970371831048/1268171986", "memo":"m509-2130" }
+					{ "id": "ca-app-pub-3510970371831048/7245033765", "memo":"m520-1220" },
+					{ "id": "ca-app-pub-3510970371831048/3439857994", "memo":"m518-2250" }
 				]
 	 	    },
 			 "offN": {
