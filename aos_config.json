@@ -42,8 +42,8 @@
         
         
         "Mainpage-v2": [
-            { "pri": 50, "id": "ca-app-pub-3510970371831048/3436661011", "type": "native", "memo": "m522-2330" },
-            { "pri": 30, "id": "ca-app-pub-3510970371831048/2136193220", "type": "native", "memo": "m520-1215" }
+            { "pri": 50, "id": "ca-app-pub-3510970371831048/8968183123", "type": "native", "memo": "m524-1615" },
+            { "pri": 20, "id": "ca-app-pub-3510970371831048/3436661011", "type": "native", "memo": "m522-2330" }
         ],
         "Didcon-v2": [
             { "pri": 90, "id": "ca-app-pub-3510970371831048/9610283163", "type": "native", "memo": "m520-1215" },
