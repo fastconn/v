@@ -32,8 +32,8 @@
     },
     "adid": {
         "AnyFull-v2": [           
-            { "pri": 90, "id": "ca-app-pub-3510970371831048/3368086675", "type": "inter", "memo": "m523-1450" },
-            { "pri": 30, "id": "ca-app-pub-3510970371831048/4810442114", "type": "inter", "memo": "m520-1215" }
+            { "pri": 90, "id": "ca-app-pub-3510970371831048/3012616035", "type": "inter", "memo": "m525-1410" },
+            { "pri": 30, "id": "ca-app-pub-3510970371831048/3368086675", "type": "inter", "memo": "m523-1450" }
         ],
         "SplashFull": [
             { "pri": 90, "id": "ca-app-pub-3510970371831048/2354980802", "type": "inter", "memo": "m523-1450" },
