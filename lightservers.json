@@ -43,7 +43,7 @@
 
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.13",       "desc": "High speed", "on": "7-1,14c3G@1.11" },
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.229",      "desc": "High speed", "on": "6-10@1.8~5.14,5.20" },
-                { "cc": "fr", "city": "Paris",      "ip": "23.162.152.72",      "desc": "High speed", "on": "10-4@3.3" },
+                { "cc": "fr", "city": "Paris",      "ip": "23.162.152.15",      "desc": "High speed", "on": "10-4@3.3,6.2" },
                 { "cc": "es", "city": "Madrid",     "ip": "67.220.66.220",      "desc": "High speed", "on": "4-10,0.5Gb@3.2" },   
                 { "cc": "nl", "city": "Amsterdam",  "ip": "91.239.53.58",      "desc": "High speed", "on": "6-1,0.3Gb@2.21,2.22,3.5,4.2" }
             ],
