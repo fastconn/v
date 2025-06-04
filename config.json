@@ -36,17 +36,8 @@
 		            "nativeFull": 1800
                 }
             },
-            "iii": {
-                "native": true
-            },
-			"orders": {
-				"DidConFull": ["AnyFull", "AnyInter"],
-				"WillDisFull": ["AnyFull", "AnyInter"],
-				"HotFull": ["AnyInter", "AnyFull"],
-				"memo": "323_1030"
-			},
-            "coolstartExtra": ["AnyInter", "AnyFull"],
-            "fullAdOrder": "in",
+            "coolstartExtra": ["OffInter","OffNative"],
+            "fullAdOrder": "rd",
             "offAdOrder": "in"
         },
         "run3": {
@@ -57,7 +48,7 @@
             "HotFull": "anyInter",
             "AnyFull": "anyFull",
             "AnyInter": "anyInter",
-            "OffNative": "offN？？",
+            "OffNative": "offN",
             "OffInter": "offI"
         },
 
