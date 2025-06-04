@@ -4,6 +4,7 @@
         "showSplash": true,
         "domain": "i.ostrichvpn.net",
         "secondSplash": 3,
+        "secondSplash2": 8,
     	"cnDeny": [0,0],
     	"evNo": ["enterGg", "ping2", "pingCf", "admobUMP", "request", "asn"],
         "testers": [
@@ -41,6 +42,7 @@
 				"HotFull": ["AnyInter", "AnyFull"],
 				"memo": "323_1030"
 			},
+            "coolstartExtra": ["AnyInter", "AnyFull"],
             "fullAdOrder": "in",
             "offAdOrder": "in"
         },
