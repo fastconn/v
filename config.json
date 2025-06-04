@@ -36,6 +36,9 @@
 		            "nativeFull": 1800
                 }
             },
+            "iii": {
+                "native": false
+            },
 			"orders": {
 				"DidConFull": ["AnyFull", "AnyInter"],
 				"WillDisFull": ["AnyFull", "AnyInter"],
