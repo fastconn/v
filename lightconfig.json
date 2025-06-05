@@ -36,7 +36,7 @@
                 }
             },		
             "coolstartExtra": ["OffInter","AnyFull"],
-            "fullAdOrder": "",
+            "fullAdOrder": "in",
             "offAdOrder": "in"
         },
 		"run": {},
