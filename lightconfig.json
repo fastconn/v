@@ -3,6 +3,7 @@
 		"ageM": 5,
 		"showSplash": true,
         "secondSplash": 3,
+        "secondSplash2": 8,
         "domain": "i.ostrichvpn.net",
 		"cnDeny": [0,0],
 		"forceVer": "1.8.0",
@@ -34,6 +35,7 @@
 				    "nativeFull": 1800
                 }
             },		
+            "coolstartExtra": ["OffInter","AnyFull"],
             "fullAdOrder": "",
             "offAdOrder": "in"
         },
