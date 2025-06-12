@@ -98,7 +98,7 @@
                 { "cc": "gb", "city": "London",         "ip": "142.202.51.2",       "desc": "Performance",  "on": "6-12@1.9,2.3" },
                 { "cc": "nl", "city": "Amsterdam",      "ip": "172.99.188.113",     "desc": "Performance",  "on": "6-8,1G@12.5,2.6" },
 		       
-                { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.60",       "desc": "Fast",  "on": "gcore,6TB-5.13" },
+                { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.131",      "desc": "Fast",  "on": "gcore,6TB-4.22" },
                 { "cc": "il", "city": "Tel Aviv",       "ip": "146.185.219.129",    "desc": "Fast",  "on": "gcore,2TB-1.20" },
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.8",        "desc": "Fast",  "on": "gcore,3TB-4.22"},
              
@@ -111,9 +111,10 @@
                 { "name": "VIP-3", "domain": "p.ourenses.com",  "desc": "Global", "on": "4.17-1000"},
                 { "name": "VIP-4", "domain": "v.ourenses.com",  "desc": "Global", "on": "4.17-1000"},
                 
-                { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.131",      "desc": "Fast",  "on": "gcore,6TB-4.22" },
                 { "cc": "tr", "city": "Istanbul",       "ip": "103.215.218.114",    "desc": "Fast",  "on": "gcore,4TB-5.23" },
+
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.40",       "desc": "Fast",  "on": "gcore,1TB-5.25"},
+                { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.60",       "desc": "Fast",  "on": "gcore,6TB-5.13" },
 
                 {}
             ]
