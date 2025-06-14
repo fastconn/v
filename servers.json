@@ -35,10 +35,11 @@
             "ws2": [
             ],
             "ws3": [
+                { "name": "Server-5", "domain": "wolphaart.com",    "desc": "Global", "on": "6.14-1551" },   
+
                 { "name": "Server-1", "domain": "lichtaart.com",    "desc": "Global", "on": "4.6-0030" },   
                 { "name": "Server-2", "domain": "poederlee.com",    "desc": "Global" },   
                 { "name": "Server-3", "domain": "emmadorp.com",     "desc": "Global" },   
-
                 { "name": "Server-4", "domain": "areendonk.com",    "desc": "Global", "on": "4.6-1600" },   
                 {}
             ],
