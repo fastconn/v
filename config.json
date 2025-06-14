@@ -36,7 +36,7 @@
 		            "nativeFull": 1800
                 }
             },
-            "coolstartExtra": ["OffInter","AnyFull"],
+            "coolstartExtra": ["AnyInter","AnyFull"],
             "fullAdOrder": "in",
             "offAdOrder": "in"
         },
@@ -71,8 +71,8 @@
             "anyFull": {
                 "type": "native", "layouts": [0,1],
                 "ids": [
-                    { "id": "ca-app-pub-3510970371831048/6838376053", "memo": "m612-2346" },
-                    { "id": "ca-app-pub-3510970371831048/2901547776", "memo": "m610-2308" }
+                    { "id": "ca-app-pub-3510970371831048/5985880262", "memo": "m614-1700" },
+                    { "id": "ca-app-pub-3510970371831048/6838376053", "memo": "m612-2346" }
                 ]
            },
            "offN": {
