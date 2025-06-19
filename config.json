@@ -18,7 +18,7 @@
         "noFlurry": true,
         "mixPanel": false,
         "rateHrs": 72 ,
-        "iapCard": false
+        "iapCard": true
     },
     "ad": {
         "0": {
