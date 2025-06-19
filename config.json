@@ -17,7 +17,8 @@
         "umpEnabled": true,
         "noFlurry": true,
         "mixPanel": false,
-        "rateHrs": 72 
+        "rateHrs": 72 ,
+        "iapCard": false
     },
     "ad": {
         "0": {
@@ -26,6 +27,7 @@
             "adFullCountdown": 10,
             "hotInterval": 2,
             "skipOffset" : 0,
+            "removeAds": false,
             "max": {
                 "admob": [-1,-1]
             },
