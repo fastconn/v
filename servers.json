@@ -55,25 +55,23 @@
                 { "cc": "ca", "city": "Vancouver",      "ip": "38.96.254.96",       "desc": "High speed",   "on": "1-10@6,17,~11.15" },   
  
                 { "cc": "de", "city": "Frankfurt",  "ip": "193.108.117.47",         "desc": "High speed",   "on":"3-4,14c3Gb@1.11" },
-                { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.148",       "desc": "High speed",   "on": "5-1@421-3Gb,718,1018,1118,1125,1209,4.3" },
  
-                { "cc": "gb", "city": "London",     "ip": "68.168.31.252",      "desc": "High speed",   "on": "7-3,2Gb@12.23,1.23,2.4,2.25" },
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.173",     "desc": "High speed",   "on": "7-19@1018,1120,1123,3.29" },
  
                 { "cc": "fr", "city": "Paris",      "ip": "23.162.152.250",     "desc": "High speed",   "on": "10-3@3Gb-4.21,..,9.5,1020,1120,1216" },
               
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.73",       "desc": "High speed",   "on": "2-1@3Gb-4.5,522,905,1004,1104,1124,1224" },
-                { "cc": "ch", "city": "Zurich",     "ip": "204.136.10.16",     "desc": "High speed",   "on": "3-2@2Gb-11.27,1224,3.29" },
+                { "cc": "ch", "city": "Zurich",     "ip": "204.136.10.16",     "desc": "High speed",   "on": "3-2@2Gb-11.27,1224,3.29" }
 
-                { "cc": "es", "city": "Madrid",     "ip": "67.220.66.245",      "desc": "High speed",   "on": "3-3@2Gb,1021,1024,1120,1219" } 
            ],
            "watch": [
             { "name": "Server-5", "domain": "womellgen.com",    "desc": "Global", "off": "6.14-1542" },    
             { "name": "Server-6", "domain": "kapelleng.com",     "desc": "Global" },      
-            { "cc": "ca", "city": "Vancouver",      "ip": "38.96.254.96",       "desc": "High speed",   "on": "1-10@1.8 ~11.15" },
-            { "cc": "us", "city": "Santa Clara",    "ip": "169.197.142.198",     "desc": "High speed",   "on": "3-12@12.31,..,3.5,3.10,4.3，4.6，5.5" },
-            { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.249",      "desc": "High speed",   "on": "1-15@1.18" },
-                { "cc": "nl", "city": "Amsterdam",  "ip": "91.239.53.74",       "desc": "High speed",   "on": "7-8@2.4,2.22,3.29，5.22" },
+
+            { "cc": "gb", "city": "London",     "ip": "68.168.31.252",      "desc": "High speed",   "on": "7-3,2Gb@12.23,1.23,2.4,2.25" },
+            { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.148",       "desc": "High speed",   "on": "5-1@421-3Gb,718,1018,1118,1125,1209,4.3" },
+            { "cc": "es", "city": "Madrid",     "ip": "67.220.66.245",      "desc": "High speed",   "on": "3-3@2Gb,1021,1024,1120,1219" }, 
+
             {}
            ]
         },
