@@ -35,13 +35,12 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-5", "domain": "wolphaart.com",    "desc": "Global", "on": "6.14-1551" },   
 
                 { "name": "Server-1", "domain": "lichtaart.com",    "desc": "Global", "on": "4.6-0030" },   
                 { "name": "Server-2", "domain": "poederlee.com",    "desc": "Global" },   
                 { "name": "Server-3", "domain": "emmadorp.com",     "desc": "Global" },   
                 { "name": "Server-4", "domain": "areendonk.com",    "desc": "Global", "on": "4.6-1600" },   
-                {}
+               {}
             ],
             "servers": [
                 { "cc": "us", "city": "New York",       "ip": "169.197.141.115",     "desc": "High speed",   "on": "2-5@1.1,..,1.28,2.6,2.22,4.4，5.5" },
@@ -67,6 +66,8 @@
            "watch": [
             { "name": "Server-5", "domain": "womellgen.com",    "desc": "Global", "off": "6.14-1542" },    
             { "name": "Server-6", "domain": "kapelleng.com",     "desc": "Global" },      
+                
+            { "name": "Server-5", "domain": "wolphaart.com",    "desc": "Global", "on": "6.14-1551" },   
 
             { "cc": "gb", "city": "London",     "ip": "68.168.31.252",      "desc": "High speed",   "on": "7-3,2Gb@12.23,1.23,2.4,2.25" },
             { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.148",       "desc": "High speed",   "on": "5-1@421-3Gb,718,1018,1118,1125,1209,4.3" },
@@ -112,9 +113,7 @@
                 { "name": "VIP-4", "domain": "v.ourenses.com",  "desc": "Global", "on": "4.17-1000"},
                 
                 { "cc": "tr", "city": "Istanbul",       "ip": "103.215.218.114",    "desc": "Fast",  "on": "gcore,4TB-5.23" },
-
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.40",       "desc": "Fast",  "on": "gcore,1TB-5.25"},
-                { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.60",       "desc": "Fast",  "on": "gcore,6TB-5.13" },
 
                 {}
             ]
