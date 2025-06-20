@@ -20,10 +20,10 @@
         "ageM": 5,
         "maxClick": 30,
         "maxShow": 180,
-        "adWait": 10,
+        "adWait": 5,
         "skipSec": 10,
-        "fullAdElapse": 10,
-        "resultBackAd": true,
+        "fullAdElapse": 5,
+        "resultBackAd": false,
         "hotSplashAd": true,
 
         "splashSec": 8,
