@@ -21,8 +21,8 @@
         "maxClick": 30,
         "maxShow": 180,
         "adWait": 5,
-        "skipSec": 10,
-        "fullAdElapse": 5,
+        "skipSec": 5,
+        "fullAdElapse": 10,
         "resultBackAd": false,
         "hotSplashAd": true,
 
