@@ -32,22 +32,22 @@
     },
     "adid": {
         "AnyFull-v2": [           
-            { "pri": 30, "id": "ca-app-pub-3510970371831048/6289874857", "type": "inter", "memo": "m623-0308" },
-            { "pri": 10, "id": "ca-app-pub-3510970371831048/7934823543", "type": "inter", "memo": "m617-1405" }
+            { "pri": 30, "id": "ca-app-pub-3510970371831048/3277935801", "type": "inter", "memo": "m627-1550" },
+            { "pri": 10, "id": "ca-app-pub-3510970371831048/6289874857", "type": "inter", "memo": "m623-0308" }
         ],
         "SplashFull": [
-            { "pri": 30, "id": "ca-app-pub-3510970371831048/4976793189", "type": "inter", "memo": "m623-0308" },
-            { "pri": 20, "id": "ca-app-pub-3510970371831048/7282418555", "type": "inter", "memo": "m617-1245" }
+            { "pri": 30, "id": "ca-app-pub-3510970371831048/1497950272", "type": "inter", "memo": "m627-1550" },
+            { "pri": 20, "id": "ca-app-pub-3510970371831048/4976793189", "type": "inter", "memo": "m623-0308" }
         ],
         
         
         "Mainpage-v2": [
-            { "pri": 30, "id": "ca-app-pub-3510970371831048/4423642303", "type": "native", "memo": "m623-0308" },
-            { "pri": 20, "id": "ca-app-pub-3510970371831048/8421908706", "type": "native", "memo": "m617-1245" }
+            { "pri": 30, "id": "ca-app-pub-3510970371831048/1773282441", "type": "native", "memo": "m627-1550" },
+            { "pri": 20, "id": "ca-app-pub-3510970371831048/4423642303", "type": "native", "memo": "m623-0308" }
         ],
         "Didcon-v2": [
-            { "pri": 20, "id": "ca-app-pub-3510970371831048/2124093665", "type": "native", "memo": "m617-1245" },
-            { "pri": 10, "id": "ca-app-pub-3510970371831048/1142019210", "type": "native", "memo": "m602-1432" }
+            { "pri": 20, "id": "ca-app-pub-3510970371831048/9739402374", "type": "native", "memo": "m627-1550" },
+            { "pri": 10, "id": "ca-app-pub-3510970371831048/2124093665", "type": "native", "memo": "m617-1245" }
         ],
 
         "Location-v2？？": [
