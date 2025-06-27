@@ -66,12 +66,6 @@
            "watch": [
             { "name": "Server-1", "domain": "womellgen.com",    "desc": "Global", "off": "6.14-1542" },    
             { "name": "Server-2", "domain": "kapelleng.com",     "desc": "Global" },      
-                
-            { "cc": "ch", "city": "Zurich",     "ip": "204.136.10.16",     "desc": "High speed",   "on": "3-2@2Gb-11.27,1224,3.29" },
-
-            { "cc": "gb", "city": "London",     "ip": "68.168.31.252",      "desc": "High speed",   "on": "7-3,2Gb@12.23,1.23,2.4,2.25" },
-            { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.148",       "desc": "High speed",   "on": "5-1@421-3Gb,718,1018,1118,1125,1209,4.3" },
-            { "cc": "es", "city": "Madrid",     "ip": "67.220.66.245",      "desc": "High speed",   "on": "3-3@2Gb,1021,1024,1120,1219" }, 
 
             {}
            ]
@@ -110,9 +104,6 @@
             "servers-bak": [
                 { "name": "VIP-3", "domain": "p.ourenses.com",  "desc": "Global", "on": "4.17-1000"},
                 { "name": "VIP-4", "domain": "v.ourenses.com",  "desc": "Global", "on": "4.17-1000"},
-                
-                { "cc": "tr", "city": "Istanbul",       "ip": "103.215.218.114",    "desc": "Fast",  "on": "gcore,4TB-5.23" },
-                { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.40",       "desc": "Fast",  "on": "gcore,1TB-5.25"},
 
                 {}
             ]
