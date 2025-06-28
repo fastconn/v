@@ -25,7 +25,7 @@
         "fullAdElapse": 10,
         "resultBackAd": true,
         "hotSplashAd": true,
-
+        "firstAd": 1,
         "splashSec": 8,
         "nativeOfficial": [1,7],
         "mainAdFlag": 0
