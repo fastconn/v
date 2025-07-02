@@ -43,7 +43,7 @@
             "watch": [
                 { "cc": "nl", "city": "Amsterdam",  "ip": "91.239.53.58",      "desc": "High speed", "on": "6-1,0.3Gb@2.21,2.22,3.5,4.2" },
                 { "cc": "us", "city": "Dallas",         "ip": "23.150.248.64",     "desc": "High speed", "on": "4-5@2.2，5.21" },
-                { "cc": "es", "city": "Madrid",     "ip": "67.220.66.220",      "desc": "High speed", "on": "4-10,0.5Gb@3.2" }
+                { "cc": "es", "city": "Madrid",     "ip": "67.220.66.220",      "desc": "High speed", "on": "4-10,0.5Gb@3.2" },
 
                 {}
             ]
