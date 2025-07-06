@@ -24,13 +24,13 @@
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.207",      "desc": "High speed", "on": "5-1@7.6" },
 
                 { "cc": "de", "city": "Frankfurt",  "ip": "57.129.59.197",      "desc": "High speed", "on":"ov1947@5.16" },
-                { "cc": "de", "city": "Frankfurt",  "ip": "57.129.25.27",       "desc": "High speed", "on":"ov9070@5.16" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "162.19.234.213",     "desc": "High speed", "on":"ov33807@4.3," }
             ],
             "ips-bak": [
                 { "name": "Server-1", "desc": "Global", "domain": "lochristy.com", "on": "4.6-2035" },               
                 { "name": "Server-2", "desc": "Global", "domain": "boekelt.com", "on": "4.6-2100" },
 
+                { "cc": "de", "city": "Frankfurt",  "ip": "57.129.25.27",       "desc": "High speed", "on":"ov9070@5.16","off": "7.7-0540" },
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6" }
             ]
         }
