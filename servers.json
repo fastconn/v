@@ -36,7 +36,7 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "lichtaart.com",    "desc": "Global", "on": "4.6-0030" },   
+                { "name": "Server-1", "domain": "astenweet.com",    "desc": "Global", "on": "7.6-1515" },   
                 { "name": "Server-2", "domain": "poederlee.com",    "desc": "Global" },   
                 { "name": "Server-3", "domain": "emmadorp.com",     "desc": "Global" },   
                 { "name": "Server-4", "domain": "areendonk.com",    "desc": "Global", "on": "4.6-1600" },   
@@ -66,6 +66,7 @@
                 { "cc": "us", "city": "Atlanta",        "ip": "167.88.63.8",        "desc": "High speed",   "on": "2-23,0.5Gb@3.4，4.3" },
             { "name": "Server-1", "domain": "womellgen.com",    "desc": "Global", "off": "6.14-1542" },    
             { "name": "Server-2", "domain": "kapelleng.com",     "desc": "Global" },      
+                { "name": "Server-1", "domain": "lichtaart.com",    "desc": "Global", "on": "4.6-0030" },   
 
             {}
            ]
