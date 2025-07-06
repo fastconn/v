@@ -45,7 +45,8 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "nekhaiky.net", "on": "7.6-1705" }
+                    { "pr": 4, "name": "Global-1", "i": "nekhaiky.net", "on": "7.7-0315" },
+                    { "pr": 4, "name": "Global-2", "i": "nekhaiky.net", "on": "7.6-1705" }
                ]
             }
         ],
