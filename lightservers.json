@@ -28,7 +28,7 @@
             "ws3": [
                 { "name": "Server-1", "desc": "Global", "domain": "boonlak.com", "on": "7.6-1600" },
                 { "name": "Server-2", "desc": "Global", "domain": "bubatok.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "braascha.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "angmoko.com"},
                 { "memo": "light" }
             ],
             "servers": [
