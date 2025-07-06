@@ -7,7 +7,7 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "lochristy.com", "on": "4.6-2035" },
+                { "name": "Server-1", "desc": "Global", "domain": "nekhaiky.net", "on": "7.6-1705" },
                 { "name": "Server-2", "desc": "Global", "domain": "boekelt.com", "on": "4.6-2100" }
             ],
             "ips": [
@@ -27,6 +27,7 @@
                 { "cc": "de", "city": "Frankfurt",  "ip": "162.19.234.213",     "desc": "High speed", "on":"ov33807@4.3," }
             ],
             "ips-bak": [
+                { "name": "Server-1", "desc": "Global", "domain": "lochristy.com", "on": "4.6-2035" },
                 
 
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6" }
