@@ -26,8 +26,8 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "erpemera.com", "on": "4.5-2312" },
-                { "name": "Server-2", "desc": "Global", "domain": "zandhove.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "boonlak.com", "on": "7.6-1600" },
+                { "name": "Server-2", "desc": "Global", "domain": "bubatok.com"},
                 { "name": "Server-3", "desc": "Global", "domain": "braascha.com"},
                 { "memo": "light" }
             ],
@@ -46,6 +46,9 @@
                 { "cc": "us", "city": "Dallas",         "ip": "23.150.248.64",     "desc": "High speed", "on": "4-5@2.2，5.21" },
                 { "cc": "es", "city": "Madrid",     "ip": "67.220.66.220",      "desc": "High speed", "on": "4-10,0.5Gb@3.2" },
 
+                { "name": "Server-1", "desc": "Global", "domain": "erpemera.com", "on": "4.5-2312" },
+                { "name": "Server-2", "desc": "Global", "domain": "zandhove.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "braascha.com"},
                 {}
             ]
         }
