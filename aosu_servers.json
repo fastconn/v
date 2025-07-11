@@ -11,8 +11,8 @@
                 { "name": "Server-2", "desc": "Global", "domain": "malakara.net", "on": "7.7-0315" }
             ],
             "ips": [
-                { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.172",      "desc": "High speed(New)", "on": "6-2,2Gb@4.24,..,1213,1.23，4.3，7.7" },
-                { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.141",     "desc": "High speed(New)", "on": "3-1@2Gb,6.1...,4.26,7.1,7.7" },
+                { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.223",      "desc": "High speed(New)", "on": "6-2,2Gb@4.24,..,1213,1.23，4.3，7.7，7.11" },
+                { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.186",     "desc": "High speed(New)", "on": "3-1@2Gb,6.1...,4.26,7.1,7.7,7.11" },
 
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.78",     "desc": "High speed(New)", "on": "26-5,2Gb@12.29,7.1，7.7" },
                 { "cc": "us", "city": "Dallas",     "ip": "23.134.94.250",      "desc": "High speed", "on": "5-20@2.2,7.1" },
