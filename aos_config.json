@@ -33,7 +33,7 @@
     "adid": {
         "AnyFull-v2": [           
             { "pri": 30, "id": "ca-app-pub-3510970371831048/9336566366", "type": "native", "memo": "m714-1100" },
-            { "pri": 30, "id": "ca-app-pub-3510970371831048/8737553148", "type": "inter", "memo": "m715-0050" },
+            { "pri": 20, "id": "ca-app-pub-3510970371831048/8737553148", "type": "inter", "memo": "m715-0050" },
             { "pri": 10, "id": "ca-app-pub-3510970371831048/2405715564", "type": "inter", "memo": "m706-1640" }
         ],
         "SplashFull": [
