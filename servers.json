@@ -83,12 +83,6 @@
                 { "cc": "us", "city": "Seattle",    "ip": "38.143.66.15",     "desc": "Performance", "on": "1-20@6.29，7.11" },
                 { "cc": "ca", "city": "Vancouver",  "ip": "38.96.254.95",    "desc": "High speed",   "on": "2-22@1.9 ~5.15" },
                 { "cc": "ca", "city": "Montreal",   "ip": "23.162.56.57",    "desc": "High speed",   "on": "1-18@1.9" },
-
-                { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.237",      "desc": "Fast", "on": "vps415,8T@12.16" },
-                { "cc": "us", "city": "Chicago",        "ip": "38.114.121.60",      "desc": "Fast", "on": "vps414,8T@12.16" },
-                
-                { "cc": "ch", "city": "Zurich",         "ip": "23.166.88.67",       "desc": "Fast", "on": "vps419,8T@12.16" },
-                { "cc": "de", "city": "Frankfurt",      "ip": "193.108.118.197",    "desc": "Fast", "on": "vps416,8T@12.16" },
  
 		       
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.131",      "desc": "Fast",  "on": "gcore,6TB-4.22" },
@@ -106,6 +100,14 @@
 
                 { "name": "VIP-1", "domain": "schotend.com",    "desc": "Global", "on": "4.6-1620"},
                 { "name": "VIP-2", "domain": "prinsenbee.com",  "desc": "Global", "on": "4.6-1600"},
+
+                
+
+                { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.237",      "desc": "Fast", "on": "vps415,8T@12.16" },
+                { "cc": "us", "city": "Chicago",        "ip": "38.114.121.60",      "desc": "Fast", "on": "vps414,8T@12.16" },
+                
+                { "cc": "ch", "city": "Zurich",         "ip": "23.166.88.67",       "desc": "Fast", "on": "vps419,8T@12.16" },
+                { "cc": "de", "city": "Frankfurt",      "ip": "193.108.118.197",    "desc": "Fast", "on": "vps416,8T@12.16" },
                 {}
             ]
         }
