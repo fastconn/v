@@ -32,6 +32,7 @@
     },
     "adid": {
         "AnyFull-v2": [           
+            { "pri": 40, "id": "ca-app-pub-3510970371831048/7853708702", "type": "inter", "memo": "m718-2150" },
             { "pri": 30, "id": "ca-app-pub-3510970371831048/8737553148", "type": "inter", "memo": "m715-0050" },
             { "pri": 20, "id？？": "ca-app-pub-3510970371831048/9336566366", "type": "native", "memo": "m714-1100" },
             { "pri": 10, "id？？": "ca-app-pub-3510970371831048/2405715564", "type": "inter", "memo": "m706-1640" }
@@ -48,8 +49,8 @@
             { "pri": 20, "id": "ca-app-pub-3510970371831048/4036375900", "type": "native", "memo": "m704-0345" }
         ],
         "Didcon-v2": [
-            { "pri": 20, "id": "ca-app-pub-3510970371831048/9739402374", "type": "native", "memo": "m627-1550" },
-            { "pri": 10, "id": "ca-app-pub-3510970371831048/2124093665", "type": "native", "memo": "m617-1245" }
+            { "pri": 30, "id": "ca-app-pub-3510970371831048/8922375654", "type": "native", "memo": "m718-2150" },
+            { "pri": 20, "id": "ca-app-pub-3510970371831048/9739402374", "type": "native", "memo": "m627-1550" }
         ],
 
         "Location-v2？？": [
