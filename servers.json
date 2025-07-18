@@ -86,8 +86,7 @@
 
                 { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.237",      "desc": "Fast", "on": "vps415,8T@12.16" },
                 { "cc": "us", "city": "Chicago",        "ip": "67.220.73.103",      "desc": "Fast", "on": "vps089,8T@7.16" },
-                
-                { "cc": "ch", "city": "Zurich",         "ip": "23.166.88.67",       "desc": "Fast", "on": "vps419,8T@12.16" },
+                { "cc": "ch", "city": "Zurich",         "ip": "134.195.199.16",     "desc": "Fast", "on": "vps293,8T@7.18" },
                 { "cc": "de", "city": "Frankfurt",      "ip": "193.108.118.197",    "desc": "Fast", "on": "vps416,8T@12.16" },
  
 		       
