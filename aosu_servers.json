@@ -11,15 +11,15 @@
                 { "name": "Server-2", "desc": "Global", "domain": "malakara.net", "on": "7.7-0315" }
             ],
             "ips": [
-                { "cc": "de", "city": "Frankfurt",  "ip": "23.158.56.223",      "desc": "High speed(New)", "on": "6-2,2Gb@4.24,..,1213,1.23，4.3，7.7，7.11" },
-                { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.186",     "desc": "High speed(New)", "on": "3-1@2Gb,6.1...,4.26,7.1,7.7,7.11" },
-
-                { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.120",     "desc": "High speed(New)", "on": "26-5,2Gb@12.29,7.1，7.7,7.13,7.21" },
+                { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.120",     "desc": "High speed", "on": "26-5,2Gb@12.29,7.1，7.7,7.13,7.21" },
                 { "cc": "us", "city": "Dallas",     "ip": "23.134.94.87",      "desc": "High speed", "on": "5-20@2.2,7.1,7.13" },
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.87",       "desc": "High speed", "on": "9-10@1.9,1.13,1.16,1.19,1.23,2.5,2.25，4.24" },
                 { "cc": "ca", "city": "Toronto",    "ip": "23.162.200.77",      "desc": "High speed", "on": "2-14@1.13,2.23" },
                 { "cc": "ca", "city": "Montreal",   "ip": "23.162.56.104",      "desc": "High speed", "on": "1-21@1.10" },
                 { "cc": "ca", "city": "Vancouver",  "ip": "134.195.197.204",    "desc": "High speed", "on": "2-20@1.18~5.15" },
+
+                { "cc": "de", "city": "Frankfurt",  "ip": "193.108.116.90",      "desc": "High speed", "on": "4-4@36c2Gb, 7.23" },
+                { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.186",     "desc": "High speed", "on": "3-1@2Gb,6.1...,4.26,7.1,7.7,7.11" },
 
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.178",      "desc": "High speed", "on": "5-1@7.6，7.11" },
 
