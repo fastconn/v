@@ -36,8 +36,9 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "astenweet.com",    "desc": "Global", "on": "7.6-1515" },   
-                { "name": "Server-2", "domain": "merkspla.com",    "desc": "Global" },   
+                { "name": "Server-1", "domain": "selyshchel.net",    "desc": "Global", "on": "7.25-0040" },   
+                { "name": "Server-2", "domain": "koshelvka.net",    "desc": "Global" }, 
+                  
                 { "name": "Server-3", "domain": "lommelle.com",     "desc": "Global" },   
                 { "name": "Server-4", "domain": "tessenderl.com",    "desc": "Global" },   
                 { "name": "Server-5", "domain": "wolphaart.com",    "desc": "Global", "on": "6.14-1551" },   
@@ -65,6 +66,11 @@
            "watch": [
                 { "cc": "ca", "city": "Toronto",        "ip": "23.162.200.21",     "desc": "High speed",   "on": "11-2@2Gb,7.11,7.11,1018,1107,1125,1220,2.10，7.7" },   
 
+                { "name": "Server-1", "domain": "astenweet.com",    "desc": "Global", "on": "7.6-1515" },   
+                { "name": "Server-2", "domain": "merkspla.com",    "desc": "Global" },   
+                { "name": "Server-3", "domain": "lommelle.com",     "desc": "Global" },   
+                { "name": "Server-4", "domain": "tessenderl.com",    "desc": "Global" },   
+                { "name": "Server-5", "domain": "wolphaart.com",    "desc": "Global", "on": "6.14-1551" },   
             {}
            ]
         },
