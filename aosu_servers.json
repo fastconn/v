@@ -18,7 +18,7 @@
                 { "cc": "ca", "city": "Montreal",   "ip": "23.162.56.104",      "desc": "High speed", "on": "1-21@1.10" },
                 { "cc": "ca", "city": "Vancouver",  "ip": "134.195.197.204",    "desc": "High speed", "on": "2-20@1.18~5.15" },
 
-                { "cc": "de", "city": "Frankfurt",  "ip": "193.108.116.90",      "desc": "High speed", "on": "4-4@36c2Gb, 7.23" },
+                { "cc": "de", "city": "Frankfurt",  "ip": "193.108.116.117",      "desc": "High speed", "on": "4-4@36c2Gb,7.23，7.25" },
                 { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.186",     "desc": "High speed", "on": "3-1@2Gb,6.1...,4.26,7.1,7.7,7.11" },
 
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.178",      "desc": "High speed", "on": "5-1@7.6，7.11" },
