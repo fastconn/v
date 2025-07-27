@@ -6,23 +6,23 @@
         "postHog": false
     },
     "update": {
-        "Title": "Update notice",
-        "Content": "New version is available, we recommend you update now!",
+        "Title": "Update Ostrich VPN 3.0",
+        "Content": "Version 3.0 is available, we recommend you update now! \n\n1. Use a new VPN library for connection.\n2. Optimized the connection process.\n",
         "Content2": "The current version will be out of service soon, please update now!",
         "force": false,
         "isGp": true,
         "okStr": "Update Now",
         "cancelStr": "Later",
-        "verCode": 207000000
+        "verCode": 208000000
     },
     "adc": {
-        "ver": 20250403,
+        "ver": 20250727,
         "ageM": 5,
         "maxClick": 30,
         "maxShow": 180,
-        "adWait": 10,
-        "skipSec": 10,
-        "fullAdElapse": 10,
+        "adWait": 5,
+        "skipSec": 8,
+        "fullAdElapse": 0,
         "resultBackAd": true,
         "hotSplashAd": true,
         "firstAd": 1,
