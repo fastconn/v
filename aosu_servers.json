@@ -7,8 +7,8 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "nekhaiky.net", "on": "7.6-1705" },
-                { "name": "Server-2", "desc": "Global", "domain": "malakara.net", "on": "7.7-0315" }
+                { "name": "Server-1", "desc": "Global", "domain": "oleksand.net", "on": "7.27-1115" },
+                { "name": "Server-2", "desc": "Global", "domain": "kuchakiv.net", "on": "7.27-1115" }
             ],
             "ips": [
                 { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.103",     "desc": "High speed", "on": "26-5,2Gb@12.29,7.1，7.7,7.13,7.21,7.24" },
@@ -28,6 +28,9 @@
             "ips-bak": [
                 { "name": "Server-1", "desc": "Global", "domain": "lochristy.com", "on": "4.6-2035" },               
                 { "name": "Server-2", "desc": "Global", "domain": "boekelt.com", "on": "4.6-2100" },
+
+                { "name": "Server-1", "desc": "Global", "domain": "nekhaiky.net", "on": "7.6-1705" },
+                { "name": "Server-2", "desc": "Global", "domain": "malakara.net", "on": "7.7-0315" },
 
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6" }
             ]
