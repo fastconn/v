@@ -11,7 +11,6 @@
                 { "name": "Server-2", "desc": "Global", "domain": "kuchakiv.net", "on": "7.27-1115" }
             ],
             "ips": [
-                { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.103",     "desc": "High speed", "on": "26-5,2Gb@12.29,7.1，7.7,7.13,7.21,7.24" },
                 { "cc": "us", "city": "Dallas",     "ip": "23.134.94.87",      "desc": "High speed", "on": "5-20@2.2,7.1,7.13" },
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.87",       "desc": "High speed", "on": "9-10@1.9,1.13,1.16,1.19,1.23,2.5,2.25，4.24" },
                 { "cc": "ca", "city": "Toronto",    "ip": "23.162.200.77",      "desc": "High speed", "on": "2-14@1.13,2.23" },
@@ -31,6 +30,7 @@
 
                 { "name": "Server-1", "desc": "Global", "domain": "nekhaiky.net", "on": "7.6-1705" },
                 { "name": "Server-2", "desc": "Global", "domain": "malakara.net", "on": "7.7-0315" },
+                { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.103",     "desc": "High speed", "on": "26-5,2Gb@12.29,7.1，7.7,7.13,7.21,7.24" },
 
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6" }
             ]
