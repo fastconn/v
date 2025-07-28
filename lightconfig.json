@@ -3,7 +3,7 @@
 		"ageM": 5,
 		"showSplash": true,
         "secondSplash": 3,
-        "secondSplash2": 8,
+        "secondSplash2": 6,
         "domain": "i.ostrichvpn.net",
 		"cnDeny": [0,0],
 		"forceVer": "1.8.0",
@@ -16,6 +16,7 @@
         "umpEnabled": true,
 		"noFlurry": true,
 		"mixPanel": false,
+        "curl": false,
 		"showServer": true
     },
     "ad": {

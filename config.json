@@ -18,6 +18,7 @@
         "noFlurry": true,
         "mixPanel": false,
         "rateHrs": 72 ,
+        "curl": false,
         "iapCard": true
     },
     "ad": {
