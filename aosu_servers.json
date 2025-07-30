@@ -18,7 +18,6 @@
                 { "cc": "ca", "city": "Vancouver",  "ip": "134.195.197.204",    "desc": "High speed", "on": "2-20@1.18~5.15" },
 
                 { "cc": "de", "city": "Frankfurt",  "ip": "193.108.116.117",      "desc": "High speed", "on": "4-4@36c2Gb,7.23，7.25" },
-                { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.186",     "desc": "High speed", "on": "3-1@2Gb,6.1...,4.26,7.1,7.7,7.11" },
 
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.178",      "desc": "High speed", "on": "5-1@7.6，7.11" },
 
@@ -30,7 +29,7 @@
 
                 { "name": "Server-1", "desc": "Global", "domain": "nekhaiky.net", "on": "7.6-1705" },
                 { "name": "Server-2", "desc": "Global", "domain": "malakara.net", "on": "7.7-0315" },
-                { "cc": "us", "city": "Ashburn",    "ip": "23.154.136.103",     "desc": "High speed", "on": "26-5,2Gb@12.29,7.1，7.7,7.13,7.21,7.24" },
+                { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.186",     "desc": "High speed", "on": "3-1@2Gb,6.1...,4.26,7.1,7.7,7.11" },
 
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6" }
             ]
