@@ -61,7 +61,7 @@
  
                 { "cc": "fr", "city": "Paris",      "ip": "38.109.228.50",     "desc": "High speed",   "on": "1-6@7.23" },
               
-                { "cc": "ch", "city": "Zurich",     "ip": "204.136.10.1",       "desc": "High speed",   "on": "11-6@8.3" }
+                { "cc": "ch", "city": "Zurich",     "ip": "204.136.10.120",    "desc": "High speed",   "on": "11-6@8.3" }
 
            ],
            "watch": [
