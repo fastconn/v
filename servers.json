@@ -41,7 +41,8 @@
 
                 { "name": "Server-3", "domain": "lommelle.com",     "desc": "Global", "on": "7.6-1515" },   
                 { "name": "Server-4", "domain": "tessenderl.com",    "desc": "Global" },   
-                { "name": "Server-5", "domain": "wolphaart.com",    "desc": "Global", "on": "6.14-1551" },   
+                
+                { "name": "Server-5", "domain": "lekhnivka.net",    "desc": "Global", "on": "8.10-2310" },   
                {}
             ],
             "servers": [
@@ -68,6 +69,8 @@
 
                 { "name": "Server-1", "domain": "selyshchel.net",    "desc": "Global", "on": "7.25-0040" },   
                 { "name": "Server-2", "domain": "koshelvka.net",    "desc": "Global" }, 
+
+                { "name": "Server-5", "domain": "wolphaart.com",    "desc": "Global", "on": "6.14~8.10" },   
 
             {}
            ]
