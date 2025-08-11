@@ -27,8 +27,8 @@
             "ws2": [ ],
             "ws3": [
                 { "name": "Server-1", "desc": "Global", "domain": "velykado.net", "on": "8.11-2005" },
-                { "name": "Server-2", "desc": "Global", "domain": "bubatok.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "angmoko.com"},
+                { "name": "Server-2", "desc": "Global", "domain": "kobyzhcha.net"},
+                { "name": "Server-3", "desc": "Global", "domain": "halytsay.net"},
                 { "memo": "light" }
             ],
             "servers": [
