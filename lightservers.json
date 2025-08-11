@@ -26,7 +26,7 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "boonlak.com", "on": "7.6-1600" },
+                { "name": "Server-1", "desc": "Global", "domain": "velykado.net", "on": "8.11-2005" },
                 { "name": "Server-2", "desc": "Global", "domain": "bubatok.com"},
                 { "name": "Server-3", "desc": "Global", "domain": "angmoko.com"},
                 { "memo": "light" }
@@ -48,9 +48,9 @@
                 { "cc": "es", "city": "Madrid",     "ip": "67.220.66.220",      "desc": "High speed", "on": "4-10,0.5Gb@3.2" },
                 { "cc": "us", "city": "New York",       "ip": "216.39.249.205",     "desc": "High speed", "on": "1-19@12.30,1.7,2.6" },
 
-                { "name": "Server-1", "desc": "Global", "domain": "erpemera.com", "on": "4.5-2312" },
-                { "name": "Server-2", "desc": "Global", "domain": "zandhove.com"},
-                { "name": "Server-3", "desc": "Global", "domain": "braascha.com"},
+                { "name": "Server-1", "desc": "Global", "domain": "boonlak.com", "on": "7.6-1600" },
+                { "name": "Server-2", "desc": "Global", "domain": "bubatok.com"},
+                { "name": "Server-3", "desc": "Global", "domain": "angmoko.com"},
                 {}
             ]
         }
