@@ -8,7 +8,7 @@
             "isVip": false,
             "ws": [
                 { "name": "Server-1", "desc": "Global", "domain": "doslidne.net", "on": "8.11-2031" },
-                { "name": "Server-2", "desc": "Global", "domain": "kuchakiv.net", "on": "7.27-1115" }
+                { "name": "Server-2", "desc": "Global", "domain": "shnyakivk.net", "on": "8.11-2031" }
             ],
             "ips": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "193.108.116.117",      "desc": "High speed", "on": "4-4@36c2Gb,7.23，7.25" },
