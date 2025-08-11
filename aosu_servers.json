@@ -7,7 +7,7 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "oleksand.net", "on": "7.27-1115" },
+                { "name": "Server-1", "desc": "Global", "domain": "doslidne.net", "on": "8.11-2031" },
                 { "name": "Server-2", "desc": "Global", "domain": "kuchakiv.net", "on": "7.27-1115" }
             ],
             "ips": [
@@ -24,12 +24,8 @@
                 { "cc": "de", "city": "Frankfurt",  "ip": "162.19.234.213",     "desc": "High speed", "on":"ov33807@4.3," }
             ],
             "ips-bak": [
-                { "name": "Server-1", "desc": "Global", "domain": "lochristy.com", "on": "4.6-2035" },               
-                { "name": "Server-2", "desc": "Global", "domain": "boekelt.com", "on": "4.6-2100" },
-
-                { "name": "Server-1", "desc": "Global", "domain": "nekhaiky.net", "on": "7.6-1705" },
-                { "name": "Server-2", "desc": "Global", "domain": "malakara.net", "on": "7.7-0315" },
-                { "cc": "ch", "city": "Zurich",     "ip": "186.190.215.186",     "desc": "High speed", "on": "3-1@2Gb,6.1...,4.26,7.1,7.7,7.11" },
+                { "name": "Server-1", "desc": "Global", "domain": "oleksand.net", "on": "7.27-1115" },
+                { "name": "Server-2", "desc": "Global", "domain": "kuchakiv.net", "on": "7.27-1115" },
 
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6" }
             ]
