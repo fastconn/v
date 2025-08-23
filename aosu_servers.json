@@ -11,7 +11,7 @@
                 { "name": "Server-2", "desc": "Global", "domain": "shnyakivk.net", "on": "8.11-2031" }
             ],
             "ips": [
-                { "cc": "de", "city": "Frankfurt",  "ip": "193.108.116.117",      "desc": "High speed", "on": "4-4@36c2Gb,7.23，7.25" },
+                { "cc": "de", "city": "Frankfurt",  "ip": "23.157.88.12",      "desc": "High speed", "on": "7-1@25.8.23" },
          
                 { "cc": "us", "city": "Dallas",     "ip": "167.88.62.196",      "desc": "High speed", "on": "5-20@2.2,7.1,7.13，8.14，8.15" },
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.87",       "desc": "High speed", "on": "9-10@1.9,1.13,1.16,1.19,1.23,2.5,2.25，4.24" },
