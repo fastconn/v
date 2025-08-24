@@ -24,8 +24,6 @@
                 { "cc": "de", "city": "Frankfurt",  "ip": "162.19.234.213",     "desc": "High speed", "on":"ov33807@4.3," }
             ],
             "ips-bak": [
-                { "name": "Server-1", "desc": "Global", "domain": "oleksand.net", "on": "7.27-1115" },
-                { "name": "Server-2", "desc": "Global", "domain": "kuchakiv.net", "on": "7.27-1115" },
 
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6" }
             ]

@@ -67,10 +67,6 @@
            ],
            "watch": [
 
-                { "name": "Server-1", "domain": "selyshchel.net",    "desc": "Global", "on": "7.25-0040" },   
-                { "name": "Server-2", "domain": "koshelvka.net",    "desc": "Global" }, 
-
-                { "name": "Server-5", "domain": "wolphaart.com",    "desc": "Global", "on": "6.14~8.10" },   
 
             {}
            ]
@@ -107,8 +103,6 @@
                 { "cc": "in", "city": "Mumbai",         "ip": "172.236.169.140",    "desc": "Fast",  "on": "li@2TB,1.15" }
             ],
             "vip-bak": [
-                { "name": "VIP-1", "domain": "sengkann.com",    "desc": "Global (new)", "on": "7.6-1700"},
-                { "name": "VIP-2", "domain": "vypovzky.net",    "desc": "Global",       "on": "7.7-0310"},
 
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.40",        "desc": "Fast",  "on": "gcore,1TB-4.22"},
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.131",      "desc": "Fast",  "on": "gcore,6TB-4.22" },
