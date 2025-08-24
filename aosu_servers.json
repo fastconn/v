@@ -7,8 +7,8 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "doslidne.net", "on": "8.11-2031" },
-                { "name": "Server-2", "desc": "Global", "domain": "shnyakivk.net", "on": "8.11-2031" }
+                { "name": "Server-1", "desc": "Global", "domain": "lykhachiv.com", "on": "8.24-1400b" },
+                { "name": "Server-2", "desc": "Global", "domain": "rudkivka.com", "on": "8.24-1400b" }
             ],
             "ips": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.157.88.12",      "desc": "High speed", "on": "7-1@25.8.23" },
@@ -24,6 +24,8 @@
                 { "cc": "de", "city": "Frankfurt",  "ip": "162.19.234.213",     "desc": "High speed", "on":"ov33807@4.3," }
             ],
             "ips-bak": [
+                { "name": "Server-1", "desc": "Global", "domain": "doslidne.net", "on": "8.11-2031a" },
+                { "name": "Server-2", "desc": "Global", "domain": "shnyakivk.net", "on": "8.11-2031a" },
 
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6" }
             ]

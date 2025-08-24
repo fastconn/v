@@ -37,8 +37,8 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "doslidne.net", "on": "8.11-2031" },
-                    { "pr": 4, "name": "Global-2", "i": "shnyakivk.net", "on": "8.11-2031" }
+                    { "pr": 4, "name": "Global-1", "i": "lykhachiv.com", "on": "8.24-1400" },
+                    { "pr": 4, "name": "Global-2", "i": "rudkivka.com", "on": "8.24-1400" }
                ]
             }
         ],
