@@ -1,7 +1,7 @@
 {
     "policy": {
         "cnDeny": [0,0],
-        "autoProtocol": 2,
+        "autoProtocol": 4,
         "proxySelf": true,
         "skipGmsIrCn": false
     },
