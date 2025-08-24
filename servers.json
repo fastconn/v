@@ -39,8 +39,8 @@
                 { "name": "Server-1", "domain": "derzhaniv.net",    "desc": "Global", "on": "7.26-1820" },   
                 { "name": "Server-2", "domain": "irzhavets.net",    "desc": "Global" }, 
 
-                { "name": "Server-3", "domain": "lommelle.com",     "desc": "Global", "on": "7.6-1515" },   
-                { "name": "Server-4", "domain": "tessenderl.com",    "desc": "Global" },   
+                { "name": "Server-3", "domain": "novaolek.net",     "desc": "Global", "on": "8.24-0900" },   
+                { "name": "Server-4", "domain": "nosivkar.com",    "desc": "Global" },   
 
                 { "name": "Server-5", "domain": "lekhnivka.net",    "desc": "Global", "on": "8.10-2310" },   
                {}
@@ -67,6 +67,8 @@
            ],
            "watch": [
 
+                { "name": "Server-3", "domain": "lommelle.com",     "desc": "Global", "on": "7.6-1515" },   
+                { "name": "Server-4", "domain": "tessenderl.com",    "desc": "Global" },  
 
             {}
            ]
