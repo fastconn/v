@@ -79,7 +79,7 @@
             "image": "for_VIP",
             "ws3": [
                 { "name": "VIP-1", "domain": "pohreby.net",    "desc": "Global",    "on": "8.12-1720"},
-                { "name": "VIP-2", "domain": "vypovzky.net",   "desc": "Global",    "on": "7.7-0310"},
+                { "name": "VIP-2", "domain": "strakhol.com",   "desc": "Global",    "on": "8.24-1410"},
                 {}
             ], 
             "servers": [
@@ -105,6 +105,7 @@
                 { "cc": "in", "city": "Mumbai",         "ip": "172.236.169.140",    "desc": "Fast",  "on": "li@2TB,1.15" }
             ],
             "vip-bak": [
+                { "name": "VIP-2", "domain": "vypovzky.net",   "desc": "Global",    "on": "7.7-0310"},
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.8",        "desc": "Fast",  "on": "gcore,3TB-4.22"},
 
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.131",      "desc": "Fast",  "on": "gcore,6TB-4.22" },
