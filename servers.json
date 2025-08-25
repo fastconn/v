@@ -36,7 +36,7 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "novipetriv.com",    "desc": "Global", "on": "8.24-1800b" },   
+                { "name": "Server-1", "domain": "novipetriv.com",    "desc": "Global", "on": "8.24-1800" },   
                 { "name": "Server-2", "domain": "malynmah.com",    "desc": "Global" }, 
 
                 { "name": "Server-3", "domain": "novaolek.net",     "desc": "Global", "on": "8.24-0900" },   
@@ -66,12 +66,6 @@
 
            ],
            "watch": [
-                { "name": "Server-1", "domain": "derzhaniv.net",    "desc": "Global", "on": "7.26-1820a" },   
-                { "name": "Server-2", "domain": "irzhavets.net",    "desc": "Global" }, 
-
-                { "name": "Server-3", "domain": "lommelle.com",     "desc": "Global", "on": "7.6-1515" },   
-                { "name": "Server-4", "domain": "tessenderl.com",    "desc": "Global" },  
-
             {}
            ]
         },
@@ -107,7 +101,6 @@
                 { "cc": "in", "city": "Mumbai",         "ip": "172.236.169.140",    "desc": "Fast",  "on": "li@2TB,1.15" }
             ],
             "vip-bak": [
-                { "name": "VIP-2", "domain": "vypovzky.net",   "desc": "Global",    "on": "7.7-0310"},
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.8",        "desc": "Fast",  "on": "gcore,3TB-4.22"},
 
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.131",      "desc": "Fast",  "on": "gcore,6TB-4.22" },
