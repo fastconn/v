@@ -74,8 +74,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "pohreby.net",    "desc": "Global",    "on": "8.12-1720"},
-                { "name": "VIP-2", "domain": "strakhol.com",   "desc": "Global",    "on": "8.24-1410"},
+                { "name": "VIP-1", "domain": "strakhol.com",   "desc": "Global",    "on": "8.24-1410"},
+                { "name": "VIP-2", "domain": "pohreby.net",    "desc": "Global",    "on": "8.12-1720"},
                 {}
             ], 
             "servers": [
