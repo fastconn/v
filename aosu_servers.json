@@ -13,7 +13,7 @@
             "ips": [
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.157.88.12",      "desc": "High speed", "on": "7-1@25.8.23" },
          
-                { "cc": "us", "city": "Dallas",     "ip": "167.88.62.196",      "desc": "High speed", "on": "5-20@2.2,7.1,7.13，8.14，8.15" },
+                { "cc": "us", "city": "Dallas",     "ip": "167.88.62.221",      "desc": "High speed", "on": "5-20@2.2,7.1,7.13，8.14，8.15，8.30" },
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.87",       "desc": "High speed", "on": "9-10@1.9,1.13,1.16,1.19,1.23,2.5,2.25，4.24" },
                 { "cc": "ca", "city": "Toronto",    "ip": "23.162.200.77",      "desc": "High speed", "on": "2-14@1.13,2.23" },
                 { "cc": "ca", "city": "Montreal",   "ip": "23.162.56.104",      "desc": "High speed", "on": "1-21@1.10" },
