@@ -32,6 +32,7 @@
                 { "memo": "light" }
             ],
             "servers": [
+                { "cc": "us", "city": "Ashburn",       "ip": "172.11.38.33",     "desc": "High speed", "on": "8-22@9.2" },
                 { "cc": "us", "city": "New York",       "ip": "216.39.249.141",     "desc": "High speed", "on": "4-22@7.6" },
                 { "cc": "us", "city": "Miami",          "ip": "67.220.74.196",      "desc": "High speed", "on": "1-15,0.5Gb@3.4，7.11,8.31" },   
 
