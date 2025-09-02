@@ -32,7 +32,6 @@
                 { "memo": "light" }
             ],
             "servers": [
-                { "cc": "us", "city": "Ashburn",       "ip": "172.11.38.33",     "desc": "High speed", "on": "8-22@9.2" },
                 { "cc": "us", "city": "New York",       "ip": "216.39.249.141",     "desc": "High speed", "on": "4-22@7.6" },
                 { "cc": "us", "city": "Miami",          "ip": "67.220.74.196",      "desc": "High speed", "on": "1-15,0.5Gb@3.4，7.11,8.31" },   
 
@@ -44,10 +43,7 @@
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.181",      "desc": "High speed",  "on": "2-10@7.3,8.31" }
            ],
             "watch": [
-                { "cc": "nl", "city": "Amsterdam",  "ip": "91.239.53.58",      "desc": "High speed", "on": "6-1,0.3Gb@2.21,2.22,3.5,4.2" },
-                { "cc": "us", "city": "Dallas",         "ip": "23.150.248.64",     "desc": "High speed", "on": "4-5@2.2，5.21" },
-                { "cc": "es", "city": "Madrid",     "ip": "67.220.66.220",      "desc": "High speed", "on": "4-10,0.5Gb@3.2" },
-                { "cc": "us", "city": "New York",       "ip": "216.39.249.205",     "desc": "High speed", "on": "1-19@12.30,1.7,2.6" },
+                { "cc": "us", "city": "Ashburn",       "ip": "172.11.38.33",     "desc": "High speed", "on": "8-22@9.2" },
 
                 {}
             ]
