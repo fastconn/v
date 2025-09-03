@@ -80,7 +80,7 @@
             ], 
             "servers": [
                 { "cc": "gb", "city": "London",     "ip": "142.202.51.119",     "desc": "Performance(New)",  "on": "5-8@7.6" },
-                { "cc": "us", "city": "New York",   "ip": "216.39.249.219",     "desc": "Performance", "on": "2-10@1.4,1.21,3.2" },
+                { "cc": "us", "city": "New York",   "ip": "216.39.249.206",     "desc": "Performance", "on": "2-13@9.3" },
                 { "cc": "us", "city": "Seattle",    "ip": "38.143.66.15",     "desc": "Performance", "on": "1-20@6.29，7.11" },
                 { "cc": "ca", "city": "Vancouver",  "ip": "38.96.254.95",    "desc": "High speed",   "on": "2-22@1.9 ~5.15" },
                 { "cc": "ca", "city": "Montreal",   "ip": "158.51.121.63",    "desc": "High speed",   "on": "1-4@8.12" },
