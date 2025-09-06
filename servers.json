@@ -42,7 +42,7 @@
                 { "name": "Server-3", "domain": "novaolek.net",     "desc": "Global", "on": "8.24-0900" },   
                 { "name": "Server-4", "domain": "nosivkar.com",    "desc": "Global" },   
 
-                { "name": "Server-5", "domain": "lekhnivka.net",    "desc": "Global", "on": "8.10-2310" },   
+                { "name": "Server-5", "domain": "hungshing.org",    "desc": "Global", "on": "b-9.6-1140" },   
                {}
             ],
             "servers": [
