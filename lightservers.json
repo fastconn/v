@@ -26,7 +26,8 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "velykado.net", "on": "8.11-2005" },
+                { "name": "Server-1", "desc": "Global", "domain": "fapeng.org", "on": "9.6-1150" },
+
                 { "name": "Server-2", "desc": "Global", "domain": "kobyzhcha.net"},
                 { "name": "Server-3", "desc": "Global", "domain": "halytsay.net"},
                 { "memo": "light" }
@@ -42,8 +43,9 @@
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.181",      "desc": "High speed",  "on": "2-10@7.3,8.31" }
            ],
             "watch": [
-                { "cc": "fr", "city": "Paris",      "ip": "23.162.152.216",      "desc": "High speed",       "on": "10-4@3.3,6.2,8.31" },
-                { "cc": "us", "city": "Miami",          "ip": "67.220.74.196",      "desc": "High speed", "on": "1-15,0.5Gb@3.4，7.11,8.31" },   
+                { "name": "Server-1", "desc": "Global", "domain": "velykado.net", "on": "8.11-2005" },
+                { "name": "Server-2", "desc": "Global", "domain": "kobyzhcha.net"},
+                { "name": "Server-3", "desc": "Global", "domain": "halytsay.net"},
 
                 {}
             ]
