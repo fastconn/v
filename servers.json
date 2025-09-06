@@ -36,7 +36,8 @@
             ],
             "ws3": [
 
-                { "name": "Server-1", "domain": "novipetriv.com",    "desc": "Global", "on": "8.24-1800" },   
+                { "name": "Server-1", "domain": "vorana.org",    "desc": "Global", "on": "b-9.6-1030" },   
+                
                 { "name": "Server-2", "domain": "malynmah.com",    "desc": "Global" }, 
 
                 { "name": "Server-3", "domain": "novaolek.net",     "desc": "Global", "on": "8.24-0900" },   
@@ -66,7 +67,12 @@
 
            ],
            "watch": [
-            {}
+
+                { "name": "Server-1", "domain": "novipetriv.com",    "desc": "Global", "on": "8.24-1800" },   
+                { "name": "Server-2", "domain": "malynmah.com",    "desc": "Global" },      
+                
+                { "name": "Server-5", "domain": "lekhnivka.net",    "desc": "Global", "on": "8.10-2310" },   
+                {}
            ]
         },
         {
