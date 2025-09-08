@@ -47,6 +47,7 @@
             ],
             "servers": [
                 { "cc": "us", "city": "New York",       "ip": "169.197.141.115",     "desc": "High speed",   "on": "2-5@1.1,..,1.28,2.6,2.22,4.4，5.5" },
+                { "cc": "us", "city": "Ashburn",        "ip": "172.111.38.33",          "desc": "Fast", "on": "8-22@9.8" },
                 { "cc": "us", "city": "Ashburn",        "ip": "38.107.226.227",     "desc": "High speed",   "on": "2-2@8.10" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "162.251.63.23",      "desc": "High speed",   "on": "1-1@7.29,8.15" },
                 { "cc": "us", "city": "Dallas",         "ip": "167.88.62.137",      "desc": "High speed",   "on": "2-15@1.18,8.15，8.22,8.29" },
