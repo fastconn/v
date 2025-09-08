@@ -50,7 +50,6 @@
                 { "cc": "us", "city": "Ashburn",        "ip": "172.111.38.33",          "desc": "Fast", "on": "8-22@9.8" },
                 { "cc": "us", "city": "Ashburn",        "ip": "38.107.226.227",     "desc": "High speed",   "on": "2-2@8.10" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "162.251.63.23",      "desc": "High speed",   "on": "1-1@7.29,8.15" },
-                { "cc": "us", "city": "Dallas",         "ip": "167.88.62.137",      "desc": "High speed",   "on": "2-15@1.18,8.15，8.22,8.29" },
                 { "cc": "us", "city": "Santa Clara",    "ip": "167.88.61.158",      "desc": "High speed",   "on": "1-20@7.30,8.31" },
 
                 { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.24",     "desc": "High speed",   "on": "1-6@7.11" },   
@@ -67,11 +66,8 @@
 
            ],
            "watch": [
+                { "cc": "us", "city": "Dallas",         "ip": "167.88.62.137",      "desc": "High speed",   "on": "2-15@1.18,8.15，8.22,8.29" },
 
-                { "name": "Server-1", "domain": "novipetriv.com",    "desc": "Global", "on": "8.24-1800" },   
-                { "name": "Server-2", "domain": "malynmah.com",    "desc": "Global" },      
-                
-                { "name": "Server-5", "domain": "lekhnivka.net",    "desc": "Global", "on": "8.10-2310" },   
                 {}
            ]
         },
