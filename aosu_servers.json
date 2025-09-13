@@ -7,8 +7,8 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "lykhachiv.com", "on": "8.24-1400" },
-                { "name": "Server-2", "desc": "Global", "domain": "rudkivka.com", "on": "8.24-1400" }
+                { "name": "Server-1", "desc": "Global", "domain": "rangsang.org", "on": "9.13-0945" },
+                { "name": "Server-2", "desc": "Global", "domain": "jamekk.org" }
             ],
             "ips": [
                 { "cc": "us", "city": "New York",   "ip": "38.99.82.87",        "desc": "High speed", "on": "9-10@1.9,1.13,1.16,1.19,1.23,2.5,2.25，4.24" },

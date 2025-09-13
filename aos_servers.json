@@ -37,8 +37,8 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "lykhachiv.com", "on": "8.24-1400" },
-                    { "pr": 4, "name": "Global-2", "i": "rudkivka.com", "on": "8.24-1400" }
+                    { "pr": 4, "name": "Global-1", "i": "rangsang.org", "on": "9.13-0945" },
+                    { "pr": 4, "name": "Global-2", "i": "jamekk.org" }
                ]
             }
         ],
