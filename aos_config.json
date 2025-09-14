@@ -22,7 +22,7 @@
         "maxShow": 180,
         "adWait": 5,
         "skipSec": 8,
-        "fullAdElapse": 60,
+        "fullAdElapse": 45,
         "resultBackAd": false,
         "hotSplashAd": true,
         "firstAd": 1,
