@@ -51,6 +51,7 @@
                 { "cc": "us", "city": "Los Angeles",    "ip": "162.251.63.23",      "desc": "High speed",   "on": "1-1@7.29,8.15" },
                 { "cc": "us", "city": "Santa Clara",    "ip": "167.88.61.158",      "desc": "High speed",   "on": "1-20@7.30,8.31" },
 
+                { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.190",     "desc": "High speed",   "on": "1-16@7.28" },   
                 { "cc": "ca", "city": "Montreal",       "ip": "134.195.198.214",    "desc": "High speed",   "on": "1-23@2.19,4.22,6.28,1018,1107,1208,2.10,3.5" },
                 { "cc": "ca", "city": "Vancouver",      "ip": "38.96.254.96",       "desc": "High speed",   "on": "1-10@6,17,~11.15" },   
  
@@ -64,7 +65,6 @@
 
            ],
            "watch": [
-                { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.24",     "desc": "High speed",   "on": "1-6@7.11" },   
 
                 {}
            ]
