@@ -93,7 +93,7 @@
  
 		       
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.131",      "desc": "Fast",  "on": "gcore,6TB-4.22" },
-                { "cc": "il", "city": "Tel Aviv",       "ip": "5.188.227.46",       "desc": "Fast",  "on": "gcore,2TB-7.18" },
+                { "cc": "il", "city": "Tel Aviv",       "ip": "5.188.227.6",        "desc": "Fast",  "on": "gcore,4TB-9.29" },
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.8",        "desc": "Fast",  "on": "gcore,3TB-4.22"},
              
                 { "cc": "jp", "city": "Tokyo",          "ip": "172.104.80.66",      "desc": "Fast",  "on": "li@4TB,8.1" }, 
@@ -104,9 +104,7 @@
             "vip-bak": [
                 { "cc": "hk", "city": "Hong Kong",      "ip": "213.156.141.52",     "desc": "Fast",  "on": "gcore,2TB-8.24"},
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.252",      "desc": "Fast",  "on": "gcore,6TB-8.16" },
-
-
-                { "cc": "ca", "city": "Vancouver",  "ip": "38.96.254.95",    "desc": "High speed",   "on": "2-22@1.9 ~5.15" },
+                { "cc": "il", "city": "Tel Aviv",       "ip": "5.188.227.46",       "desc": "Fast",  "on": "gcore,2TB-7.18" },
 
                 {}
             ]
