@@ -49,7 +49,7 @@
                 { "cc": "us", "city": "New York",       "ip": "169.197.141.115",     "desc": "High speed",   "on": "2-5@1.1,..,1.28,2.6,2.22,4.4，5.5" },
                 { "cc": "us", "city": "Ashburn",        "ip": "38.107.226.227",     "desc": "High speed",   "on": "2-2@8.10" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "162.251.63.23",      "desc": "High speed",   "on": "1-1@7.29,8.15" },
-                { "cc": "us", "city": "Santa Clara",    "ip": "167.88.61.158",      "desc": "High speed",   "on": "1-20@7.30,8.31" },
+                { "cc": "us", "city": "Santa Clara",    "ip": "167.88.61.25",      "desc": "High speed",   "on": "1-20@7.30,8.31，10.1" },
 
                 { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.190",     "desc": "High speed",   "on": "1-16@7.28" },   
                 { "cc": "ca", "city": "Montreal",       "ip": "134.195.198.214",    "desc": "High speed",   "on": "1-23@2.19,4.22,6.28,1018,1107,1208,2.10,3.5" },
