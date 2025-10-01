@@ -96,9 +96,9 @@
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.8",        "desc": "Fast",  "on": "gcore,3TB-4.22"},
              
                 { "cc": "jp", "city": "Tokyo",          "ip": "172.104.80.66",      "desc": "Fast",  "on": "li@4TB,8.1" }, 
-                { "cc": "br", "city": "São Paulo",      "ip": "172.233.17.76",      "desc": "Fast",  "on": "li@2TB,1.15" },
                 { "cc": "sg", "city": "Singapore",      "ip": "139.162.61.57",      "desc": "Fast",  "on": "li@2TB,7.18" },
-                { "cc": "in", "city": "Mumbai",         "ip": "172.236.169.140",    "desc": "Fast",  "on": "li@2TB,1.15" }
+                { "cc": "br", "city": "São Paulo",      "ip": "172.235.116.208",    "desc": "Fast",  "on": "li@1TB,10.1" },
+                { "cc": "in", "city": "Mumbai",         "ip": "172.232.103.186",    "desc": "Fast",  "on": "li@2TB,10.1" }
             ],
             "vip-bak": [
                 { "cc": "hk", "city": "Hong Kong",      "ip": "213.156.141.52",     "desc": "Fast",  "on": "gcore,2TB-8.24"},
@@ -107,6 +107,10 @@
 
                 { "cc": "de", "city": "Frankfurt",      "ip": "193.108.118.197",    "desc": "Fast", "on": "toremove-vps416,8T@12.16" },
                 { "cc": "ch", "city": "Zurich",         "ip": "134.195.199.16",     "desc": "Fast", "on": "vps293,8T@7.18" },
+
+                { "cc": "br", "city": "São Paulo",      "ip": "172.233.17.76",      "desc": "Fast",  "on": "li@2TB,1.15" },
+                { "cc": "in", "city": "Mumbai",         "ip": "172.236.169.140",    "desc": "Fast",  "on": "li@2TB,1.15" },
+                
                {}
             ]
         }
