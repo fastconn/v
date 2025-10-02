@@ -32,24 +32,22 @@
     },
     "adid": {
         "AnyFull-v2": [           
-            { "pri": 50, "id": "ca-app-pub-3510970371831048/4044459584", "type": "inter", "memo": "m923-1721" },
-            { "pri": 20, "id": "ca-app-pub-3510970371831048/7456294826", "type": "inter", "memo": "m913-1521" }
+            { "pri": 50, "id": "ca-app-pub-3510970371831048/5407058392", "type": "inter", "memo": "m1002-1358" },
+            { "pri": 20, "id": "ca-app-pub-3510970371831048/4044459584", "type": "inter", "memo": "m923-1721" }
         ],
         "SplashFull": [
-            { "pri": 50, "id": "ca-app-pub-3510970371831048/9333301515", "type": "inter", "memo": "m913-1521" },
-            { "pri": 10, "id": "ca-app-pub-3510970371831048/7113443267", "type": "inter", "memo": "m829-2336" }
+            { "pri": 50, "id": "ca-app-pub-3510970371831048/4697623713", "type": "inter", "memo": "m1002-1358" },
+            { "pri": 20, "id": "ca-app-pub-3510970371831048/9333301515", "type": "inter", "memo": "m913-1521" }
         ],
         
         
         "Mainpage-v2": [
-            { "pri": 50, "id": "ca-app-pub-3510970371831048/1601332910", "type": "native", "memo": "m913-1525", "mmv": "3.4.0,0" },
-            { "pri": 40, "id": "ca-app-pub-3510970371831048/1757206626", "type": "native", "memo": "m829-2336", "mmv": "3.4.0,0" },
-            { "pri": 30, "id": "ca-app-pub-3510970371831048/6198833334", "type": "native", "memo": "m828-1645", "mmv": "0,3.0.0" }
+            { "pri": 50, "id": "ca-app-pub-3510970371831048/2780895051", "type": "native", "memo": "m1002-1400" },
+            { "pri": 40, "id": "ca-app-pub-3510970371831048/1601332910", "type": "native", "memo": "m913-1525" }
         ],
         "Didcon-v2": [
-            { "pri": 50, "id": "ca-app-pub-3510970371831048/1601332910", "type": "native", "memo": "m913-1525", "mmv": "3.4.0,0" },
-            { "pri": 40, "id": "ca-app-pub-3510970371831048/1757206626", "type": "native", "memo": "m829-2336", "mmv": "3.4.0,0" },
-            { "pri": 30, "id": "ca-app-pub-3510970371831048/6198833334", "type": "native", "memo": "m828-1645", "mmv": "0,3.0.0" }
+            { "pri": 60, "id": "ca-app-pub-3510970371831048/2780895051", "type": "native", "memo": "m1002-1400" },
+            { "pri": 50, "id": "ca-app-pub-3510970371831048/1601332910", "type": "native", "memo": "m913-1525" }
         ],
 
         "Location-v2？？": [
