@@ -42,7 +42,7 @@
                 { "name": "Server-3", "domain": "pelang.org",     "desc": "Global", "on": "9.13-0930" },   
                 { "name": "Server-4", "domain": "yichueng.org",    "desc": "Global" },   
 
-                { "name": "Server-5", "domain": "hungshing.org",    "desc": "Global", "on": "9.6-1140" },   
+                { "name": "Server-5", "domain": "putihb.org",    "desc": "Global", "on": "10.10-1630" },   
                {}
             ],
             "servers": [
