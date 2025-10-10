@@ -37,7 +37,7 @@
             "ws3": [
 
                 { "name": "Server-1", "domain": "missionriver.org",    "desc": "Global", "on": "10.10-1540" },   
-                { "name": "Server-2", "domain": "lammaland.org",    "desc": "Global" }, 
+                { "name": "Server-2", "domain": "pulau.org",    "desc": "Global" }, 
 
                 { "name": "Server-3", "domain": "pelang.org",     "desc": "Global", "on": "9.13-0930" },   
                 { "name": "Server-4", "domain": "yichueng.org",    "desc": "Global" },   
