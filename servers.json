@@ -40,7 +40,7 @@
                 { "name": "Server-2", "domain": "pulau.org",    "desc": "Global" }, 
 
                 { "name": "Server-3", "domain": "pelang.org",     "desc": "Global", "on": "9.13-0930" },   
-                { "name": "Server-4", "domain": "yichueng.org",    "desc": "Global" },   
+                { "name": "Server-4", "domain": "tasiks.org",    "desc": "Global", "on": "10.11-0900" },   
 
                 { "name": "Server-5", "domain": "putihb.org",    "desc": "Global", "on": "10.10-1630" },   
                {}
@@ -65,6 +65,7 @@
 
            ],
            "watch": [
+                { "name": "Server-4", "domain": "yichueng.org",    "desc": "Global" },   
                 {}
            ]
         },
@@ -73,7 +74,7 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "pelang.org",      "desc": "Global",    "on": "9.13-0945" },
+                { "name": "VIP-1", "domain": "masjide.org",      "desc": "Global",    "on": "9.13-0945" },
                 { "name": "VIP-2", "domain": "yichueng.org",    "desc": "Global" },
                 {}
             ], 

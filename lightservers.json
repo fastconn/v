@@ -26,7 +26,7 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "fapeng.org", "on": "9.6-1150" },
+                { "name": "Server-1", "desc": "Global", "domain": "bubur.org", "on": "10.11-0905" },
 
                 { "name": "Server-2", "desc": "Global", "domain": "kampong.org", "on": "9.13-0940"},
                 { "name": "Server-3", "desc": "Global", "domain": "serkat.org"},
@@ -44,6 +44,7 @@
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.181",      "desc": "High speed",  "on": "2-10@7.3,8.31" }
            ],
             "watch": [
+                { "name": "Server-1", "desc": "Global", "domain": "fapeng.org", "on": "9.6-1150" },
        
 
                 {}
