@@ -75,7 +75,7 @@
             "image": "for_VIP",
             "ws3": [
                 { "name": "VIP-1", "domain": "masjide.org",      "desc": "Global",    "on": "9.13-0945" },
-                { "name": "VIP-2", "domain": "yichueng.org",    "desc": "Global" },
+                { "name": "VIP-2", "domain": "seribus.org",    "desc": "Global" },
                 {}
             ], 
             "servers": [
