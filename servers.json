@@ -106,9 +106,6 @@
                 { "cc": "hk", "city": "Hong Kong",      "ip": "213.156.141.52",     "desc": "Fast",  "on": "gcore,2TB-8.24"},
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.252",      "desc": "Fast",  "on": "gcore,6TB-8.16" },
                 { "cc": "il", "city": "Tel Aviv",       "ip": "5.188.227.46",       "desc": "Fast",  "on": "gcore,2TB-7.18" },
-
-                { "cc": "de", "city": "Frankfurt",      "ip": "193.108.118.197",    "desc": "Fast", "on": "toremove-vps416,8T@12.16" },
-                { "cc": "ch", "city": "Zurich",         "ip": "134.195.199.16",     "desc": "Fast", "on": "vps293,8T@7.18" },
                 
                {}
             ]
