@@ -65,7 +65,6 @@
 
            ],
            "watch": [
-                { "name": "Server-4", "domain": "yichueng.org",    "desc": "Global" },   
                 {}
            ]
         },
@@ -108,9 +107,6 @@
 
                 { "cc": "de", "city": "Frankfurt",      "ip": "193.108.118.197",    "desc": "Fast", "on": "toremove-vps416,8T@12.16" },
                 { "cc": "ch", "city": "Zurich",         "ip": "134.195.199.16",     "desc": "Fast", "on": "vps293,8T@7.18" },
-
-                { "cc": "br", "city": "São Paulo",      "ip": "172.233.17.76",      "desc": "Fast",  "on": "li@2TB,1.15" },
-                { "cc": "in", "city": "Mumbai",         "ip": "172.236.169.140",    "desc": "Fast",  "on": "li@2TB,1.15" },
                 
                {}
             ]
