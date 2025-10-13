@@ -101,7 +101,7 @@
                 { "cc": "au", "city": "Sydney",         "ip": "172.105.169.70",     "desc": "Fast",  "on": "li@2TB-10.13"},
                 { "cc": "jp", "city": "Tokyo",          "ip": "172.104.80.66",      "desc": "Fast",  "on": "li@4TB,8.1" }, 
                 { "cc": "sg", "city": "Singapore",      "ip": "139.162.61.57",      "desc": "Fast",  "on": "li@2TB,7.18" },
-                { "cc": "br", "city": "São Paulo",      "ip": "172.235.116.208",    "desc": "Fast",  "on": "li@1TB,10.1" },
+                { "cc": "br", "city": "São Paulo",      "ip": "172.233.17.76",      "desc": "Fast",  "on": "li@2TB,10.1" },
                 { "cc": "in", "city": "Mumbai",         "ip": "172.232.103.186",    "desc": "Fast",  "on": "li@2TB,10.1" }
             ],
             "vip-bak": [
