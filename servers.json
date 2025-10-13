@@ -78,7 +78,7 @@
                 {}
             ], 
             "servers": [
-                { "cc": "gb", "city": "London",     "ip": "142.202.51.119",     "desc": "Performance(New)",  "on": "5-8@7.6" },
+                { "cc": "gb", "city": "London",     "ip": "142.202.51.119",     "desc": "Performance",  "on": "5-8@7.6" },
                 { "cc": "us", "city": "New York",   "ip": "216.39.249.206",     "desc": "Performance", "on": "2-13@9.3" },
                 { "cc": "us", "city": "Seattle",    "ip": "38.143.66.15",     "desc": "Performance", "on": "1-20@6.29，7.11" },
                 { "cc": "ca", "city": "Montreal",   "ip": "158.51.121.63",    "desc": "High speed",   "on": "1-4@8.12" },
@@ -86,8 +86,10 @@
                 { "cc": "us", "city": "Ashburn",    "ip": "45.82.161.225",          "desc": "Fast", "on": "gcore@9.8" },
 
                 { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.237",      "desc": "Fast", "on": "vps415,8T@12.16" },
+                { "cc": "us", "city": "Atlanta",        "ip": "38.83.114.109",      "desc": "Fast", "on": "vps108,8T@10.13" },
                 { "cc": "us", "city": "Chicago",        "ip": "67.220.73.103",      "desc": "Fast", "on": "vps089,8T@7.16" },
                 { "cc": "de", "city": "Frankfurt",      "ip": "185.177.229.128",    "desc": "Fast", "on": "vps416,8T@9.29" },
+                { "cc": "ch", "city": "Zurich",         "ip": "23.166.88.87",       "desc": "Fast", "on": "vps109,8T@10.13" },
  
 		       
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.131",      "desc": "Fast",  "on": "gcore,6TB-4.22" },
