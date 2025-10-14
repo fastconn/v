@@ -48,16 +48,16 @@
 			"HotFull": "anyI",
 			"AnyInter": "anyI",
 			"AnyFull": "anyN",
-            "OffNative": "offN？？",
-            "OffInter": "offI",
+            "OffNative": "anyN",
+            "OffInter": "anyI",
 			"Connected2": "conn2"
 		},
         "sets": {
             "anyI": {
                 "type": "inter",
                 "ids": [
-					{ "id": "ca-app-pub-3510970371831048/9005470169", "memo":"m1011-0932" },
-					{ "id": "ca-app-pub-3510970371831048/3631614747", "memo":"m1006-0750" }
+					{ "id": "ca-app-pub-3510970371831048/8369129628", "memo":"m1014-0850" },
+					{ "id": "ca-app-pub-3510970371831048/9005470169", "memo":"m1011-0932" }
 				]
             },
 			"offI": {
@@ -71,8 +71,8 @@
 			"anyN": {
 				"type": "native", 
 				"ids": [
-					{ "id": "ca-app-pub-3510970371831048/6485326025", "memo": "m1011-0930" },
-					{ "id": "ca-app-pub-3510970371831048/5834982544", "memo": "m1006-0750" }
+					{ "id": "ca-app-pub-3510970371831048/3810420595", "memo": "m1014-0850" },
+					{ "id": "ca-app-pub-3510970371831048/6485326025", "memo": "m1011-0930" }
 				]
 	 	    },
 			 "offN": {
