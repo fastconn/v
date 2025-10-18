@@ -75,7 +75,7 @@
             "image": "for_VIP",
             "ws3": [
                 { "name": "VIP-1", "domain": "masjide.org",      "desc": "Global",    "on": "9.13-0945" },
-                { "name": "VIP-2", "domain": "seribus.org",    "desc": "Global" },
+                { "name": "VIP-2", "domain": "pelabu.org",       "desc": "Global",    "on": "10.18-1050" },
                 {}
             ], 
             "servers": [
@@ -109,6 +109,7 @@
                 { "cc": "hk", "city": "Hong Kong",      "ip": "213.156.141.52",     "desc": "Fast",  "on": "gcore,2TB-8.24"},
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.252",      "desc": "Fast",  "on": "gcore,6TB-8.16" },
                 { "cc": "il", "city": "Tel Aviv",       "ip": "5.188.227.46",       "desc": "Fast",  "on": "gcore,2TB-7.18" },
+                { "name": "VIP-2", "domain": "seribus.org",    "desc": "Global" },
                 
                {}
             ]
