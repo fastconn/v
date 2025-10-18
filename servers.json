@@ -39,7 +39,7 @@
                 { "name": "Server-1", "domain": "missionriver.org",    "desc": "Global", "on": "10.10-1540" },   
                 { "name": "Server-2", "domain": "pulau.org",    "desc": "Global" }, 
 
-                { "name": "Server-3", "domain": "pelang.org",     "desc": "Global", "on": "9.13-0930" },   
+                { "name": "Server-3", "domain": "gununge.org",     "desc": "Global", "on": "10.18-1031-b" },   
                 { "name": "Server-4", "domain": "tasiks.org",    "desc": "Global", "on": "10.11-0900" },   
 
                 { "name": "Server-5", "domain": "putihb.org",    "desc": "Global", "on": "10.10-1630" },   
@@ -65,6 +65,7 @@
 
            ],
            "watch": [
+                { "name": "Server-3", "domain": "pelang.org",     "desc": "Global", "on": "9.13-0930" },   
                 {}
            ]
         },
