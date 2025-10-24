@@ -73,7 +73,7 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "masjide.org",      "desc": "Global",    "on": "9.13-0945" },
+                { "name": "VIP-1", "domain": "northcurup.org",   "desc": "Global",    "on": "10.24-0845" },
                 { "name": "VIP-2", "domain": "pelabu.org",       "desc": "Global",    "on": "10.18-1050" },
                 {}
             ], 
@@ -110,7 +110,8 @@
                 { "cc": "il", "city": "Tel Aviv",       "ip": "5.188.227.6",        "desc": "Fast",  "on": "gcore,4TB-9.29" },
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.8",        "desc": "Fast",  "on": "gcore,3TB-4.22"},
                 
-               {}
+                { "name": "VIP-1", "domain": "masjide.org",      "desc": "Global",    "on": "9.13-0945" },
+                {}
             ]
         }
     ],

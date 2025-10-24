@@ -28,8 +28,8 @@
             "ws3": [
                 { "name": "Server-1", "desc": "Global", "domain": "bubur.org", "on": "10.11-0905" },
 
-                { "name": "Server-2", "desc": "Global", "domain": "kampong.org", "on": "9.13-0940"},
-                { "name": "Server-3", "desc": "Global", "domain": "serkat.org"},
+                { "name": "Server-2", "desc": "Global", "domain": "mapoon.org", "on": "10.24-0850" },
+                { "name": "Server-3", "desc": "Global", "domain": "bamaga.org", "on": "10.24-0850"},
                 { "memo": "light" }
             ],
             "servers": [
@@ -44,6 +44,8 @@
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.181",      "desc": "High speed",  "on": "2-10@7.3,8.31" }
            ],
             "watch": [       
+                { "name": "Server-2", "desc": "Global", "domain": "kampong.org", "on": "9.13-0940"},
+                { "name": "Server-3", "desc": "Global", "domain": "serkat.org"},
 
                 {}
             ]
