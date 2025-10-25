@@ -27,7 +27,7 @@
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6" }
             ],
             "ws-bak": [
-                { "name": "Server-2", "desc": "Global", "domain": "jamekk.org" }
+                
             ]
         }
     ]
