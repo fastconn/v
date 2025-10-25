@@ -7,7 +7,7 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "rangsang.org", "on": "9.13-0945" },
+                { "name": "Server-1", "desc": "Global", "domain": "jayakoka.org", "on": "10.25-1007" },
                 { "name": "Server-2", "desc": "Global", "domain": "wenlock.org",  "on": "10.24-0850" }
             ],
             "ips": [
@@ -27,7 +27,8 @@
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6" }
             ],
             "ws-bak": [
-                
+                { "name": "Server-1", "desc": "Global", "domain": "rangsang.org", "on": "9.13-0945" },
+                {}
             ]
         }
     ]
