@@ -26,7 +26,7 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "bubur.org", "on": "10.11-0905" },
+                { "name": "Server-1", "desc": "Global", "domain": "ceelayo.org", "on": "11.5-1255" },
 
                 { "name": "Server-2", "desc": "Global", "domain": "mapoon.org", "on": "10.24-0850" },
                 { "name": "Server-3", "desc": "Global", "domain": "bamaga.org", "on": "10.24-0850"},
@@ -43,6 +43,7 @@
                 { "cc": "gb", "city": "London",     "ip": "186.190.211.147",    "desc": "High speed",       "on": "6-1@7.15" }
            ],
             "watch": [       
+                { "name": "Server-1", "desc": "Global", "domain": "bubur.org", "on": "10.11-0905" },
                 { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.181",      "desc": "High speed",  "on": "2-10@7.3,8.31" },
 
                 {}
