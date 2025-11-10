@@ -39,7 +39,7 @@
                 { "name": "Server-1", "domain": "missionriver.org",    "desc": "Global", "on": "10.10-1540" },   
                 { "name": "Server-2", "domain": "bosasot.org",    "desc": "Global", "on": "10.25-1005" }, 
 
-                { "name": "Server-3", "domain": "gununge.org",     "desc": "Global", "on": "10.18-1031-b" },   
+                { "name": "Server-3", "domain": "metehi.com",     "desc": "Global", "on": "11.10-0915" },   
                 { "name": "Server-4", "domain": "muarabelti.org",    "desc": "Global", "on": "10.25-1005" },   
 
                 { "name": "Server-5", "domain": "merantau.org",    "desc": "Global", "on": "10.25-1006" },   
@@ -65,6 +65,7 @@
 
            ],
            "watch": [ 
+                { "name": "Server-3", "domain": "gununge.org",     "desc": "Global", "on": "10.18-1031-b" },   
                 {}
            ]
         },
@@ -74,7 +75,7 @@
             "image": "for_VIP",
             "ws3": [
                 { "name": "VIP-1", "domain": "northcurup.org",   "desc": "Global",    "on": "10.24-0845" },
-                { "name": "VIP-2", "domain": "pelabu.org",       "desc": "Global",    "on": "10.18-1050" },
+                { "name": "VIP-2", "domain": "bradashe.com",     "desc": "Global",    "on": "11.10-0915" },
                 {}
             ], 
             "servers": [
@@ -109,6 +110,8 @@
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.131",      "desc": "Fast",  "on": "gcore,6TB-4.22" },
                 { "cc": "il", "city": "Tel Aviv",       "ip": "5.188.227.6",        "desc": "Fast",  "on": "gcore,4TB-9.29" },
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.8",        "desc": "Fast",  "on": "gcore,3TB-4.22"},
+ 
+                { "name": "VIP-2", "domain": "pelabu.org",       "desc": "Global",    "on": "10.18-1050" },
                 
                 { "cc": "gb", "city": "London",     "ip": "142.202.51.119",     "desc": "Performance",  "on": "5-8@7.6" },
                 {}
