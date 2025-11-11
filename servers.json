@@ -55,6 +55,7 @@
                 { "cc": "ca", "city": "Montreal",       "ip": "134.195.198.214",    "desc": "High speed",   "on": "1-23@2.19,4.22,6.28,1018,1107,1208,2.10,3.5" },
                 { "cc": "ca", "city": "Vancouver",      "ip": "38.96.254.96",       "desc": "High speed",   "on": "1-10@6,17,~11.15" },   
  
+                { "cc": "de", "city": "Frankfurt",  "ip": "193.108.117.33",         "desc": "High speed",   "on":"3-4,14c2Gb@1.11" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "193.108.117.108",         "desc": "High speed",   "on":"3-4,14c2Gb@1.11,7.1..8.31,9.11，9.27，9.28" },
  
                 { "cc": "gb", "city": "London",     "ip": "186.190.211.188",     "desc": "High speed",   "on": "2-11@7.28" },
@@ -65,7 +66,6 @@
 
            ],
            "watch": [ 
-                { "name": "Server-3", "domain": "gununge.org",     "desc": "Global", "on": "10.18-1031-b" },   
                 {}
            ]
         },
@@ -110,9 +110,7 @@
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.131",      "desc": "Fast",  "on": "gcore,6TB-4.22" },
                 { "cc": "il", "city": "Tel Aviv",       "ip": "5.188.227.6",        "desc": "Fast",  "on": "gcore,4TB-9.29" },
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.8",        "desc": "Fast",  "on": "gcore,3TB-4.22"},
- 
-                { "name": "VIP-2", "domain": "pelabu.org",       "desc": "Global",    "on": "10.18-1050" },
-                
+                 
                 { "cc": "gb", "city": "London",     "ip": "142.202.51.119",     "desc": "Performance",  "on": "5-8@7.6" },
                 {}
             ]

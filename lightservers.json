@@ -43,8 +43,6 @@
                 { "cc": "gb", "city": "London",     "ip": "186.190.211.147",    "desc": "High speed",       "on": "6-1@7.15" }
            ],
             "watch": [       
-                { "cc": "ch", "city": "Zurich",     "ip": "23.166.88.181",      "desc": "High speed",  "on": "2-10@7.3,8.31" },
-
                 {}
             ]
         }
