@@ -89,7 +89,7 @@
                 { "cc": "us", "city": "Atlanta",        "ip": "31.13.213.24",      "desc": "Fast", "on": "gcore，1U1G@11.11" },
 
                 { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.237",      "desc": "Fast", "on": "vps415,8T@12.16" },
-                { "cc": "us", "city": "Chicago",        "ip": "67.220.73.103",      "desc": "Fast", "on": "vps089,8T@7.16" },
+
                 { "cc": "de", "city": "Frankfurt",      "ip": "185.177.229.128",    "desc": "Fast", "on": "vps416,8T@9.29" },
                
                 { "cc": "fr", "city": "Paris",         "ip": "45.80.215.80",       "desc": "Fast", "on": "gcore,2U2G@11.11" },
@@ -111,7 +111,7 @@
                 { "cc": "il", "city": "Tel Aviv",       "ip": "5.188.227.6",        "desc": "Fast",  "on": "gcore,4TB-9.29" },
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.8",        "desc": "Fast",  "on": "gcore,3TB-4.22"},
                  
-                { "cc": "gb", "city": "London",     "ip": "142.202.51.119",     "desc": "Performance",  "on": "5-8@7.6" },
+                { "cc": "us", "city": "Chicago",        "ip": "67.220.73.103",      "desc": "Fast", "on": "vps089,8T@7.16" },
                 {}
             ]
         }
