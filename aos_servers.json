@@ -45,7 +45,7 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "rangsang.org", "on": "9.13-0945" },
+                    { "pr": 4, "name": "Global-1", "i": "fisterera.com", "on": "11.15-1000" },
                     { "pr": 4, "name": "Global-2", "i": "pebyhe.com", "on": "11.11-0900" }
                ]
             }

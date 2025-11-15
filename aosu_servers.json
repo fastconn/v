@@ -7,7 +7,7 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "jayakoka.org", "on": "10.25-1007" },
+                { "name": "Server-1", "desc": "Global", "domain": "fisterera.com", "on": "11.15-1000" },
                 { "name": "Server-2", "desc": "Global", "domain": "pebyhe.com",  "on": "11.11-0900" }
             ],
             "ips": [
@@ -22,7 +22,9 @@
                 { "cc": "de", "city": "Frankfurt",  "ip": "23.157.88.103",      "desc": "High speed", "on": "7-1@25.8.23，10.1" },
                 { "cc": "de", "city": "Frankfurt",  "ip": "162.19.234.213",     "desc": "High speed", "on":"ov33807@4.3," }
             ],
-            "ips-bak": [
+            "ips-bak": [      
+                { "name": "Server-1", "desc": "Global", "domain": "jayakoka.org", "on": "10.25-1007" },
+
                 { "cc": "us", "city": "Chicago",    "ip": "162.251.61.40",      "desc": "High speed", "on": "1-2@10.23" },
 
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6" }
