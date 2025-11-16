@@ -23,8 +23,6 @@
                 { "cc": "de", "city": "Frankfurt",  "ip": "162.19.234.213",     "desc": "High speed", "on":"ov33807@4.3," }
             ],
             "ips-bak": [      
-                { "name": "Server-1", "desc": "Global", "domain": "jayakoka.org", "on": "10.25-1007" },
-
                 { "cc": "us", "city": "Chicago",    "ip": "162.251.61.40",      "desc": "High speed", "on": "1-2@10.23" },
 
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6" }
