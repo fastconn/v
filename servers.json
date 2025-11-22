@@ -61,7 +61,6 @@
 
            ],
            "watch": [ 
-                { "cc": "us", "city": "Santa Clara",    "ip": "167.88.61.86",       "desc": "High speed",   "on": "1-20@7.30,8.31，10.1,1018,1022，1118" },
                 { "name": "Server-2", "domain": "bosasot.org",    "desc": "Global", "on": "10.25-1005" }, 
                 { "name": "Server-3", "domain": "metehi.com",     "desc": "Global", "on": "11.10-0915" },   
 
