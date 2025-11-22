@@ -37,7 +37,7 @@
             "ws3": [
                 { "name": "Server-1", "domain": "orchclub.com",    "desc": "Global", "on": "11.11-0900" },   
                 { "name": "Server-2", "domain": "parisgame.org",    "desc": "Global", "on": "11.22-1010" }, 
-                { "name": "Server-3", "domain": "metehi.com",     "desc": "Global", "on": "11.10-0915" },   
+                { "name": "Server-3", "domain": "ancientie.homes",  "desc": "Global", "on": "11.22-1245" },   
                 { "name": "Server-4", "domain": "camarinaa.com",    "desc": "Global", "on": "11.15-1000" },   
                 { "name": "Server-5", "domain": "allades.com",    "desc": "Global", "on": "11.15-1000" },   
                 {}
@@ -63,6 +63,7 @@
            "watch": [ 
                 { "cc": "us", "city": "Santa Clara",    "ip": "167.88.61.86",       "desc": "High speed",   "on": "1-20@7.30,8.31，10.1,1018,1022，1118" },
                 { "name": "Server-2", "domain": "bosasot.org",    "desc": "Global", "on": "10.25-1005" }, 
+                { "name": "Server-3", "domain": "metehi.com",     "desc": "Global", "on": "11.10-0915" },   
 
                 {}
            ]
@@ -73,7 +74,7 @@
             "image": "for_VIP",
             "ws3": [
                 { "name": "VIP-1", "domain": "alcholshop.com",   "desc": "Global",    "on": "11.15-1000" },
-                { "name": "VIP-2", "domain": "bradashe.com",     "desc": "Global",    "on": "11.10-0915" },
+                { "name": "VIP-2", "domain": "zanglong.homes",   "desc": "Global",    "on": "11.22-1240" },
                 {}
             ], 
             "servers": [
@@ -110,6 +111,8 @@
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.252",      "desc": "Fast",  "on": "gcore,6TB-8.16" },
                 { "cc": "il", "city": "Tel Aviv",       "ip": "5.188.227.46",       "desc": "Fast",  "on": "gcore,2TB-7.18" },
                 { "cc": "hk", "city": "Hong Kong",      "ip": "213.156.141.52",     "desc": "Fast",  "on": "gcore,2TB-8.24"},
+   
+                { "name": "VIP-2", "domain": "bradashe.com",     "desc": "Global",    "on": "11.10-0915" },
                 {}
             ]
         }
