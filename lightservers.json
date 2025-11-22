@@ -27,8 +27,8 @@
             "ws2": [ ],
             "ws3": [
                 { "name": "Server-1", "desc": "Global", "domain": "airport1.org", "on": "11.22-1105" },
-                { "name": "Server-2", "desc": "Global", "domain": "doberdol.com", "on": "11.11-0900" },
-                { "name": "Server-3", "desc": "Global", "domain": "pakashtice.com", "on": "11.11-0900" },
+                { "name": "Server-2", "desc": "Global", "domain": "rangrover11.homes", "on": "11.22-1220" },
+                { "name": "Server-3", "desc": "Global", "domain": "rangrover12.homes", "on": "11.22-1220" },
                 { "memo": "light" }
             ],
             "servers": [
@@ -43,6 +43,8 @@
            ],
             "watch": [     
                 { "name": "Server-1", "desc": "Global", "domain": "ceelayo.org", "on": "11.5-1255" },
+                { "name": "Server-2", "desc": "Global", "domain": "doberdol.com", "on": "11.11-0900" },
+                { "name": "Server-3", "desc": "Global", "domain": "pakashtice.com", "on": "11.11-0900" },
                 {}
             ]
         }
