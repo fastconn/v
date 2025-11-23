@@ -35,8 +35,6 @@
                 { "cc": "us", "city": "Ashburn",        "ip": "172.111.38.33",          "desc": "Fast", "on": "8-22@9.8" },
                 { "cc": "us", "city": "New York",       "ip": "216.39.249.141",     "desc": "High speed", "on": "4-22@7.6" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "162.251.63.35",     "desc": "High speed", "on": "7-24@9.2,1122" },
-                { "cc": "us", "city": "Chicago",        "ip": "162.251.61.19",     "desc": "High speed", "on": "1-2@10.23,1122" },
-
                 { "cc": "ca", "city": "Montreal",       "ip": "23.162.56.37",       "desc": "High speed", "on": "1-13@1.4,2.4" },
 
                 { "cc": "de", "city": "Frankfurt",  "ip": "185.177.229.129",      "desc": "High speed",       "on": "7-1@8.11,8.31" },
