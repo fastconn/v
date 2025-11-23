@@ -29,6 +29,7 @@ while IFS= read -r line; do
     # 跳过注释行和空行
     if [[ $line =~ ^# ]] || [[ -z $line ]]; then
         echo "$line" >> "$OUTPUT_FILE"
+        echo "$line"
         continue
     fi
 
