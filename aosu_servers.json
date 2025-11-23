@@ -7,7 +7,7 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "fisterera.com", "on": "11.15-1000" },
+                { "name": "Server-1", "desc": "Global", "domain": "seagrav.com", "on": "11.23-1130" },
                 { "name": "Server-2", "desc": "Global", "domain": "musicbotx.com",  "on": "11.22-1316" }
             ],
             "ips": [
@@ -23,9 +23,9 @@
                 { "cc": "de", "city": "Frankfurt",  "ip": "162.19.234.213",     "desc": "High speed", "on":"ov33807@4.3," }
             ],
             "ips-bak": [      
-                { "cc": "us", "city": "Chicago",    "ip": "162.251.61.40",      "desc": "High speed", "on": "1-2@10.23" },
-
+                { "name": "Server-1", "desc": "Global", "domain": "fisterera.com", "on": "11.15-1000" },
                 { "name": "Server-2", "desc": "Global", "domain": "pebyhe.com",  "on": "11.11-0900" },
+
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6" }
             ],
             "ws-bak": [
