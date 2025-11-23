@@ -43,7 +43,6 @@
                 { "cc": "gb", "city": "London",     "ip": "186.190.211.147",    "desc": "High speed",       "on": "6-1@7.15" }
            ],
             "watch": [     
-                { "name": "Server-1", "desc": "Global", "domain": "ceelayo.org", "on": "11.5-1255" },
                 { "name": "Server-2", "desc": "Global", "domain": "rangrover11.homes",  "on": "11.22-1220" },
                 { "name": "Server-3", "desc": "Global", "domain": "pakashtice.com", "on": "11.11-0900" },
                 {}

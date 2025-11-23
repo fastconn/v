@@ -60,11 +60,9 @@
                 { "cc": "ch", "city": "Zurich",     "ip": "204.136.10.120",     "desc": "High speed",   "on": "11-6@8.3" }
 
            ],
-           "watch": [ 
-                { "name": "Server-2", "domain": "bosasot.org",    "desc": "Global", "on": "10.25-1005" }, 
-                 
-                
+           "watch": [                  
                 { "name": "Server-1", "domain": "orchclub.com",    "desc": "Global", "on": "11.11-0900" },   
+
                 { "name": "Server-3", "domain": "metehi.com",     "desc": "Global", "on": "11.10-0915" },   
                 { "name": "Server-4", "domain": "camarinaa.com",    "desc": "Global", "on": "11.15-1000" },   
                 { "name": "Server-5", "domain": "allades.com",    "desc": "Global", "on": "11.15-1000" },   
