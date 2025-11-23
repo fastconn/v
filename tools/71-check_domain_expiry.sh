@@ -81,8 +81,9 @@ while IFS= read -r line; do
         # 计算剩余天数
         if [ -n "$expiry_seconds" ]; then
             days_left=$(( (expiry_seconds - now) / 86400 ))
+            hours_left=$(( (expiry_seconds - now) % 86400 / 3600 ))
             echo "$original_domain: $formatted_date (Left $days_left days)" >> "$OUTPUT_FILE"
-            echo "  Expiry date: $formatted_date (Left $days_left days)"
+            echo "  Expiry date: $formatted_date (Left $days_left days $hours_left hours)"
         else
             echo "$original_domain: $formatted_date (Unable to calculate days left)" >> "$OUTPUT_FILE"
             echo "  Expiry date: $formatted_date (Unable to calculate days left)"
