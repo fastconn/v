@@ -38,7 +38,7 @@
                 { "name": "Server-1", "domain": "sonyacity.com",    "desc": "Global", "on": "11.23-1030" },   
                 { "name": "Server-2", "domain": "parisgame.org",    "desc": "Global", "on": "11.22-1010" }, 
                 { "name": "Server-3", "domain": "gillsonse.com",     "desc": "Global", "on": "11.23-1030" },   
-                { "name": "Server-4", "domain": "camarinaa.com",    "desc": "Global", "on": "11.15-1000" },   
+                { "name": "Server-4", "domain": "oakdenet.com",     "desc": "Global", "on": "11.23-1045" },   
                 { "name": "Server-5", "domain": "allades.com",    "desc": "Global", "on": "11.15-1000" },   
                 {}
             ],
