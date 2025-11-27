@@ -9,7 +9,7 @@ fi
 
 DOMAIN="$1"
 WILDCARD_DOMAIN="*.$DOMAIN"
-TXT_RECORDS_FILE="$(dirname "$0")/${DOMAIN}_txt_records.txt"
+TXT_RECORDS_FILE="$(dirname "$0")/txt/${DOMAIN}_txt_records.txt"
 
 # 配置文件路径
 CONFIG_FILE="$(dirname "$0")/namecheap_api.conf"

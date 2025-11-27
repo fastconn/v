@@ -9,7 +9,7 @@ fi
 
 DOMAIN="$1"
 WILDCARD_DOMAIN="*.$DOMAIN"
-TXT_RECORDS_FILE="$(dirname "$0")/${DOMAIN}_txt_records.txt"
+TXT_RECORDS_FILE="$(dirname "$0")/txt/${DOMAIN}_txt_records.txt"
 
 # 检查acme.sh是否已安装
 if [ ! -f "/root/.acme.sh/acme.sh" ]; then
