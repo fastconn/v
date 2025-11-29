@@ -109,7 +109,6 @@
                 { "cc": "il", "city": "Tel Aviv",       "ip": "5.188.227.46",       "desc": "Fast",  "on": "gcore,2TB-7.18" },
                 { "cc": "hk", "city": "Hong Kong",      "ip": "213.156.141.52",     "desc": "Fast",  "on": "gcore,2TB-8.24"},
    
-                { "name": "VIP-1", "domain": "alcholshop.com",   "desc": "Global",    "on": "11.15-1000" },
                 { "name": "VIP-3", "domain": "lisport2.org",    "desc": "Global",    "on": "11.24-1500" },
                 {}
             ]
