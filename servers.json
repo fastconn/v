@@ -69,8 +69,8 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "marina1.org",     "desc": "Global",    "on": "11.27-1400" },
-                { "name": "VIP-2", "domain": "lisport1.org",    "desc": "Global",    "on": "11.23-1450" },
+                { "name": "VIP-1", "domain": "scugoge.com",     "desc": "Global",    "on": "12.7-0836" },
+                { "name": "VIP-2", "domain": "carnegle.com",    "desc": "Global",    "on": "12.7-0836" },
                 {}
             ], 
             "servers": [
@@ -107,7 +107,9 @@
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.252",      "desc": "Fast",  "on": "gcore,6TB-8.16" },
                 { "cc": "il", "city": "Tel Aviv",       "ip": "5.188.227.46",       "desc": "Fast",  "on": "gcore,2TB-7.18" },
                 { "cc": "hk", "city": "Hong Kong",      "ip": "213.156.141.52",     "desc": "Fast",  "on": "gcore,2TB-8.24"},
-   
+
+                { "name": "VIP-1", "domain": "marina1.org",     "desc": "Global",    "on": "11.27-1400" },
+                { "name": "VIP-2", "domain": "lisport1.org",    "desc": "Global",    "on": "11.23-1450" },   
                 {}
             ]
         }

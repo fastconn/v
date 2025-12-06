@@ -26,7 +26,7 @@
             "wsNameAuto": true,
             "ws2": [ ],
             "ws3": [
-                { "name": "Server-1", "desc": "Global", "domain": "airport1.org",   "on": "11.22-1105" },
+                { "name": "Server-1", "desc": "Global", "domain": "fralcks.com",    "on": "12.7-0836" },
                 { "name": "Server-2", "desc": "Global", "domain": "janetvill.com",  "on": "11.23-1155" },
                 { "name": "Server-3", "desc": "Global", "domain": "viewlak.com",    "on": "11.23-1110" },
                 { "memo": "light" }
@@ -41,6 +41,7 @@
                 { "cc": "gb", "city": "London",     "ip": "186.190.211.147",    "desc": "High speed",       "on": "6-1@7.15" }
            ],
             "watch": [     
+                { "name": "Server-1", "desc": "Global", "domain": "airport1.org",   "on": "11.22-1105" },
                 {}
             ]
         }
