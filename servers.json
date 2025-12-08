@@ -108,9 +108,6 @@
                 { "cc": "hk", "city": "Hong Kong",      "ip": "213.156.141.52",     "desc": "Fast",  "on": "gcore,2TB-8.24"},
 
                 { "cc": "us", "city": "Atlanta",        "ip": "31.13.213.24",      "desc": "Fast", "on": "gcore，1U1G@11.11" },
-
-                { "name": "VIP-1", "domain": "marina1.org",     "desc": "Global",    "on": "11.27-1400" },
-                { "name": "VIP-2", "domain": "lisport1.org",    "desc": "Global",    "on": "11.23-1450" },   
                 {}
             ]
         }

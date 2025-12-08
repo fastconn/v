@@ -41,7 +41,6 @@
                 { "cc": "gb", "city": "London",     "ip": "186.190.211.147",    "desc": "High speed",       "on": "6-1@7.15" }
            ],
             "watch": [     
-                { "name": "Server-1", "desc": "Global", "domain": "airport1.org",   "on": "11.22-1105" },
                 {}
             ]
         }
