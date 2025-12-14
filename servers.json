@@ -74,10 +74,10 @@
                 {}
             ], 
             "servers": [
-                { "cc": "gb", "city": "London",     "ip": "5.181.27.26",     "desc": "Performance",  "on": "gcore@11.6" },
-                { "cc": "us", "city": "New York",   "ip": "216.39.249.206",     "desc": "Performance", "on": "2-13@9.3" },
-                { "cc": "us", "city": "Seattle",    "ip": "38.143.66.15",     "desc": "Performance", "on": "1-20@6.29，7.11" },
-                { "cc": "ca", "city": "Montreal",   "ip": "158.51.121.63",    "desc": "High speed",   "on": "1-4@8.12" },
+                { "cc": "gb", "city": "London",     "ip": "5.181.27.26",        "desc": "Performance",  "on": "gcore@11.6" },
+                { "cc": "us", "city": "New York",   "ip": "216.39.249.206",     "desc": "Performance",  "on": "2-13@9.3" },
+                { "cc": "us", "city": "Seattle",    "ip": "38.143.66.242",      "desc": "Performance",  "on": "1-12@12.14" },
+                { "cc": "ca", "city": "Montreal",   "ip": "158.51.121.63",      "desc": "High speed",   "on": "1-4@8.12" },
 
                 { "cc": "us", "city": "Ashburn",    "ip": "45.82.161.225",          "desc": "Fast", "on": "gcore@9.8" },
 
