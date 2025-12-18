@@ -152,13 +152,20 @@ add_dns_txt_records() {
     echo "Adding new TXT records..."
     while IFS=: read -r domain value; do
         host="_acme-challenge"
+
+        # 检查这个TXT值是否已经存在于当前记录中（针对同一子域名）
+        if echo "$records" | grep -o '<host[^>]*>' | grep -F "Name=\"$host\"" | grep -F "Address=\"$value\"" >/dev/null 2>&1; then
+            echo "Skipping duplicate TXT record: $host TXT $value"
+            continue
+        fi
+
         record_count=$((record_count + 1))
         params="$params&HostName$record_count=$host&RecordType$record_count=TXT&Address$record_count=$value&TTL$record_count=60"
         echo "Adding new TXT record: $host TXT $value"
-        
+
         # 统计记录类型
         type_counts["TXT"]=$((type_counts["TXT"] + 1))
-        
+
         # 统计子域名
         subdomain_counts[$host]=$((subdomain_counts[$host] + 1))
     done < "$TXT_RECORDS_FILE"

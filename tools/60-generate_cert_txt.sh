@@ -58,8 +58,17 @@ if [ ${#txt_records[@]} -ne 2 ]; then
     exit 1
 fi
 
+# 确保txt目录存在
+TXT_DIR="$(dirname "$TXT_RECORDS_FILE")"
+if [ ! -d "$TXT_DIR" ]; then
+    echo "Creating txt directory: $TXT_DIR"
+    mkdir -p "$TXT_DIR"
+fi
+
 # 将TXT记录保存到文件
 echo "Saving TXT records to $TXT_RECORDS_FILE..."
+# 如果文件已存在，先删除它以确保是新的内容
+[ -f "$TXT_RECORDS_FILE" ] && rm -f "$TXT_RECORDS_FILE"
 for record in "${txt_records[@]}"; do
     echo "$record" >> "$TXT_RECORDS_FILE"
 done
