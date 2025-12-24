@@ -11,7 +11,6 @@
                 { "name": "Server-2", "desc": "Global", "domain": "musicbotx.com",  "on": "11.22-1316" }
             ],
             "ips": [
-                { "cc": "us", "city": "New York",   "ip": "38.99.82.87",        "desc": "High speed", "on": "9-10@1.9,1.13,1.16,1.19,1.23,2.5,2.25，4.24" },
                 { "cc": "us", "city": "Ashburn",    "ip": "69.50.93.60",        "desc": "High speed", "on": "2-6@25.9.1，10.1" },
                 { "cc": "ca", "city": "Toronto",    "ip": "23.162.200.77",      "desc": "High speed", "on": "2-14@1.13,2.23" },
                 { "cc": "ca", "city": "Montreal",   "ip": "23.162.56.104",      "desc": "High speed", "on": "1-21@1.10" },
@@ -24,6 +23,7 @@
                 { "cc": "pl", "city": "Warsaw",     "ip": "146.59.55.50",       "desc": "High speed", "on":"ov05532@5.6,1123" }
             ],
             "ips-bak": [      
+                { "cc": "us", "city": "New York",   "ip": "38.99.82.87",        "desc": "High speed", "on": "9-10@1.9,1.13,1.16,1.19,1.23,2.5,2.25，4.24" },
                 {}
             ],
             "ws-bak": [
