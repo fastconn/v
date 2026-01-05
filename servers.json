@@ -39,6 +39,7 @@
                 { "name": "Server-2", "domain": "parisgame.org",    "desc": "Global", "on": "11.22-1010" }, 
                 { "name": "Server-3", "domain": "gillsonse.com",    "desc": "Global", "on": "11.23-1030" },   
                 { "name": "Server-4", "domain": "oakdenet.com",     "desc": "Global", "on": "11.23-1045" },   
+                { "name": "Server-5", "domain": "valentiae.com",    "desc": "Global", "on": "11.23-1110" },   
                 {}
             ],
             "servers": [
@@ -60,7 +61,6 @@
 
            ],
            "watch": [                 
-                { "name": "Server-5", "domain": "valentiae.com",    "desc": "Global", "on": "11.23-1110" },   
                 {}
            ]
         },
