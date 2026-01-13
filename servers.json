@@ -61,7 +61,6 @@
 
            ],
            "watch": [                 
-                { "name": "Server-2", "domain": "parisgame.org",    "desc": "Global", "on": "11.22-1010" }, 
                 {}
            ]
         },
