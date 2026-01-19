@@ -88,9 +88,9 @@
                 { "cc": "it", "city": "Milan",          "ip": "45.92.70.236",       "desc": "Fast",  "on": "gcore,2U-10.13" },
                 { "cc": "es", "city": "Madrid",         "ip": "85.90.217.42",       "desc": "Fast",  "on": "gcore,2U-10.13" },
                 
-                { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.252",      "desc": "Fast",  "on": "gcore,tr6b-6TB-8.16" },
+                { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.131",      "desc": "Fast",  "on": "gcore,tr6-6TB-4.22" },
                 { "cc": "il", "city": "Tel Aviv",       "ip": "5.188.227.6",        "desc": "Fast",  "on": "gcore,4TB-9.29" },
-                { "cc": "hk", "city": "Hong Kong",      "ip": "213.156.141.52",     "desc": "Fast",  "on": "gcore,hk2-2TB-8.24"},
+                { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.8",        "desc": "Fast",  "on": "gcore,hk5-3TB-4.22"},
 
                 { "cc": "au", "city": "Sydney",         "ip": "172.105.169.70",     "desc": "Fast",  "on": "li@2TB-10.13"},
                 { "cc": "jp", "city": "Tokyo",          "ip": "172.104.80.66",      "desc": "Fast",  "on": "li@4TB,8.1" }, 
