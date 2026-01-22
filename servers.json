@@ -74,7 +74,6 @@
                 {}
             ], 
             "servers": [
-                { "cc": "gb", "city": "London",     "ip": "5.181.27.26",        "desc": "Performance",  "on": "gcore@11.6" },
                 { "cc": "us", "city": "New York",   "ip": "216.106.183.35",     "desc": "Performance",  "on": "9-22@12.18" },
                 { "cc": "us", "city": "Santa Clara","ip": "216.106.185.141",    "desc": "Performance",  "on": "1-5@12.29" },
                 { "cc": "ca", "city": "Montreal",   "ip": "158.51.121.63",      "desc": "High speed",   "on": "1-4@8.12" },
@@ -84,7 +83,8 @@
                 { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.237",      "desc": "Fast", "on": "vps415,8T@12.16" },
                 { "cc": "de", "city": "Frankfurt",      "ip": "185.177.229.128",    "desc": "Fast", "on": "vps416,8T@9.29" },
                
-                { "cc": "fr", "city": "Paris",         "ip": "45.80.215.80",       "desc": "Fast", "on": "gcore,2U2G@11.11" },
+                { "cc": "gb", "city": "London",         "ip": "5.181.27.26",        "desc": "Performance",  "on": "gcore@11.6" },
+                { "cc": "fr", "city": "Paris",          "ip": "45.80.215.80",       "desc": "Fast", "on": "gcore,2U2G@11.11" },
                 { "cc": "it", "city": "Milan",          "ip": "45.92.70.236",       "desc": "Fast",  "on": "gcore,2U-10.13" },
                 { "cc": "es", "city": "Madrid",         "ip": "85.90.217.42",       "desc": "Fast",  "on": "gcore,2U-10.13" },
                 
