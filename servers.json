@@ -35,13 +35,17 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "sonyacity.com",    "desc": "Global", "on": "11.23-1030" },   
+                { "name": "Server-1", "domain": "layang.org",       "desc": "Global", "on": "2.6-1020" },   
                 { "name": "Server-2", "domain": "maleyu.org",       "desc": "Global", "on": "1.11-1600" }, 
                 { "name": "Server-3", "domain": "gillsonse.com",    "desc": "Global", "on": "11.23-1030" },   
                 { "name": "Server-4", "domain": "oakdenet.com",     "desc": "Global", "on": "11.23-1045" },   
                 { "name": "Server-5", "domain": "valentiae.com",    "desc": "Global", "on": "11.23-1110" },   
                 {}
             ],
+           "watch": [                 
+                { "name": "Server-1", "domain": "sonyacity.com",    "desc": "Global", "on": "11.23-1030" },   
+                {}
+           ],
             "servers": [
                 { "cc": "us", "city": "New York",       "ip": "169.197.141.115",    "desc": "High speed",   "on": "2-5@1.1,..,1.28,2.6,2.22,4.4，5.5" },
                 { "cc": "us", "city": "Ashburn",        "ip": "38.107.226.227",     "desc": "High speed",   "on": "2-2@8.10" },
@@ -58,11 +62,7 @@
                 { "cc": "fr", "city": "Paris",      "ip": "38.109.228.50",      "desc": "High speed",   "on": "1-6@7.23" },
               
                 { "cc": "ch", "city": "Zurich",     "ip": "204.136.10.120",     "desc": "High speed",   "on": "11-6@8.3" }
-
-           ],
-           "watch": [                 
-                {}
-           ]
+        ]
         },
         {
             "name": "VPN Premium",
