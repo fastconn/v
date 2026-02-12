@@ -35,7 +35,7 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "sonyacity.com",    "desc": "Global", "on": "11.23-1030" },   
+                { "name": "Server-1", "domain": "moacity.com",      "desc": "Global", "on": "2.12-1030" },   
                 { "name": "Server-2", "domain": "maleyu.org",       "desc": "Global", "on": "1.11-1600" }, 
                 { "name": "Server-3", "domain": "gillsonse.com",    "desc": "Global", "on": "11.23-1030" },   
                 { "name": "Server-4", "domain": "oakdenet.com",     "desc": "Global", "on": "11.23-1045" },   
@@ -43,7 +43,7 @@
                 {}
             ],
            "watch": [                 
-                { "name": "Server-1", "domain": "layang.org",       "desc": "Global", "on": "2.6-1020" },   
+                { "name": "Server-1", "domain": "sonyacity.com",    "desc": "Global", "on": "11.23-1030" },   
                 {}
            ],
             "servers": [
