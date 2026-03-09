@@ -24,8 +24,8 @@
         "skipSec": 8,
         "fullAdElapse": 45,
         "resultBackAd": false,
-        "hotSplashAd": true,
-        "firstAd": 1,
+        "hotSplashAd": false,
+        "firstAd": 10,
         "splashSec": 8,
         "nativeOfficial": [1,7],
         "mainAdFlag": 0
@@ -35,7 +35,7 @@
             { "pri": 30, "id": "ca-app-pub-3510970371831048/4252958741", "type": "inter", "memo": "m1228-2215" },
             { "pri": 20, "id": "ca-app-pub-3510970371831048/6208489190", "type": "inter", "memo": "m1025-1145" }
         ],
-        "SplashFull": [
+        "SplashFull???": [
             { "pri": 20, "id": "ca-app-pub-3510970371831048/4722634241", "type": "inter", "memo": "m1025-1145" },
             { "pri": 10, "id": "ca-app-pub-3510970371831048/1578174772", "type": "inter", "memo": "m1013-1940" }
         ],
