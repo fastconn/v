@@ -44,13 +44,13 @@
             "offAdOrder": "in"
         },
         "run3": {
-            "MainOpen": "mainOpen",
+            "MainOpen": "mainOpen???",
             "Connected2": "connected",
             "DidConFull": "anyInter",
-            "WillDisFull": "anyInter",
-            "HotFull": "anyInter",
-            "AnyFull": "anyFull",
-            "AnyInter": "anyInter",
+            "WillDisFull": "anyInter???",
+            "HotFull": "anyInter???",
+            "AnyFull": "anyFull???",
+            "AnyInter": "anyInter???",
             "OffNative": "offN??",
             "OffInter": "offI??"
         },

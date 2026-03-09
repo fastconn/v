@@ -42,12 +42,12 @@
         },
 		"run": {},
 		"run3": {
-			"MainOpen": "open",
-			"WillDisFull": "anyI",
+			"MainOpen": "open???",
+			"WillDisFull": "anyI???",
 			"DidConFull": "anyI",
-			"HotFull": "anyI",
-			"AnyInter": "anyI",
-			"AnyFull": "anyN",
+			"HotFull": "anyI???",
+			"AnyInter": "anyI???",
+			"AnyFull": "anyN???",
             "OffNative": "anyN??",
             "OffInter": "offI??",
 			"Connected2": "conn2"
