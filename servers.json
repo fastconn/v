@@ -99,7 +99,6 @@
                 { "cc": "in", "city": "Mumbai",         "ip": "172.232.103.186",    "desc": "Fast",  "on": "li@2TB,10.1" }
             ],
             "vip-bak": [
-                { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.131",      "desc": "Fast",  "on": "gcore,tr6-6TB-4.22" },
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.8",        "desc": "Fast",  "on": "gcore,hk5-3TB-4.22"},
                  
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.252",      "desc": "Fast",  "on": "gcore,tr6b-6TB-8.16" },
