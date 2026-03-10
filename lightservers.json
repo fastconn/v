@@ -28,6 +28,7 @@
             "ws3": [
                 { "name": "Server-1", "desc": "Global", "domain": "layang.org",     "on": "1.11-1700" },
                 { "name": "Server-2", "desc": "Global", "domain": "oyskha.org",     "on": "3.10-1230" },
+                { "name": "Server-3", "desc": "Global", "domain": "dylym.org",      "on": "3.10-1725" },   
                 { "memo": "light" }
             ],
             "servers": [
