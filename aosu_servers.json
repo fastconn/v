@@ -7,7 +7,7 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Server-1", "desc": "Global", "domain": "seagrav.com", "on": "11.23-1130" },
+                { "name": "Server-1", "desc": "Global", "domain": "khasav.org", "on": "3.10-1305" },
                 { "name": "Server-2", "desc": "Global", "domain": "musicbotx.com",  "on": "11.22-1316" }
             ],
             "ips": [
@@ -24,6 +24,7 @@
                 {}
             ],
             "ws-bak": [
+                { "name": "Server-1", "desc": "Global", "domain": "seagrav.com", "on": "11.23-1130" },
                 {}
             ]
         }
