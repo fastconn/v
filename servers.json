@@ -70,11 +70,14 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "scugoge.com",     "desc": "Global",    "on": "12.7-0836" },
+                { "name": "VIP-1", "domain": "aksai.org",       "desc": "Global",    "on": "3.10-1700" },
                 { "name": "VIP-2", "domain": "carnegle.com",    "desc": "Global",    "on": "12.7-0836" },
-                { "name": "VIP-3", "domain": "carnegle.com",    "desc": "Global",    "on": "12.7-0836" },
                 {}
             ], 
+            "vip-ws3-bak": [
+                { "name": "VIP-1", "domain": "scugoge.com",     "desc": "Global",    "on": "12.7-0836" },
+                {}
+            ],
             "servers": [
                 { "cc": "us", "city": "New York",   "ip": "216.106.183.35",     "desc": "Performance",  "on": "9-22@12.18" },
                 { "cc": "us", "city": "Santa Clara","ip": "216.106.185.141",    "desc": "Performance",  "on": "1-5@12.29" },
