@@ -13,7 +13,7 @@
             "ips": [
                 { "cc": "us", "city": "Ashburn",    "ip": "69.50.93.60",        "desc": "High speed", "on": "2-6@25.9.1，10.1" },
                 { "cc": "ca", "city": "Toronto",    "ip": "23.162.200.77",      "desc": "High speed", "on": "2-14@1.13,2.23" },
-                { "cc": "ca", "city": "Vancouver",  "ip": "134.195.197.204",    "desc": "High speed", "on": "2-20@1.18~5.15" },
+                { "cc": "ca", "city": "Vancouver",  "ip": "158.51.123.42",    "desc": "High speed", "on": "2-11@26.3.14" },
 
                 { "cc": "gb", "city": "London",     "ip": "38.114.120.92",      "desc": "High speed", "on": "5-1@7.6，7.11，8.6，9.3" }
             ],
