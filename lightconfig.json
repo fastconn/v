@@ -3,7 +3,7 @@
 		"ageM": 5,
 		"showSplash": true,
         "secondSplash": 3,
-        "secondSplash2": 6,
+        "secondSplash2": 3,
         "domain": "i.ostrichvpn.net",
 		"cnDeny": [0,0],
 		"forceVer": "1.8.0",
@@ -23,7 +23,7 @@
         "0": {
             "ver": 20250408,
             "adFullLoadwait": 7,
-			"adFullCountdown": 10,
+			"adFullCountdown": 6,
             "hotInterval": 2,
             "skipOffset" : 0,
 	    	"max": {

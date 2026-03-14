@@ -4,7 +4,7 @@
         "showSplash": true,
         "domain": "i.ostrichvpn.net",
         "secondSplash": 3,
-        "secondSplash2": 6,
+        "secondSplash2": 3,
     	"cnDeny": [0,0],
     	"evNo": ["enterGg", "ping2", "pingCf", "admobUMP", "request", "asn"],
         "testers": [
@@ -25,7 +25,7 @@
         "0": {
             "ver": 20250611,
             "adFullLoadwait": 5,
-            "adFullCountdown": 10,
+            "adFullCountdown": 6,
             "hotInterval": 2,
             "skipOffset" : 0,
             "removeAds": false,
