@@ -72,8 +72,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "aksai.org",       "desc": "Global",    "on": "3.10-1700" },
-                { "name": "VIP-2", "domain": "carnegle.com",    "desc": "Global",    "on": "12.7-0836" },
+                { "name": "Server-1", "domain": "aksai.org",       "desc": "Global",    "on": "3.10-1700" },
+                { "name": "Server-2", "domain": "carnegle.com",    "desc": "Global",    "on": "12.7-0836" },
+                { "name": "Server-3", "domain": "vspeedfast.org",  "desc": "Global",    "on": "26.4.23" },
                 {}
             ], 
             "vip-ws3-bak": [
