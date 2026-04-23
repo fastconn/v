@@ -81,12 +81,12 @@
                 {}
             ],
             "servers": [
+                { "cc": "us", "city": "Atlanta",    "ip": "167.88.63.59",     "desc": "Performance",  "on": "1-2@26.4.23" },
                 { "cc": "us", "city": "New York",   "ip": "216.106.183.35",     "desc": "Performance",  "on": "9-22@12.18" },
                 { "cc": "us", "city": "Santa Clara","ip": "216.106.185.141",    "desc": "Performance",  "on": "1-5@12.29" },
                 { "cc": "ca", "city": "Montreal",   "ip": "158.51.121.63",      "desc": "Performance",   "on": "1-4@8.12" },
                 { "cc": "gb", "city": "London",         "ip": "66.163.117.58",      "desc": "Performance",  "on": "1-9@26.3.13" },
 
-                { "cc": "us", "city": "Ashburn",    "ip": "45.82.161.225",          "desc": "Fast", "on": "gcore@9.8" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.237",      "desc": "Fast", "on": "vps415,8T@12.16" },
                 { "cc": "de", "city": "Frankfurt",      "ip": "185.177.229.128",    "desc": "Fast", "on": "vps416,8T@9.29" },
                
@@ -104,6 +104,7 @@
                 { "cc": "in", "city": "Mumbai",         "ip": "172.232.103.186",    "desc": "Fast",  "on": "li@2TB,10.1" }
             ],
             "vip-bak": [
+                { "cc": "us", "city": "Ashburn",    "ip": "45.82.161.225",          "desc": "Fast", "on": "gcore@9.8" },
                 { "cc": "hk", "city": "HK-Deleted",      "ip": "89.223.95.8",        "desc": "Fast",  "on": "gcore,hk5-3TB-4.22"},
                 {}
             ]
