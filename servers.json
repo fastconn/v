@@ -91,6 +91,7 @@
                 { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.237",      "desc": "Fast", "on": "vps415,8T@12.16" },
                 { "cc": "de", "city": "Frankfurt",      "ip": "185.177.229.128",    "desc": "Fast", "on": "vps416,8T@9.29" },
                
+                { "cc": "fr", "city": "Paris",          "ip": "45.80.215.68",       "desc": "Fast",  "on": "gcore,2U2G-26.5.13" },
                 { "cc": "it", "city": "Milan",          "ip": "45.92.70.236",       "desc": "Fast",  "on": "gcore,2U-10.13" },
                 { "cc": "es", "city": "Madrid",         "ip": "85.90.217.42",       "desc": "Fast",  "on": "gcore,2U-10.13" },
                 
@@ -104,7 +105,6 @@
                 { "cc": "in", "city": "Mumbai",         "ip": "172.232.103.186",    "desc": "Fast",  "on": "li@2TB,10.1" }
             ],
             "vip-bak": [
-                { "cc": "fr", "city": "Paris",          "ip": "45.80.215.80",       "desc": "Fast", "on": "gcore,2U2G@11.11" },
                 { "cc": "us", "city": "Ashburn",    "ip": "45.82.161.225",          "desc": "Fast", "on": "gcore@9.8" },
                 { "cc": "hk", "city": "HK-Deleted",      "ip": "89.223.95.8",        "desc": "Fast",  "on": "gcore,hk5-3TB-4.22"},
                 {}
