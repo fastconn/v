@@ -1,6 +1,6 @@
 {
     "ageM": 15,
-    "ver": 20241021,
+    "ver": 20260522,
     
     "l": [
         {
@@ -22,7 +22,6 @@
                 {}
             ],
             "ws-bak": [
-                { "name": "Server-2", "desc": "Global", "domain": "musicbotx.com",  "on": "11.22-1316" },
                 {}
             ]
         }
