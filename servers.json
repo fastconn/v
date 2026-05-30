@@ -35,7 +35,7 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "maleyu.org",       "desc": "Global", "on": "1.11-1600" }, 
+                { "name": "Server-1", "domain": "aidrivercat.org",  "desc": "Global", "on": "5.30-1600" }, 
                 { "name": "Server-2", "domain": "pahobac.org",      "desc": "Global", "on": "3.15-1800" }, 
                 { "name": "Server-3", "domain": "kuruish.org",      "desc": "Global", "on": "3.10-1630" },   
                 {}
