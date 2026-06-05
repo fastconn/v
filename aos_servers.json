@@ -54,9 +54,8 @@
             }, {
                 "n": "Global", "ws": true,
                 "s": [ 
-                    { "pr": 4, "name": "Global-1", "i": "avgobeat.org",     "on": "6.4-1055" },
-                    { "pr": 4, "name": "Global-2", "i": "khasav.org",       "on": "3.10-1305" },
-                    { "pr": 4, "name": "Global-3", "i": "seagrav.com",      "on": "11.23-1939" }
+                    { "pr": 4, "name": "Global-1", "i": "khasav.org",       "on": "3.10-1305" },
+                    { "pr": 4, "name": "Global-2", "i": "seagrav.com",      "on": "11.23-1939" }
                ]
             }
         ],
