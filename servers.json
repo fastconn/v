@@ -108,13 +108,14 @@
                 { "cc": "au", "city": "Sydney",         "ip": "172.105.169.70",     "desc": "Fast",  "on": "li@2TB-10.13"},
                 { "cc": "jp", "city": "Tokyo",          "ip": "172.104.80.66",      "desc": "Fast",  "on": "li@4TB,8.1" }, 
                 { "cc": "sg", "city": "Singapore",      "ip": "139.162.61.57",      "desc": "Fast",  "on": "li@2TB,7.18" },
-                { "cc": "br", "city": "São Paulo",      "ip": "172.233.17.76",      "desc": "Fast",  "on": "li@2TB,10.1" },
+                { "cc": "br", "city": "São Paulo",      "ip": "172.233.14.17",      "desc": "Fast",  "on": "li@4TB,26.6.17" },
                 { "cc": "in", "city": "Mumbai",         "ip": "172.232.103.186",    "desc": "Fast",  "on": "li@2TB,10.1" }
             ],
             "vip-bak": [
                 { "cc": "us", "city": "Ashburn",    "ip": "45.82.161.225",          "desc": "Fast", "on": "gcore@9.8" },
                 { "cc": "hk", "city": "Hong Kong",      "ip": "213.156.141.52",     "desc": "Fast",  "on": "gcore,hk2-2TB-8.24"},
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.63",       "desc": "Fast",  "on": "gcore,hk3-3TB-26.5.27"},
+                { "cc": "br", "city": "São Paulo",      "ip": "172.233.17.76",      "desc": "Fast",  "on": "li@2TB,10.1" },
                 {}
             ]
         }
