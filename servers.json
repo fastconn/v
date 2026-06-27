@@ -99,7 +99,7 @@
                 { "cc": "de", "city": "Frankfurt",      "ip": "185.177.229.128",    "desc": "Fast", "on": "vps416,8T@9.29" },
                
                 { "cc": "fr", "city": "Paris",          "ip": "45.80.215.68",       "desc": "Fast",  "on": "gcore,2U2G-26.5.13" },
-                { "cc": "it", "city": "Milan",          "ip": "45.92.70.236",       "desc": "Fast",  "on": "gcore,2U-10.13" },
+                { "cc": "it", "city": "Milan",          "ip": "89.41.172.106",      "desc": "Fast",  "on": "gcore,2U-26.6.27" },
                 { "cc": "es", "city": "Madrid",         "ip": "85.90.217.42",       "desc": "Fast",  "on": "gcore,2U-10.13" },
                 
                 { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.252",      "desc": "Fast",  "on": "gcore,tr6b-6TB-8.16" },
