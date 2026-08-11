@@ -100,7 +100,7 @@
                 { "cc": "it", "city": "Milan",          "ip": "89.41.172.106",      "desc": "Fast",  "on": "gcore,2U-26.6.27" },
                 { "cc": "es", "city": "Madrid",         "ip": "85.90.217.42",       "desc": "Fast",  "on": "gcore,2U-10.13" },
                 
-                { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.252",      "desc": "Fast",  "on": "gcore,tr6b-6TB-8.16" },
+                { "cc": "tr", "city": "Istanbul",       "ip": "103.215.218.158",     "desc": "Fast",  "on": "gcore,tr6c-6TB-26.8.11" },
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.77",       "desc": "Fast",  "on": "gcore,hk3tb-26.6.27"},
 
                 { "cc": "au", "city": "Sydney",         "ip": "172.105.169.70",     "desc": "Fast",  "on": "li@2TB-10.13"},
@@ -111,6 +111,7 @@
             ],
             "vip-bak": [
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.77",       "desc": "Fast",  "on": "gcore,hk3tb-26.6.27"},
+                { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.252",      "desc": "Fast",  "on": "gcore,tr6b-6TB-8.16" },
                 
                 {}
             ]
