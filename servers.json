@@ -83,7 +83,6 @@
                 {}
             ], 
             "vip-ws3-bak": [
-                { "name": "VIP-1", "domain": "scugoge.com",     "desc": "Global",    "on": "12.7-0836" },
                 {}
             ],
             "servers": [
@@ -111,7 +110,6 @@
             ],
             "vip-bak": [
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.77",       "desc": "Fast",  "on": "gcore,hk3tb-26.6.27"},
-                { "cc": "tr", "city": "Istanbul",       "ip": "5.188.190.252",      "desc": "Fast",  "on": "gcore,tr6b-6TB-8.16" },
                 
                 {}
             ]
