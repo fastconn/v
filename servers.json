@@ -104,12 +104,13 @@
 
                 { "cc": "au", "city": "Sydney",         "ip": "172.105.169.70",     "desc": "Fast",  "on": "li@2TB-10.13"},
                 { "cc": "jp", "city": "Tokyo",          "ip": "172.237.27.57",      "desc": "Fast",  "on": "li@4TB,26.6.20" }, 
-                { "cc": "sg", "city": "Singapore",      "ip": "139.162.61.57",      "desc": "Fast",  "on": "li@2TB,7.18" },
+                { "cc": "sg", "city": "Singapore",      "ip": "172.237.70.226",     "desc": "Fast",  "on": "li@4TB,26.8.17" },
                 { "cc": "br", "city": "São Paulo",      "ip": "172.233.14.17",      "desc": "Fast",  "on": "li@4TB,26.6.17" },
                 { "cc": "in", "city": "Mumbai",         "ip": "172.236.164.13",     "desc": "Fast",  "on": "li@4TB,26.6.20" }
             ],
             "vip-bak": [
                 { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.77",       "desc": "Fast",  "on": "gcore,hk3tb-26.6.27"},
+                { "cc": "sg", "city": "Singapore",      "ip": "139.162.61.57",      "desc": "Fast",  "on": "li@2TB,7.18" },
                 
                 {}
             ]
