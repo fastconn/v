@@ -31,17 +31,17 @@
             "isVip": false,
             "image": "global",
             "wsGroupSize": 1,
-            "wsNameAuto": true,
+            "wsNameAuto": false,
             "ws2": [
             ],
             "ws3": [
-                { "name": "Server-1", "domain": "aidrivercat.org",  "desc": "Global", "on": "5.30-1600" }, 
-                { "name": "Server-2", "domain": "mygptagent.org",   "desc": "Global", "on": "6.3-0830" },
+                { "name": "Global", "domain": "aidrivercat.org",  "desc": "Domain route", "on": "5.30-1600" }, 
+                { "name": "Global", "domain": "mygptagent.org",   "desc": "Domain route", "on": "6.3-0830" },
                 {}
             ],
            "watch": [                 
-                { "name": "Server-1", "domain": "moacity.com",      "desc": "Global", "on": "2.12-1030" },   
-                { "name": "Server-2", "domain": "maleyu.org",       "desc": "Global", "on": "1.11-1600" }, 
+                { "name": "Global", "domain": "moacity.com",      "desc": "Domain route", "on": "2.12-1030" },   
+                { "name": "Global", "domain": "maleyu.org",       "desc": "Domain route", "on": "1.11-1600" }, 
                 {}
            ],
             "servers": [
@@ -71,9 +71,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "VIP-1", "domain": "aksai.org",       "desc": "Global",    "on": "3.10-1700" },
-                { "name": "VIP-2", "domain": "carnegle.com",    "desc": "Global",    "on": "12.7-0836" },
-                { "name": "VIP-3", "domain": "vspeedfast.org",  "desc": "Global",    "on": "26.4.23" },
+                { "name": "Global", "domain": "aksai.org",       "desc": "Domain route",    "on": "3.10-1700" },
+                { "name": "Global", "domain": "carnegle.com",    "desc": "Domain route",    "on": "12.7-0836" },
+                { "name": "Global", "domain": "vspeedfast.org",  "desc": "Domain route",    "on": "26.4.23" },
                 {}
             ], 
             "servers": [
