@@ -3,6 +3,7 @@
         "cnDeny": [0,0],
         "autoProtocol": 4,
         "proxySelf": true,
+        "freeMin": 45,
         "skipGmsIrCn": false
     },
     "update": {
@@ -38,6 +39,9 @@
         "SplashFull": [
             { "pri": 50, "id": "ca-app-pub-3510970371831048/3054406261", "type": "native", "memo": "m720-1715" },
             { "pri": 20, "id": "ca-app-pub-3510970371831048/4722634241", "type": "inter", "memo": "m1025-1145" }
+        ],
+        "Reward": [
+            { "pri": 100, "id": "ca-app-pub-3510970371831048/8769048169", "type": "reward", "memo": "m923" }
         ],
         
         
