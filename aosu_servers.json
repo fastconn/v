@@ -7,15 +7,15 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Global", "desc": "Domain route", "domain": "khasav.org",     "on": "3.10-1305" },
-                { "name": "Global", "desc": "Domain route", "domain": "seagrav.com",    "on": "11.23-1130" }
+                { "name": "Global", "desc": "Domain route", "domain": "khasav.org", "cfg": "wsa_925", "on": "3.10-1305" },
+                { "name": "Global", "desc": "Domain route", "domain": "seagrav.com", "cfg": "wsa_925", "on": "11.23-1130" }
             ],
             "ips": [
-                { "cc": "us", "city": "Ashburn",    "ip": "172.111.38.100",        "desc": "High speed", "on": "2-6@25.9.1，10.1,26.6.6" },
-                { "cc": "us", "city": "Los Angeles","ip": "216.152.152.187",    "desc": "High speed", "on": "1-23@4.23" },
-                { "cc": "ca", "city": "Toronto",    "ip": "23.162.200.77",      "desc": "High speed", "on": "2-14@1.13,2.23" },
-                { "cc": "ca", "city": "Vancouver",  "ip": "158.51.123.42",    "desc": "High speed", "on": "2-11@26.3.14" },
-                { "cc": "gb", "city": "London",     "ip": "38.114.120.92",      "desc": "High speed", "on": "5-1@7.6，7.11，8.6，9.3" }
+                { "cc": "us", "city": "Ashburn", "ip": "172.111.38.100", "cfg": "ta_925", "desc": "High speed", "on": "2-6@25.9.1，10.1,26.6.6" },
+                { "cc": "us", "city": "Los Angeles", "ip": "216.152.152.187", "cfg": "ta_925", "desc": "High speed", "on": "1-23@4.23" },
+                { "cc": "ca", "city": "Toronto", "ip": "23.162.200.77", "cfg": "ta_925", "desc": "High speed", "on": "2-14@1.13,2.23" },
+                { "cc": "ca", "city": "Vancouver", "ip": "158.51.123.42", "cfg": "ta_925", "desc": "High speed", "on": "2-11@26.3.14" },
+                { "cc": "gb", "city": "London", "ip": "38.114.120.92", "cfg": "ta_925", "desc": "High speed", "on": "5-1@7.6，7.11，8.6，9.3" }
             ],
             "ips-bak": [
                 { "name": "Global", "desc": "Domain route", "domain": "avgobeat.org",   "on": "6.4-1055" },
@@ -25,6 +25,10 @@
                 {}
             ]
         }
+    ],
+    "cfgs": [
+        { "name": "wsa_925", "ws": { "u": "ee716238-0808-4db5-a6be-145dab475114" } },
+        { "name": "ta_925", "vm": { "u": "4c1672c7-376f-425e-aa19-29cedcde15a9" } }
     ]
 }
 
