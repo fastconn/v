@@ -26,9 +26,9 @@
             "wsNameAuto": false,
             "ws2": [ ],
             "ws3": [
-                { "name": "Global", "desc": "Domain route", "domain": "layang.org",     "on": "1.11-1700" },
-                { "name": "Global", "desc": "Domain route", "domain": "oyskha.org",     "on": "3.10-1230" },
-                { "name": "Global", "desc": "Domain route", "domain": "dylym.org",      "on": "3.10-1725" },   
+                { "name": "Global-1", "desc": "Domain route", "domain": "layang.org",     "on": "1.11-1700" },
+                { "name": "Global-2", "desc": "Domain route", "domain": "oyskha.org",     "on": "3.10-1230" },
+                { "name": "Global-3", "desc": "Domain route", "domain": "dylym.org",      "on": "3.10-1725" },   
                 { "memo": "light" }
             ],
             "servers": [

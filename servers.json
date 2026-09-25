@@ -35,8 +35,8 @@
             "ws2": [
             ],
             "ws3": [
-                { "name": "Global", "domain": "aidrivercat.org",  "desc": "Domain route", "on": "5.30-1600" }, 
-                { "name": "Global", "domain": "mygptagent.org",   "desc": "Domain route", "on": "6.3-0830" },
+                { "name": "Global-1", "domain": "aidrivercat.org",  "desc": "Domain route", "on": "5.30-1600" }, 
+                { "name": "Global-2", "domain": "mygptagent.org",   "desc": "Domain route", "on": "6.3-0830" },
                 {}
             ],
            "watch": [                 
@@ -71,9 +71,9 @@
             "isVip": true,
             "image": "for_VIP",
             "ws3": [
-                { "name": "Global", "domain": "aksai.org",       "desc": "Domain route",    "on": "3.10-1700" },
-                { "name": "Global", "domain": "carnegle.com",    "desc": "Domain route",    "on": "12.7-0836" },
-                { "name": "Global", "domain": "vspeedfast.org",  "desc": "Domain route",    "on": "26.4.23" },
+                { "name": "VIP-1", "domain": "aksai.org",       "desc": "Domain route",    "on": "3.10-1700" },
+                { "name": "VIP-2", "domain": "carnegle.com",    "desc": "Domain route",    "on": "12.7-0836" },
+                { "name": "VIP-3", "domain": "vspeedfast.org",  "desc": "Domain route",    "on": "26.4.23" },
                 {}
             ], 
             "servers": [
