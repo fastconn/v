@@ -1,20 +1,11 @@
 {
     "ageM": 5,
-    "v": 20241017,
+    "v": 20260926,
     "shuffleWs": true,
     "cfgs": {
         "vmess": {
-            "a": {
-                "u": "04621bae-ab36-11ec-b909-0242ac120002",
-                "pt": 22324
-            }
-        },
-        "ws": {
-	        "a": {
-                "u":"03fcc618-b93d-6796-6aed-8a38c975d581",
-                "pt": 443,
-                "path": "/linkvws"
-            }
+            "a": { "u": "04621bae-ab36-11ec-b909-0242ac120002", "pt": 22324 },
+            "tl_926":  { "u": "1174cb61-bcb2-4bb8-b97a-8c992940d38a", "pt": 22324 }
         }
     },
     "l": [
@@ -26,35 +17,21 @@
             "wsNameAuto": false,
             "ws2": [ ],
             "ws3": [
-                { "name": "Global-1", "desc": "Domain route", "domain": "layang.org",     "on": "1.11-1700" },
-                { "name": "Global-2", "desc": "Domain route", "domain": "oyskha.org",     "on": "3.10-1230" },
-                { "name": "Global-3", "desc": "Domain route", "domain": "dylym.org",      "on": "3.10-1725" },   
-                { "memo": "light" }
+                { "name": "Global-1", "domain": "layang.org",     "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "1.11-1700" },
+                { "name": "Global-2", "domain": "oyskha.org",     "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "3.10-1230" },
+                { "name": "Global-3", "domain": "dylym.org",      "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "3.10-1725" }
             ],
             "servers": [
-                { "cc": "us", "city": "Ashburn",        "ip": "172.111.38.33",      "desc": "High speed", "on": "8-22@9.8" },
-                { "cc": "us", "city": "New York",       "ip": "142.202.48.108",     "desc": "High speed", "on": "4-22@7.6,26.6.6" },
-                { "cc": "us", "city": "Dallas",         "ip": "167.88.62.124",      "desc": "High speed", "on": "2-9@26.5.13" },
-                { "cc": "us", "city": "Los Angeles",    "ip": "162.251.63.55",      "desc": "High speed", "on": "7-24@9.2,1122,1126，101" },
-                { "cc": "us", "city": "Seattle",        "ip": "169.197.143.116",    "desc": "High speed", "on": "1-12@26.3.14" },
-                { "cc": "ca", "city": "Montreal",       "ip": "66.163.113.176",     "desc": "High speed", "on": "1-8@26.3.14" },
+                { "cc": "us", "city": "Ashburn",        "ip": "172.111.38.33",      "cfg":["a","tl_926","a"], "desc": "High speed", "on": "8-22@9.8" },
+                { "cc": "us", "city": "New York",       "ip": "142.202.48.108",     "cfg":["a","tl_926","a"], "desc": "High speed", "on": "4-22@7.6,26.6.6" },
+                { "cc": "us", "city": "Dallas",         "ip": "167.88.62.124",      "cfg":["a","tl_926","a"], "desc": "High speed", "on": "2-9@26.5.13" },
+                { "cc": "us", "city": "Los Angeles",    "ip": "162.251.63.55",      "cfg":["a","tl_926","a"], "desc": "High speed", "on": "7-24@9.2,1122,1126，101" },
+                { "cc": "us", "city": "Seattle",        "ip": "169.197.143.116",    "cfg":["a","tl_926","a"], "desc": "High speed", "on": "1-12@26.3.14" },
+                { "cc": "ca", "city": "Montreal",       "ip": "66.163.113.176",     "cfg":["a","tl_926","a"], "desc": "High speed", "on":"1-8@26.3.14" },
 
-                { "cc": "de", "city": "Frankfurt",  "ip": "216.106.187.60",      "desc": "High speed",      "on": "8-1，2Gb@6.27" },
-                { "cc": "de", "city": "Frankfurt",  "ip": "185.177.229.129",      "desc": "High speed",     "on": "7-1@8.11,8.31" },
-                { "cc": "gb", "city": "London",     "ip": "186.190.211.147",    "desc": "High speed",       "on": "6-1@7.15" }
-            ],
-            "serversBak": [
-                { "name": "Global", "desc": "Domain route", "domain": "ranovs.org",     "on": "3.15-1800" },
-                    
-                {}
-            ],
-            "watch": [     
-                { "name": "Global", "desc": "Domain route", "domain": "kentspark.org",  "on": "6.27-22.05" },
-
-                { "name": "Global", "desc": "Domain route", "domain": "fralcks.com",    "on": "12.7-0836" },
-                { "name": "Global", "desc": "Domain route", "domain": "janetvill.com",  "on": "11.23-1155" },
-                { "name": "Global", "desc": "Domain route", "domain": "viewlak.com",    "on": "11.23-1110" },
-                {}
+                { "cc": "de", "city": "Frankfurt",      "ip": "216.106.187.60",     "cfg":["a","tl_926","a"], "desc": "High speed", "on": "8-1，2Gb@6.27" },
+                { "cc": "de", "city": "Frankfurt",      "ip": "185.177.229.129",    "cfg":["a","tl_926","a"], "desc": "High speed", "on": "7-1@8.11,8.31" },
+                { "cc": "gb", "city": "London",         "ip": "186.190.211.147",    "cfg":["a","tl_926","a"], "desc": "High speed", "on": "6-1@7.15" }
             ]
         }
     ],
