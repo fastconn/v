@@ -17,19 +17,22 @@
         "noFlurry": true,
         "mixPanel": false,
         "rateHrs": 72 ,
+        "freeMin": 45,
+        "rewardMin": 30,
+        "freeCapMin": 10,
         "curl": false,
         "iapCard": true
     },
     "ad": {
         "0": {
-            "ver": 20250611,
+            "ver": 20260926,
             "adFullLoadwait": 5,
             "adFullCountdown": 6,
-            "hotInterval": 2,
+            "hotInterval": 60,
             "skipOffset" : 0,
             "removeAds": false,
             "max": {
-                "admob": [-1,-1]
+                "admob": [60,20]
             },
             "ages": {
                 "admob": {
@@ -38,9 +41,9 @@
 		            "nativeFull": 1800
                 }
             },
-            "coolstartExtra": ["AnyInter","AnyFull"],
+            "coolstartExtra": [],
             "fullAdOrder": "in",
-            "offAdOrder": "in"
+            "offAdOrder": ""
         },
         "run3": {
             "MainOpen": "mainOpen",

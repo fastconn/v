@@ -4,6 +4,7 @@
         "autoProtocol": 4,
         "proxySelf": true,
         "freeMin": 45,
+        "rewardMin": 30,
         "skipGmsIrCn": false
     },
     "update": {

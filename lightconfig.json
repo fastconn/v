@@ -21,13 +21,13 @@
     },
     "ad": {
         "0": {
-            "ver": 20250408,
+            "ver": 20260926,
             "adFullLoadwait": 7,
 			"adFullCountdown": 6,
-            "hotInterval": 2,
+            "hotInterval": 60,
             "skipOffset" : 0,
 	    	"max": {
-				"admob": [-1,-1]
+				"admob": [60,20]
 			},
             "ages": {
                 "admob": {
@@ -36,9 +36,9 @@
 				    "nativeFull": 1800
                 }
             },		
-            "coolstartExtra": ["OffInter","AnyFull"],
+            "coolstartExtra": [],
             "fullAdOrder": "in",
-            "offAdOrder": "in"
+            "offAdOrder": ""
         },
 		"run": {},
 		"run3": {
