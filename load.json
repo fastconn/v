@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updated_at": "2026-09-27T14:59:31.142Z",
-  "stale_after_sec": 600,
+  "stale_after_sec": 163,
   "index": {
     "172.111.38.100": {
       "busy": 2,
