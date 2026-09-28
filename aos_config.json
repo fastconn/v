@@ -8,14 +8,14 @@
         "skipGmsIrCn": false
     },
     "update": {
-        "Title": "Update Ostrich VPN 3.0",
-        "Content": "Version 3 is available, we recommend you update now! \n\n1. Use a new VPN library for connection.\n2. Optimized the connection process.\n",
+        "Title": "Update Ostrich VPN",
+        "Content": "Version 3.7 is ready — we recommend updating.\n\n1. Daily free VPN time — watch a short video for more minutes\n2. More reliable OpenVPN & IKEv2 connections\n3. fewer crashes on more devices\n",
         "Content2": "Your version has expired, please update now!",
         "force": false,
         "isGp": true,
         "okStr": "Update Now",
         "cancelStr": "Later",
-        "verCode": 304000000
+        "verCode": 306000000
     },
     "adc": {
         "ver": 20260720,
