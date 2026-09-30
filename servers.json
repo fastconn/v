@@ -29,6 +29,9 @@
                 { "name": "Global-1", "domain": "aidrivercat.org",  "u": "0428ebb5-4a05-4658-a9b4-04cf6c110271", "desc": "Domain route", "on": "5.30-1600" }, 
                 { "name": "Global-2", "domain": "vspeedfast.org",   "u": "0428ebb5-4a05-4658-a9b4-04cf6c110271", "desc": "Domain route", "on": "26.4.23" }
             ],
+            "ws3-bak": [
+                { "name": "Global-3", "domain": "mygptagent.org",   "u": "0428ebb5-4a05-4658-a9b4-04cf6c110271", "desc": "Domain route", "on": "6.3-0830" }
+            ],
             "servers": [
                 { "cc": "de", "city": "Frankfurt",      "ip": "193.108.117.54",     "cfg":["a","tm_925","a"], "desc": "High speed","on":"8-2，14c2Gb@5.30" },
                 { "cc": "us", "city": "New York",       "ip": "169.197.141.115",    "cfg":["a","tm_925","a"], "desc": "High speed","on": "2-5@1.1,..,1.28,2.6,2.22,4.4，5.5" },
