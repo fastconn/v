@@ -37,20 +37,13 @@
             ],
             "servers": [
                 { "cc": "de", "city": "Frankfurt",      "ip": "193.108.117.54",     "cfg":["a","tm_925","a"], "desc": "High speed","on":"8-2，14c2Gb@5.30" },
-                { "cc": "es", "city": "Madrid",         "ip": "66.163.118.73",      "cfg":["a","tm_925","a"], "desc": "High speed","on":"3-3，12c2Gb@6.4" },
-
                 { "cc": "us", "city": "New York",       "ip": "169.197.141.115",    "cfg":["a","tm_925","a"], "desc": "High speed","on": "2-5@1.1,..,1.28,2.6,2.22,4.4，5.5" },
                 { "cc": "us", "city": "Ashburn",        "ip": "38.107.226.227",     "cfg":["a","tm_925","a"], "desc": "High speed","on": "2-2@8.10" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "167.17.68.89",       "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-22@11.28" },
-
                 { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.190",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-16@7.28" },   
                 { "cc": "ca", "city": "Montreal",       "ip": "134.195.198.214",    "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-23@2.19,4.22,6.28,1018,1107,1208,2.10,3.5" },
- 
- 
                 { "cc": "gb", "city": "London",         "ip": "186.190.211.188",    "cfg":["a","tm_925","a"], "desc": "High speed","on": "2-11@7.28" },
- 
                 { "cc": "fr", "city": "Paris",          "ip": "38.109.228.50",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-6@7.23" },
-              
                 { "cc": "ch", "city": "Zurich",         "ip": "66.163.116.120",     "cfg":["a","tm_925","a"], "desc": "High speed","on": "11-6@8.3" }
             ],
             "serversBak": [
@@ -87,19 +80,9 @@
                 { "cc": "in", "city": "Mumbai",         "ip": "185.67.125.90",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc,1Gb@26.9.29" }
             ],
             "serversBak": [
-                { "cc": "hk", "city": "Hong Kong",      "ip": "89.223.95.77",       "cfg":["a","tmv_926","a"], "desc": "Fast", "on": "gcore,hk3tb-26.6.27"},
-                { "cc": "jp", "city": "Tokyo",          "ip": "172.237.27.57",      "cfg":["a","tmv_926","a"], "desc": "Fast", "on": "li@4TB,26.6.20" },
-                { "cc": "sg", "city": "Singapore",      "ip": "139.162.11.167",     "cfg":["a","tmv_926","a"], "desc": "Fast", "on": "li@4TB,26.9.24" },
-
-                { "cc": "tr", "city": "Istanbul",       "ip": "103.215.218.158",    "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcore,tr6c-6TB-26.8.11" },
-                
-
                 { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.237",      "cfg":["a","tmv_926","a"], "desc": "Fast", "on": "vps415,8T@12.16" },
                 { "cc": "de", "city": "Frankfurt",      "ip": "185.177.229.128",    "cfg":["a","tmv_926","a"], "desc": "Fast", "on": "vps416,8T@9.29" },
                 { "cc": "fr", "city": "Paris",          "ip": "45.80.215.8",        "cfg":["a","tmv_926","a"], "desc": "Fast", "on": "gcore,4U4G-26.9.18" },
-                { "cc": "br", "city": "São Paulo",      "ip": "172.233.28.133",     "cfg":["a","tmv_926","a"], "desc": "Fast", "on": "li@4TB,26.9.24" },
-                { "cc": "au", "city": "Sydney",         "ip": "172.105.169.70",     "cfg":["a","tmv_926","a"], "desc": "Fast", "on": "li@2TB-10.13"},
-                { "cc": "in", "city": "Mumbai",         "ip": "172.236.164.13",     "cfg":["a","tmv_926","a"], "desc": "Fast", "on": "li@4TB,26.6.20" },
                 {}
             ]
         }
