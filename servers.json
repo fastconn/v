@@ -27,13 +27,7 @@
             ],
             "ws3": [
                 { "name": "Global-1", "domain": "aidrivercat.org",  "u": "0428ebb5-4a05-4658-a9b4-04cf6c110271", "desc": "Domain route", "on": "5.30-1600" }, 
-                { "name": "Global-2", "domain": "mygptagent.org",   "u": "0428ebb5-4a05-4658-a9b4-04cf6c110271", "desc": "Domain route", "on": "6.3-0830" },
-                { "name": "Global-3", "domain": "vspeedfast.org",   "u": "0428ebb5-4a05-4658-a9b4-04cf6c110271", "desc": "Domain route", "on": "26.4.23" }
-            ],
-           "watch": [                 
-                { "name": "Global", "domain": "moacity.com",      "desc": "Domain route", "on": "2.12-1030" },   
-                { "name": "Global", "domain": "maleyu.org",       "desc": "Domain route", "on": "1.11-1600" }, 
-                {}
+                { "name": "Global-2", "domain": "vspeedfast.org",   "u": "0428ebb5-4a05-4658-a9b4-04cf6c110271", "desc": "Domain route", "on": "26.4.23" }
             ],
             "servers": [
                 { "cc": "de", "city": "Frankfurt",      "ip": "193.108.117.54",     "cfg":["a","tm_925","a"], "desc": "High speed","on":"8-2，14c2Gb@5.30" },
