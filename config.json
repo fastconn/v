@@ -46,6 +46,7 @@
             "offAdOrder": ""
         },
         "run3": {
+            "Reward": "reward0",
             "MainOpen": "mainOpen",
             "Connected2": "connected",
             "DidConFull": "anyInter",
@@ -85,6 +86,12 @@
                "ids": [
                    { "id": "ca-app-pub-3510970371831048/2359778875", "memo": "m401-2010" },
                    { "id": "ca-app-pub-3510970371831048/4413053573", "memo": "m315-2122" }
+               ]
+           },
+           "reward0": {
+               "type": "rewarded",
+               "ids": [
+                   { "id": "ca-app-pub-3510970371831048/7243211481", "memo": "m1001-0055" }
                ]
            },
 
