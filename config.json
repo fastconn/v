@@ -9,8 +9,8 @@
     	"evNo": ["enterGg", "ping2", "pingCf", "admobUMP", "request", "asn"],
         "testers": [
         ],
-        "forceVer": "1.9.0",
-        "recVer": "1.12.0",
+        "forceVer": "1.15.0",
+        "recVer": "1.20.0",
         "autoTunnel": 4,
         "iapColor": 2,
         "umpEnabled": true,
@@ -28,11 +28,11 @@
             "ver": 20260926,
             "adFullLoadwait": 5,
             "adFullCountdown": 6,
-            "hotInterval": 60,
+            "hotInterval": 2,
             "skipOffset" : 0,
             "removeAds": false,
             "max": {
-                "admob": [60,20]
+                "admob": [-1,-1]
             },
             "ages": {
                 "admob": {
