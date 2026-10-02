@@ -1,6 +1,6 @@
 {
   "ageM": 5,
-  "v": 20261002,
+  "v": 202610021,
   "autoTunnel": 2,
   "shuffleWs": true,
   "cfgs": {
@@ -320,18 +320,6 @@
           ],
           "desc": "Performance",
           "on": "gcc,1Gb@26.9.29"
-        },
-        {
-          "cc": "tr",
-          "city": "Istanbul",
-          "ip": "93.114.98.202",
-          "cfg": [
-            "a",
-            "tmv_926",
-            "a"
-          ],
-          "desc": "Performance",
-          "on": "gcc,1Gb@26.10.02"
         },
         {
           "cc": "it",
