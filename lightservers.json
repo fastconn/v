@@ -10,11 +10,7 @@
     },
     "l": [
         {
-            "name": "Free",
-            "isVip": false,
-            "image": "global",
-            "wsGroupSize": 1,
-            "wsNameAuto": false,
+            "name": "Free", "isVip": false, "image": "global", "wsGroupSize": 1, "wsNameAuto": false,
             "ws2": [ ],
             "ws3": [
                 { "name": "Global-1", "domain": "layang.org",     "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "1.11-1700" },
