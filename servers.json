@@ -28,14 +28,17 @@
                 { "name": "Global-3", "domain": "mygptagent.org",   "u": "0428ebb5-4a05-4658-a9b4-04cf6c110271", "desc": "Domain route", "on": "6.3-0830" }
             ],
             "servers": [
-                { "cc": "de", "city": "Frankfurt",      "ip": "193.108.117.54",     "cfg":["a","tm_925","a"], "desc": "High speed","on":"8-2，14c2Gb@5.30" },
                 { "cc": "us", "city": "Ashburn",        "ip": "38.107.226.227",     "cfg":["a","tm_925","a"], "desc": "High speed","on": "2-2@8.10" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "167.17.68.89",       "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-22@11.28" },
                 { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.190",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-16@7.28" },   
+                { "cc": "de", "city": "Frankfurt",      "ip": "193.108.117.54",     "cfg":["a","tm_925","a"], "desc": "High speed","on":"8-2，14c2Gb@5.30" },
                 { "cc": "gb", "city": "London",         "ip": "186.190.211.188",    "cfg":["a","tm_925","a"], "desc": "High speed","on": "2-11@7.28" },
                 { "cc": "fr", "city": "Paris",          "ip": "38.109.228.50",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-6@7.23" }
             ],
             "serversBak": [
+                { "cc": "us", "city": "New York",       "ip": "169.197.141.115",    "cfg":["a","tm_925","a"], "desc": "High speed","on": "2-5@1.1,..,1.28,2.6,2.22,4.4，5.5" },
+                { "cc": "ca", "city": "Montreal",       "ip": "134.195.198.214",    "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-23@2.19,4.22,6.28,1018,1107,1208,2.10,3.5" },
+                { "cc": "ch", "city": "Zurich",         "ip": "66.163.116.120",     "cfg":["a","tm_925","a"], "desc": "High speed","on": "11-6@8.3" },
                 {}
             ]
         },
