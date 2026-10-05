@@ -1,215 +1,219 @@
 {
   "version": 1,
-  "updated_at": "2026-10-05T18:48:37.000Z",
-  "stale_after_sec": 210,
+  "updated_at": "2026-10-05T18:53:40.000Z",
+  "stale_after_sec": 198,
   "index": {
     "167.17.67.184": {
       "busy": 3,
-      "asOf": 58
+      "asOf": 62
     },
     "167.17.67.90": {
       "busy": 3,
-      "asOf": 58
+      "asOf": 62
     },
     "avgobeat.org": {
       "busy": 3,
-      "asOf": 58
+      "asOf": 62
     },
     "172.111.38.100": {
       "busy": 3,
-      "asOf": 58
+      "asOf": 61
     },
     "seagrav.com": {
       "busy": 3,
-      "asOf": 58
+      "asOf": 61
     },
     "38.114.120.207": {
       "busy": 0,
-      "asOf": 59
+      "asOf": 63
     },
     "38.114.120.92": {
       "busy": 0,
-      "asOf": 59
+      "asOf": 63
     },
     "khasav.org": {
       "busy": 1,
-      "asOf": 55
+      "asOf": 57
     },
     "216.152.152.187": {
       "busy": 3,
-      "asOf": 56
+      "asOf": 3
     },
     "23.162.200.227": {
-      "busy": 3,
-      "asOf": 54
+      "busy": 2,
+      "asOf": 58
     },
     "23.162.200.77": {
-      "busy": 3,
-      "asOf": 54
+      "busy": 2,
+      "asOf": 58
     },
     "158.51.123.42": {
       "busy": 1,
-      "asOf": 55
+      "asOf": 57
     },
     "216.106.187.60": {
       "busy": 2,
-      "asOf": 52
+      "asOf": 56
     },
     "dylym.org": {
       "busy": 0,
-      "asOf": 44
+      "asOf": 45
     },
     "167.88.62.124": {
       "busy": 2,
-      "asOf": 50
+      "asOf": 11
     },
     "layang.org": {
       "busy": 2,
-      "asOf": 50
+      "asOf": 11
     },
     "185.177.229.240": {
       "busy": 1,
-      "asOf": 49
+      "asOf": 7
     },
     "185.177.229.129": {
       "busy": 1,
-      "asOf": 49
+      "asOf": 7
     },
     "186.190.211.147": {
-      "busy": 2,
-      "asOf": 48
+      "busy": 1,
+      "asOf": 52
     },
     "oyskha.org": {
       "busy": 1,
-      "asOf": 44
+      "asOf": 48
     },
     "162.251.63.53": {
       "busy": 3,
-      "asOf": 47
+      "asOf": 18
     },
     "162.251.63.55": {
       "busy": 3,
-      "asOf": 47
+      "asOf": 18
     },
     "66.163.113.176": {
-      "busy": 1,
-      "asOf": 45
+      "busy": 2,
+      "asOf": 48
     },
     "142.202.48.108": {
       "busy": 1,
-      "asOf": 44
+      "asOf": 48
     },
     "169.197.143.116": {
       "busy": 0,
-      "asOf": 44
+      "asOf": 45
     },
     "66.163.115.23": {
-      "busy": 2,
-      "asOf": 41
+      "busy": 3,
+      "asOf": 45
     },
     "aidrivercat.org": {
       "busy": 0,
-      "asOf": 41
+      "asOf": 45
     },
     "193.108.117.54": {
       "busy": 0,
-      "asOf": 41
+      "asOf": 45
     },
     "38.107.226.227": {
-      "busy": 1,
-      "asOf": 1
+      "busy": 2,
+      "asOf": 40
     },
     "vspeedfast.org": {
       "busy": 1,
-      "asOf": 37
+      "asOf": 41
     },
     "186.190.211.188": {
       "busy": 1,
-      "asOf": 38
+      "asOf": 42
     },
     "mygptagent.org": {
       "busy": 0,
-      "asOf": 35
+      "asOf": 38
     },
     "167.17.68.89": {
       "busy": 1,
-      "asOf": 37
+      "asOf": 41
     },
     "134.195.198.147": {
       "busy": 0,
-      "asOf": 35
+      "asOf": 38
     },
     "134.195.198.214": {
       "busy": 0,
-      "asOf": 35
+      "asOf": 38
     },
     "38.109.228.50": {
-      "busy": 0,
-      "asOf": 36
+      "busy": 1,
+      "asOf": 39
     },
     "198.57.27.190": {
       "busy": 1,
-      "asOf": 34
+      "asOf": 4
     },
     "167.88.63.59": {
       "busy": 1,
-      "asOf": 32
+      "asOf": 35
     },
     "66.163.117.58": {
       "busy": 2,
-      "asOf": 31
+      "asOf": 35
     },
     "aksai.org": {
-      "busy": 2,
-      "asOf": 19
+      "busy": 1,
+      "asOf": 3
     },
     "85.90.217.42": {
       "busy": 2,
-      "asOf": 29
+      "asOf": 32
     },
     "89.41.172.85": {
       "busy": 3,
-      "asOf": 24
+      "asOf": 29
     },
     "158.51.121.63": {
-      "busy": 2,
-      "asOf": 27
+      "busy": 1,
+      "asOf": 31
     },
     "carnegle.com": {
-      "busy": 2,
-      "asOf": 27
+      "busy": 1,
+      "asOf": 31
     },
     "216.106.183.35": {
-      "busy": 2,
-      "asOf": 25
+      "busy": 3,
+      "asOf": 28
     },
     "45.80.215.8": {
       "busy": 0,
-      "asOf": 0
+      "asOf": 28
     },
     "216.106.185.141": {
       "busy": 3,
-      "asOf": 21
+      "asOf": 12
     },
     "185.177.229.128": {
-      "busy": 1,
-      "asOf": 2
+      "busy": 0,
+      "asOf": 4
     },
     "67.220.72.237": {
       "busy": 0,
-      "asOf": 15
+      "asOf": 3
     },
     "194.99.79.26": {
-      "busy": 2,
-      "asOf": 19
+      "busy": 1,
+      "asOf": 3
+    },
+    "185.67.125.90": {
+      "busy": 0,
+      "asOf": 11
     },
     "109.61.42.113": {
       "busy": 0,
-      "asOf": 9
+      "asOf": 0
     },
     "autocodexy.com": {
       "busy": 0,
-      "asOf": 9
+      "asOf": 0
     }
   }
 }
