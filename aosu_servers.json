@@ -7,7 +7,10 @@
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Global", "desc": "Domain route", "domain": "khasav.org", "cfg": "wsa_925", "on": "3.10-1305" },
+                { "name": "Global", "desc": "Domain route", "domain": "khasav.org",     "cfg": "wsa_925", "on": "3.10-1305" },
+                { "name": "Global", "desc": "Domain route", "domain": "avgobeat.org",   "cfg": "wsa_925", "on": "6.4-1055" }
+            ],
+            "ws-bak": [
                 { "name": "Global", "desc": "Domain route", "domain": "seagrav.com", "cfg": "wsa_925", "on": "11.23-1130" }
             ],
             "ips": [
@@ -18,10 +21,6 @@
                 { "cc": "gb", "city": "London", "ip": "38.114.120.92", "cfg": "ta_925", "desc": "High speed", "on": "5-1@7.6，7.11，8.6，9.3" }
             ],
             "ips-bak": [
-                { "name": "Global", "desc": "Domain route", "domain": "avgobeat.org",   "on": "6.4-1055" },
-                {}
-            ],
-            "ws-bak": [
                 {}
             ]
         }
