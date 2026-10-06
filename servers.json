@@ -66,9 +66,9 @@
                 { "cc": "it", "city": "Milan",          "ip": "89.41.172.85",       "cfg":["a","tmv_926","a"], "desc": "Fast", "on": "gcore,2U-26.9.18" },
                 { "cc": "es", "city": "Madrid",         "ip": "85.90.217.42",       "cfg":["a","tmv_926","a"], "desc": "Fast", "on": "gcore,2U-10.13" },
                 
-                { "cc": "br", "city": "São Paulo",      "ip": "89.39.161.157",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc,1Gb@26.9.29" },
-                { "cc": "au", "city": "Sydney",         "ip": "82.117.225.80",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc,1Gb@26.9.29"},
-                { "cc": "in", "city": "Mumbai",         "ip": "185.67.125.90",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc,1Gb@26.9.29" }
+                { "cc": "br", "city": "São Paulo",      "ip": "89.39.161.157",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.9.29" },
+                { "cc": "au", "city": "Sydney",         "ip": "82.117.225.80",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.9.29"},
+                { "cc": "in", "city": "Mumbai",         "ip": "185.67.125.90",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.9.29" }
             ],
             "serversBak": [
                 { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.237",      "cfg":["a","tmv_926","a"], "desc": "Fast", "on": "vps415,8T@12.16" },
