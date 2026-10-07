@@ -68,10 +68,11 @@
                 { "cc": "fr", "city": "Paris",          "ip": "45.80.215.8",        "cfg":["a","tmv_926","a"], "desc": "Fast", "on": "gcore,4U4G-26.9.18" },
                 
                 { "cc": "br", "city": "São Paulo",      "ip": "89.39.161.157",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.9.29" },
-                { "cc": "au", "city": "Sydney",         "ip": "82.117.225.12",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.10.7"},
+                { "cc": "au", "city": "Sydney",         "ip": "82.117.225.12",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.10.7" },
                 { "cc": "in", "city": "Mumbai",         "ip": "185.67.125.90",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.9.29" }
             ],
             "serversBak": [
+                { "cc": "au", "city": "Sydney",         "ip": "82.117.225.80",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.9.29"},
                 {}
             ]
         }
