@@ -17,9 +17,9 @@
         "noFlurry": true,
         "mixPanel": false,
         "rateHrs": 72 ,
-        "freeMin": 45,
+        "freeMin": 60,
         "rewardMin": 30,
-        "freeCapMin": 10,
+        "freeCapMin": 120,
         "curl": false,
         "iapCard": true
     },
