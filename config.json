@@ -19,7 +19,7 @@
         "rateHrs": 72 ,
         "freeMin": 60,
         "rewardMin": 30,
-        "freeCapMin": 120,
+        "freeCapMin": 240,
         "curl": false,
         "iapCard": true
     },
