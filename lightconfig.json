@@ -21,10 +21,11 @@
     },
     "ad": {
         "0": {
-            "ver": 20260926,
+            "ver": 20261010,
+			"firstAd": 30,
             "adFullLoadwait": 7,
 			"adFullCountdown": 6,
-            "hotInterval": 2,
+            "hotInterval": 10,
             "skipOffset" : 0,
 	    	"max": {
 				"admob": [-1,-1]
