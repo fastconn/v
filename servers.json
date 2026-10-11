@@ -53,7 +53,7 @@
                 { "cc": "us", "city": "New York",       "ip": "216.106.183.35",     "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "9-22@12.18" },
                 { "cc": "us", "city": "Santa Clara",    "ip": "216.106.185.141",    "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-5@12.29" },
                 { "cc": "us", "city": "Atlanta",        "ip": "167.88.63.59",       "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-2@26.4.23" },
-                { "cc": "ca", "city": "Montreal",       "ip": "158.51.121.63",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-4@8.12" },
+                { "cc": "ca", "city": "Montreal",       "ip": "66.163.113.3",       "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-15@26.10.11" },
                 { "cc": "gb", "city": "London",         "ip": "66.163.117.58",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-9@26.3.13" },
 
                 { "cc": "jp", "city": "Tokyo",          "ip": "31.223.184.53",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.9.27" },
@@ -73,6 +73,7 @@
                 { "cc": "in", "city": "Mumbai",         "ip": "185.67.125.90",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.9.29" }
             ],
             "serversBak": [
+                { "cc": "ca", "city": "Montreal",       "ip": "158.51.121.63",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-4@8.12" },
                 { "cc": "au", "city": "Sydney",         "ip": "82.117.225.80",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.9.29"},
                 {}
             ]
