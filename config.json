@@ -17,7 +17,7 @@
         "noFlurry": true,
         "mixPanel": false,
         "rateHrs": 72 ,
-        "freeMin": 60,
+        "freeMin": 0,
         "rewardMin": 30,
         "freeCapMin": 240,
         "curl": false,
