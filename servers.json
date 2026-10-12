@@ -78,7 +78,6 @@
                 { "cc": "jp", "city": "Tokyo",          "ip": "31.223.184.53",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.9.27" },
                 { "cc": "hk", "city": "Hong Kong",      "ip": "194.99.79.26",       "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.9.27" },
                 { "cc": "br", "city": "São Paulo",      "ip": "89.39.161.157",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.9.29" },
-                { "cc": "in", "city": "Mumbai",         "ip": "185.67.125.90",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.9.29" },
                 {}
             ]
         }
