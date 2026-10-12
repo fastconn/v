@@ -54,7 +54,7 @@
                 { "cc": "us", "city": "Santa Clara",    "ip": "216.106.185.141",    "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-5@12.29" },
                 { "cc": "us", "city": "Atlanta",        "ip": "167.88.63.59",       "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-2@26.4.23" },
                 { "cc": "ca", "city": "Montreal",       "ip": "66.163.113.3",       "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-15@26.10.11" },
-                { "cc": "gb", "city": "London",         "ip": "66.163.117.58",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-9@26.3.13" },
+                { "cc": "gb", "city": "London",         "ip": "66.163.117.63",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-9@26.3.13，10.11" },
 
                 { "cc": "jp", "city": "Tokyo",          "ip": "94.177.131.122",     "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.10.11" },
                 { "cc": "sg", "city": "Singapore",      "ip": "81.28.13.162",       "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.9.27" },
