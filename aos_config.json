@@ -3,7 +3,7 @@
         "cnDeny": [0,0],
         "autoProtocol": 4,
         "proxySelf": true,
-        "freeMin": 45,
+        "freeMin": 0,
         "rewardMin": 30,
         "skipGmsIrCn": false
     },
