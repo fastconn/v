@@ -6,7 +6,7 @@
         "secondSplash": 3,
         "secondSplash2": 2,
     	"cnDeny": [0,0],
-    	"evNo": ["enterGg", "ping2", "pingCf", "admobUMP", "request", "asn"],
+    	"evNo": ["enterGg", "ping2", "pingCf", "admobUMP", "asn"],
         "testers": [
         ],
         "forceVer": "1.15.0",
