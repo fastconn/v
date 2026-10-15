@@ -21,7 +21,6 @@
                 { "cc": "gb", "city": "London",         "ip": "38.114.120.92",      "cfg": "ta_925", "desc": "High speed", "on": "5-1@7.6，7.11，8.6，9.3" }
             ],
             "ips-bak": [
-                { "cc": "ca", "city": "Toronto",        "ip": "23.162.200.77", "cfg": "ta_925", "desc": "High speed", "on": "2-14@1.13,2.23" },
                 {}
             ]
         }
