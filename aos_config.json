@@ -17,6 +17,15 @@
         "cancelStr": "Later",
         "verCode": 306000000
     },
+    "priorUpdate": {
+        "Title": "App Expired",
+        "Content": "This version is no longer supported. Please update to continue.",
+        "force": true,
+        "isGp": true,
+        "okStr": "Update Now",
+        "cancelStr": "Quit",
+        "verCode": 204000000
+    },
     "adc": {
         "ver": 20260720,
         "ageM": 5,
