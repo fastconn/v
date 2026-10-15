@@ -12,7 +12,7 @@
 		"testers": ["??FB182717-40B6-4542-A3E9-C55B87770208 14pro"],
 		"url": {},
 		"autoTunnel": 4,
-		"rateHrs": 7200,
+		"rateHrs": 72000000,
         "umpEnabled": true,
 		"noFlurry": true,
 		"mixPanel": false,

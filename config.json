@@ -16,7 +16,7 @@
         "umpEnabled": true,
         "noFlurry": true,
         "mixPanel": false,
-        "rateHrs": 72 ,
+        "rateHrs": 720 ,
         "freeMin": 0,
         "rewardMin": 30,
         "freeCapMin": 240,
