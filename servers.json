@@ -50,7 +50,7 @@
             "ws3-bak": [
             ], 
             "servers": [
-                { "cc": "us", "city": "New York",       "ip": "216.106.183.35",     "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "9-22@12.18" },
+                { "cc": "us", "city": "New York",       "ip": "216.106.183.117",    "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "9-22@12.18，26.10.16" },
                 { "cc": "us", "city": "Santa Clara",    "ip": "216.106.185.141",    "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-5@12.29" },
                 { "cc": "us", "city": "Atlanta",        "ip": "167.88.63.59",       "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-2@26.4.23" },
                 { "cc": "ca", "city": "Montreal",       "ip": "66.163.113.3",       "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-15@26.10.11" },
