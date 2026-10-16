@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "ver": 20261009,
+    "ver": 20261016,
     "autoTunnel": 2,
     "shuffleWs": true,
     "cfgs": {
@@ -73,7 +73,6 @@
                 { "cc": "in", "city": "Mumbai",         "ip": "185.67.126.88",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.10.11" }
             ],
             "serversBak": [
-                { "cc": "us", "city": "Los Angeles",    "ip": "67.220.72.237",      "cfg":["a","tmv_926","a"], "desc": "Fast", "on": "vps415,8T@12.16" },
                 {}
             ]
         }
