@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "ver": 20261016,
+    "ver": 20261018,
     "autoTunnel": 2,
     "shuffleWs": true,
     "cfgs": {
@@ -32,7 +32,8 @@
                 { "cc": "us", "city": "Los Angeles",    "ip": "167.17.68.89",       "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-22@11.28" },
                 { "cc": "ca", "city": "Montreal",       "ip": "158.51.121.215",     "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-7@26.10.10" },   
                 { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.190",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-16@7.28" },   
-                { "cc": "de", "city": "Frankfurt",      "ip": "193.108.117.54",     "cfg":["a","tm_925","a"], "desc": "High speed","on":"8-2，14c2Gb@5.30" },
+                { "cc": "de", "city": "Frankfurt",      "ip": "193.108.117.54",     "cfg":["a","tm_925","a"], "desc": "High speed","on": "8-2，14c2Gb@5.30" },
+                { "cc": "gb", "city": "London",         "ip": "136.176.68.239",     "cfg":["a","tm_925","a"], "desc": "High speed","on": "4-14@26.10.18" },
                 { "cc": "gb", "city": "London",         "ip": "186.190.211.188",    "cfg":["a","tm_925","a"], "desc": "High speed","on": "2-11@7.28" },
                 { "cc": "fr", "city": "Paris",          "ip": "38.109.228.50",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-6@7.23" }
             ],
