@@ -27,10 +27,10 @@
 
                 { "cc": "de", "city": "Frankfurt",      "ip": "136.176.66.54",      "cfg":["a","tl_926","a"], "desc": "High speed", "on": "2-6@26.10.10" },
                 { "cc": "de", "city": "Frankfurt",      "ip": "216.106.187.60",     "cfg":["a","tl_926","a"], "desc": "High speed", "on": "8-1，2Gb@6.27" },
-                { "cc": "gb", "city": "London",         "ip": "186.190.211.147",    "cfg":["a","tl_926","a"], "desc": "High speed", "on": "6-1@7.15" }
+                { "cc": "gb", "city": "London",         "ip": "186.190.211.147",    "cfg":["a","tl_926","a"], "desc": "High speed", "on": "6-1@7.15" },
+                { "cc": "ch", "city": "Zurich",         "ip": "136.176.75.4",       "cfg":["a","tl_926","a"], "desc": "High speed", "on": "5-3@26.10.19" }
             ],
             "serversBak": [
-                { "cc": "us", "city": "Ashburn",        "ip": "172.111.38.33",      "cfg":["a","tl_926","a"], "desc": "High speed", "on": "8-22@9.8" },
                 {}
             ]
         }
