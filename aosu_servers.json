@@ -12,7 +12,6 @@
                 { "name": "Global", "desc": "Domain route", "domain": "ranovs.org",     "cfg": "wsa_925", "on": "10.16" }
             ],
             "ws-bak": [
-                { "name": "Global", "desc": "Domain route", "domain": "seagrav.com", "cfg": "wsa_925", "on": "11.23-1130" }
             ],
             "ips": [
                 { "cc": "us", "city": "Ashburn",        "ip": "172.111.38.34",      "cfg": "ta_925", "desc": "High speed", "on": "2-6@25.9.1，10.1,26.6.6，10.15" },
