@@ -34,10 +34,11 @@
                 { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.190",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-16@7.28" },   
                 { "cc": "de", "city": "Frankfurt",      "ip": "193.108.117.54",     "cfg":["a","tm_925","a"], "desc": "High speed","on": "8-2，14c2Gb@5.30" },
                 { "cc": "gb", "city": "London",         "ip": "136.176.68.239",     "cfg":["a","tm_925","a"], "desc": "High speed","on": "4-14@26.10.18" },
-                { "cc": "gb", "city": "London",         "ip": "186.190.211.188",    "cfg":["a","tm_925","a"], "desc": "High speed","on": "2-11@7.28" },
-                { "cc": "fr", "city": "Paris",          "ip": "38.109.228.50",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-6@7.23" }
+                { "cc": "fr", "city": "Paris",          "ip": "139.64.167.57",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "23-9@26.10.21" }
             ],
             "serversBak": [
+                { "cc": "gb", "city": "London",         "ip": "186.190.211.188",    "cfg":["a","tm_925","a"], "desc": "High speed","on": "2-11@7.28" },
+                { "cc": "fr", "city": "Paris",          "ip": "38.109.228.50",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-6@7.23" },
                 {}
             ]
         },
