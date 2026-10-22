@@ -29,6 +29,7 @@
             ],
             "servers": [
                 { "cc": "us", "city": "Ashburn",        "ip": "38.107.226.227",     "cfg":["a","tm_925","a"], "desc": "High speed","on": "2-2@8.10" },
+                { "cc": "us", "city": "New York",       "ip": "66.163.123.57",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "2-22@26.10.22" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "167.17.68.89",       "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-22@11.28" },
                 { "cc": "ca", "city": "Montreal",       "ip": "158.51.121.215",     "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-7@26.10.10" },   
                 { "cc": "ca", "city": "Toronto",        "ip": "198.57.27.190",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "1-16@7.28" },   
