@@ -59,7 +59,7 @@
                 { "cc": "ca", "city": "Montreal",       "ip": "66.163.113.3",       "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-15@26.10.11" },
                 { "cc": "gb", "city": "London",         "ip": "66.163.117.63",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-9@26.3.13，10.11" },
 
-                { "cc": "jp", "city": "Tokyo",          "ip": "94.177.131.122",     "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.10.11" },
+                { "cc": "jp", "city": "Tokyo",          "ip": "94.177.131.113",     "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.10.23" },
                 { "cc": "sg", "city": "Singapore",      "ip": "81.28.13.162",       "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.9.27" },
                 { "cc": "hk", "city": "Hong Kong",      "ip": "91.199.84.134",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.10.11" },
                 { "cc": "tr", "city": "Istanbul",       "ip": "93.114.98.202",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.10.02" },
