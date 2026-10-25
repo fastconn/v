@@ -5,7 +5,7 @@
         "domain": "i.ostrichvpn.net",
         "secondSplash": 3,
         "secondSplash2": 2,
-    	"cnDeny": [0,0],
+    	"cnDeny": [8,20],
     	"evNo": ["enterGg", "ping2", "pingCf", "admobUMP", "asn"],
         "testers": [
         ],
