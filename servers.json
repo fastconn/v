@@ -76,7 +76,6 @@
                 { "cc": "in", "city": "Mumbai",         "ip": "185.67.126.88",      "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "gcc@26.10.11" }
             ],
             "serversBak": [
-                { "cc": "de", "city": "Frankfurt",      "ip": "185.177.229.128",    "cfg":["a","tmv_926","a"], "desc": "Fast", "on": "vps416,8T@9.29" },
                 {}
             ]
         }
