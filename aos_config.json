@@ -9,13 +9,13 @@
     },
     "update": {
         "Title": "Update Ostrich VPN",
-        "Content": "Version 3.7 is ready — we recommend updating.\n\n1. Daily free VPN time — watch a short video for more minutes\n2. More reliable OpenVPN & IKEv2 connections\n3. fewer crashes on more devices\n",
+        "Content": "New Version is ready — we recommend updating.\n\n1. More reliable connections\n2. Fixed crashes\n",
         "Content2": "Your version has expired, please update now!",
         "force": false,
         "isGp": true,
         "okStr": "Update Now",
         "cancelStr": "Later",
-        "verCode": 306000000
+        "verCode": 308000000
     },
     "priorUpdate": {
         "Title": "App Expired",
@@ -27,7 +27,7 @@
         "verCode": 204000000
     },
     "adc": {
-        "ver": 20260720,
+        "ver": 20261029,
         "ageM": 5,
         "maxClick": 30,
         "maxShow": 180,
@@ -55,7 +55,7 @@
         ],
         
         
-        "Mainpage-v2??": [
+        "Mainpage-v2": [
             { "pri": 50, "id": "ca-app-pub-3510970371831048/2780895051", "type": "native", "memo": "m1002-1400" },
             { "pri": 40, "id": "ca-app-pub-3510970371831048/1601332910", "type": "native", "memo": "m913-1525" }
         ],
