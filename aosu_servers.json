@@ -17,12 +17,12 @@
                 { "cc": "de", "city": "Frankfurt",      "ip": "216.106.187.50",     "cfg": "ta_925", "desc": "High speed", "on": "6-3,2G@26.10.27" },
                 { "cc": "de", "city": "Frankfurt",      "ip": "136.176.66.129",     "cfg": "ta_925", "desc": "High speed", "on": "1-13@26.10.11" },               
                 { "cc": "us", "city": "New York",       "ip": "169.197.141.33",     "cfg": "ta_925", "desc": "High speed", "on": "8-12@26.10.28" },
-                { "cc": "us", "city": "Ashburn",        "ip": "172.111.38.74",      "cfg": "ta_925", "desc": "High speed", "on": "2-6@25.9.1，10.1,26.6.6，10.15，10.23" },
                 { "cc": "us", "city": "Los Angeles",    "ip": "216.152.152.21",     "cfg": "ta_925", "desc": "High speed", "on": "1-23@4.23，10.16" },
                 { "cc": "gb", "city": "London",         "ip": "38.114.120.92",      "cfg": "ta_925", "desc": "High speed", "on": "5-1@7.6，7.11，8.6，9.3" },
                 { "cc": "ca", "city": "Vancouver",      "ip": "158.51.123.202",     "cfg": "ta_925", "desc": "High speed", "on": "2-11@26.3.14，10.13" }
             ],
             "ips-bak": [
+                { "cc": "us", "city": "Ashburn",        "ip": "172.111.38.74",      "cfg": "ta_925", "desc": "High speed", "on": "2-6@25.9.1，10.1,26.6.6，10.15，10.23" },
                 { "cc": "us", "city": "Detroit",        "ip": "66.163.115.197",     "cfg": "ta_925", "desc": "High speed", "on": "5-1,2G@26.10.27" },
                 {}
             ]
