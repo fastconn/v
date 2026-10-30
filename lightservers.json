@@ -5,7 +5,8 @@
     "cfgs": {
         "vmess": {
             "a": { "u": "04621bae-ab36-11ec-b909-0242ac120002", "pt": 22324 },
-            "tl_926":  { "u": "1174cb61-bcb2-4bb8-b97a-8c992940d38a", "pt": 22324 }
+            "tl_926":  { "u": "1174cb61-bcb2-4bb8-b97a-8c992940d38a", "pt": 22324 },
+            "tl_1030":  { "u": "f0970bfd-1d82-478f-b103-e5eac5ab9799", "pt": 22324 }
         }
     },
     "l": [
@@ -25,7 +26,7 @@
                 { "cc": "us", "city": "Seattle",        "ip": "169.197.143.237",    "cfg":["a","tl_926","a"], "desc": "High speed", "on": "1-12@26.3.14,10.12" },
                 { "cc": "ca", "city": "Montreal",       "ip": "66.163.113.176",     "cfg":["a","tl_926","a"], "desc": "High speed", "on": "1-8@26.3.14" },
 
-                { "cc": "de", "city": "Frankfurt",      "ip": "136.176.66.54",      "cfg":["a","tl_926","a"], "desc": "High speed", "on": "2-6@26.10.10" },
+                { "cc": "de", "city": "Frankfurt",      "ip": "136.176.66.54",      "cfg":["a","tl_1030","a"],"desc": "High speed", "on": "2-6@26.10.10" },
                 { "cc": "de", "city": "Frankfurt",      "ip": "216.106.187.60",     "cfg":["a","tl_926","a"], "desc": "High speed", "on": "8-1，2Gb@6.27" },
                 { "cc": "gb", "city": "London",         "ip": "186.190.211.147",    "cfg":["a","tl_926","a"], "desc": "High speed", "on": "6-1@7.15" },
                 { "cc": "ch", "city": "Zurich",         "ip": "136.176.75.4",       "cfg":["a","tl_926","a"], "desc": "High speed", "on": "5-3@26.10.19" }
