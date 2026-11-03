@@ -24,7 +24,7 @@
         "isGp": true,
         "okStr": "Update Now",
         "cancelStr": "Quit",
-        "verCode": 204000000
+        "verCode": 306000000
     },
     "adc": {
         "ver": 20261029,
