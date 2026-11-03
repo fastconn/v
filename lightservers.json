@@ -32,7 +32,6 @@
                 { "cc": "ch", "city": "Zurich",         "ip": "136.176.75.4",       "cfg":["a","tl_926","a"], "desc": "High speed", "on": "5-3@26.10.19" }
             ],
             "serversBak": [
-                { "cc": "us", "city": "Los Angeles",    "ip": "162.251.63.41",      "cfg":["a","tl_926","a"], "desc": "High speed", "on": "7-24@9.2,1122,1126，101，1029" },
                 {}
             ]
         }
