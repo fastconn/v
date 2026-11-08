@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "ver": 20261108,
+    "ver": 20261109,
     "shuffleWs": true,
     "cfgs": {
         "vmess": {
@@ -14,9 +14,12 @@
             "name": "Free", "isVip": false, "image": "global", "wsGroupSize": 1, "wsNameAuto": false,
             "ws2": [ ],
             "ws3": [
-                { "name": "Global-1", "domain": "layang.org",     "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "1.11-1700" },
+                { "name": "Global-1", "domain": "fanghao.online", "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "26.11.8" },
                 { "name": "Global-2", "domain": "oyskha.org",     "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "3.10-1230" },
                 { "name": "Global-3", "domain": "dylym.org",      "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "3.10-1725" }
+            ],
+            "ws3-bak": [
+                { "name": "Global-1", "domain": "layang.org",     "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "1.11-1700" }
             ],
             "servers": [
                 { "cc": "us", "city": "Ashburn",        "ip": "216.106.176.41",     "cfg":["a","tl_926","a"], "desc": "High speed", "on": "6-22@26.10.11" },
