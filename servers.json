@@ -36,7 +36,6 @@
                 { "cc": "fr", "city": "Paris",          "ip": "139.64.167.57",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "23-9@26.10.21" }
             ],
             "serversBak": [
-                { "cc": "us", "city": "Ashburn",        "ip": "38.107.226.227",     "cfg":["a","tm_925","a"], "desc": "High speed","on": "2-2@8.10" },
                 {}
             ]
         },
