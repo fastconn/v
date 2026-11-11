@@ -75,14 +75,6 @@
                 {}
             ]
         }
-    ],
-    "rawC": {
-        "vmessOnly": true,
-        "limit": 0,
-        "ecMap": [
-            { "c3":"WAW", "v": ["Warsaw", "PL"] }
-        ]
-    },
-    "raw":""
+    ]
 }
 
