@@ -27,7 +27,7 @@
         "verCode": 305000000
     },
     "adc": {
-        "ver": 20261029,
+        "ver": 20261112,
         "ageM": 5,
         "maxClick": 50,
         "maxShow": 180,
@@ -36,10 +36,11 @@
         "fullAdElapse": 45,
         "resultBackAd": true,
         "hotSplashAd": true,
-        "firstAd": 10,
+        "firstAd": 3,
         "splashSec": 8,
         "nativeOfficial": [1,7],
-        "mainAdFlag": 0
+        "mainAdFlag": 0,
+        "maxAdRating": "PG"
     },
     "adid": {
         "AnyFull-v2": [           
