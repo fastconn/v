@@ -29,7 +29,7 @@
     "adc": {
         "ver": 20261029,
         "ageM": 5,
-        "maxClick": 30,
+        "maxClick": 50,
         "maxShow": 180,
         "adWait": 8,
         "skipSec": 8,
