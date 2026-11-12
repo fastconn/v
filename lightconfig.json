@@ -24,8 +24,8 @@
             "ver": 20261112,
 			"firstAd": 30,
             "adFullLoadwait": 7,
-			"adFullCountdown": 6,
-            "hotInterval": 10,
+			"adFullCountdown": 8,
+            "hotInterval": 2,
             "skipOffset" : 0,
 	    	"max": {
 				"admob": [-1,-1]
@@ -37,7 +37,7 @@
 				    "nativeFull": 1800
                 }
             },		
-            "coolstartExtra": [],
+            "coolstartExtra": ["AnyInter","AnyFull"],
             "fullAdOrder": "ni",
             "offAdOrder": ""
         },
