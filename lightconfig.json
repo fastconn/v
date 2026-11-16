@@ -21,7 +21,7 @@
     },
     "ad": {
         "0": {
-            "ver": 20261112,
+            "ver": 20261116,
 			"firstAd": 30,
             "adFullLoadwait": 7,
 			"adFullCountdown": 8,
@@ -38,7 +38,7 @@
                 }
             },		
             "coolstartExtra": ["AnyInter","AnyFull"],
-            "fullAdOrder": "ni",
+            "fullAdOrder": "in",
             "offAdOrder": ""
         },
 		"run": {},
