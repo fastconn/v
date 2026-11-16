@@ -1,17 +1,18 @@
 {
     "ageM": 15,
-    "ver": 20261112,
+    "ver": 20261116,
     
     "l": [
         {
             "name": "Free",
             "isVip": false,
             "ws": [
-                { "name": "Global", "desc": "Domain route", "domain": "khasav.org",     "cfg": "wsa_925", "on": "3.10-1305" },
+                { "name": "Global", "desc": "Domain route", "domain": "moacity.com",    "cfg": "wsa_925", "on": "26.11.16" },
                 { "name": "Global", "desc": "Domain route", "domain": "avgobeat.org",   "cfg": "wsa_925", "on": "6.4-1055" },
                 { "name": "Global", "desc": "Domain route", "domain": "ranovs.org",     "cfg": "wsa_925", "on": "10.16" }
             ],
             "ws-bak": [
+                { "name": "Global", "desc": "Domain route", "domain": "khasav.org",     "cfg": "wsa_925", "on": "3.10-1305" }
             ],
             "ips": [
                 { "cc": "de", "city": "Frankfurt",      "ip": "216.106.187.177",    "cfg": "ta_925", "desc": "High speed", "on": "6-3,2G@26.10.27，11.8" },
