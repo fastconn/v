@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "ver": 20261110,
+    "ver": 20261120,
     "shuffleWs": true,
     "cfgs": {
         "ikev2": {
@@ -33,9 +33,10 @@
                 { "cc": "ca", "city": "Toronto",        "ip": "134.195.196.90",     "cfg":["a","tm_925","a"], "desc": "High speed","on": "2-9@26.10.28" },   
                 { "cc": "de", "city": "Frankfurt",      "ip": "193.108.117.54",     "cfg":["a","tm_925","a"], "desc": "High speed","on": "8-2，14c2Gb@5.30" },
                 { "cc": "gb", "city": "London",         "ip": "136.176.68.239",     "cfg":["a","tm_925","a"], "desc": "High speed","on": "4-14@26.10.18" },
-                { "cc": "fr", "city": "Paris",          "ip": "139.64.167.57",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "23-9@26.10.21" }
+                { "cc": "fr", "city": "Paris",          "ip": "139.64.167.55",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "2-4@26.11.20" }
             ],
             "serversBak": [
+                { "cc": "fr", "city": "Paris",          "ip": "139.64.167.57",      "cfg":["a","tm_925","a"], "desc": "High speed","on": "23-9@26.10.21" },
                 {}
             ]
         },
