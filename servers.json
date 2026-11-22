@@ -44,12 +44,12 @@
             "name": "VPN Premium", "isVip": true, "image": "for_VIP",
             "ws3": [
                 { "name": "VIP-1", "domain": "moacity.com",     "u": "028a2bb0-d538-4d67-b0f3-740793bf1d11", "desc": "Domain route",    "on": "26.11.22" },
-                { "name": "VIP-2", "domain": "kentspark.org",   "u": "028a2bb0-d538-4d67-b0f3-740793bf1d11", "desc": "Domain route",    "on": "10.7-0003" }
+                { "name": "VIP-2", "domain": "aksai.org",       "u": "028a2bb0-d538-4d67-b0f3-740793bf1d11", "desc": "Domain route",    "on": "26.11.22" }
             ],
             "ws3-bak": [
                 { "name": "VIP-1", "domain": "kuruish.org",     "u": "028a2bb0-d538-4d67-b0f3-740793bf1d11", "desc": "Domain route",    "on": "26.11.10" },
-                { "name": "VIP-1", "domain": "juanshou.site",   "u": "028a2bb0-d538-4d67-b0f3-740793bf1d11", "desc": "Domain route",    "on": "26.10.22" },
-                { "name": "VIP-1", "domain": "aksai.org",       "u": "028a2bb0-d538-4d67-b0f3-740793bf1d11", "desc": "Domain route",    "on": "3.10-1700" }
+                { "name": "VIP-2", "domain": "kentspark.org",   "u": "028a2bb0-d538-4d67-b0f3-740793bf1d11", "desc": "Domain route",    "on": "10.7~11.22" },
+                { "name": "VIP-1", "domain": "juanshou.site",   "u": "028a2bb0-d538-4d67-b0f3-740793bf1d11", "desc": "Domain route",    "on": "26.10.22" }
             ], 
             "servers": [
                 { "cc": "us", "city": "New York",       "ip": "167.17.69.82",       "cfg":["a","tmv_926","a"], "desc": "Performance",   "on": "1-6@26.11.15" },
