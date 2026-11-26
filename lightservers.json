@@ -14,12 +14,12 @@
             "name": "Free", "isVip": false, "image": "global", "wsGroupSize": 1, "wsNameAuto": false,
             "ws2": [ ],
             "ws3": [
-                { "name": "Global-1", "domain": "layang.org",     "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "1.11-1700" },
+                { "name": "Global-1", "domain": "layang.org",     "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "1.11,11.26" },
                 { "name": "Global-2", "domain": "oyskha.org",     "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "3.10-1230" },
                 { "name": "Global-3", "domain": "dylym.org",      "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "3.10-1725" }
             ],
             "ws3-bak": [
-                { "name": "Global-1", "domain": "pahobac.org",    "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "26.11.10" },
+                { "name": "Global-1", "domain": "pahobac.org",    "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "26.11.10~11.26" },
                 { "name": "Global-1", "domain": "fanghao.online", "u":"712638ab-a62f-4958-8ebc-eb05e7809d64", "desc": "Domain route", "on": "26.11.8" }
             ],
             "servers": [
@@ -31,13 +31,11 @@
                 { "cc": "ca", "city": "Montreal",       "ip": "66.163.113.176",     "cfg":["a","tl_926","a"], "desc": "High speed", "on": "1-8@26.3.14" },
 
                 { "cc": "de", "city": "Frankfurt",      "ip": "136.176.66.54",      "cfg":["a","tl_1030","a"],"desc": "High speed", "on": "2-6@26.10.10" },
-                { "cc": "de", "city": "Frankfurt",      "ip": "216.106.187.60",     "cfg":["a","tl_926","a"], "desc": "High speed", "on": "8-1，2Gb@6.27" },
                 { "cc": "it", "city": "Milan",          "ip": "66.163.119.51",      "cfg":["a","tl_926","a"], "desc": "High speed", "on": "25-1@1107" },
                 { "cc": "ch", "city": "Zurich",         "ip": "136.176.75.4",       "cfg":["a","tl_926","a"], "desc": "High speed", "on": "5-3@26.10.19" }
             ],
             "serversBak": [
-                { "cc": "us", "city": "Denver",         "ip": "66.163.114.168",     "cfg":["a","tl_926","a"], "desc": "High speed", "on": "2-3@26.10.27" },
-                { "cc": "gb", "city": "London",         "ip": "186.190.211.147",    "cfg":["a","tl_926","a"], "desc": "High speed", "on": "6-1@7.15" },
+                { "cc": "de", "city": "Frankfurt",      "ip": "216.106.187.60",     "cfg":["a","tl_926","a"], "desc": "High speed", "on": "8-1，2Gb@6.27" },
                 {}
             ]
         }
