@@ -1,6 +1,6 @@
 {
     "ageM": 5,
-    "ver": 20261126,
+    "ver": 20261127,
     "shuffleWs": true,
     "cfgs": {
         "vmess": {
@@ -30,12 +30,12 @@
                 { "cc": "us", "city": "Seattle",        "ip": "169.197.143.237",    "cfg":["a","tl_1030","a"],"desc": "High speed", "on": "1-12@26.3.14,10.12" },
                 { "cc": "ca", "city": "Montreal",       "ip": "66.163.113.176",     "cfg":["a","tl_926","a"], "desc": "High speed", "on": "1-8@26.3.14" },
 
+                { "cc": "de", "city": "Frankfurt",      "ip": "216.106.187.60",     "cfg":["a","tl_926","a"], "desc": "High speed", "on": "8-1，2Gb@6.27" },
                 { "cc": "de", "city": "Frankfurt",      "ip": "136.176.66.54",      "cfg":["a","tl_1030","a"],"desc": "High speed", "on": "2-6@26.10.10" },
                 { "cc": "it", "city": "Milan",          "ip": "66.163.119.51",      "cfg":["a","tl_926","a"], "desc": "High speed", "on": "25-1@1107" },
                 { "cc": "ch", "city": "Zurich",         "ip": "136.176.75.4",       "cfg":["a","tl_926","a"], "desc": "High speed", "on": "5-3@26.10.19" }
             ],
             "serversBak": [
-                { "cc": "de", "city": "Frankfurt",      "ip": "216.106.187.60",     "cfg":["a","tl_926","a"], "desc": "High speed", "on": "8-1，2Gb@6.27" },
                 {}
             ]
         }
